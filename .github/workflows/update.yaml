@@ -1,34 +1,32 @@
-name: update podcast feed v2.0.1
-
-runs-on: self-hosted
+name: update podcast feed v2.0.3
 
 on:
   schedule:
-    - cron: "12 17 * * *"
+    - cron: "05 1,13 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, x64]
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: Setting up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.8"
-          architecture: "x64"
       - name: Running Script
         run: |
           pip install -r requirements.txt
-          python act2-update.py
-          python act3-merge.py
-          python act4-annotate.py > filter.txt
-          python act5-exportJS.py
+          python3 act2-update.py
+          python3 act3-merge.py
+          python3 act4-annotate.py > filter.txt
+          python3 act5-exportJS.py
       - name: setup git config
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
+      - name: checkout
+        run: |
+          git pull origin feed
+          git checkout feed
       - name: commit
         run: |
-          git commit -a -m "new date commit"
-          git push origin main
+          git commit -a -m "update rss feed"
+          git push origin feed

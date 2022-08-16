@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+["The KK Show - #147 青年里長 - 郭書成"]
+name = "The KK Show - #147 青年里長 - 郭書成"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11146016-the-kk-show-147.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-147-%E9%9D%92%E5%B9%B4%E9%87%8C%E9%95%B7-%E9%83%AD%E6%9B%B8%E6%88%90/id1106847606?i=1000576252865"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTE0NjAxNg"
+spotify = "https://open.spotify.com/episode/1HgYPkjSzf0pigqAnLdn9T"
+tag = ["KK Show"]
+category = ["#節目系列"]
+
 ["0814 川普豪宅為什麼被FBI闖入、歐洲能源現狀是怎樣、經濟學人fat shaming？"]
 name = "0814 川普豪宅為什麼被FBI闖入、歐洲能源現狀是怎樣、經濟學人fat shaming？"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11133591-0814-fbi-fat-shaming.mp3"

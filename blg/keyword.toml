@@ -454,6 +454,16 @@ inclusive = ["王彩樺"]
 exclusive = []
 category = ["藝人","音樂"]
 
+["趙詠華"]
+inclusive = ["趙詠華"]
+exclusive = []
+category = ["藝人","音樂","Podcaster"]
+
+["林俊逸"]
+inclusive = ["林俊逸"]
+exclusive = []
+category = ["藝人","音樂","Podcaster"]
+
 ["桃子A1J"]
 inclusive = ["桃子A1J"]
 exclusive = []

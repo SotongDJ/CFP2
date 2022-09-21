@@ -1,7 +1,7 @@
-# Exclude markup language
-data/*.html
-data/*.xml
-data/*.json
+# Exclude Requests
+*/record/*Requests.*
+
+# Exclude secret
 secret.toml
 
 # Exclude system files

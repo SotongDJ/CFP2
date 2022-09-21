@@ -1,4 +1,4 @@
-name: update podcast feed v3.1.0
+name: update podcast feed v3.2.0
 
 on:
   schedule:
@@ -20,12 +20,14 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
-      - name: Running Script
+      - name: check py requirements
+        run: |
+          pip install -r requirements.txt
+      - name: construct dataset
         env:
           SPT_ID: ${{ secrets.spotify_client_id }}
           SPT_SC: ${{ secrets.spotify_client_secret }}
         run: |
-          pip install -r requirements.txt
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
           python3 act1-update.py
           python3 act2-merge.py
@@ -41,7 +43,8 @@ jobs:
           git config user.signingkey "$KEY"
       - name: commit
         run: |
-          git commit -a -S -m "update rss feed [bot action]" && git push
+          git add -A
+          git commit -S -m "update rss feed [bot action]" && git push
   deploy:
     environment:
       name: github-pages

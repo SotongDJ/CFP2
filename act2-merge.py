@@ -2,7 +2,7 @@ import tomlkit
 print("----\nStart merge")
 result_doc = tomlkit.load(open("blg/mid/history.toml"))
 alias_doc = tomlkit.load(open("blg/alias.toml"))
-img_doc = tomlkit.load(open("blg/data/image.toml"))
+img_doc = tomlkit.load(open("blg/record/image.toml"))
 name2url_dict = {str(x):str(y) for x,y in img_doc["name2url"].items()} # type: ignore
 url2file_dict = {str(x):str(y) for x,y in img_doc["url2file"].items()} # type: ignore
 def correct(input_str):

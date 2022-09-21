@@ -12,8 +12,8 @@ rss_feed = bs(rss_req.text,"xml")
 rss_dict = dict()
 name2url_dict = dict()
 url2file_dict = dict()
-if pathlib.Path("data/image.toml").exists():
-    img_doc = tomlkit.load(open("data/image.toml"))
+if pathlib.Path("blg/data/image.toml").exists():
+    img_doc = tomlkit.load(open("blg/data/image.toml"))
     name2url_dict.update({str(x):str(y) for x,y in img_doc["name2url"].items()})  # type: ignore
     url2file_dict.update({str(x):str(y) for x,y in img_doc["url2file"].items()})  # type: ignore
 img_str = rss_feed.find("image").url.contents[0]  # type: ignore
@@ -44,11 +44,11 @@ for unit in rss_feed.find_all('item'):
                 cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
                 cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")
 result_dict["feed"] = rss_dict
-with open("data/feedPodcast.xml","w") as xmlf:
+with open("blg/data/feedPodcast.xml","w") as xmlf:
     xmlf.write(rss_req.text)
-with open("data/feedPodcast.toml","w") as tomlf:
+with open("blg/data/feedPodcast.toml","w") as tomlf:
     tomlkit.dump(rss_dict,tomlf)
-with open("data/image.toml","w") as tomlf:
+with open("blg/data/image.toml","w") as tomlf:
     tomlkit.dump({"name2url":name2url_dict,"url2file":url2file_dict},tomlf)
 print("    Finish collection: Feed")
 #
@@ -58,8 +58,8 @@ print("        Feed: grab rss feed")
 apple_req = requests.get("https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606")
 print("        Feed: convert HTML and update dictionary")
 apple_track = bs(apple_req.text,"lxml").find('ol',{'class':'tracks tracks--linear-show'})
-if pathlib.Path("data/ApplePodcast.toml").exists():
-    apple_doc = tomlkit.load(open("data/ApplePodcast.toml"))
+if pathlib.Path("blg/data/ApplePodcast.toml").exists():
+    apple_doc = tomlkit.load(open("blg/data/ApplePodcast.toml"))
     apple_record = {str(x):str(y) for x,y in apple_doc.items()}
 else:
     apple_record = dict()
@@ -76,9 +76,9 @@ for unit in apple_track.find_all('a',{"class":"link tracks__track__link--block"}
         apple_dict[name] = url
 apple_dict.update(apple_record)
 result_dict["apple"] = apple_dict
-with open("data/ApplePodcastRequests.html","w") as xmlf:
+with open("blg/data/ApplePodcastRequests.html","w") as xmlf:
     xmlf.write(apple_req.text)
-with open("data/ApplePodcast.toml","w") as tomlf:
+with open("blg/data/ApplePodcast.toml","w") as tomlf:
     tomlkit.dump(apple_dict,tomlf)
 print("    Finish collection: Apple")
 #
@@ -94,9 +94,9 @@ for unit in google_track.find_all('a'):  # type: ignore
     name = unit.findChildren("div", {'class': 'e3ZUqe'})[0].contents[0]
     google_dict[name] = url
 result_dict["google"] = google_dict
-with open("data/GooglePodcastRequests.html","w") as xmlf:
+with open("blg/data/GooglePodcastRequests.html","w") as xmlf:
     xmlf.write(google_req.text)
-with open("data/GooglePodcast.toml","w") as tomlf:
+with open("blg/data/GooglePodcast.toml","w") as tomlf:
     tomlkit.dump(google_dict,tomlf)
 print("    Finish collection: Google")
 #
@@ -124,7 +124,7 @@ with open("data/SpotifyPodcastRequests.json","w") as xmlf:
 print("        Feed: convert JSON and update dictionary")
 spotify_req_dict = json.loads(spotify_req.text)
 if pathlib.Path("data/SpotifyPodcast.toml").exists():
-    spotify_doc = tomlkit.load(open("data/SpotifyPodcast.toml"))
+    spotify_doc = tomlkit.load(open("blg/data/SpotifyPodcast.toml"))
     spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
 else:
     spotify_record = dict()
@@ -141,7 +141,7 @@ for unit_dict in spotify_req_dict["items"]:
         spotify_dict[name] = url
 spotify_dict.update(spotify_record)
 result_dict["spotify"] = spotify_dict
-with open("data/SpotifyPodcast.toml","w") as tomlf:
+with open("blg/data/SpotifyPodcast.toml","w") as tomlf:
     tomlkit.dump(spotify_dict,tomlf)
 print("    Finish collection: Spotify")
 #
@@ -151,8 +151,8 @@ print("        Feed: grab rss feed")
 youtube_req = requests.get("https://www.youtube.com/feeds/videos.xml?channel_id=UCD2KoUc0f4Bv2Bz0mbOah8g")
 youtube_track = bs(youtube_req.text,"xml")
 print("        Feed: convert XML and update dictionary")
-if pathlib.Path("data/YouTube.toml").exists():
-    youtube_doc = tomlkit.load(open("data/YouTube.toml"))
+if pathlib.Path("blg/data/YouTube.toml").exists():
+    youtube_doc = tomlkit.load(open("blg/data/YouTube.toml"))
     youtube_record = {str(x):str(y) for x,y in youtube_doc.items()}
 else:
     youtube_record = dict()
@@ -167,12 +167,12 @@ for unit in youtube_track.find_all('entry'):
         youtube_dict[name] = url
 youtube_dict.update(youtube_record)
 result_dict["youtube"] = youtube_dict
-with open("data/YouTubeRequests.xml","w") as xmlf:
+with open("blg/data/YouTubeRequests.xml","w") as xmlf:
     xmlf.write(youtube_req.text)
-with open("data/YouTube.toml","w") as tomlf:
+with open("blg/data/YouTube.toml","w") as tomlf:
     tomlkit.dump(youtube_dict,tomlf)
 print("    Finish collection: YouTube")
 #
-with open("mid/history.toml",'w') as target_handler:
+with open("blg/mid/history.toml",'w') as target_handler:
     tomlkit.dump(result_dict,target_handler)
 print("    ----\nFinish collection")

@@ -1,8 +1,8 @@
 import tomlkit
 print("----\nStart merge")
-result_doc = tomlkit.load(open("mid/history.toml"))
-alias_doc = tomlkit.load(open("alias.toml"))
-img_doc = tomlkit.load(open("data/image.toml"))
+result_doc = tomlkit.load(open("blg/mid/history.toml"))
+alias_doc = tomlkit.load(open("blg/alias.toml"))
+img_doc = tomlkit.load(open("blg/data/image.toml"))
 name2url_dict = {str(x):str(y) for x,y in img_doc["name2url"].items()} # type: ignore
 url2file_dict = {str(x):str(y) for x,y in img_doc["url2file"].items()} # type: ignore
 def correct(input_str):
@@ -41,12 +41,12 @@ for title_str, link_dict in title_dict.items():
         annotation[title_str] = episode
     else:
         youtube_entities[title_str] = episode
-with open("mid/structure.toml",'w') as target_handler:
+with open("blg/mid/structure.toml",'w') as target_handler:
     tomlkit.dump(annotation,target_handler)
-with open("mid/list_lack_youtube.txt","w") as target_handler:
+with open("blg/mid/list_lack_youtube.txt","w") as target_handler:
     target_handler.write("".join(["\"{}\"\n".format(n["name"]) for n in annotation.values() if "youtube" not in n.keys()]))
-with open("mid/youtube_extra.toml",'w') as target_handler:
+with open("blg/mid/youtube_extra.toml",'w') as target_handler:
     tomlkit.dump(youtube_entities,target_handler)
-with open("mid/list_youtube_only.txt","w") as target_handler:
+with open("blg/mid/list_youtube_only.txt","w") as target_handler:
     target_handler.write("".join(["\"{}\"\n".format(n["name"]) for n in youtube_entities.values()]))
 print("    ----\nEnd merge")

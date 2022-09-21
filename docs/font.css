@@ -3,35 +3,35 @@
 font-family: 'Noto Sans TC';
 font-style: normal;
 font-weight: 400;
-src: url('/f/noto-sans-tc-v26-chinese-traditional-regular.eot'); /* IE9 Compat Modes */
+src: url('f/noto-sans-tc-v26-chinese-traditional-regular.eot'); /* IE9 Compat Modes */
 src: local(''),
-url('/f/noto-sans-tc-v26-chinese-traditional-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('/f/noto-sans-tc-v26-chinese-traditional-regular.woff2') format('woff2'), /* Super Modern Browsers */
-url('/f/noto-sans-tc-v26-chinese-traditional-regular.woff') format('woff'), /* Modern Browsers */
-url('/f/noto-sans-tc-v26-chinese-traditional-regular.svg#NotoSansTC') format('svg'); /* Legacy iOS */
+url('f/noto-sans-tc-v26-chinese-traditional-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('f/noto-sans-tc-v26-chinese-traditional-regular.woff2') format('woff2'), /* Super Modern Browsers */
+url('f/noto-sans-tc-v26-chinese-traditional-regular.woff') format('woff'), /* Modern Browsers */
+url('f/noto-sans-tc-v26-chinese-traditional-regular.svg#NotoSansTC') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-tc-700 - chinese-traditional */
 @font-face {
 font-family: 'Noto Sans TC';
 font-style: normal;
 font-weight: 700;
-src: url('/f/noto-sans-tc-v26-chinese-traditional-700.eot'); /* IE9 Compat Modes */
+src: url('f/noto-sans-tc-v26-chinese-traditional-700.eot'); /* IE9 Compat Modes */
 src: local(''),
-url('/f/noto-sans-tc-v26-chinese-traditional-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('/f/noto-sans-tc-v26-chinese-traditional-700.woff2') format('woff2'), /* Super Modern Browsers */
-url('/f/noto-sans-tc-v26-chinese-traditional-700.woff') format('woff'), /* Modern Browsers */
-url('/f/noto-sans-tc-v26-chinese-traditional-700.svg#NotoSansTC') format('svg'); /* Legacy iOS */
+url('f/noto-sans-tc-v26-chinese-traditional-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('f/noto-sans-tc-v26-chinese-traditional-700.woff2') format('woff2'), /* Super Modern Browsers */
+url('f/noto-sans-tc-v26-chinese-traditional-700.woff') format('woff'), /* Modern Browsers */
+url('f/noto-sans-tc-v26-chinese-traditional-700.svg#NotoSansTC') format('svg'); /* Legacy iOS */
 }
 /* noto-emoji-regular - emoji */
 @font-face {
 font-family: 'Noto Emoji';
 font-style: normal;
 font-weight: 400;
-src: url('/f/noto-emoji-v26-emoji-regular.eot'); /* IE9 Compat Modes */
+src: url('f/noto-emoji-v26-emoji-regular.eot'); /* IE9 Compat Modes */
 src: local(''),
-url('/f/noto-emoji-v26-emoji-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('/f/noto-emoji-v26-emoji-regular.woff2') format('woff2'), /* Super Modern Browsers */
-url('/f/noto-emoji-v26-emoji-regular.woff') format('woff'), /* Modern Browsers */
-url('/f/noto-emoji-v26-emoji-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-url('/f/noto-emoji-v26-emoji-regular.svg#NotoEmoji') format('svg'); /* Legacy iOS */
+url('f/noto-emoji-v26-emoji-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('f/noto-emoji-v26-emoji-regular.woff2') format('woff2'), /* Super Modern Browsers */
+url('f/noto-emoji-v26-emoji-regular.woff') format('woff'), /* Modern Browsers */
+url('f/noto-emoji-v26-emoji-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+url('f/noto-emoji-v26-emoji-regular.svg#NotoEmoji') format('svg'); /* Legacy iOS */
 }

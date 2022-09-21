@@ -1,6 +1,6 @@
 import tomlkit
 print("----\nStart export")
-title_dict = tomlkit.load(open("mid/annotation.toml"))
+title_dict = tomlkit.load(open("blg/mid/annotation.toml"))
 keyword_doc = tomlkit.load(open("keyword.toml"))
 header_list = ["name", "apple", "google", "spotify", "youtube", "image", "feed"]
 title_list = list()
@@ -34,7 +34,7 @@ for category_name, category_list in class2tag_dict.items():
     class2tag_list.append("\"{}\": {}".format(category_name,category_list))
 class2tag_str = "const class_tag = {\n"+",\n".join(class2tag_list)+"\n};\n"
 
-with open("docs/playlist.js",'w') as target_handler:
+with open("blg/docs/playlist.js",'w') as target_handler:
     target_handler.write(outer_str)
     target_handler.write(tag2class_str)
     target_handler.write(class2tag_str)

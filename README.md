@@ -1,6 +1,6 @@
 # Dataset collector for CFP2
 
-The source code in this repo is used for info collection of various podcasts
+The source code in this repo is used for info collection of various podcasts.
 
 The dedicated player for each podcast are listed below:
 

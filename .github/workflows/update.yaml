@@ -1,4 +1,4 @@
-name: update podcast feed v3.0.1
+name: update podcast feed v3.1.0
 
 on:
   schedule:
@@ -27,10 +27,10 @@ jobs:
         run: |
           pip install -r requirements.txt
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
-          python3 act2-update.py
-          python3 act3-merge.py
-          python3 act4-annotate.py > filter.txt
-          python3 act5-export.py
+          python3 act1-update.py
+          python3 act2-merge.py
+          python3 act3-annotate.py > filter.txt
+          python3 act4-export.py
       - name: setup git config
         env:
           EMAIL: ${{ secrets.email }}

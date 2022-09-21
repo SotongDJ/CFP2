@@ -119,11 +119,11 @@ spotify_headers = {
 "Authorization": "Bearer {}".format(spotify_access_token),
 }
 spotify_req = requests.get(spotify_url, headers=spotify_headers)
-with open("record/SpotifyPodcastRequests.json","w") as xmlf:
+with open("blg/record/SpotifyPodcastRequests.json","w") as xmlf:
     xmlf.write(spotify_req.text)
 print("        Feed: convert JSON and update dictionary")
 spotify_req_dict = json.loads(spotify_req.text)
-if pathlib.Path("record/SpotifyPodcast.toml").exists():
+if pathlib.Path("blg/record/SpotifyPodcast.toml").exists():
     spotify_doc = tomlkit.load(open("blg/record/SpotifyPodcast.toml"))
     spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
 else:

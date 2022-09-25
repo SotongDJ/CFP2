@@ -102,47 +102,50 @@ print("    Finish collection: Google")
 #
 print("    ----")
 print("    Start collection: Spotify")
-print("        Feed: grab rss feed")
-secret_docs = tomlkit.load(open("secret.toml"))
-spotify_auth_url = 'https://accounts.spotify.com/api/token'
-spotify_auth_response = requests.post(spotify_auth_url, {
-    'grant_type': 'client_credentials',
-    'client_id': secret_docs['spotify_id'],
-    'client_secret': secret_docs['spotify_secret'],
-})
-spotify_auth_response_dict = spotify_auth_response.json()
-spotify_access_token = spotify_auth_response_dict['access_token']
-spotify_url = "https://api.spotify.com/v1/shows/5Vv32KtHB3peVZ8TeacUty/episodes?market=TW&limit=50"
-spotify_headers = {
-"Accept": "application/json",
-"Content-Type": "application/json",
-"Authorization": "Bearer {}".format(spotify_access_token),
-}
-spotify_req = requests.get(spotify_url, headers=spotify_headers)
-with open("blg/record/SpotifyPodcastRequests.json","w") as xmlf:
-    xmlf.write(spotify_req.text)
-print("        Feed: convert JSON and update dictionary")
-spotify_req_dict = json.loads(spotify_req.text)
-if pathlib.Path("blg/record/SpotifyPodcast.toml").exists():
-    spotify_doc = tomlkit.load(open("blg/record/SpotifyPodcast.toml"))
-    spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
-else:
-    spotify_record = dict()
-spotify_dict = dict()
-for unit_dict in spotify_req_dict["items"]:
-    url = unit_dict['href'].replace("https://api.spotify.com/v1/episodes/","https://open.spotify.com/episode/")
-    name_wt_hidden = unit_dict['name'].replace(" &ZeroWidthSpace;","")
-    name_single = name_wt_hidden.replace("\n","")
-    name = " ".join([n for n in name_single.split(" ") if n != ""])
-    if name in spotify_record.keys():
-        if spotify_record[name] != url:
-            print("ERROR: Duplicate entry no consistent, value:", url, spotify_record[name])
+if pathlib.Path("secret.toml").exists():
+    print("        Feed: grab rss feed")
+    secret_docs = tomlkit.load(open("secret.toml"))
+    spotify_auth_url = 'https://accounts.spotify.com/api/token'
+    spotify_auth_response = requests.post(spotify_auth_url, {
+        'grant_type': 'client_credentials',
+        'client_id': secret_docs['spotify_id'],
+        'client_secret': secret_docs['spotify_secret'],
+    })
+    spotify_auth_response_dict = spotify_auth_response.json()
+    spotify_access_token = spotify_auth_response_dict['access_token']
+    spotify_url = "https://api.spotify.com/v1/shows/5Vv32KtHB3peVZ8TeacUty/episodes?market=TW&limit=50"
+    spotify_headers = {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer {}".format(spotify_access_token),
+    }
+    spotify_req = requests.get(spotify_url, headers=spotify_headers)
+    with open("blg/record/SpotifyPodcastRequests.json","w") as xmlf:
+        xmlf.write(spotify_req.text)
+    print("        Feed: convert JSON and update dictionary")
+    spotify_req_dict = json.loads(spotify_req.text)
+    if pathlib.Path("blg/record/SpotifyPodcast.toml").exists():
+        spotify_doc = tomlkit.load(open("blg/record/SpotifyPodcast.toml"))
+        spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
     else:
-        spotify_dict[name] = url
-spotify_dict.update(spotify_record)
-result_dict["spotify"] = spotify_dict
-with open("blg/record/SpotifyPodcast.toml","w") as tomlf:
-    tomlkit.dump(spotify_dict,tomlf)
+        spotify_record = dict()
+    spotify_dict = dict()
+    for unit_dict in spotify_req_dict["items"]:
+        url = unit_dict['href'].replace("https://api.spotify.com/v1/episodes/","https://open.spotify.com/episode/")
+        name_wt_hidden = unit_dict['name'].replace(" &ZeroWidthSpace;","")
+        name_single = name_wt_hidden.replace("\n","")
+        name = " ".join([n for n in name_single.split(" ") if n != ""])
+        if name in spotify_record.keys():
+            if spotify_record[name] != url:
+                print("ERROR: Duplicate entry no consistent, value:", url, spotify_record[name])
+        else:
+            spotify_dict[name] = url
+    spotify_dict.update(spotify_record)
+    result_dict["spotify"] = spotify_dict
+    with open("blg/record/SpotifyPodcast.toml","w") as tomlf:
+        tomlkit.dump(spotify_dict,tomlf)
+else:
+    print("        Skip: secret not found")
 print("    Finish collection: Spotify")
 #
 print("    ----")

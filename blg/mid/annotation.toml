@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令"]
+name = "百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11378934-news.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E6%88%91%E5%80%91%E8%A6%81%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%BE%A6%E6%B4%BB%E5%8B%95%E5%95%A6-%E5%B0%8B%E6%89%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E8%80%81%E9%97%86%E5%80%91-%E4%BF%84%E5%9C%8B%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%8B%95%E5%93%A1%E4%BB%A4/id1106847606?i=1000580560054"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTM3ODkzNA"
+spotify = "https://open.spotify.com/episode/0GKzOT3b7Vmmf6cSg0vt7u"
+youtube = "https://www.youtube.com/watch?v=bJS0qb6nLmw"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["百靈果 NEWS"]
+category = ["#節目系列"]
+
 ["Nothingess is the KEY 、讀書會：同情者 Ep 6（完）"]
 name = "Nothingess is the KEY 、讀書會：同情者 Ep 6（完）"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11359766-nothingess-is-the-key-ep-6.mp3"

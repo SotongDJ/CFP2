@@ -44,7 +44,7 @@ for unit in rss_feed.find_all('item'):
                 cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
                 cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")
 result_dict["feed"] = rss_dict
-with open("blg/record/feedPodcast.xml","w") as xmlf:
+with open("blg/record/feedPodcastRequests.xml","w") as xmlf:
     xmlf.write(rss_req.text)
 with open("blg/record/feedPodcast.toml","w") as tomlf:
     tomlkit.dump(rss_dict,tomlf)

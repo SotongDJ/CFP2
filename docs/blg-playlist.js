@@ -1,4 +1,24 @@
 const playlist = {
+"time569":{
+"name": "百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E6%88%91%E5%80%91%E8%A6%81%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%BE%A6%E6%B4%BB%E5%8B%95%E5%95%A6-%E5%B0%8B%E6%89%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E8%80%81%E9%97%86%E5%80%91-%E4%BF%84%E5%9C%8B%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%8B%95%E5%93%A1%E4%BB%A4/id1106847606?i=1000580560054",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTM3ODkzNA",
+"spotify": "https://open.spotify.com/episode/0GKzOT3b7Vmmf6cSg0vt7u",
+"youtube": "https://www.youtube.com/watch?v=bJS0qb6nLmw",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11378934-news.mp3",
+"tag": ['百靈果 NEWS']
+},
+"time568":{
+"name": "Nothingess is the KEY 、讀書會：同情者 Ep 6（完）",
+"apple": "https://podcasts.apple.com/tw/podcast/nothingess-is-the-key-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%8C%E6%83%85%E8%80%85-ep-6-%E5%AE%8C/id1106847606?i=1000580309228",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTM1OTc2Ng",
+"spotify": "https://open.spotify.com/episode/1Wjll2MtcUh5Yv2HVzacjT",
+"youtube": "https://www.youtube.com/watch?v=VElAkHzfw14",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11359766-nothingess-is-the-key-ep-6.mp3",
+"tag": ['讀書會', '同情者']
+},
 "time567":{
 "name": "The KK Show - #152 趙詠華＆林俊逸",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-152-%E8%B6%99%E8%A9%A0%E8%8F%AF-%E6%9E%97%E4%BF%8A%E9%80%B8/id1106847606?i=1000580063740",
@@ -7,7 +27,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=n9Z1hI_89ZM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11349483-the-kk-show-152.mp3",
-"tag": ['KK Show']
+"tag": ['KK Show', '趙詠華', '林俊逸', 'Podcaster', '藝人', '音樂']
 },
 "time566":{
 "name": "百靈果News｜新疆封城餓死人、英國還需要皇室嗎、烏克蘭的反擊、推薦：Summer of 85, 好機車",
@@ -5760,6 +5780,8 @@ const tag_class = {
 "陳零九": ['音樂'],
 "Kimberley陳芳語": ['音樂'],
 "王彩樺": ['藝人', '音樂'],
+"趙詠華": ['藝人', '音樂', 'Podcaster'],
+"林俊逸": ['藝人', '音樂', 'Podcaster'],
 "桃子A1J": ['音樂'],
 "珂拉琪Collage": ['音樂'],
 "Chapman杜汶澤": ['演員', '企業家', '文藝'],
@@ -5863,9 +5885,9 @@ const class_tag = {
 "#事件備註": ['日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
 "喜劇演員": ['樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'TimChen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'EstherChen', '呱吉', 'Jim', '龍龍', '蕭東意'],
 "Youtuber": ['樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'ChinaMac', '邱grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '阿拉斯', '巴大雄 @東南美娛樂'],
-"藝人": ['陳大天', '黃豪平', '王彩樺', '陳沂'],
+"藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '陳沂'],
 "企業家": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱grr', 'Chapman杜汶澤', '葉丙成教授', '曹興誠', 'Jay', '顧立楷', '林榮基'],
-"Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '吳淡如', 'Howard'],
+"Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '吳淡如', 'Howard'],
 "廣播人": ['歐馬克', '黃豪平', '李律', '邵大倫', '小潘', '寶拉', '吳淡如'],
 "演員": ['權樂', '涵冷娜', 'EstherChen', 'Chapman杜汶澤', '黃秋生', '蕭東意'],
 "文藝": ['權樂', '涵冷娜', 'EstherChen', 'Chapman杜汶澤', '黃秋生', '台南人劇團', '蕭東意', '布拉瑞揚 @布拉瑞揚舞團', '孫翠鳳', '真蓉'],
@@ -5874,7 +5896,7 @@ const class_tag = {
 "魔術師": ['巴斯', '黃豪平'],
 "政治人物": ['呱吉', '陳柏惟', '林昶佐', '吳怡農', '李有宜', '蔣萬安', '范雲', '于北辰', '林智堅', '郭書成'],
 "時事": ['范琪斐', '敏迪 @敏迪選讀', '瑞典劉先生', '陳秋實', 'Jason劉致昕 @報導者', 'Byun秉昀', 'SamsonEllis', '吳品瑜', '印度尤', 'Naomi O’Leary', 'Kevin', 'Mario', '黃京葦醫師', '烏烏醫生', 'Chiels', '李淳', 'Dr.LeanneWu', 'Dr.JustinYang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '單信瑜教授', '高智雄醫檢師', '美國台灣觀測站', 'IORG', '沈伯洋（助理）教授', '張五岳', 'LukeMartin'],
-"音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '桃子A1J', '珂拉琪Collage', '林昶佐'],
+"音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', '桃子A1J', '珂拉琪Collage', '林昶佐'],
 "原住民": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '黃京葦醫師', '陳念琴', '東冬侯溫'],
 "朋友": ['阿爆', 'Howard', 'Ivan', 'ShaoYong', '趙哥', '陳沂', 'Pom咩'],
 "色色": ['社畜', '娃娃', '石巴朝', 'Niki'],

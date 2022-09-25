@@ -29,10 +29,10 @@ jobs:
           SPT_SC: ${{ secrets.spotify_client_secret }}
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
-          python3 act1-update.py
-          python3 act2-merge.py
-          python3 act3-annotate.py > filter.txt
-          python3 act4-export.py
+          python3 blg1-update.py
+          python3 blg2-merge.py
+          python3 blg3-annotate.py > filter.txt
+          python3 blg4-export.py
       - name: setup git config
         env:
           EMAIL: ${{ secrets.email }}

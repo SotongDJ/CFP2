@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["讀書會：八尺門的辯護人 序"]
+name = "讀書會：八尺門的辯護人 序"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11400465-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%85%AB%E5%B0%BA%E9%96%80%E7%9A%84%E8%BE%AF%E8%AD%B7%E4%BA%BA-%E5%BA%8F/id1106847606?i=1000581034288"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQwMDQ2NQ"
+spotify = "https://open.spotify.com/episode/6w6Wk6ZR5KBmayHyudcCdJ"
+youtube = "https://www.youtube.com/watch?v=fcPztb9Jzoo"
+image = "f57422a8653980ea54fe97c7b37608d92d9e7b119ba482088e4fdf85001c9eee"
+tag = []
+category = []
+
 ["The KK Show - #153 逃出中國 - Michael Smith"]
 name = "The KK Show - #153 逃出中國 - Michael Smith"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3"

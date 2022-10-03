@@ -576,7 +576,7 @@ Start annotation
     讀書會： Pachinko 柏青哥 序
   Excluded: (0)
     
-[FatLeonard]
+[Fat Leonard]
   found in: (5)
     讀書會： Fat Leonard 完結，關心一下隔離中的Mindy
     美國海軍出賣台灣機密為了滿足私慾，讀書會：Fat Leonard Ch 4
@@ -799,7 +799,7 @@ Start annotation
     百靈果之友: 001 阿滴 S is for Sister
   Excluded: (0)
     
-[免費教你如何做Podcast]
+[免費教你如何做 Podcast]
   found in: (7)
     推倒資本主義的高牆：免費教你如何做Podcast 06 : QA
     推倒資本主義的高牆：免費教你如何做Podcast 05 : 軟體後製 ft. 好和弦
@@ -819,7 +819,7 @@ Start annotation
     八角籠直播 EP1《熱愛祖國的中國人》
   Excluded: (0)
     
-[Clubhouse企劃]
+[Clubhouse 企劃]
   found in: (2)
     海外連線： 中國人吐封城心聲、希望台灣人不要內鬥？！
     『Clubhouse特別企劃』與在中國封城的聽眾聊天
@@ -931,7 +931,7 @@ Start annotation
     The KK Show - #38 遇到凱莉就無法炫富的 Joeman
   Excluded: (0)
     
-[邱grr]
+[邱 grr]
   found in: (2)
     The KK Show - 27 斜槓破表的 邱grr （音量調整）
     The KK Show - 公海大戰小粉紅 ft. 邱Grrr、敏迪、 范琪斐
@@ -982,7 +982,7 @@ Start annotation
     百靈果NEWS 2019-01-06 3. 與小潘閒聊
   Excluded: (0)
     
-[Jason劉致昕 @報導者]
+[Jason 劉致昕 @報導者]
   found in: (2)
     The KK Show - #43 - 報導者來了 - Jason
     百靈果之友: 004 報導者 致昕

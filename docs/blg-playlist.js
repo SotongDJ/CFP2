@@ -17,7 +17,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=fcPztb9Jzoo",
 "image": "f57422a8653980ea54fe97c7b37608d92d9e7b119ba482088e4fdf85001c9eee",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11400465-.mp3",
-"tag": ['讀書會']
+"tag": ['讀書會', '八尺門的辯護人']
 },
 "time570":{
 "name": "The KK Show - #153 逃出中國 - Michael Smith",
@@ -27,7 +27,7 @@ const playlist = {
 "youtube": "",
 "image": "09b0a92eae00bf0f5929da7b0750e23a6352d39020ba03962b7216f34487631c",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3",
-"tag": ['KK Show']
+"tag": ['KK Show', 'Michael Smith', '時事', '記者']
 },
 "time569":{
 "name": "百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令",
@@ -337,7 +337,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=CdbVxwVIhf4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10945642-the-kk-show-142-china-mac.mp3",
-"tag": ['KK Show', 'ChinaMac', 'Youtuber']
+"tag": ['KK Show', 'China Mac', 'Youtuber']
 },
 "time538":{
 "name": "0710 巴黎香奈兒總店跟菜市場一樣、舊金山好冷、佛羅倫斯很開心， 從今以後要放寒暑假",
@@ -617,7 +617,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=J8YzN0gKPCs&t=5s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10649832-.mp3",
-"tag": ['Clubhouse企劃', '暫代讀書會']
+"tag": ['Clubhouse 企劃', '暫代讀書會']
 },
 "time510":{
 "name": "When you POINT A FINGER.... THE STIR EP. 4",
@@ -807,7 +807,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=Rc84cbOajJ0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
-"tag": ['Clubhouse企劃', '暫代讀書會']
+"tag": ['Clubhouse 企劃', '暫代讀書會']
 },
 "time491":{
 "name": "The KK Show - #128 道德破壞者 - Jim",
@@ -947,7 +947,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=IEOyozHKAU0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530637-the-kk-show-123-chapman.mp3",
-"tag": ['KK Show', 'Chapman杜汶澤', '企業家', '文藝', '演員']
+"tag": ['KK Show', 'Chapman 杜汶澤', '企業家', '文藝', '演員']
 },
 "time477":{
 "name": "0313 聯合國試圖掩蓋真相、全球油價暴漲、RIP 西藏歌手 才旺羅布",
@@ -967,7 +967,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=r4cI0A0PD94",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530639-fat-leonard-mindy.mp3",
-"tag": ['讀書會', 'FatLeonard', '敏迪 @敏迪選讀', 'Podcaster', '時事']
+"tag": ['讀書會', 'Fat Leonard', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time475":{
 "name": "The KK Show - #123 Kimberley 陳芳語 @Kimberley Chen",
@@ -997,7 +997,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=jgcfyYXm54s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530642-fat-leonard-ch-4.mp3",
-"tag": ['讀書會', 'FatLeonard']
+"tag": ['讀書會', 'Fat Leonard']
 },
 "time472":{
 "name": "The KK Show - #122 匿名者 蕭東意",
@@ -1027,7 +1027,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=lYzntDSR_wc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3",
-"tag": ['讀書會', 'FatLeonard']
+"tag": ['讀書會', 'Fat Leonard']
 },
 "time469":{
 "name": "The KK Show - #121 運動歸運動 政治歸政治？ 人渣文本",
@@ -1067,7 +1067,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=bqwxwgZrzG0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530649-ncis-fat-leonard-fat-leonard-02.mp3",
-"tag": ['讀書會', 'FatLeonard']
+"tag": ['讀書會', 'Fat Leonard']
 },
 "time465":{
 "name": "The KK Show - #120 時代革命導演 - 周冠威",
@@ -1097,7 +1097,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=2ExhG5dsHW0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530652-fat-leonard-01.mp3",
-"tag": ['讀書會', 'FatLeonard']
+"tag": ['讀書會', 'Fat Leonard']
 },
 "time462":{
 "name": "The KK Show - #119 黃大謙",
@@ -1967,7 +1967,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=oEIBXYo2mBg&t=13s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530739-004.mp3",
-"tag": ['百靈果之友', 'Jason劉致昕 @報導者', '時事', '暫代讀書會', '記者']
+"tag": ['百靈果之友', 'Jason 劉致昕 @報導者', '時事', '暫代讀書會', '記者']
 },
 "time375":{
 "name": "The KK Show - #90 馬來西亞的聲音 - 秉昀 Byun",
@@ -1977,7 +1977,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=_9QMP46awhg&t=3s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530740-the-kk-show-90-byun.mp3",
-"tag": ['KK Show', 'Byun秉昀', '時事', '記者']
+"tag": ['KK Show', 'Byun 秉昀', '時事', '記者']
 },
 "time374":{
 "name": "0718 看好了世界我要退貨疫苗，小賈斯丁有韓國老闆、推薦書：VAXXERS",
@@ -2057,7 +2057,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=zX-K8I_9u-Y",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530748-the-kk-show-88-a1j.mp3",
-"tag": ['KK Show', '桃子A1J', '音樂']
+"tag": ['KK Show', '桃子 A1J', '音樂']
 },
 "time366":{
 "name": "0704 普丁心中最軟的那一塊、歐洲杯煉蠱大賽、Pew 說在座的各位都是白海豚、推薦 Chasing Cosby 、 The Morning Show",
@@ -2207,7 +2207,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=Kd0ByUwQya8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530763-the-kk-show-83-dr-leanne-wu.mp3",
-"tag": ['KK Show', 'Dr.LeanneWu', '學者', '時事', '醫學']
+"tag": ['KK Show', 'Dr. Leanne Wu', '學者', '時事', '醫學']
 },
 "time351":{
 "name": "0530 拜登想帶武漢肺炎回娘家、趙立堅真的很忙、緬甸不ban中國手游、推薦劇：#火神的眼淚",
@@ -2237,7 +2237,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=XrAHddsFvCw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530766-the-kk-show-82-dr-justin-yang.mp3",
-"tag": ['KK Show', 'Dr.JustinYang', '學者', '時事', '醫學']
+"tag": ['KK Show', 'Dr. Justin Yang', '學者', '時事', '醫學']
 },
 "time348":{
 "name": "0523 急轉彎去擁抱疫苗的市長、疫情期間打炮準則、Seaspiracy？",
@@ -2657,7 +2657,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-aNJ8XQ2YAw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530808-the-kk-show-67-ait-luke-martin.mp3",
-"tag": ['KK Show', 'LukeMartin', '時事']
+"tag": ['KK Show', 'Luke Martin', '時事']
 },
 "time306":{
 "name": "0214 川普的辯護律師在搞什麽、美國對亞裔的暴力事件越來越多、孤味 vs 陽光普照",
@@ -2717,7 +2717,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=nJ_0KDTxasQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530814-the-kk-show-65-samson-ellis.mp3",
-"tag": ['KK Show', 'SamsonEllis', '時事', '記者']
+"tag": ['KK Show', 'Samson Ellis', '時事', '記者']
 },
 "time300":{
 "name": "0131 （18禁）紐西蘭舔共、Belle Delphine舔別的、Ken買了在高點的GME",
@@ -3287,7 +3287,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-45gdS-68Yo&t=193s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530871-podcast-06-qa.mp3",
-"tag": ['免費教你如何做Podcast', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '暫代讀書會']
 },
 "time243":{
 "name": "The KK Show - 公海大戰小粉紅 ft. 邱Grrr、敏迪、 范琪斐",
@@ -3297,7 +3297,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=5vo3Im5hSCU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530872-the-kk-show-ft-grrr.mp3",
-"tag": ['KK Show', '范琪斐', '敏迪 @敏迪選讀', '邱grr', 'Podcaster', 'Youtuber', '企業家', '時事']
+"tag": ['KK Show', '范琪斐', '敏迪 @敏迪選讀', '邱 grr', 'Podcaster', 'Youtuber', '企業家', '時事']
 },
 "time242":{
 "name": "0913 美國西岸大火又來了、就算川普説謊你還是會支持他嗎？、暴雷 不推薦：三十而已",
@@ -3317,7 +3317,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=PWKBawwQAss",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530874-podcast-05-ft.mp3",
-"tag": ['免費教你如何做Podcast', '好和弦 @NiceChord', 'Podcaster', 'Youtuber', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '好和弦 @NiceChord', 'Podcaster', 'Youtuber', '暫代讀書會']
 },
 "time240":{
 "name": "The KK Show - #44文化策展人 - 真蓉",
@@ -3347,7 +3347,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-IotZeP-CFs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530877-the-kk-show-043-jason.mp3",
-"tag": ['KK Show', 'Jason劉致昕 @報導者', '時事', '記者']
+"tag": ['KK Show', 'Jason 劉致昕 @報導者', '時事', '記者']
 },
 "time237":{
 "name": "0830 共和黨比國民黨還想要反共、抖音是個磨人的小妖精、推薦電影：鋼鐵雨2",
@@ -3367,7 +3367,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=nDpwC0YyypA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530879-podcast-04.mp3",
-"tag": ['免費教你如何做Podcast', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '暫代讀書會']
 },
 "time235":{
 "name": "The KK Show - #42 印度尤物 - 印度尤",
@@ -3397,7 +3397,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=LNGAWlyYMQA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530882-podcast-03.mp3",
-"tag": ['免費教你如何做Podcast', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '暫代讀書會']
 },
 "time232":{
 "name": "The KK Show - #41 逃出疫區的紐約客 - Esther Chen",
@@ -3407,7 +3407,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=dtjJo04O3Xs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530883-the-kk-show-41-esther-chen.mp3",
-"tag": ['KK Show', 'EstherChen', '喜劇演員', '文藝', '演員']
+"tag": ['KK Show', 'Esther Chen', '喜劇演員', '文藝', '演員']
 },
 "time231":{
 "name": "0816 美國在聯合國沒朋友了？、泰國學生上街抗議、暈船的龜山島牛奶海之旅",
@@ -3427,7 +3427,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=EXs95Div_IU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530885-podcast-02-hosting.mp3",
-"tag": ['免費教你如何做Podcast', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '暫代讀書會']
 },
 "time229":{
 "name": "The KK Show - #40 異男悄悄話 - 台灣通勤第一品牌",
@@ -3457,7 +3457,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=Kafr-_A0IRg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530888-podcast-01.mp3",
-"tag": ['免費教你如何做Podcast', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '暫代讀書會']
 },
 "time226":{
 "name": "The KK Show - #39 不好的女人 - 陳沂",
@@ -3487,7 +3487,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=FkeY1xxGcWk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530891-podcast.mp3",
-"tag": ['免費教你如何做Podcast', '暫代讀書會']
+"tag": ['免費教你如何做 Podcast', '暫代讀書會']
 },
 "time223":{
 "name": "The KK Show - #38 遇到凱莉就無法炫富的 Joeman",
@@ -3707,7 +3707,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530913-the-kk-show-31-hito.mp3",
-"tag": ['KK Show', 'Hito大聯盟', '運動']
+"tag": ['KK Show', 'Hito 大聯盟', '運動']
 },
 "time201":{
 "name": "0607 美國警察是不沾鍋、停止航班一起來、台南教Podcast、床上大戰小粉紅",
@@ -3837,7 +3837,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530926-the-kk-show-27-grr.mp3",
-"tag": ['KK Show', '邱grr', 'Youtuber', '企業家']
+"tag": ['KK Show', '邱 grr', 'Youtuber', '企業家']
 },
 "time188":{
 "name": "0510 印度的恐怖分子是別人的自由鬥士、推薦書：My Life On The Road、國際傳播司",
@@ -3977,7 +3977,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530940-the-kk-show-asmr-pom.mp3",
-"tag": ['KK Show', 'Pom咩', '朋友']
+"tag": ['KK Show', 'Pom 咩', '朋友']
 },
 "time174":{
 "name": "讀書會：Charité at War｜戰裡的夏里特 第4集",
@@ -4397,7 +4397,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530982-the-kk-show-006-shao-yong.mp3",
-"tag": ['KK Show', 'ShaoYong', '朋友']
+"tag": ['KK Show', 'Shao Yong', '朋友']
 },
 "time132":{
 "name": "1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War",
@@ -4547,7 +4547,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530997-the-kk-show-002-tim-chen.mp3",
-"tag": ['KK Show', 'TimChen', '喜劇演員']
+"tag": ['KK Show', 'Tim Chen', '喜劇演員']
 },
 "time117":{
 "name": "讀書會：Wild Swans ｜鴻：三代中國女人 第10、11章",
@@ -5728,9 +5728,10 @@ const tag_class = {
 "週二夜現場": ['#節目系列'],
 "THE STIR": ['#節目系列'],
 "讀書會": ['#節目系列'],
+"八尺門的辯護人": ['讀書會'],
 "同情者": ['讀書會'],
 "柏青哥": ['讀書會'],
-"FatLeonard": ['讀書會'],
+"Fat Leonard": ['讀書會'],
 "林獻堂環球遊記": ['讀書會'],
 "吃佛": ['讀書會'],
 "宮前町九十番": ['讀書會'],
@@ -5752,9 +5753,9 @@ const tag_class = {
 "暫代讀書會": ['#節目系列'],
 "百靈果到處跑": ['#節目系列', '暫代讀書會'],
 "百靈果之友": ['#節目系列', '暫代讀書會'],
-"免費教你如何做Podcast": ['#節目系列', '暫代讀書會'],
+"免費教你如何做 Podcast": ['#節目系列', '暫代讀書會'],
 "八角籠": ['#節目系列', '暫代讀書會'],
-"Clubhouse企劃": ['#節目系列', '暫代讀書會'],
+"Clubhouse 企劃": ['#節目系列', '暫代讀書會'],
 "日本遶境": ['#事件備註'],
 "裴洛西訪台事件": ['#事件備註'],
 "國傳司事件": ['#事件備註'],
@@ -5776,7 +5777,7 @@ const tag_class = {
 "黃逸豪": ['喜劇演員'],
 "艾董": ['喜劇演員'],
 "黃豪平": ['喜劇演員', '廣播人', '藝人', 'Youtuber', '魔術師'],
-"TimChen": ['喜劇演員'],
+"Tim Chen": ['喜劇演員'],
 "東區德": ['喜劇演員'],
 "阿秋": ['喜劇演員'],
 "賀瓏": ['喜劇演員', 'Youtuber'],
@@ -5784,7 +5785,7 @@ const tag_class = {
 "怡岑": ['喜劇演員'],
 "酸酸": ['喜劇演員', 'Youtuber', 'Podcaster'],
 "涵冷娜": ['喜劇演員', '演員', '文藝'],
-"EstherChen": ['喜劇演員', '演員', '文藝'],
+"Esther Chen": ['喜劇演員', '演員', '文藝'],
 "呱吉": ['喜劇演員', 'Youtuber', '政治人物', '企業家'],
 "Jim": ['喜劇演員', 'Youtuber'],
 "龍龍": ['喜劇演員', 'Youtuber'],
@@ -5795,8 +5796,8 @@ const tag_class = {
 "阿滴": ['Youtuber', '企業家'],
 "Joeman": ['Youtuber', '企業家'],
 "黃大謙": ['Youtuber'],
-"ChinaMac": ['Youtuber'],
-"邱grr": ['Youtuber', '企業家'],
+"China Mac": ['Youtuber'],
+"邱 grr": ['Youtuber', '企業家'],
 "泥泥學姐": ['Youtuber'],
 "盧卡斯 @BBK Networ": ['Youtuber'],
 "歷史哥": ['Youtuber'],
@@ -5812,9 +5813,9 @@ const tag_class = {
 "王彩樺": ['藝人', '音樂'],
 "趙詠華": ['藝人', '音樂', 'Podcaster'],
 "林俊逸": ['藝人', '音樂', 'Podcaster'],
-"桃子A1J": ['音樂'],
-"珂拉琪Collage": ['音樂'],
-"Chapman杜汶澤": ['演員', '企業家', '文藝'],
+"桃子 A1J": ['音樂'],
+"珂拉琪 Collage": ['音樂'],
+"Chapman 杜汶澤": ['演員', '企業家', '文藝'],
 "黃秋生": ['演員', '文藝'],
 "台南人劇團": ['文藝', '劇場'],
 "蕭東意": ['文藝', '演員', '劇場', '喜劇演員'],
@@ -5844,9 +5845,10 @@ const tag_class = {
 "吳淡如": ['廣播人', '媒體人', 'Podcaster'],
 "李四端": ['媒體人'],
 "陳秋實": ['時事', '記者'],
-"Jason劉致昕 @報導者": ['時事', '記者'],
-"Byun秉昀": ['時事', '記者'],
-"SamsonEllis": ['時事', '記者'],
+"Jason 劉致昕 @報導者": ['時事', '記者'],
+"Byun 秉昀": ['時事', '記者'],
+"Samson Ellis": ['時事', '記者'],
+"Michael Smith": ['時事', '記者'],
 "吳品瑜": ['時事'],
 "印度尤": ['時事'],
 "Naomi O’Leary": ['時事', '記者'],
@@ -5868,8 +5870,8 @@ const tag_class = {
 "陳耀昌醫師": ['醫學', '學者', '作者'],
 "Chiels": ['醫學', '學者', '時事'],
 "李淳": ['學者', '時事'],
-"Dr.LeanneWu": ['時事', '醫學', '學者'],
-"Dr.JustinYang": ['時事', '醫學', '學者'],
+"Dr. Leanne Wu": ['時事', '醫學', '學者'],
+"Dr. Justin Yang": ['時事', '醫學', '學者'],
 "葉耀元教授": ['時事', '學者'],
 "陳小雀教授": ['時事', '學者'],
 "張賢龢博士": ['時事', '學者'],
@@ -5885,11 +5887,11 @@ const tag_class = {
 "莉婷": ['記者', '運動'],
 "陳念琴": ['運動', '原住民'],
 "妍言": ['運動'],
-"Hito大聯盟": ['運動'],
+"Hito 大聯盟": ['運動'],
 "Jack": ['運動'],
 "Howard": ['朋友', 'Podcaster', '專業人士', '口譯員'],
 "Ivan": ['朋友'],
-"ShaoYong": ['朋友'],
+"Shao Yong": ['朋友'],
 "趙哥": ['朋友'],
 "陳沂": ['朋友', '藝人'],
 "楊杰凱": ['專業人士', '專利師'],
@@ -5903,32 +5905,32 @@ const tag_class = {
 "IORG": ['時事', '事實查核'],
 "沈伯洋（助理）教授": ['時事', '事實查核', '學者'],
 "張五岳": ['時事'],
-"LukeMartin": ['時事'],
+"Luke Martin": ['時事'],
 "東冬侯溫": ['原住民'],
-"Pom咩": ['朋友'],
+"Pom 咩": ['朋友'],
 "Wolf": ['來賓']
 };
 const class_tag = {
-"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', '週二夜現場', 'THE STIR', '讀書會', '隱藏版 KK Show', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做Podcast', '八角籠', 'Clubhouse企劃'],
-"讀書會": ['同情者', '柏青哥', 'FatLeonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
-"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做Podcast', '八角籠', 'Clubhouse企劃'],
+"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', '週二夜現場', 'THE STIR', '讀書會', '隱藏版 KK Show', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃'],
+"讀書會": ['八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
+"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃'],
 "#事件備註": ['日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
-"喜劇演員": ['樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'TimChen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'EstherChen', '呱吉', 'Jim', '龍龍', '蕭東意'],
-"Youtuber": ['樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'ChinaMac', '邱grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '阿拉斯', '巴大雄 @東南美娛樂'],
+"喜劇演員": ['樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
+"Youtuber": ['樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '阿拉斯', '巴大雄 @東南美娛樂'],
 "藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '陳沂'],
-"企業家": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱grr', 'Chapman杜汶澤', '葉丙成教授', '曹興誠', 'Jay', '顧立楷', '林榮基'],
+"企業家": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '曹興誠', 'Jay', '顧立楷', '林榮基'],
 "Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '吳淡如', 'Howard'],
 "廣播人": ['歐馬克', '黃豪平', '李律', '邵大倫', '小潘', '寶拉', '吳淡如'],
-"演員": ['權樂', '涵冷娜', 'EstherChen', 'Chapman杜汶澤', '黃秋生', '蕭東意'],
-"文藝": ['權樂', '涵冷娜', 'EstherChen', 'Chapman杜汶澤', '黃秋生', '台南人劇團', '蕭東意', '布拉瑞揚 @布拉瑞揚舞團', '孫翠鳳', '真蓉'],
+"演員": ['權樂', '涵冷娜', 'Esther Chen', 'Chapman 杜汶澤', '黃秋生', '蕭東意'],
+"文藝": ['權樂', '涵冷娜', 'Esther Chen', 'Chapman 杜汶澤', '黃秋生', '台南人劇團', '蕭東意', '布拉瑞揚 @布拉瑞揚舞團', '孫翠鳳', '真蓉'],
 "專業人士": ['巴斯', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', 'Howard', '楊杰凱', '黑嘉嘉'],
 "工程師": ['巴斯'],
 "魔術師": ['巴斯', '黃豪平'],
 "政治人物": ['呱吉', '陳柏惟', '林昶佐', '吳怡農', '李有宜', '蔣萬安', '范雲', '于北辰', '林智堅', '郭書成'],
-"時事": ['范琪斐', '敏迪 @敏迪選讀', '瑞典劉先生', '陳秋實', 'Jason劉致昕 @報導者', 'Byun秉昀', 'SamsonEllis', '吳品瑜', '印度尤', 'Naomi O’Leary', 'Kevin', 'Mario', '黃京葦醫師', '烏烏醫生', 'Chiels', '李淳', 'Dr.LeanneWu', 'Dr.JustinYang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '單信瑜教授', '高智雄醫檢師', '美國台灣觀測站', 'IORG', '沈伯洋（助理）教授', '張五岳', 'LukeMartin'],
-"音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', '桃子A1J', '珂拉琪Collage', '林昶佐'],
+"時事": ['范琪斐', '敏迪 @敏迪選讀', '瑞典劉先生', '陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', '吳品瑜', '印度尤', 'Naomi O’Leary', 'Kevin', 'Mario', '黃京葦醫師', '烏烏醫生', 'Chiels', '李淳', 'Dr. Leanne Wu', 'Dr. Justin Yang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '單信瑜教授', '高智雄醫檢師', '美國台灣觀測站', 'IORG', '沈伯洋（助理）教授', '張五岳', 'Luke Martin'],
+"音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', '桃子 A1J', '珂拉琪 Collage', '林昶佐'],
 "原住民": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '黃京葦醫師', '陳念琴', '東冬侯溫'],
-"朋友": ['阿爆', 'Howard', 'Ivan', 'ShaoYong', '趙哥', '陳沂', 'Pom咩'],
+"朋友": ['阿爆', 'Howard', 'Ivan', 'Shao Yong', '趙哥', '陳沂', 'Pom 咩'],
 "色色": ['社畜', '娃娃', '石巴朝', 'Niki'],
 "劇場": ['台南人劇團', '蕭東意'],
 "舞蹈": ['布拉瑞揚 @布拉瑞揚舞團'],
@@ -5937,10 +5939,10 @@ const class_tag = {
 "製作人": ['汪怡昕', '龍哥', 'Roger'],
 "影視製作": ['Mego', 'Nick'],
 "媒體人": ['吳淡如', '李四端'],
-"記者": ['陳秋實', 'Jason劉致昕 @報導者', 'Byun秉昀', 'SamsonEllis', 'Naomi O’Leary', '莉婷'],
-"醫學": ['黃京葦醫師', '烏烏醫生', '陳耀昌醫師', 'Chiels', 'Dr.LeanneWu', 'Dr.JustinYang', '高智雄醫檢師'],
-"學者": ['黃京葦醫師', '烏烏醫生', '許翱麟教授', '人渣文本', '陳耀昌醫師', 'Chiels', '李淳', 'Dr.LeanneWu', 'Dr.JustinYang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '葉丙成教授', '單信瑜教授', '高智雄醫檢師', '沈伯洋（助理）教授'],
-"運動": ['人渣文本', '莉婷', '陳念琴', '妍言', 'Hito大聯盟', 'Jack'],
+"記者": ['陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', 'Naomi O’Leary', '莉婷'],
+"醫學": ['黃京葦醫師', '烏烏醫生', '陳耀昌醫師', 'Chiels', 'Dr. Leanne Wu', 'Dr. Justin Yang', '高智雄醫檢師'],
+"學者": ['黃京葦醫師', '烏烏醫生', '許翱麟教授', '人渣文本', '陳耀昌醫師', 'Chiels', '李淳', 'Dr. Leanne Wu', 'Dr. Justin Yang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '葉丙成教授', '單信瑜教授', '高智雄醫檢師', '沈伯洋（助理）教授'],
+"運動": ['人渣文本', '莉婷', '陳念琴', '妍言', 'Hito 大聯盟', 'Jack'],
 "作者": ['陳耀昌醫師'],
 "聽眾": ['Xin', 'JC', 'Vasilisa', 'Angeli', 'Angel', 'Feyza'],
 "口譯員": ['Howard'],

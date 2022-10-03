@@ -16,7 +16,7 @@ spotify = "https://open.spotify.com/episode/6w6Wk6ZR5KBmayHyudcCdJ"
 youtube = "https://www.youtube.com/watch?v=fcPztb9Jzoo"
 image = "f57422a8653980ea54fe97c7b37608d92d9e7b119ba482088e4fdf85001c9eee"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11400465-.mp3"
-tag = ["讀書會"]
+tag = ["讀書會", "八尺門的辯護人"]
 
 [time570]
 name = "The KK Show - #153 逃出中國 - Michael Smith"
@@ -26,7 +26,7 @@ spotify = "https://open.spotify.com/episode/11M5PHXrEXpXSfXrPdEw6q"
 youtube = ""
 image = "09b0a92eae00bf0f5929da7b0750e23a6352d39020ba03962b7216f34487631c"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3"
-tag = ["KK Show"]
+tag = ["KK Show", "Michael Smith", "時事", "記者"]
 
 [time569]
 name = "百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令"
@@ -336,7 +336,7 @@ spotify = "https://open.spotify.com/episode/2kTbdjB8cALvUD30NqaUJa"
 youtube = "https://www.youtube.com/watch?v=CdbVxwVIhf4"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10945642-the-kk-show-142-china-mac.mp3"
-tag = ["KK Show", "ChinaMac", "Youtuber"]
+tag = ["KK Show", "China Mac", "Youtuber"]
 
 [time538]
 name = "0710 巴黎香奈兒總店跟菜市場一樣、舊金山好冷、佛羅倫斯很開心， 從今以後要放寒暑假"
@@ -616,7 +616,7 @@ spotify = "https://open.spotify.com/episode/57upaOfBpeDNX6sVCAx7Pj"
 youtube = "https://www.youtube.com/watch?v=J8YzN0gKPCs&t=5s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10649832-.mp3"
-tag = ["Clubhouse企劃", "暫代讀書會"]
+tag = ["Clubhouse 企劃", "暫代讀書會"]
 
 [time510]
 name = "When you POINT A FINGER.... THE STIR EP. 4"
@@ -806,7 +806,7 @@ spotify = "https://open.spotify.com/episode/0nr9PX2jUjWXWi9KPYA6Bx"
 youtube = "https://www.youtube.com/watch?v=Rc84cbOajJ0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3"
-tag = ["Clubhouse企劃", "暫代讀書會"]
+tag = ["Clubhouse 企劃", "暫代讀書會"]
 
 [time491]
 name = "The KK Show - #128 道德破壞者 - Jim"
@@ -946,7 +946,7 @@ spotify = "https://open.spotify.com/episode/0HzXVCTGtn2oAAtr4lK1VY"
 youtube = "https://www.youtube.com/watch?v=IEOyozHKAU0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530637-the-kk-show-123-chapman.mp3"
-tag = ["KK Show", "Chapman杜汶澤", "企業家", "文藝", "演員"]
+tag = ["KK Show", "Chapman 杜汶澤", "企業家", "文藝", "演員"]
 
 [time477]
 name = "0313 聯合國試圖掩蓋真相、全球油價暴漲、RIP 西藏歌手 才旺羅布"
@@ -966,7 +966,7 @@ spotify = "https://open.spotify.com/episode/3nbxoAF19SPPUVzyWV65qB"
 youtube = "https://www.youtube.com/watch?v=r4cI0A0PD94"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530639-fat-leonard-mindy.mp3"
-tag = ["讀書會", "FatLeonard", "敏迪 @敏迪選讀", "Podcaster", "時事"]
+tag = ["讀書會", "Fat Leonard", "敏迪 @敏迪選讀", "Podcaster", "時事"]
 
 [time475]
 name = "The KK Show - #123 Kimberley 陳芳語 @Kimberley Chen"
@@ -996,7 +996,7 @@ spotify = "https://open.spotify.com/episode/48TIPTaZ7QOQ9j9X89kKS1"
 youtube = "https://www.youtube.com/watch?v=jgcfyYXm54s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530642-fat-leonard-ch-4.mp3"
-tag = ["讀書會", "FatLeonard"]
+tag = ["讀書會", "Fat Leonard"]
 
 [time472]
 name = "The KK Show - #122 匿名者 蕭東意"
@@ -1026,7 +1026,7 @@ spotify = "https://open.spotify.com/episode/3t5COoU8YAWQsxAwteNEVT"
 youtube = "https://www.youtube.com/watch?v=lYzntDSR_wc"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3"
-tag = ["讀書會", "FatLeonard"]
+tag = ["讀書會", "Fat Leonard"]
 
 [time469]
 name = "The KK Show - #121 運動歸運動 政治歸政治？ 人渣文本"
@@ -1066,7 +1066,7 @@ spotify = "https://open.spotify.com/episode/36WPj10E71UtGOgABxjVBt"
 youtube = "https://www.youtube.com/watch?v=bqwxwgZrzG0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530649-ncis-fat-leonard-fat-leonard-02.mp3"
-tag = ["讀書會", "FatLeonard"]
+tag = ["讀書會", "Fat Leonard"]
 
 [time465]
 name = "The KK Show - #120 時代革命導演 - 周冠威"
@@ -1096,7 +1096,7 @@ spotify = "https://open.spotify.com/episode/4EDAI5ccjfPlNRmgP6nf8F"
 youtube = "https://www.youtube.com/watch?v=2ExhG5dsHW0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530652-fat-leonard-01.mp3"
-tag = ["讀書會", "FatLeonard"]
+tag = ["讀書會", "Fat Leonard"]
 
 [time462]
 name = "The KK Show - #119 黃大謙"
@@ -1966,7 +1966,7 @@ spotify = "https://open.spotify.com/episode/3SoEQr2FTm9ZgcLKaoytwM"
 youtube = "https://www.youtube.com/watch?v=oEIBXYo2mBg&t=13s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530739-004.mp3"
-tag = ["百靈果之友", "Jason劉致昕 @報導者", "時事", "暫代讀書會", "記者"]
+tag = ["百靈果之友", "Jason 劉致昕 @報導者", "時事", "暫代讀書會", "記者"]
 
 [time375]
 name = "The KK Show - #90 馬來西亞的聲音 - 秉昀 Byun"
@@ -1976,7 +1976,7 @@ spotify = "https://open.spotify.com/episode/54Wt6pRunWdeuvZz64cjC8"
 youtube = "https://www.youtube.com/watch?v=_9QMP46awhg&t=3s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530740-the-kk-show-90-byun.mp3"
-tag = ["KK Show", "Byun秉昀", "時事", "記者"]
+tag = ["KK Show", "Byun 秉昀", "時事", "記者"]
 
 [time374]
 name = "0718 看好了世界我要退貨疫苗，小賈斯丁有韓國老闆、推薦書：VAXXERS"
@@ -2056,7 +2056,7 @@ spotify = "https://open.spotify.com/episode/0OI4c00ctVe2XNodRAAkpC"
 youtube = "https://www.youtube.com/watch?v=zX-K8I_9u-Y"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530748-the-kk-show-88-a1j.mp3"
-tag = ["KK Show", "桃子A1J", "音樂"]
+tag = ["KK Show", "桃子 A1J", "音樂"]
 
 [time366]
 name = "0704 普丁心中最軟的那一塊、歐洲杯煉蠱大賽、Pew 說在座的各位都是白海豚、推薦 Chasing Cosby 、 The Morning Show"
@@ -2206,7 +2206,7 @@ spotify = "https://open.spotify.com/episode/1Nos1q5QohJK1xuIRiGpfw"
 youtube = "https://www.youtube.com/watch?v=Kd0ByUwQya8"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530763-the-kk-show-83-dr-leanne-wu.mp3"
-tag = ["KK Show", "Dr.LeanneWu", "學者", "時事", "醫學"]
+tag = ["KK Show", "Dr. Leanne Wu", "學者", "時事", "醫學"]
 
 [time351]
 name = "0530 拜登想帶武漢肺炎回娘家、趙立堅真的很忙、緬甸不ban中國手游、推薦劇：#火神的眼淚"
@@ -2236,7 +2236,7 @@ spotify = "https://open.spotify.com/episode/53K4eNdUw3zs6Yu3eGhkd5"
 youtube = "https://www.youtube.com/watch?v=XrAHddsFvCw"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530766-the-kk-show-82-dr-justin-yang.mp3"
-tag = ["KK Show", "Dr.JustinYang", "學者", "時事", "醫學"]
+tag = ["KK Show", "Dr. Justin Yang", "學者", "時事", "醫學"]
 
 [time348]
 name = "0523 急轉彎去擁抱疫苗的市長、疫情期間打炮準則、Seaspiracy？"
@@ -2656,7 +2656,7 @@ spotify = "https://open.spotify.com/episode/4qzvNg3t2SvDzbsxY0wT6U"
 youtube = "https://www.youtube.com/watch?v=-aNJ8XQ2YAw"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530808-the-kk-show-67-ait-luke-martin.mp3"
-tag = ["KK Show", "LukeMartin", "時事"]
+tag = ["KK Show", "Luke Martin", "時事"]
 
 [time306]
 name = "0214 川普的辯護律師在搞什麽、美國對亞裔的暴力事件越來越多、孤味 vs 陽光普照"
@@ -2716,7 +2716,7 @@ spotify = "https://open.spotify.com/episode/1qckWckUYHQYlqMbjtxvfZ"
 youtube = "https://www.youtube.com/watch?v=nJ_0KDTxasQ"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530814-the-kk-show-65-samson-ellis.mp3"
-tag = ["KK Show", "SamsonEllis", "時事", "記者"]
+tag = ["KK Show", "Samson Ellis", "時事", "記者"]
 
 [time300]
 name = "0131 （18禁）紐西蘭舔共、Belle Delphine舔別的、Ken買了在高點的GME"
@@ -3286,7 +3286,7 @@ spotify = "https://open.spotify.com/episode/1ABPF5dGMeYRNRUtTgSRha"
 youtube = "https://www.youtube.com/watch?v=-45gdS-68Yo&t=193s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530871-podcast-06-qa.mp3"
-tag = ["免費教你如何做Podcast", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "暫代讀書會"]
 
 [time243]
 name = "The KK Show - 公海大戰小粉紅 ft. 邱Grrr、敏迪、 范琪斐"
@@ -3296,7 +3296,7 @@ spotify = "https://open.spotify.com/episode/0lXVI9oGe0qdgfu434zaJQ"
 youtube = "https://www.youtube.com/watch?v=5vo3Im5hSCU"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530872-the-kk-show-ft-grrr.mp3"
-tag = ["KK Show", "范琪斐", "敏迪 @敏迪選讀", "邱grr", "Podcaster", "Youtuber", "企業家", "時事"]
+tag = ["KK Show", "范琪斐", "敏迪 @敏迪選讀", "邱 grr", "Podcaster", "Youtuber", "企業家", "時事"]
 
 [time242]
 name = "0913 美國西岸大火又來了、就算川普説謊你還是會支持他嗎？、暴雷 不推薦：三十而已"
@@ -3316,7 +3316,7 @@ spotify = "https://open.spotify.com/episode/2xNQAq7cCkDACqrxL13oJ5"
 youtube = "https://www.youtube.com/watch?v=PWKBawwQAss"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530874-podcast-05-ft.mp3"
-tag = ["免費教你如何做Podcast", "好和弦 @NiceChord", "Podcaster", "Youtuber", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "好和弦 @NiceChord", "Podcaster", "Youtuber", "暫代讀書會"]
 
 [time240]
 name = "The KK Show - #44文化策展人 - 真蓉"
@@ -3346,7 +3346,7 @@ spotify = "https://open.spotify.com/episode/4Am4DGmAoRy8HZ0fTcyHjy"
 youtube = "https://www.youtube.com/watch?v=-IotZeP-CFs"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530877-the-kk-show-043-jason.mp3"
-tag = ["KK Show", "Jason劉致昕 @報導者", "時事", "記者"]
+tag = ["KK Show", "Jason 劉致昕 @報導者", "時事", "記者"]
 
 [time237]
 name = "0830 共和黨比國民黨還想要反共、抖音是個磨人的小妖精、推薦電影：鋼鐵雨2"
@@ -3366,7 +3366,7 @@ spotify = "https://open.spotify.com/episode/7vpWo11aElxcQ3Bg4n2gHz"
 youtube = "https://www.youtube.com/watch?v=nDpwC0YyypA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530879-podcast-04.mp3"
-tag = ["免費教你如何做Podcast", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "暫代讀書會"]
 
 [time235]
 name = "The KK Show - #42 印度尤物 - 印度尤"
@@ -3396,7 +3396,7 @@ spotify = "https://open.spotify.com/episode/2s0hIsCVCyVhBCWwafyiBT"
 youtube = "https://www.youtube.com/watch?v=LNGAWlyYMQA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530882-podcast-03.mp3"
-tag = ["免費教你如何做Podcast", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "暫代讀書會"]
 
 [time232]
 name = "The KK Show - #41 逃出疫區的紐約客 - Esther Chen"
@@ -3406,7 +3406,7 @@ spotify = "https://open.spotify.com/episode/2aC518nDrXbKaA1zQH8nHE"
 youtube = "https://www.youtube.com/watch?v=dtjJo04O3Xs"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530883-the-kk-show-41-esther-chen.mp3"
-tag = ["KK Show", "EstherChen", "喜劇演員", "文藝", "演員"]
+tag = ["KK Show", "Esther Chen", "喜劇演員", "文藝", "演員"]
 
 [time231]
 name = "0816 美國在聯合國沒朋友了？、泰國學生上街抗議、暈船的龜山島牛奶海之旅"
@@ -3426,7 +3426,7 @@ spotify = "https://open.spotify.com/episode/0utZzLpuWhqgikjnNwBjKL"
 youtube = "https://www.youtube.com/watch?v=EXs95Div_IU"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530885-podcast-02-hosting.mp3"
-tag = ["免費教你如何做Podcast", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "暫代讀書會"]
 
 [time229]
 name = "The KK Show - #40 異男悄悄話 - 台灣通勤第一品牌"
@@ -3456,7 +3456,7 @@ spotify = "https://open.spotify.com/episode/3y3jnVUipSrVgGAy6KW5yF"
 youtube = "https://www.youtube.com/watch?v=Kafr-_A0IRg"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530888-podcast-01.mp3"
-tag = ["免費教你如何做Podcast", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "暫代讀書會"]
 
 [time226]
 name = "The KK Show - #39 不好的女人 - 陳沂"
@@ -3486,7 +3486,7 @@ spotify = "https://open.spotify.com/episode/0MRU516WcpAmp2a26LVyCP"
 youtube = "https://www.youtube.com/watch?v=FkeY1xxGcWk"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530891-podcast.mp3"
-tag = ["免費教你如何做Podcast", "暫代讀書會"]
+tag = ["免費教你如何做 Podcast", "暫代讀書會"]
 
 [time223]
 name = "The KK Show - #38 遇到凱莉就無法炫富的 Joeman"
@@ -3706,7 +3706,7 @@ spotify = "https://open.spotify.com/episode/2H90y6AXq1Cfi1qSMB3vmt"
 youtube = ""
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530913-the-kk-show-31-hito.mp3"
-tag = ["KK Show", "Hito大聯盟", "運動"]
+tag = ["KK Show", "Hito 大聯盟", "運動"]
 
 [time201]
 name = "0607 美國警察是不沾鍋、停止航班一起來、台南教Podcast、床上大戰小粉紅"
@@ -3836,7 +3836,7 @@ spotify = "https://open.spotify.com/episode/4KV4opBYW3MnbbEBQCaKMa"
 youtube = ""
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530926-the-kk-show-27-grr.mp3"
-tag = ["KK Show", "邱grr", "Youtuber", "企業家"]
+tag = ["KK Show", "邱 grr", "Youtuber", "企業家"]
 
 [time188]
 name = "0510 印度的恐怖分子是別人的自由鬥士、推薦書：My Life On The Road、國際傳播司"
@@ -3976,7 +3976,7 @@ spotify = "https://open.spotify.com/episode/0egTvvlAq6DnkPhSfMG8gf"
 youtube = ""
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530940-the-kk-show-asmr-pom.mp3"
-tag = ["KK Show", "Pom咩", "朋友"]
+tag = ["KK Show", "Pom 咩", "朋友"]
 
 [time174]
 name = "讀書會：Charité at War｜戰裡的夏里特 第4集"
@@ -4396,7 +4396,7 @@ spotify = "https://open.spotify.com/episode/4G654y51mDc2fZdTWNSqKL"
 youtube = ""
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530982-the-kk-show-006-shao-yong.mp3"
-tag = ["KK Show", "ShaoYong", "朋友"]
+tag = ["KK Show", "Shao Yong", "朋友"]
 
 [time132]
 name = "1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War"
@@ -4546,7 +4546,7 @@ spotify = "https://open.spotify.com/episode/7GzgGpHhgG9KinJbP1tRno"
 youtube = ""
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530997-the-kk-show-002-tim-chen.mp3"
-tag = ["KK Show", "TimChen", "喜劇演員"]
+tag = ["KK Show", "Tim Chen", "喜劇演員"]
 
 [time117]
 name = "讀書會：Wild Swans ｜鴻：三代中國女人 第10、11章"

@@ -1,13 +1,19 @@
 # Need to clear for act4
 
+["俄國公民記者最新影片都是 ”我離開了“ | 百靈果News"]
+name = "俄國公民記者最新影片都是 ”我離開了“ | 百靈果News"
+youtube = "https://www.youtube.com/watch?v=tlEzhkd8sBE"
+tag = []
+category = []
+
 ["美國新冠時期大撒幣、詐領補助數不完 | 百靈果News"]
 name = "美國新冠時期大撒幣、詐領補助數不完 | 百靈果News"
 youtube = "https://www.youtube.com/watch?v=wxt6B5DHxNE"
 tag = []
 category = []
 
-["百靈果News｜“I Left Russia\"、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"]
-name = "百靈果News｜“I Left Russia\"、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"
+["百靈果News｜“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"]
+name = "百靈果News｜“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"
 youtube = "https://www.youtube.com/watch?v=TSPx70UaOsA"
 tag = []
 category = []
@@ -24,8 +30,8 @@ youtube = "https://www.youtube.com/watch?v=0h1NXOJqE-c"
 tag = []
 category = []
 
-["百靈果News｜日本神秘嘉賓！“I Left Russia\"、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"]
-name = "百靈果News｜日本神秘嘉賓！“I Left Russia\"、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"
+["百靈果News｜日本神秘嘉賓！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"]
+name = "百靈果News｜日本神秘嘉賓！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"
 youtube = "https://www.youtube.com/watch?v=TSPx70UaOsA"
 tag = []
 category = []

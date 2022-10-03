@@ -1,8 +1,8 @@
-name: update podcast feed v3.2.0
+name: update podcast feed v3.3.0
 
 on:
   schedule:
-    - cron: "5 * * * * "
+    - cron: "5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,15 +23,21 @@ jobs:
       - name: check py requirements
         run: |
           pip install -r requirements.txt
-      - name: construct dataset
+      - name: update rss feed source
         env:
           SPT_ID: ${{ secrets.spotify_client_id }}
           SPT_SC: ${{ secrets.spotify_client_secret }}
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
           python3 blg1-update.py
+      - name: merge feed source
+        run: |
           python3 blg2-merge.py
+      - name: annotate feed with various info
+        run: |
           python3 blg3-annotate.py > filter.txt
+      - name: export feed into js file
+        run: |
           python3 blg4-export.py
       - name: setup git config
         env:

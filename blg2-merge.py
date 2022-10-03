@@ -6,7 +6,7 @@ img_doc = tomlkit.load(open("blg/record/image.toml"))
 name2url_dict = {str(x):str(y) for x,y in img_doc["name2url"].items()} # type: ignore
 url2file_dict = {str(x):str(y) for x,y in img_doc["url2file"].items()} # type: ignore
 def correct(input_str):
-    replace_str = input_str.replace("\u200b","").replace("啦‍♂️、","啦🙅‍♂️、")
+    replace_str = input_str.replace("\u200b","").replace("啦‍♂️、","啦🙅‍♂️、").replace("Russia\"","Russia”")
     output_str = " ".join([n for n in replace_str.split(" ") if n != ""])
     if output_str in alias_doc.keys():
         output_str = alias_doc[output_str]

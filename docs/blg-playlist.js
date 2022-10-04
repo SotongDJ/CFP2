@@ -1,4 +1,14 @@
 const playlist = {
+"time573":{
+"name": "The KK Show - #154 好機車-嗩吶 @好機車",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-154-%E5%A5%BD%E6%A9%9F%E8%BB%8A-%E5%97%A9%E5%90%B6/id1106847606?i=1000581539531",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQzMzI3Ng",
+"spotify": "https://open.spotify.com/episode/7ks8XCTzdH6N0f94VNv0pn",
+"youtube": "https://www.youtube.com/watch?v=-kBQY6Wvz90",
+"image": "11c39e0dc6e6cdfaebfeb1835f835be75a92eb0ea929288f9d7c31686c8791bb",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3",
+"tag": ['KK Show']
+},
 "time572":{
 "name": "百靈果News｜日本錄KKShow！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E6%97%A5%E6%9C%AC%E9%8C%84kkshow-i-left-russia-%E7%BE%8E%E5%9C%8B%E7%96%AB%E6%83%85%E8%A9%90%E9%A8%99%E8%A3%9C%E5%8A%A9%E9%87%91-%E5%8A%A9%E7%90%86%E8%9B%87%E7%B7%A8%E8%A6%81%E5%8E%BB%E9%A6%96%E7%88%BE-%E6%89%93%E7%8D%B5-%E8%A1%8C%E7%A8%8B/id1106847606?i=1000581292609",

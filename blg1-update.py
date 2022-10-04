@@ -53,6 +53,8 @@ with open("blg/record/feedPodcastRequests.xml","w") as xmlf:
     xmlf.write(rss_req.text)
 with open("blg/record/feedPodcast.toml","w") as tomlf:
     tomlkit.dump(rss_dict,tomlf)
+with open("blg/record/feedPodcast-month.toml","w") as tomlf:
+    tomlkit.dump(month_dict,tomlf)
 with open("blg/record/image.toml","w") as tomlf:
     tomlkit.dump({"name2url":name2url_dict,"url2file":url2file_dict},tomlf)
 print("    Finish collection: Feed")

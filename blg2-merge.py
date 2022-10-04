@@ -1,6 +1,7 @@
 import tomlkit
 print("----\nStart merge")
 result_doc = tomlkit.load(open("blg/mid/history.toml"))
+month_doc = tomlkit.load(open("blg/record/feedPodcast-month.toml"))
 alias_doc = tomlkit.load(open("blg/alias.toml"))
 img_doc = tomlkit.load(open("blg/record/image.toml"))
 name2url_dict = {str(x):str(y) for x,y in img_doc["name2url"].items()} # type: ignore
@@ -26,6 +27,11 @@ for title_str,link_str in name2url_dict.items():
     title_episode_dict = title_dict.get(id_str,dict())
     title_episode_dict["image"] = url2file_dict[link_str]
     title_dict[id_str] = title_episode_dict
+for title_str,month_str in month_doc.items():
+    name_str, id_str = correct(title_str)
+    title_episode_dict = title_dict.get(id_str,dict())
+    title_episode_dict["tag"] = [month_str]
+    title_dict[id_str] = title_episode_dict
 annotation = tomlkit.document()
 annotation.add(tomlkit.comment("Add your own tag to each episode"))
 annotation.add(tomlkit.nl())
@@ -35,11 +41,11 @@ youtube_entities.add(tomlkit.nl())
 for title_str, link_dict in title_dict.items():
     episode = tomlkit.table()
     episode.update(link_dict)
-    episode["tag"] = list()
-    episode["category"] = list()
     if "feed" in link_dict.keys():
         annotation[title_str] = episode
     else:
+        episode["tag"] = list()
+        episode["category"] = list()
         youtube_entities[title_str] = episode
 with open("blg/mid/structure.toml",'w') as target_handler:
     tomlkit.dump(annotation,target_handler)

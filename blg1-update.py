@@ -153,6 +153,15 @@ if pathlib.Path("secret.toml").exists():
         tomlkit.dump(spotify_dict,tomlf)
 else:
     print("        Skip: secret not found")
+    print("        Feed: use old records")
+    if pathlib.Path("blg/record/SpotifyPodcast.toml").exists():
+        spotify_doc = tomlkit.load(open("blg/record/SpotifyPodcast.toml"))
+        spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
+    else:
+        spotify_record = dict()
+    spotify_dict = dict()
+    spotify_dict.update(spotify_record)
+    result_dict["spotify"] = spotify_dict
 print("    Finish collection: Spotify")
 #
 print("    ----")

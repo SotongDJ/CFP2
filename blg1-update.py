@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup as bs
 from PIL import Image
+from datetime import datetime
 import json, tomlkit, requests, pathlib, hashlib, time
 print("Start collection")
 result_dict = dict()
@@ -10,19 +11,23 @@ rss_req = requests.get("https://feeds.buzzsprout.com/1974862.rss")
 print("        Feed: convert XML and update dictionary")
 rss_feed = bs(rss_req.text,"xml")
 rss_dict = dict()
+month_dict = dict()
 name2url_dict = dict()
 url2file_dict = dict()
 if pathlib.Path("blg/record/image.toml").exists():
     img_doc = tomlkit.load(open("blg/record/image.toml"))
     name2url_dict.update({str(x):str(y) for x,y in img_doc["name2url"].items()})  # type: ignore
     url2file_dict.update({str(x):str(y) for x,y in img_doc["url2file"].items()})  # type: ignore
-img_str = rss_feed.find("image").url.contents[0]  # type: ignore
+channelCover_str = rss_feed.find("image").url.contents[0]  # type: ignore
 img_size_list = [96,128,192,256,384,512]
 for unit in rss_feed.find_all('item'):
     name = unit.title.contents[0]
     url = unit.enclosure['url']
     rss_dict[name] = url
-    img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [img_str]
+    original_time_str = unit.pubDate.contents[0]
+    month_str = datetime.strptime(original_time_str,"%a, %d %b %Y %H:%M:%S %z").strftime("%b %Y")
+    month_dict[name] = month_str
+    img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channelCover_str]
     img_url = img_list[0]
     name2url_dict[name] = img_url
     if img_url not in url2file_dict.keys():

@@ -43,6 +43,7 @@ for title_str, link_dict in title_dict.items():
     episode.update(link_dict)
     if "feed" in link_dict.keys():
         annotation[title_str] = episode
+        episode["category"] = list()
     else:
         episode["tag"] = list()
         episode["category"] = list()

@@ -409,6 +409,11 @@ inclusive = ["歷史哥"]
 exclusive = []
 category = ["Youtuber"]
 
+["嗩吶"]
+inclusive = ["嗩吶"]
+exclusive = []
+category = ["時事","Youtuber"]
+
 ["阿爆"]
 inclusive = ["阿爆"]
 exclusive = ["阿爆演唱會"]

@@ -28,10 +28,10 @@ for enum_int, value_dict in enumerate(title_dict.values()):
     title_list.append(value_inner_str)
 outer_str = "const playlist = {\n"+"\n},\n".join(title_list)+"\n}\n};\n"
 
-with open("docs/blg-playlist.json",'w') as target_handler:
-    json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
-with open("docs/blg-playlist.toml",'w') as target_handler:
-    tomlkit.dump(playlist_dict,target_handler)
+# with open("docs/blg-playlist.json",'w') as target_handler:
+#     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
+# with open("docs/blg-playlist.toml",'w') as target_handler:
+#     tomlkit.dump(playlist_dict,target_handler)
 
 print("    ----")
 print("    export docs/blg-tag_class")
@@ -39,10 +39,10 @@ tag2class_dict = {tag_name: [str(n) for n in entry_detail["category"]] for tag_n
 tag2class_list = ["\"{}\": {}".format(tag_name,tag_category_list) for tag_name, tag_category_list in tag2class_dict.items()]
 tag2class_str = "const tag_class = {\n"+",\n".join(tag2class_list)+"\n};\n"
 
-with open("docs/blg-tag_class.json",'w') as target_handler:
-    json.dump(tag2class_dict,target_handler,indent=0,sort_keys=True)
-with open("docs/blg-tag_class.toml",'w') as target_handler:
-    tomlkit.dump(tag2class_dict,target_handler)
+# with open("docs/blg-tag_class.json",'w') as target_handler:
+#     json.dump(tag2class_dict,target_handler,indent=0,sort_keys=True)
+# with open("docs/blg-tag_class.toml",'w') as target_handler:
+#     tomlkit.dump(tag2class_dict,target_handler)
 
 print("    ----")
 print("    export docs/blg-class_tag")
@@ -57,10 +57,10 @@ for category_name, category_list in class2tag_dict.items():
     class2tag_list.append("\"{}\": {}".format(category_name,category_list))
 class2tag_str = "const class_tag = {\n"+",\n".join(class2tag_list)+"\n};\n"
 
-with open("docs/blg-class_tag.json",'w') as target_handler:
-    json.dump(class2tag_dict,target_handler,indent=0,sort_keys=True)
-with open("docs/blg-class_tag.toml",'w') as target_handler:
-    tomlkit.dump(class2tag_dict,target_handler)
+# with open("docs/blg-class_tag.json",'w') as target_handler:
+#     json.dump(class2tag_dict,target_handler,indent=0,sort_keys=True)
+# with open("docs/blg-class_tag.toml",'w') as target_handler:
+#     tomlkit.dump(class2tag_dict,target_handler)
 
 with open("docs/blg-playlist.js",'w') as target_handler:
     target_handler.write(outer_str)

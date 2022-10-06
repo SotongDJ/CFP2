@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["比紅更紅 習近平早期人生 ｜ #讀書會：王子習近平"]
+name = "比紅更紅 習近平早期人生 ｜ #讀書會：王子習近平"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11443849-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%AF%94%E7%B4%85%E6%9B%B4%E7%B4%85-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%97%A9%E6%9C%9F%E4%BA%BA%E7%94%9F-%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%8E%8B%E5%AD%90%E7%BF%92%E8%BF%91%E5%B9%B3/id1106847606?i=1000581799174"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ0Mzg0OQ"
+spotify = "https://open.spotify.com/episode/59DqaVWX897isslf3wvjTr"
+youtube = "https://www.youtube.com/watch?v=-E-G_zHtUKU"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Oct 2022", "讀書會"]
+category = ["#節目系列"]
+
 ["The KK Show - #154 好機車-嗩吶"]
 name = "The KK Show - #154 好機車-嗩吶 @好機車"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3"

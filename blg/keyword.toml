@@ -36,6 +36,11 @@ category = ["#節目系列"]
 
 # 讀書會
 
+["王子習近平"]
+inclusive = ["王子習近平"]
+exclusive = []
+category = ["讀書會"]
+
 ["八尺門的辯護人"]
 inclusive = ["八尺門的辯護人"]
 exclusive = []

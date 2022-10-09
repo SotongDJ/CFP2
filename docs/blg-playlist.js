@@ -17,7 +17,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-E-G_zHtUKU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11443849-.mp3",
-"tag": ['Oct 2022', '讀書會']
+"tag": ['Oct 2022', '讀書會', '王子習近平']
 },
 "time573":{
 "name": "The KK Show - #154 好機車-嗩吶 @好機車",
@@ -5758,6 +5758,7 @@ const tag_class = {
 "週二夜現場": ['#節目系列'],
 "THE STIR": ['#節目系列'],
 "讀書會": ['#節目系列'],
+"王子習近平": ['讀書會'],
 "八尺門的辯護人": ['讀書會'],
 "同情者": ['讀書會'],
 "柏青哥": ['讀書會'],
@@ -5990,7 +5991,7 @@ const tag_class = {
 const class_tag = {
 "#月份年份": ['Oct 2022', 'Sep 2022', 'Aug 2022', 'Jul 2022', 'Jun 2022', 'May 2022', 'Apr 2022', 'Mar 2022', 'Feb 2022', 'Jan 2022', 'Dec 2021', 'Nov 2021', 'Oct 2021', 'Sep 2021', 'Aug 2021', 'Jul 2021', 'Jun 2021', 'May 2021', 'Apr 2021', 'Mar 2021', 'Feb 2021', 'Jan 2021', 'Dec 2020', 'Nov 2020', 'Oct 2020', 'Sep 2020', 'Aug 2020', 'Jul 2020', 'Jun 2020', 'May 2020', 'Apr 2020', 'Mar 2020', 'Feb 2020', 'Jan 2020', 'Dec 2019', 'Nov 2019', 'Oct 2019', 'Sep 2019', 'Aug 2019', 'Jul 2019', 'Jun 2019', 'May 2019', 'Apr 2019', 'Mar 2019', 'Feb 2019', 'Jan 2019'],
 "#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', '週二夜現場', 'THE STIR', '讀書會', '隱藏版 KK Show', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃'],
-"讀書會": ['八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
+"讀書會": ['王子習近平', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃'],
 "#事件備註": ['日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
 "喜劇演員": ['樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],

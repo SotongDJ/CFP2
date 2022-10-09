@@ -1,4 +1,14 @@
 const playlist = {
+"time575":{
+"name": "百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議",
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ2NDQ3MA",
+"spotify": "https://open.spotify.com/episode/4KldmJo6xoVNsAzn1GWPvE",
+"youtube": "https://www.youtube.com/watch?v=q8Fk-GTcuig",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11464470-news.mp3",
+"tag": ['Oct 2022', '百靈果 NEWS']
+},
 "time574":{
 "name": "比紅更紅 習近平早期人生 ｜ #讀書會：王子習近平",
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%AF%94%E7%B4%85%E6%9B%B4%E7%B4%85-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%97%A9%E6%9C%9F%E4%BA%BA%E7%94%9F-%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%8E%8B%E5%AD%90%E7%BF%92%E8%BF%91%E5%B9%B3/id1106847606?i=1000581799174",

@@ -2,11 +2,11 @@ const playlist = {
 "time575":{
 "name": "百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%88%86%E4%BA%AB%E9%A6%96%E7%88%BE-%E6%89%93%E7%8D%B5-%E6%88%90%E6%9E%9C-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%AD%E7%AB%8B%E8%AD%A6%E5%AF%9F%E5%B1%80-%E8%B7%9F%E8%8C%83%E5%A7%90%E8%81%8A%E6%9C%80%E8%BF%91%E7%9A%84%E7%88%AD%E8%AD%B0/id1106847606?i=1000582052124",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ2NDQ3MA",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ2NzkxNw",
 "spotify": "https://open.spotify.com/episode/4KldmJo6xoVNsAzn1GWPvE",
 "youtube": "https://www.youtube.com/watch?v=q8Fk-GTcuig",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11464470-news.mp3",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3",
 "tag": ['Oct 2022', '百靈果 NEWS']
 },
 "time574":{

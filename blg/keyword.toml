@@ -479,6 +479,11 @@ inclusive = ["林俊逸"]
 exclusive = []
 category = ["藝人","音樂","Podcaster"]
 
+["Musa 明馬丁"]
+inclusive = ["Musa 明馬丁"]
+exclusive = []
+category = ["音樂"]
+
 ["桃子 A1J"]
 inclusive = ["桃子A1J"]
 exclusive = []

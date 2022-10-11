@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["The KK Show - #155 自由的爵士野獸 - Musa 明馬丁"]
+name = "The KK Show - #155 自由的爵士野獸 - Musa 明馬丁"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11476041-the-kk-show-155-musa.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-155-%E8%87%AA%E7%94%B1%E7%9A%84%E7%88%B5%E5%A3%AB%E9%87%8E%E7%8D%B8-musa-%E6%98%8E%E9%A6%AC%E4%B8%81/id1106847606?i=1000582285899"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ3NjA0MQ"
+spotify = "https://open.spotify.com/episode/0FUHzU5k8yd0nZxM9S8Dbx"
+youtube = "https://www.youtube.com/watch?v=tH8gejUUjg4"
+image = "e549b6a0be6422646b5307ee71db77775ae19e517bb25d750812724954cd748c"
+tag = ["Oct 2022", "KK Show", "Musa 明馬丁"]
+category = ["#節目系列", "音樂"]
+
 ["百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議"]
 name = "百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3"

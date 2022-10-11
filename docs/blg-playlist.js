@@ -1,4 +1,14 @@
 const playlist = {
+"time576":{
+"name": "The KK Show - #155 自由的爵士野獸 - Musa 明馬丁",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-155-%E8%87%AA%E7%94%B1%E7%9A%84%E7%88%B5%E5%A3%AB%E9%87%8E%E7%8D%B8-musa-%E6%98%8E%E9%A6%AC%E4%B8%81/id1106847606?i=1000582285899",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ3NjA0MQ",
+"spotify": "https://open.spotify.com/episode/0FUHzU5k8yd0nZxM9S8Dbx",
+"youtube": "https://www.youtube.com/watch?v=tH8gejUUjg4",
+"image": "e549b6a0be6422646b5307ee71db77775ae19e517bb25d750812724954cd748c",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11476041-the-kk-show-155-musa.mp3",
+"tag": ['Oct 2022', 'KK Show', 'Musa 明馬丁', '音樂']
+},
 "time575":{
 "name": "百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%88%86%E4%BA%AB%E9%A6%96%E7%88%BE-%E6%89%93%E7%8D%B5-%E6%88%90%E6%9E%9C-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%AD%E7%AB%8B%E8%AD%A6%E5%AF%9F%E5%B1%80-%E8%B7%9F%E8%8C%83%E5%A7%90%E8%81%8A%E6%9C%80%E8%BF%91%E7%9A%84%E7%88%AD%E8%AD%B0/id1106847606?i=1000582052124",

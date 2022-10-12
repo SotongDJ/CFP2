@@ -9,8 +9,14 @@ print("    load data")
 title_dict = tomlkit.load(open("blg/mid/annotation.toml"))
 keyword_doc = tomlkit.load(open("blg/keyword.toml"))
 month_doc = tomlkit.load(open("blg/record/feedPodcast-month.toml"))
-month_set = set(list(month_doc.values()))
-month_list = sorted(list(month_set), key=lambda x : convertMonth(x), reverse=True)
+month_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
+reverse_month_dict = dict()
+for month_str, year_str in month_dict.items():
+    year_list = reverse_month_dict.get(year_str,list())
+    year_list.append(month_str)
+    reverse_month_dict[year_str] = year_list
+reverse_dict = {y:sorted(reverse_month_dict[y],key=lambda m : convertMonth(m)) for y in sorted(list(reverse_month_dict.keys()),key=lambda x : int(x), reverse=True)}
+month_list = sorted(list(month_dict.keys()), key=lambda m : convertMonth(m), reverse=True)
 header_list = ["name", "apple", "google", "spotify", "youtube", "image", "feed"]
 title_list = list()
 total_int = len(title_dict.keys())
@@ -43,7 +49,7 @@ outer_str = "const playlist = {\n"+"\n},\n".join(title_list)+"\n}\n};\n"
 print("    ----")
 print("    export docs/blg-tag_class")
 tag2class_dict = {tag_name: [str(n) for n in entry_detail["category"]] for tag_name, entry_detail in keyword_doc.items()}
-tag2class_dict.update({month_str: ["#月份年份"] for month_str in month_list})
+tag2class_dict.update({m: [F"#{y}"] for m,y in month_dict.items()})
 tag2class_list = ["\"{}\": {}".format(tag_name,tag_category_list) for tag_name, tag_category_list in tag2class_dict.items()]
 tag2class_str = "const tag_class = {\n"+",\n".join(tag2class_list)+"\n};\n"
 
@@ -55,7 +61,7 @@ tag2class_str = "const tag_class = {\n"+",\n".join(tag2class_list)+"\n};\n"
 print("    ----")
 print("    export docs/blg-class_tag")
 class2tag_dict = dict()
-class2tag_dict["#月份年份"] = month_list
+class2tag_dict.update({F"#{y}":m for y,m in reverse_dict.items()})
 for tag_name, entry_detail in keyword_doc.items():
     for category_name in entry_detail["category"]:
         category_list = class2tag_dict.get(str(category_name),list())

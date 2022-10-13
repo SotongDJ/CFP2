@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+["習近平的論文門？賴昌星 賄賂的時候跳過習近平？ ｜ 讀書會：王子習近平 （君王論/君主論）"]
+name = "習近平的論文門？賴昌星 賄賂的時候跳過習近平？ ｜ 讀書會：王子習近平 （君王論/君主論）"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11485842-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E8%AB%96%E6%96%87%E9%96%80-%E8%B3%B4%E6%98%8C%E6%98%9F-%E8%B3%84%E8%B3%82%E7%9A%84%E6%99%82%E5%80%99%E8%B7%B3%E9%81%8E%E7%BF%92%E8%BF%91%E5%B9%B3-%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%8E%8B%E5%AD%90%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%90%9B%E7%8E%8B%E8%AB%96-%E5%90%9B%E4%B8%BB%E8%AB%96/id1106847606?i=1000582535810"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ4NTg0Mg"
+spotify = "https://open.spotify.com/episode/0jLJrxYLW8VMs9M2zN90Y7"
+image = "0bf8bca6c89e851b912d2606384523bc63f3764acd821edd10e772d83764f4fe"
+tag = ["Oct 2022"]
+category = []
+
 ["The KK Show - #155 自由的爵士野獸 - Musa 明馬丁"]
 name = "The KK Show - #155 自由的爵士野獸 - Musa 明馬丁"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11476041-the-kk-show-155-musa.mp3"

@@ -1,4 +1,14 @@
 const playlist = {
+"time578":{
+"name": "百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E9%99%B3%E7%A7%8B%E5%AF%A6%E5%8A%A0%E6%B2%B9-%E5%8C%97%E4%BA%AC%E5%9B%9B%E9%80%9A%E6%A9%8B%E4%BA%8B%E4%BB%B6-%E6%95%98%E5%88%A9%E4%BA%9E%E9%9B%A3%E6%B0%91%E7%94%A8tiktok%E4%B9%9E%E8%A8%8E-%E6%8E%A8%E8%96%A6-hasan-minhaj/id1106847606?i=1000582792575",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTUwNDg0MA",
+"spotify": "https://open.spotify.com/episode/5ntS5QoqDmGbWexFkL1lc5",
+"youtube": "https://www.youtube.com/watch?v=rkXutiLhch8",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11504840-news-tiktok-hasan-minhaj-the-king-s-jester.mp3",
+"tag": ['Oct 2022', '百靈果 NEWS', '陳秋實', '時事', '記者']
+},
 "time577":{
 "name": "習近平的論文門？賴昌星 賄賂的時候跳過習近平？ ｜ 讀書會：王子習近平 （君王論/君主論）",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E8%AB%96%E6%96%87%E9%96%80-%E8%B3%B4%E6%98%8C%E6%98%9F-%E8%B3%84%E8%B3%82%E7%9A%84%E6%99%82%E5%80%99%E8%B7%B3%E9%81%8E%E7%BF%92%E8%BF%91%E5%B9%B3-%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%8E%8B%E5%AD%90%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%90%9B%E7%8E%8B%E8%AB%96-%E5%90%9B%E4%B8%BB%E8%AB%96/id1106847606?i=1000582535810",

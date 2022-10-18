@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["The KK Show - #156 吳念真"]
+name = "The KK Show - #156 吳念真"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-156-%E5%90%B3%E5%BF%B5%E7%9C%9F/id1106847606?i=1000583029278"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTUyMDUyOA"
+spotify = "https://open.spotify.com/episode/51yiBFfBZEfgGAZNWkCrPC"
+youtube = "https://www.youtube.com/watch?v=33Kve-4tPxY"
+image = "0efd48e46375f2f7cb6fc08fb27955783b712f216d5ab6b574b1b2286b15b9c0"
+tag = ["Oct 2022", "KK Show"]
+category = ["#節目系列"]
+
 ["百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester"]
 name = "百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11504840-news-tiktok-hasan-minhaj-the-king-s-jester.mp3"

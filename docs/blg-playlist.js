@@ -1,4 +1,14 @@
 const playlist = {
+"time579":{
+"name": "The KK Show - #156 吳念真",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-156-%E5%90%B3%E5%BF%B5%E7%9C%9F/id1106847606?i=1000583029278",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTUyMDUyOA",
+"spotify": "https://open.spotify.com/episode/51yiBFfBZEfgGAZNWkCrPC",
+"youtube": "https://www.youtube.com/watch?v=33Kve-4tPxY",
+"image": "0efd48e46375f2f7cb6fc08fb27955783b712f216d5ab6b574b1b2286b15b9c0",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3",
+"tag": ['Oct 2022', 'KK Show']
+},
 "time578":{
 "name": "百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E9%99%B3%E7%A7%8B%E5%AF%A6%E5%8A%A0%E6%B2%B9-%E5%8C%97%E4%BA%AC%E5%9B%9B%E9%80%9A%E6%A9%8B%E4%BA%8B%E4%BB%B6-%E6%95%98%E5%88%A9%E4%BA%9E%E9%9B%A3%E6%B0%91%E7%94%A8tiktok%E4%B9%9E%E8%A8%8E-%E6%8E%A8%E8%96%A6-hasan-minhaj/id1106847606?i=1000582792575",

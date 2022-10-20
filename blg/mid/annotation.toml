@@ -1,5 +1,13 @@
 # Add your own tag to each episode
 
+["讀書會｜去年有漢人恐怖份子去炸中國的政府大樓？ 中國的屍體工廠 ！｜ 王子習近平 （君王論/君主論）"]
+name = "讀書會｜去年有漢人恐怖份子去炸中國的政府大樓？ 中國的屍體工廠 ！｜ 王子習近平 （君王論/君主論）"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11534123-.mp3"
+spotify = "https://open.spotify.com/episode/1OYbFIDQAyyUazoQO3s5a1"
+image = "ea841f2d516818def46340197edbe387520931fe3d2bb7f8cdf38f959cb9f3d3"
+tag = ["Oct 2022", "讀書會", "王子習近平"]
+category = ["#節目系列", "讀書會"]
+
 ["The KK Show - #156 吳念真"]
 name = "The KK Show - #156 吳念真"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3"

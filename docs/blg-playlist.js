@@ -1,4 +1,14 @@
 const playlist = {
+"time580":{
+"name": "讀書會｜去年有漢人恐怖份子去炸中國的政府大樓？ 中國的屍體工廠 ！｜ 王子習近平 （君王論/君主論）",
+"apple": "",
+"google": "",
+"spotify": "https://open.spotify.com/episode/1OYbFIDQAyyUazoQO3s5a1",
+"youtube": "",
+"image": "ea841f2d516818def46340197edbe387520931fe3d2bb7f8cdf38f959cb9f3d3",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11534123-.mp3",
+"tag": ['Oct 2022', '讀書會', '王子習近平']
+},
 "time579":{
 "name": "The KK Show - #156 吳念真",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-156-%E5%90%B3%E5%BF%B5%E7%9C%9F/id1106847606?i=1000583029278",

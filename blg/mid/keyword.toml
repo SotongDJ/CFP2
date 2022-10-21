@@ -1,0 +1,978 @@
+["百靈果 NEWS"]
+inclusive = ["百靈果NEWS","百靈果News","鹿港繞境"]
+exclusive = ["特別來賓：敏迪選讀","Born a crime","讀書會","0704 Bonus"]
+re = "^[0-9]{4}"
+category = ["#節目系列"]
+
+["百靈果 Bonus"]
+inclusive = ["百靈果 Bonus","百靈果到處跑","百靈果Bonus","百靈果閒聊"]
+exclusive = []
+category = ["#節目系列"]
+
+["KK Show"]
+inclusive = ["KK Show","KK SHOW"]
+exclusive = []
+category = ["#節目系列"]
+
+["Live Podcast"]
+inclusive = ["Live Podcast","鹿港繞境","1101 台南佈道大會"]
+exclusive = []
+category = ["#節目系列"]
+
+["週二夜現場"]
+inclusive = ["週二夜現場"]
+exclusive = []
+category = ["#節目系列"]
+
+["THE STIR"]
+inclusive = ["THE STIR"]
+exclusive = []
+category = ["#節目系列"]
+
+["讀書會"]
+inclusive = ["讀書會","宮前町九十番地 04","以前的台積電就是霧峰林家","海上暈船吹風之旅"]
+exclusive = ["不是讀書會","沒有讀書會"]
+category = ["#節目系列"]
+
+["王子習近平"]
+inclusive = ["王子習近平"]
+exclusive = []
+category = ["讀書會"]
+
+["八尺門的辯護人"]
+inclusive = ["八尺門的辯護人"]
+exclusive = []
+category = ["讀書會"]
+
+["同情者"]
+inclusive = ["同情者"]
+exclusive = []
+category = ["讀書會"]
+
+["柏青哥"]
+inclusive = ["柏青哥"]
+exclusive = []
+category = ["讀書會"]
+
+["Fat Leonard"]
+inclusive = ["Fat Leonard"]
+exclusive = ["推薦Podcast"]
+category = ["讀書會"]
+
+["林獻堂環球遊記"]
+inclusive = ["環球遊記","林獻堂環球遊記"]
+exclusive = []
+category = ["讀書會"]
+
+["吃佛"]
+inclusive = ["吃佛","Eat The Buddha"]
+exclusive = ["推薦書"]
+category = ["讀書會"]
+
+["宮前町九十番"]
+inclusive = ["宮前町九十番"]
+exclusive = []
+category = ["讀書會"]
+
+["CIA洗腦計畫"]
+inclusive = ["讀書會：CIA洗腦計劃","讀書會：CIA的洗腦計劃","讀書會： CIA 洗腦計劃","讀書會：CIA洗腦計畫"]
+exclusive = []
+category = ["讀書會"]
+
+["蚵仔煎的身世"]
+inclusive = ["蚵仔煎的身世"]
+exclusive = []
+category = ["讀書會"]
+
+["傀儡花"]
+inclusive = ["讀書會：傀儡花"]
+exclusive = []
+category = ["讀書會"]
+
+["毒家企業"]
+inclusive = ["讀書會：毒家企業","讀書會： Narconomics"]
+exclusive = []
+category = ["讀書會"]
+
+["宋氏三姊妹"]
+inclusive = ["讀書會 宋氏三姐妹","讀書會：宋氏三姐妹","讀書會：宋氏三姐妹","讀書會：宋氏三姊妹"]
+exclusive = []
+category = ["讀書會"]
+
+["The Room Where It Happened by John Bolton"]
+inclusive = ["The Room Where It Happened by John Bolton"]
+exclusive = []
+category = ["讀書會"]
+
+["Rage by Bob Woodward"]
+inclusive = ["Rage by Bob Woodward"]
+exclusive = []
+category = ["讀書會"]
+
+["浪淘沙"]
+inclusive = ["讀書會：浪淘沙"]
+exclusive = []
+category = ["讀書會"]
+
+["戰裡的夏里特"]
+inclusive = ["Charité at War｜戰裡的夏里特"]
+exclusive = []
+category = ["讀書會"]
+
+["鴻：三代中國女人"]
+inclusive = ["鴻：三代中國女人"]
+exclusive = []
+category = ["讀書會"]
+
+["This American Life"]
+inclusive = ["This American Life - Ten Sessions"]
+exclusive = []
+category = ["讀書會"]
+
+["核爆家園"]
+inclusive = ["Chernobyl 核爆家園"]
+exclusive = []
+category = ["讀書會"]
+
+["陳澄波密碼"]
+inclusive = ["讀書會：陳澄波密碼"]
+exclusive = []
+category = ["讀書會"]
+
+["以母之名"]
+inclusive = ["Born a crime 以母之名"]
+exclusive = []
+category = ["讀書會"]
+
+# 暫代讀書會
+
+["隱藏版 KK Show"]
+inclusive = ["女演員的互相傷害","笑友會的無情工商","特別來賓：敏迪選讀","我不是泰國人","0704 Bonus"]
+exclusive = []
+category = ["#節目系列"]
+
+["暫代讀書會"]
+inclusive = ["不是讀書會","沒有讀書會","Pelosi 來台灣街訪心得","女演員的互相傷害","笑友會的無情工商","2021年台灣十大熱門國際新聞","迪化街Live Podcast！","John Oliver 觀後感","百靈果去新竹","與國際接軌前的閒聊","訂閲 QA","百靈果助念祈福法會","228 佈道大會 Live Podcast 特輯","特別來賓：敏迪選讀","我不是泰國人"]
+exclusive = []
+category = ["#節目系列"]
+
+["百靈果到處跑"]
+inclusive = ["老闆去新竹向員工道歉","John Oliver 觀後感"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["百靈果之友"]
+inclusive = ["百靈果之友"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["免費教你如何做 Podcast"]
+inclusive = ["免費教你如何做Podcast"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["八角籠"]
+inclusive = ["八角籠"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["Clubhouse 企劃"]
+inclusive = ["海外連線","『Clubhouse特別企劃』"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["日本遶境"]
+inclusive = ["0731 裴洛西"]
+exclusive = []
+category = ["#事件備註"]
+
+["裴洛西訪台事件"]
+inclusive = ["0731 裴洛西","What do TAIWANESE","Pelosi 來台灣","0807 國外旅遊"]
+exclusive = []
+category = ["#事件備註"]
+
+["國傳司事件"]
+inclusive = ["Bonus：國傳司"]
+exclusive = []
+category = ["#事件備註"]
+
+["紐時集資事件"]
+inclusive = ["你知道紐約時報其實很親中嗎？"]
+exclusive = []
+category = ["#事件備註"]
+
+["五月天事件"]
+inclusive = ["五月天"]
+exclusive = []
+category = ["#事件備註"]
+
+["樂樂法利"]
+inclusive = ["樂樂法利"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+["陳大天"]
+inclusive = ["陳大天"]
+exclusive = []
+category = ["喜劇演員","藝人"]
+
+["小歐"]
+inclusive = ["小歐"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+["老K"]
+inclusive = ["老K"]
+exclusive = []
+category = ["喜劇演員"]
+
+["妍霏"]
+inclusive = ["妍霏"]
+exclusive = []
+category = ["喜劇演員"]
+
+["學仁"]
+inclusive = ["學仁"]
+exclusive = []
+category = ["喜劇演員"]
+
+[Social]
+inclusive = ["Social"]
+exclusive = []
+category = ["喜劇演員","企業家"]
+
+["歐馬克"]
+inclusive = ["歐馬克"]
+exclusive = []
+category = ["Podcaster","喜劇演員","廣播人"]
+
+["微笑丹尼"]
+inclusive = ["微笑丹尼"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+["博恩"]
+inclusive = ["博恩"]
+exclusive = ["老K","賀瓏"]
+category = ["喜劇演員"]
+
+["大可愛"]
+inclusive = ["大可愛"]
+exclusive = []
+category = ["喜劇演員"]
+
+["權樂"]
+inclusive = ["權樂"]
+exclusive = []
+category = ["喜劇演員","演員","文藝"]
+
+["巴斯"]
+inclusive = ["巴斯"]
+exclusive = []
+category = ["喜劇演員","專業人士","工程師","魔術師"]
+
+["黃逸豪"]
+inclusive = ["黃逸豪"]
+exclusive = []
+category = ["喜劇演員"]
+
+["艾董"]
+inclusive = ["艾董"]
+exclusive = []
+category = ["喜劇演員"]
+
+["黃豪平"]
+inclusive = ["黃豪平"]
+exclusive = []
+category = ["喜劇演員","廣播人","藝人","Youtuber","魔術師"]
+
+["Tim Chen"]
+inclusive = ["Tim Chen"]
+exclusive = []
+category = ["喜劇演員"]
+
+["東區德"]
+inclusive = ["東區德"]
+exclusive = []
+category = ["喜劇演員"]
+
+["阿秋"]
+inclusive = ["阿秋"]
+exclusive = []
+category = ["喜劇演員"]
+
+["賀瓏"]
+inclusive = ["賀瓏"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+["么么"]
+inclusive = ["么么"]
+exclusive = []
+category = ["喜劇演員"]
+
+["怡岑"]
+inclusive = ["怡岑"]
+exclusive = []
+category = ["喜劇演員"]
+
+["酸酸"]
+inclusive = ["酸酸"]
+exclusive = []
+category = ["喜劇演員","Youtuber","Podcaster"]
+
+["涵冷娜"]
+inclusive = ["許乃涵","涵冷娜"]
+exclusive = []
+category = ["喜劇演員","演員","文藝"]
+
+["Esther Chen"]
+inclusive = ["Esther Chen"]
+exclusive = []
+category = ["喜劇演員","演員","文藝"]
+
+["呱吉"]
+inclusive = ["呱吉"]
+exclusive = ["0516"]
+category = ["喜劇演員","Youtuber","政治人物","企業家"]
+
+[Jim]
+inclusive = ["Jim"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+["龍龍"]
+inclusive = ["龍龍"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+# Youtuber/Podcaster/音樂/色色
+
+["范琪斐"]
+inclusive = ["范琪斐","敏迪炎上"]
+exclusive = []
+category = ["時事","Youtuber","Podcaster"]
+
+["敏迪 @敏迪選讀"]
+inclusive = ["敏迪選讀","敏迪、","敏迪炎上","0807 國外旅遊","1003 凱莉崩潰","關心一下隔離中的Mindy"]
+exclusive = []
+category = ["時事","Podcaster"]
+
+["志祺 @志祺七七"]
+inclusive = ["志祺","志祺七七"]
+exclusive = []
+category = ["Youtuber","Podcaster","企業家"]
+
+["好和弦 @NiceChord"]
+inclusive = ["好和弦"]
+exclusive = []
+category = ["Youtuber","Podcaster"]
+
+["阿滴"]
+inclusive = ["阿滴"]
+exclusive = []
+category = ["Youtuber","企業家"]
+
+[Joeman]
+inclusive = ["Joeman"]
+exclusive = []
+category = ["Youtuber","企業家"]
+
+["黃大謙"]
+inclusive = ["黃大謙"]
+exclusive = []
+category = ["Youtuber"]
+
+["China Mac"]
+inclusive = ["China Mac"]
+exclusive = []
+category = ["Youtuber"]
+
+["邱 grr"]
+inclusive = ["邱grr","邱Grrr"]
+exclusive = []
+category = ["Youtuber","企業家"]
+
+["泥泥學姐"]
+inclusive = ["泥泥學姐"]
+exclusive = []
+category = ["Youtuber"]
+
+["盧卡斯 @BBK Networ"]
+inclusive = ["盧卡斯","BBK Network"]
+exclusive = []
+category = ["Youtuber"]
+
+["歷史哥"]
+inclusive = ["歷史哥"]
+exclusive = []
+category = ["Youtuber"]
+
+["嗩吶"]
+inclusive = ["嗩吶"]
+exclusive = []
+category = ["時事","Youtuber"]
+
+["阿爆"]
+inclusive = ["阿爆"]
+exclusive = ["阿爆演唱會"]
+category = ["音樂","原住民","朋友"]
+
+["阿拉斯"]
+inclusive = ["阿拉斯"]
+exclusive = []
+category = ["Youtuber","音樂","原住民"]
+
+["巴大雄 @東南美娛樂"]
+inclusive = ["巴大雄"]
+exclusive = []
+category = ["Youtuber","音樂","原住民"]
+
+["社畜"]
+inclusive = ["社畜"]
+exclusive = []
+category = ["色色"]
+
+["娃娃"]
+inclusive = ["娃娃"]
+exclusive = []
+category = ["色色"]
+
+["石巴朝"]
+inclusive = ["石巴朝"]
+exclusive = []
+category = ["色色"]
+
+[Niki]
+inclusive = ["Niki"]
+exclusive = []
+category = ["色色"]
+
+["陳零九"]
+inclusive = ["陳零九"]
+exclusive = []
+category = ["音樂"]
+
+["Kimberley陳芳語"]
+inclusive = ["Kimberley","陳芳語"]
+exclusive = []
+category = ["音樂"]
+
+["王彩樺"]
+inclusive = ["王彩樺"]
+exclusive = []
+category = ["藝人","音樂"]
+
+["趙詠華"]
+inclusive = ["趙詠華"]
+exclusive = []
+category = ["藝人","音樂","Podcaster"]
+
+["林俊逸"]
+inclusive = ["林俊逸"]
+exclusive = []
+category = ["藝人","音樂","Podcaster"]
+
+["Musa 明馬丁"]
+inclusive = ["Musa 明馬丁"]
+exclusive = []
+category = ["音樂"]
+
+["桃子 A1J"]
+inclusive = ["桃子A1J"]
+exclusive = []
+category = ["音樂"]
+
+["珂拉琪 Collage"]
+inclusive = ["珂拉琪Collage"]
+exclusive = []
+category = ["音樂"]
+
+["Chapman 杜汶澤"]
+inclusive = ["Chapman","杜汶澤"]
+exclusive = []
+category = ["演員","企業家","文藝"]
+
+["黃秋生"]
+inclusive = ["黃秋生"]
+exclusive = []
+category = ["演員","文藝"]
+
+# 舞台劇/策展
+
+["台南人劇團"]
+inclusive = ["台南人劇團"]
+exclusive = []
+category = ["文藝","劇場"]
+
+["蕭東意"]
+inclusive = ["蕭東意"]
+exclusive = []
+category = ["文藝","演員","劇場","喜劇演員"]
+
+["布拉瑞揚 @布拉瑞揚舞團"]
+inclusive = ["布拉瑞揚"]
+exclusive = []
+category = ["文藝","舞蹈"]
+
+["孫翠鳳"]
+inclusive = ["孫翠鳳"]
+exclusive = []
+category = ["文藝"]
+
+["真蓉"]
+inclusive = ["真蓉"]
+exclusive = []
+category = ["文藝"]
+
+# 電影/電視劇/電視節目/廣播/Podcaster
+
+["劉珞亦 @法律白話文"]
+inclusive = ["法律白話文"]
+exclusive = []
+category = ["Podcaster","專業人士","律師"]
+
+["楊貴智 @法律白話文"]
+inclusive = ["法律白話文","找律師"]
+exclusive = []
+category = ["Podcaster","專業人士","律師"]
+
+["唐綺陽"]
+inclusive = ["唐綺陽"]
+exclusive = []
+category = ["Podcaster"]
+
+["簡少年"]
+inclusive = ["簡少年"]
+exclusive = []
+category = ["Podcaster"]
+
+["台灣通勤第一品牌"]
+inclusive = ["台灣通勤第一品牌"]
+exclusive = ["推薦Podcast"]
+category = ["Podcaster"]
+
+["股癌"]
+inclusive = ["股癌"]
+exclusive = ["推薦Podcast"]
+category = ["Podcaster"]
+
+["瑞典劉先生"]
+inclusive = ["瑞典劉先生"]
+exclusive = []
+category = ["時事","Podcaster"]
+
+[Firstory]
+inclusive = ["Firstory"]
+exclusive = []
+category = ["Podcaster"]
+
+["馬力歐"]
+inclusive = ["馬力歐"]
+exclusive = []
+category = ["Podcaster"]
+
+["周冠威"]
+inclusive = ["周冠威"]
+exclusive = []
+category = ["導演","文藝"]
+
+["阮鳳儀"]
+inclusive = ["阮鳳儀"]
+exclusive = []
+category = ["導演","文藝"]
+
+["吳念真"]
+inclusive = ["阮鳳儀"]
+exclusive = []
+category = ["導演","影視製作","演員","文藝"]
+
+# 製作人
+
+["汪怡昕"]
+inclusive = ["汪怡昕"]
+exclusive = []
+category = ["製作人","影視製作"]
+
+["龍哥"]
+inclusive = ["龍哥"]
+exclusive = []
+category = ["製作人","影視製作"]
+
+["Roger"]
+inclusive = ["Roger"]
+exclusive = []
+category = ["製作人","影視製作"]
+
+[Mego]
+inclusive = ["Mego"]
+exclusive = []
+category = ["影視製作"]
+
+[Nick]
+inclusive = ["Nick"]
+exclusive = []
+category = ["影視製作"]
+
+["李律"]
+inclusive = ["李律"]
+exclusive = []
+category = ["廣播人"]
+
+["邵大倫"]
+inclusive = ["邵大倫"]
+exclusive = []
+category = ["廣播人"]
+
+["小潘"]
+inclusive = ["小潘"]
+exclusive = []
+category = ["廣播人"]
+
+["寶拉"]
+inclusive = ["寶拉"]
+exclusive = []
+category = ["廣播人"]
+
+["吳淡如"]
+inclusive = ["吳淡如"]
+exclusive = []
+category = ["廣播人","媒體人","Podcaster"]
+
+["李四端"]
+inclusive = ["李四端"]
+exclusive = ["跟李四端道歉"]
+category = ["媒體人"]
+
+["陳柏惟"]
+inclusive = ["陳柏惟"]
+exclusive = []
+category = ["政治人物"]
+
+["林昶佐"]
+inclusive = ["林昶佐"]
+exclusive = []
+category = ["政治人物","音樂"]
+
+["吳怡農"]
+inclusive = ["吳怡農"]
+exclusive = []
+category = ["政治人物"]
+
+["李有宜"]
+inclusive = ["李有宜"]
+exclusive = []
+category = ["政治人物"]
+
+["蔣萬安"]
+inclusive = ["蔣萬安"]
+exclusive = []
+category = ["政治人物"]
+
+["范雲"]
+inclusive = ["范雲"]
+exclusive = []
+category = ["政治人物"]
+
+["于北辰"]
+inclusive = ["于北辰"]
+exclusive = []
+category = ["政治人物"]
+
+["林智堅"]
+inclusive = ["林智堅"]
+exclusive = []
+category = ["政治人物"]
+
+["郭書成"]
+inclusive = ["郭書成"]
+exclusive = []
+category = ["政治人物"]
+
+# 時事
+
+["陳秋實"]
+inclusive = ["陳秋實"]
+exclusive = []
+category = ["時事","記者"]
+
+["Jason 劉致昕 @報導者"]
+inclusive = ["Jason","致昕"]
+exclusive = []
+category = ["時事","記者"]
+
+["Byun 秉昀"]
+inclusive = ["Byun","秉昀"]
+exclusive = []
+category = ["時事","記者"]
+
+["Samson Ellis"]
+inclusive = ["Samson Ellis"]
+exclusive = []
+category = ["時事","記者"]
+
+["Michael Smith"]
+inclusive = ["Michael Smith"]
+exclusive = []
+category = ["時事","記者"]
+
+["吳品瑜"]
+inclusive = ["吳品瑜"]
+exclusive = []
+category = ["時事"]
+
+["印度尤"]
+inclusive = ["印度尤"]
+exclusive = []
+category = ["時事","記者"]
+
+["Naomi O’Leary"]
+inclusive = ["Naomi O’Leary"]
+exclusive = []
+category = ["時事","記者"]
+
+[Kevin]
+inclusive = ["Kevin"]
+exclusive = ["百靈果NEWS"]
+category = ["時事"]
+
+[Mario]
+inclusive = ["Mario"]
+exclusive = []
+category = ["時事"]
+
+# 學者
+
+["黃京葦醫師"]
+inclusive = ["黃京葦醫師"]
+exclusive = []
+category = ["醫學","學者","時事","原住民"]
+
+["烏烏醫生"]
+inclusive = ["烏烏醫生"]
+exclusive = []
+category = ["醫學","學者","時事"]
+
+["許翱麟教授"]
+inclusive = ["許翱麟"]
+exclusive = []
+category = ["學者"]
+
+["人渣文本"]
+inclusive = ["人渣文本"]
+exclusive = []
+category = ["學者","運動"]
+
+["陳耀昌醫師"]
+inclusive = ["陳耀昌"]
+exclusive = []
+category = ["醫學","學者","作者"]
+
+[Chiels]
+inclusive = ["Chiels","劉董"]
+exclusive = []
+category = ["醫學","學者","時事"]
+
+["李淳"]
+inclusive = ["李淳"]
+exclusive = []
+category = ["學者","時事"]
+
+["Dr. Leanne Wu"]
+inclusive = ["Leanne Wu"]
+exclusive = []
+category = ["時事","醫學","學者"]
+
+["Dr. Justin Yang"]
+inclusive = ["Justin Yang"]
+exclusive = []
+category = ["時事","醫學","學者"]
+
+["葉耀元教授"]
+inclusive = ["葉耀元"]
+exclusive = []
+category = ["時事","學者"]
+
+["陳小雀教授"]
+inclusive = ["陳小雀"]
+exclusive = []
+category = ["時事","學者"]
+
+["張賢龢博士"]
+inclusive = ["張賢龢"]
+exclusive = []
+category = ["時事","學者"]
+
+["葉丙成教授"]
+inclusive = ["葉丙成"]
+exclusive = []
+category = ["學者","企業家"]
+
+["單信瑜教授"]
+inclusive = ["單信瑜"]
+exclusive = []
+category = ["時事","學者"]
+
+["高智雄醫檢師"]
+inclusive = ["高智雄"]
+exclusive = []
+category = ["時事","醫學","學者"]
+
+# 運動
+
+["莉婷"]
+inclusive = ["莉婷"]
+exclusive = []
+category = ["記者","運動"]
+
+["陳念琴"]
+inclusive = ["陳念琴"]
+exclusive = []
+category = ["運動","原住民"]
+
+["妍言"]
+inclusive = ["妍言"]
+exclusive = []
+category = ["運動"]
+
+["Hito 大聯盟"]
+inclusive = ["Hito大聯盟"]
+exclusive = []
+category = ["運動"]
+
+[Jack]
+inclusive = ["Jack"]
+exclusive = []
+category = ["運動"]
+
+[Xin]
+inclusive = ["Xin"]
+exclusive = []
+category = ["聽眾"]
+
+[JC]
+inclusive = ["JC"]
+exclusive = []
+category = ["聽眾"]
+
+[Vasilisa]
+inclusive = ["Vasilisa"]
+exclusive = []
+category = ["聽眾"]
+
+[Angeli]
+inclusive = ["Angeli"]
+exclusive = []
+category = ["聽眾"]
+
+[Angel]
+inclusive = ["Angel"]
+exclusive = ["Angeli"]
+category = ["聽眾"]
+
+[Feyza]
+inclusive = ["Feyza"]
+exclusive = []
+category = ["聽眾"]
+
+# 其他
+
+[Howard]
+inclusive = ["Howard"]
+exclusive = []
+category = ["朋友","Podcaster","專業人士","口譯員"]
+
+[Ivan]
+inclusive = ["Ivan"]
+exclusive = []
+category = ["朋友"]
+
+["Shao Yong"]
+inclusive = ["Shao Yong"]
+exclusive = []
+category = ["朋友"]
+
+["趙哥"]
+inclusive = ["趙哥"]
+exclusive = []
+category = ["朋友"]
+
+["陳沂"]
+inclusive = ["陳沂"]
+exclusive = []
+category = ["朋友","藝人"]
+
+["楊杰凱"]
+inclusive = ["楊杰凱"]
+exclusive = []
+category = ["專業人士","專利師"]
+
+["黑嘉嘉"]
+inclusive = ["黑嘉嘉"]
+exclusive = []
+category = ["專業人士"]
+
+["曹興誠"]
+inclusive = ["曹興誠"]
+exclusive = []
+category = ["企業家"]
+
+[Jay]
+inclusive = ["Jay"]
+exclusive = []
+category = ["企業家"]
+
+["顧立楷"]
+inclusive = ["顧立楷"]
+exclusive = []
+category = ["企業家"]
+
+["林榮基"]
+inclusive = ["林榮基"]
+exclusive = []
+category = ["企業家"]
+
+[Neil]
+inclusive = ["Neil"]
+exclusive = []
+category = ["編輯"]
+
+["美國台灣觀測站"]
+inclusive = ["美國台灣觀測站"]
+exclusive = []
+category = ["時事"]
+
+[IORG]
+inclusive = ["IORG"]
+exclusive = []
+category = ["時事","事實查核"]
+
+["沈伯洋（助理）教授"]
+inclusive = ["沈伯洋"]
+exclusive = []
+category = ["時事","事實查核","學者"]
+
+["張五岳"]
+inclusive = ["張五岳"]
+exclusive = []
+category = ["時事"]
+
+["Luke Martin"]
+inclusive = ["Luke Martin"]
+exclusive = []
+category = ["時事"]
+
+["東冬侯溫"]
+inclusive = ["東冬侯溫"]
+exclusive = []
+category = ["原住民"]
+
+["Pom 咩"]
+inclusive = ["Pom咩"]
+exclusive = []
+category = ["朋友"]
+
+[Wolf]
+inclusive = ["Wolf"]
+exclusive = []
+category = ["來賓"]

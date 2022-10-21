@@ -1270,7 +1270,7 @@ spotify = "https://open.spotify.com/episode/4pNQ4FSVloFo5bm4TNhrbo"
 youtube = "https://www.youtube.com/watch?v=Bi4oWH8v3qs&t=684s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Feb 2022", "KK Show", "周冠威"]
-category = ["#節目系列", "導演"]
+category = ["#節目系列", "導演", "文藝"]
 
 ["0213 首映會218活動資訊、史上金額最高竊犯被捕、馬克宏擔心DNA被偷、監獄錢包在哪裏？"]
 name = "0213 首映會218活動資訊、史上金額最高竊犯被捕、馬克宏擔心DNA被偷、監獄錢包在哪裏？"
@@ -1467,8 +1467,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/4XT50UIkMbVjfBOCSsTXpx"
 youtube = "https://www.youtube.com/watch?v=WDpWUpvyaiI"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Jan 2022", "KK Show", "阮鳳儀"]
-category = ["#節目系列", "導演"]
+tag = ["Jan 2022", "KK Show", "阮鳳儀", "吳念真"]
+category = ["#節目系列", "導演", "文藝", "導演", "影視製作", "演員", "文藝"]
 
 ["【百靈果】直接槓上五月天！自家小編打工竟然被翻手機？！"]
 name = "【百靈果】直接槓上五月天！自家小編打工竟然被翻手機？！"
@@ -1798,7 +1798,7 @@ spotify = "https://open.spotify.com/episode/78msAlIHPEZDXTmw4DtF95"
 youtube = "https://www.youtube.com/watch?v=0P4sNCDUmhY"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Oct 2021", "KK Show", "汪怡昕"]
-category = ["#節目系列", "製作人"]
+category = ["#節目系列", "製作人", "影視製作"]
 
 ["1024 NBA球星聲援西藏、台灣的朋友要民主化我們要支持嗎？、推薦劇：House of Secrets"]
 name = "1024 NBA球星聲援西藏、台灣的朋友要民主化我們要支持嗎？、推薦劇：House of Secrets"
@@ -1930,7 +1930,7 @@ spotify = "https://open.spotify.com/episode/2FFLcCtMa4omYyzrppoGER"
 youtube = "https://www.youtube.com/watch?v=soPLUYHdXMA&t=2022s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Sep 2021", "KK Show", "龍哥"]
-category = ["#節目系列", "製作人"]
+category = ["#節目系列", "製作人", "影視製作"]
 
 ["0926 海地的苦難從法國殖民開始、中國戰狼要澳洲付出代價、讀書心得：Peril by Bob Woodward"]
 name = "0926 海地的苦難從法國殖民開始、中國戰狼要澳洲付出代價、讀書心得：Peril by Bob Woodward"
@@ -3800,7 +3800,7 @@ spotify = "https://open.spotify.com/episode/3DhmVSHSy3IcwynVgfXiaG"
 youtube = "https://www.youtube.com/watch?v=Or0XR8M8x5M"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Aug 2020", "KK Show", "印度尤"]
-category = ["#節目系列", "時事"]
+category = ["#節目系列", "時事", "記者"]
 
 ["0823 美國民主黨造勢大會基本上就是一群老人在罵另一個老人、當過小三的副總統你Ok嗎？、廣播金鐘獎揭獎感想"]
 name = "0823 美國民主黨造勢大會基本上就是一群老人在罵另一個老人、當過小三的副總統你Ok嗎？、廣播金鐘獎揭獎感想"
@@ -4233,7 +4233,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/1QZDVzLISkV1GedgLo2apm"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["May 2020", "KK Show", "Roger"]
-category = ["#節目系列", "製作人"]
+category = ["#節目系列", "製作人", "影視製作"]
 
 ["0524 香港國安法歐盟建議民主討論、Podcast發大財、推薦電影 末代皇帝、維吾爾族人的困境"]
 name = "0524 香港國安法歐盟建議民主討論、Podcast發大財、推薦電影 末代皇帝、維吾爾族人的困境"

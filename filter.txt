@@ -997,18 +997,6 @@ Start annotation
     百靈果NEWS 2019-01-06 3. 與小潘閒聊
   Excluded: (0)
     
-[陳秋實]
-  found in: (2)
-    百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester
-    The KK Show - #125 公民記者 陳秋實
-  Excluded: (0)
-    
-[Jason 劉致昕 @報導者]
-  found in: (2)
-    The KK Show - #43 - 報導者來了 - Jason
-    百靈果之友: 004 報導者 致昕
-  Excluded: (0)
-    
 [陳柏惟]
   found in: (2)
     The KK Show - #55 好想上班的立委 - 陳柏惟
@@ -1019,6 +1007,18 @@ Start annotation
   found in: (2)
     The KK Show - #92 被排擠的國民黨將軍 - 于北辰將軍
     The KK Show - #48 國民黨的邊緣人 - 于北辰將軍
+  Excluded: (0)
+    
+[陳秋實]
+  found in: (2)
+    百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester
+    The KK Show - #125 公民記者 陳秋實
+  Excluded: (0)
+    
+[Jason 劉致昕 @報導者]
+  found in: (2)
+    The KK Show - #43 - 報導者來了 - Jason
+    百靈果之友: 004 報導者 致昕
   Excluded: (0)
     
 [李淳]

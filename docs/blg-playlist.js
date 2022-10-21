@@ -17,7 +17,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=33Kve-4tPxY",
 "image": "0efd48e46375f2f7cb6fc08fb27955783b712f216d5ab6b574b1b2286b15b9c0",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3",
-"tag": ['Oct 2022', 'KK Show']
+"tag": ['Oct 2022', 'KK Show', '吳念真', '導演', '影視製作', '文藝', '演員']
 },
 "time578":{
 "name": "百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester",
@@ -1337,7 +1337,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=WDpWUpvyaiI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530668-the-kk-show-114.mp3",
-"tag": ['Jan 2022', 'KK Show', '阮鳳儀', '吳念真', '導演', '影視製作', '文藝', '演員']
+"tag": ['Jan 2022', 'KK Show', '阮鳳儀', '導演', '文藝']
 },
 "time446":{
 "name": "【百靈果】直接槓上五月天！自家小編打工竟然被翻手機？！",

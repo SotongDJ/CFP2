@@ -7,7 +7,7 @@ print("----\nStart annotation")
 structure_doc = tomlkit.load(open("blg/mid/structure.toml"))
 keyword_dict = dict()
 keyword_list = list()
-for keyword_path in sorted(list(Path("blg").glob('keyword-*.toml')))
+for keyword_path in sorted(list(Path("blg").glob('keyword-*.toml'))):
     keyword_doc = tomlkit.load(open(keyword_path))
     unique_list = [n for n in keyword_doc.keys() if n not in keyword_list]
     duplicate_list = [n for n in keyword_doc.keys() if n in keyword_list]

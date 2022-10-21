@@ -7,7 +7,7 @@ print("----\nStart export")
 print("    ----")
 print("    load data")
 title_dict = tomlkit.load(open("blg/mid/annotation.toml"))
-keyword_doc = tomlkit.load(open("blg/keyword.toml"))
+keyword_doc = tomlkit.load(open("blg/mid/keyword.toml"))
 month_doc = tomlkit.load(open("blg/record/feedPodcast-month.toml"))
 month_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
 reverse_month_dict = dict()

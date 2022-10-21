@@ -56,6 +56,8 @@ for entry_name in keyword_list:
         episode_tag_list.extend(entry_detail["category"])  # type: ignore
         episode_table["category"] = episode_tag_list  # type: ignore
         structure_doc[episode_str] = episode_table
+with open("blg/mid/keyword.toml",'w') as target_handler:
+    tomlkit.dump(keyword_dict,target_handler)
 with open("blg/mid/annotation.toml",'w') as target_handler:
     tomlkit.dump(structure_doc,target_handler)
 print("    ----\nEnd annotation")

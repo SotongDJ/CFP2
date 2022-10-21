@@ -1,0 +1,133 @@
+# 聽眾
+
+[Xin]
+inclusive = ["Xin"]
+exclusive = []
+category = ["聽眾"]
+
+[JC]
+inclusive = ["JC"]
+exclusive = []
+category = ["聽眾"]
+
+[Vasilisa]
+inclusive = ["Vasilisa"]
+exclusive = []
+category = ["聽眾"]
+
+[Angeli]
+inclusive = ["Angeli"]
+exclusive = []
+category = ["聽眾"]
+
+[Angel]
+inclusive = ["Angel"]
+exclusive = ["Angeli"]
+category = ["聽眾"]
+
+[Feyza]
+inclusive = ["Feyza"]
+exclusive = []
+category = ["聽眾"]
+
+# 其他
+
+[Howard]
+inclusive = ["Howard"]
+exclusive = []
+category = ["朋友","Podcaster","專業人士","口譯員"]
+
+[Ivan]
+inclusive = ["Ivan"]
+exclusive = []
+category = ["朋友"]
+
+["Shao Yong"]
+inclusive = ["Shao Yong"]
+exclusive = []
+category = ["朋友"]
+
+["趙哥"]
+inclusive = ["趙哥"]
+exclusive = []
+category = ["朋友"]
+
+["陳沂"]
+inclusive = ["陳沂"]
+exclusive = []
+category = ["朋友","藝人"]
+
+["楊杰凱"]
+inclusive = ["楊杰凱"]
+exclusive = []
+category = ["專業人士","專利師"]
+
+["黑嘉嘉"]
+inclusive = ["黑嘉嘉"]
+exclusive = []
+category = ["專業人士"]
+
+["曹興誠"]
+inclusive = ["曹興誠"]
+exclusive = []
+category = ["企業家"]
+
+[Jay]
+inclusive = ["Jay"]
+exclusive = []
+category = ["企業家"]
+
+["顧立楷"]
+inclusive = ["顧立楷"]
+exclusive = []
+category = ["企業家"]
+
+["林榮基"]
+inclusive = ["林榮基"]
+exclusive = []
+category = ["企業家"]
+
+[Neil]
+inclusive = ["Neil"]
+exclusive = []
+category = ["編輯"]
+
+["美國台灣觀測站"]
+inclusive = ["美國台灣觀測站"]
+exclusive = []
+category = ["時事"]
+
+[IORG]
+inclusive = ["IORG"]
+exclusive = []
+category = ["時事","事實查核"]
+
+["沈伯洋（助理）教授"]
+inclusive = ["沈伯洋"]
+exclusive = []
+category = ["時事","事實查核","學者"]
+
+["張五岳"]
+inclusive = ["張五岳"]
+exclusive = []
+category = ["時事"]
+
+["Luke Martin"]
+inclusive = ["Luke Martin"]
+exclusive = []
+category = ["時事"]
+
+["東冬侯溫"]
+inclusive = ["東冬侯溫"]
+exclusive = []
+category = ["原住民"]
+
+["Pom 咩"]
+inclusive = ["Pom咩"]
+exclusive = []
+category = ["朋友"]
+
+[Wolf]
+inclusive = ["Wolf"]
+exclusive = []
+category = ["來賓"]

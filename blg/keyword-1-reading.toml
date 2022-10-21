@@ -1,0 +1,148 @@
+# 讀書會
+
+["王子習近平"]
+inclusive = ["王子習近平"]
+exclusive = []
+category = ["讀書會"]
+
+["八尺門的辯護人"]
+inclusive = ["八尺門的辯護人"]
+exclusive = []
+category = ["讀書會"]
+
+["同情者"]
+inclusive = ["同情者"]
+exclusive = []
+category = ["讀書會"]
+
+["柏青哥"]
+inclusive = ["柏青哥"]
+exclusive = []
+category = ["讀書會"]
+
+["Fat Leonard"]
+inclusive = ["Fat Leonard"]
+exclusive = ["推薦Podcast"]
+category = ["讀書會"]
+
+["林獻堂環球遊記"]
+inclusive = ["環球遊記","林獻堂環球遊記"]
+exclusive = []
+category = ["讀書會"]
+
+["吃佛"]
+inclusive = ["吃佛","Eat The Buddha"]
+exclusive = ["推薦書"]
+category = ["讀書會"]
+
+["宮前町九十番"]
+inclusive = ["宮前町九十番"]
+exclusive = []
+category = ["讀書會"]
+
+["CIA洗腦計畫"]
+inclusive = ["讀書會：CIA洗腦計劃","讀書會：CIA的洗腦計劃","讀書會： CIA 洗腦計劃","讀書會：CIA洗腦計畫"]
+exclusive = []
+category = ["讀書會"]
+
+["蚵仔煎的身世"]
+inclusive = ["蚵仔煎的身世"]
+exclusive = []
+category = ["讀書會"]
+
+["傀儡花"]
+inclusive = ["讀書會：傀儡花"]
+exclusive = []
+category = ["讀書會"]
+
+["毒家企業"]
+inclusive = ["讀書會：毒家企業","讀書會： Narconomics"]
+exclusive = []
+category = ["讀書會"]
+
+["宋氏三姊妹"]
+inclusive = ["讀書會 宋氏三姐妹","讀書會：宋氏三姐妹","讀書會：宋氏三姐妹","讀書會：宋氏三姊妹"]
+exclusive = []
+category = ["讀書會"]
+
+["The Room Where It Happened by John Bolton"]
+inclusive = ["The Room Where It Happened by John Bolton"]
+exclusive = []
+category = ["讀書會"]
+
+["Rage by Bob Woodward"]
+inclusive = ["Rage by Bob Woodward"]
+exclusive = []
+category = ["讀書會"]
+
+["浪淘沙"]
+inclusive = ["讀書會：浪淘沙"]
+exclusive = []
+category = ["讀書會"]
+
+["戰裡的夏里特"]
+inclusive = ["Charité at War｜戰裡的夏里特"]
+exclusive = []
+category = ["讀書會"]
+
+["鴻：三代中國女人"]
+inclusive = ["鴻：三代中國女人"]
+exclusive = []
+category = ["讀書會"]
+
+["This American Life"]
+inclusive = ["This American Life - Ten Sessions"]
+exclusive = []
+category = ["讀書會"]
+
+["核爆家園"]
+inclusive = ["Chernobyl 核爆家園"]
+exclusive = []
+category = ["讀書會"]
+
+["陳澄波密碼"]
+inclusive = ["讀書會：陳澄波密碼"]
+exclusive = []
+category = ["讀書會"]
+
+["以母之名"]
+inclusive = ["Born a crime 以母之名"]
+exclusive = []
+category = ["讀書會"]
+
+# 暫代讀書會
+
+["隱藏版 KK Show"]
+inclusive = ["女演員的互相傷害","笑友會的無情工商","特別來賓：敏迪選讀","我不是泰國人","0704 Bonus"]
+exclusive = []
+category = ["#節目系列"]
+
+["暫代讀書會"]
+inclusive = ["不是讀書會","沒有讀書會","Pelosi 來台灣街訪心得","女演員的互相傷害","笑友會的無情工商","2021年台灣十大熱門國際新聞","迪化街Live Podcast！","John Oliver 觀後感","百靈果去新竹","與國際接軌前的閒聊","訂閲 QA","百靈果助念祈福法會","228 佈道大會 Live Podcast 特輯","特別來賓：敏迪選讀","我不是泰國人"]
+exclusive = []
+category = ["#節目系列"]
+
+["百靈果到處跑"]
+inclusive = ["老闆去新竹向員工道歉","John Oliver 觀後感"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["百靈果之友"]
+inclusive = ["百靈果之友"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["免費教你如何做 Podcast"]
+inclusive = ["免費教你如何做Podcast"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["八角籠"]
+inclusive = ["八角籠"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["Clubhouse 企劃"]
+inclusive = ["海外連線","『Clubhouse特別企劃』"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]

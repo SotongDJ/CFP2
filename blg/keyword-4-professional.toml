@@ -1,0 +1,202 @@
+# 政治人物
+
+["陳柏惟"]
+inclusive = ["陳柏惟"]
+exclusive = []
+category = ["政治人物"]
+
+["林昶佐"]
+inclusive = ["林昶佐"]
+exclusive = []
+category = ["政治人物","音樂"]
+
+["吳怡農"]
+inclusive = ["吳怡農"]
+exclusive = []
+category = ["政治人物"]
+
+["李有宜"]
+inclusive = ["李有宜"]
+exclusive = []
+category = ["政治人物"]
+
+["蔣萬安"]
+inclusive = ["蔣萬安"]
+exclusive = []
+category = ["政治人物"]
+
+["范雲"]
+inclusive = ["范雲"]
+exclusive = []
+category = ["政治人物"]
+
+["于北辰"]
+inclusive = ["于北辰"]
+exclusive = []
+category = ["政治人物"]
+
+["林智堅"]
+inclusive = ["林智堅"]
+exclusive = []
+category = ["政治人物"]
+
+["郭書成"]
+inclusive = ["郭書成"]
+exclusive = []
+category = ["政治人物"]
+
+# 時事
+
+["陳秋實"]
+inclusive = ["陳秋實"]
+exclusive = []
+category = ["時事","記者"]
+
+["Jason 劉致昕 @報導者"]
+inclusive = ["Jason","致昕"]
+exclusive = []
+category = ["時事","記者"]
+
+["Byun 秉昀"]
+inclusive = ["Byun","秉昀"]
+exclusive = []
+category = ["時事","記者"]
+
+["Samson Ellis"]
+inclusive = ["Samson Ellis"]
+exclusive = []
+category = ["時事","記者"]
+
+["Michael Smith"]
+inclusive = ["Michael Smith"]
+exclusive = []
+category = ["時事","記者"]
+
+["吳品瑜"]
+inclusive = ["吳品瑜"]
+exclusive = []
+category = ["時事"]
+
+["印度尤"]
+inclusive = ["印度尤"]
+exclusive = []
+category = ["時事","記者"]
+
+["Naomi O’Leary"]
+inclusive = ["Naomi O’Leary"]
+exclusive = []
+category = ["時事","記者"]
+
+[Kevin]
+inclusive = ["Kevin"]
+exclusive = ["百靈果NEWS"]
+category = ["時事"]
+
+[Mario]
+inclusive = ["Mario"]
+exclusive = []
+category = ["時事"]
+
+# 學者
+
+["黃京葦醫師"]
+inclusive = ["黃京葦醫師"]
+exclusive = []
+category = ["醫學","學者","時事","原住民"]
+
+["烏烏醫生"]
+inclusive = ["烏烏醫生"]
+exclusive = []
+category = ["醫學","學者","時事"]
+
+["許翱麟教授"]
+inclusive = ["許翱麟"]
+exclusive = []
+category = ["學者"]
+
+["人渣文本"]
+inclusive = ["人渣文本"]
+exclusive = []
+category = ["學者","運動"]
+
+["陳耀昌醫師"]
+inclusive = ["陳耀昌"]
+exclusive = []
+category = ["醫學","學者","作者"]
+
+[Chiels]
+inclusive = ["Chiels","劉董"]
+exclusive = []
+category = ["醫學","學者","時事"]
+
+["李淳"]
+inclusive = ["李淳"]
+exclusive = []
+category = ["學者","時事"]
+
+["Dr. Leanne Wu"]
+inclusive = ["Leanne Wu"]
+exclusive = []
+category = ["時事","醫學","學者"]
+
+["Dr. Justin Yang"]
+inclusive = ["Justin Yang"]
+exclusive = []
+category = ["時事","醫學","學者"]
+
+["葉耀元教授"]
+inclusive = ["葉耀元"]
+exclusive = []
+category = ["時事","學者"]
+
+["陳小雀教授"]
+inclusive = ["陳小雀"]
+exclusive = []
+category = ["時事","學者"]
+
+["張賢龢博士"]
+inclusive = ["張賢龢"]
+exclusive = []
+category = ["時事","學者"]
+
+["葉丙成教授"]
+inclusive = ["葉丙成"]
+exclusive = []
+category = ["學者","企業家"]
+
+["單信瑜教授"]
+inclusive = ["單信瑜"]
+exclusive = []
+category = ["時事","學者"]
+
+["高智雄醫檢師"]
+inclusive = ["高智雄"]
+exclusive = []
+category = ["時事","醫學","學者"]
+
+# 運動
+
+["莉婷"]
+inclusive = ["莉婷"]
+exclusive = []
+category = ["記者","運動"]
+
+["陳念琴"]
+inclusive = ["陳念琴"]
+exclusive = []
+category = ["運動","原住民"]
+
+["妍言"]
+inclusive = ["妍言"]
+exclusive = []
+category = ["運動"]
+
+["Hito 大聯盟"]
+inclusive = ["Hito大聯盟"]
+exclusive = []
+category = ["運動"]
+
+[Jack]
+inclusive = ["Jack"]
+exclusive = []
+category = ["運動"]

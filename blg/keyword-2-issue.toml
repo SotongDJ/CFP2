@@ -1,0 +1,26 @@
+# 事件備註
+
+["日本遶境"]
+inclusive = ["0731 裴洛西"]
+exclusive = []
+category = ["#事件備註"]
+
+["裴洛西訪台事件"]
+inclusive = ["0731 裴洛西","What do TAIWANESE","Pelosi 來台灣","0807 國外旅遊"]
+exclusive = []
+category = ["#事件備註"]
+
+["國傳司事件"]
+inclusive = ["Bonus：國傳司"]
+exclusive = []
+category = ["#事件備註"]
+
+["紐時集資事件"]
+inclusive = ["你知道紐約時報其實很親中嗎？"]
+exclusive = []
+category = ["#事件備註"]
+
+["五月天事件"]
+inclusive = ["五月天"]
+exclusive = []
+category = ["#事件備註"]

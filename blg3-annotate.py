@@ -1,7 +1,20 @@
-import tomlkit, re
+import tomlkit
+import re
+from pathlib import Path
+
+
 print("----\nStart annotation")
 structure_doc = tomlkit.load(open("blg/mid/structure.toml"))
-keyword_doc = tomlkit.load(open("blg/keyword.toml"))
+keyword_dict = dict()
+keyword_list = list()
+for keyword_path in sorted(list(Path("blg").glob('keyword-*.toml')))
+    keyword_doc = tomlkit.load(open(keyword_path))
+    unique_list = [n for n in keyword_doc.keys() if n not in keyword_list]
+    duplicate_list = [n for n in keyword_doc.keys() if n in keyword_list]
+    if len(duplicate_list) > 0:
+        print("ERROR: duplicate list ~ {}".format(duplicate_list))
+    keyword_list.extend(unique_list)
+    keyword_dict.update(keyword_doc)
 def check(input_str,exclude,do_re=str()):
     include_list = list()
     exclude_list = list()
@@ -21,7 +34,8 @@ def check(input_str,exclude,do_re=str()):
             else:
                 include_list.append(key_str)
     return include_list, exclude_list
-for entry_name, entry_detail in keyword_doc.items():
+for entry_name in keyword_list:
+    entry_detail = keyword_dict[entry_name]
     inclusive_collect_list = list()
     exclusive_collect_list = list()
     for inclusive_str in entry_detail['inclusive']:

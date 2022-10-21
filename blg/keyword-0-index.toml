@@ -1,0 +1,35 @@
+["百靈果 NEWS"]
+inclusive = ["百靈果NEWS","百靈果News","鹿港繞境"]
+exclusive = ["特別來賓：敏迪選讀","Born a crime","讀書會","0704 Bonus"]
+re = "^[0-9]{4}"
+category = ["#節目系列"]
+
+["百靈果 Bonus"]
+inclusive = ["百靈果 Bonus","百靈果到處跑","百靈果Bonus","百靈果閒聊"]
+exclusive = []
+category = ["#節目系列"]
+
+["KK Show"]
+inclusive = ["KK Show","KK SHOW"]
+exclusive = []
+category = ["#節目系列"]
+
+["Live Podcast"]
+inclusive = ["Live Podcast","鹿港繞境","1101 台南佈道大會"]
+exclusive = []
+category = ["#節目系列"]
+
+["週二夜現場"]
+inclusive = ["週二夜現場"]
+exclusive = []
+category = ["#節目系列"]
+
+["THE STIR"]
+inclusive = ["THE STIR"]
+exclusive = []
+category = ["#節目系列"]
+
+["讀書會"]
+inclusive = ["讀書會","宮前町九十番地 04","以前的台積電就是霧峰林家","海上暈船吹風之旅"]
+exclusive = ["不是讀書會","沒有讀書會"]
+category = ["#節目系列"]

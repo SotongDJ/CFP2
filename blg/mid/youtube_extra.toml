@@ -1,5 +1,11 @@
 # Need to clear for act4
 
+["跟網友聊聊這次的20大"]
+name = "跟網友聊聊這次的20大"
+youtube = "https://www.youtube.com/watch?v=EsvSBVpDetk"
+tag = []
+category = []
+
 ["#clips 上任45天即宣布下台 終身每年領逾400萬 | 百靈果News"]
 name = "#clips 上任45天即宣布下台 終身每年領逾400萬 | 百靈果News"
 youtube = "https://www.youtube.com/watch?v=MHNO_8Z5Uak"

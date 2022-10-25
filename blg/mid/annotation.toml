@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+["中共20大常委誰是誰懶人包 ft. 士杰，IEObserve"]
+name = "中共20大常委誰是誰懶人包 ft. 士杰，IEObserve"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11562113-20-ft-ieobserve.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%85%B120%E5%A4%A7%E5%B8%B8%E5%A7%94%E8%AA%B0%E6%98%AF%E8%AA%B0%E6%87%B6%E4%BA%BA%E5%8C%85-ft-%E5%A3%AB%E6%9D%B0-ieobserve/id1106847606?i=1000583758309"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU2MjExMw"
+spotify = "https://open.spotify.com/episode/7m92A3cicBn1ADw0boPp4W"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Oct 2022"]
+category = []
+
 ["百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版"]
 name = "百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11549654-news.mp3"

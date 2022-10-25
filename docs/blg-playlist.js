@@ -1,4 +1,14 @@
 const playlist = {
+"time582":{
+"name": "中共20大常委誰是誰懶人包 ft. 士杰，IEObserve",
+"apple": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%85%B120%E5%A4%A7%E5%B8%B8%E5%A7%94%E8%AA%B0%E6%98%AF%E8%AA%B0%E6%87%B6%E4%BA%BA%E5%8C%85-ft-%E5%A3%AB%E6%9D%B0-ieobserve/id1106847606?i=1000583758309",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU2MjExMw",
+"spotify": "https://open.spotify.com/episode/7m92A3cicBn1ADw0boPp4W",
+"youtube": "",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11562113-20-ft-ieobserve.mp3",
+"tag": ['Oct 2022']
+},
 "time581":{
 "name": "百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%87%B1%E8%8E%89%E8%AE%8A%E6%88%90%E6%84%9B%E5%A4%A9%E4%BD%BF-%E8%8B%B1%E5%9C%8B%E6%9C%80%E7%9F%AD%E5%91%BD%E9%A6%96%E7%9B%B8-%E5%BE%B7%E5%9C%8B%E8%A6%81%E8%B6%95%E8%B5%B0%E7%83%8F%E5%85%8B%E8%98%AD%E7%B4%8D%E7%B2%B9-%E7%BE%8E%E5%9C%8B%E7%82%BA%E4%BA%86%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E5%8F%96%E6%B6%88%E8%90%AC%E8%81%96%E7%AF%80%E9%81%8A%E8%A1%8C/id1106847606?i=1000583585867",

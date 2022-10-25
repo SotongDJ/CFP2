@@ -1,4 +1,14 @@
 const playlist = {
+"time583":{
+"name": "The KK Show - #157 館長",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-157-%E9%A4%A8%E9%95%B7/id1106847606?i=1000583828261",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU2NDE4NA",
+"spotify": "https://open.spotify.com/episode/7h4bi97Xzgi7TcnhWZDQcx",
+"youtube": "https://www.youtube.com/watch?v=Sq0sBtQU-vY",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11564184-the-kk-show-157.mp3",
+"tag": ['Oct 2022', 'KK Show']
+},
 "time582":{
 "name": "中共20大常委誰是誰懶人包 ft. 士杰，IEObserve",
 "apple": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%85%B120%E5%A4%A7%E5%B8%B8%E5%A7%94%E8%AA%B0%E6%98%AF%E8%AA%B0%E6%87%B6%E4%BA%BA%E5%8C%85-ft-%E5%A3%AB%E6%9D%B0-ieobserve/id1106847606?i=1000583758309",

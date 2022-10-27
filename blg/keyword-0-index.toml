@@ -5,7 +5,7 @@ re = "^[0-9]{4}"
 category = ["#節目系列"]
 
 ["百靈果 Bonus"]
-inclusive = ["百靈果 Bonus","百靈果到處跑","百靈果Bonus","百靈果閒聊"]
+inclusive = ["百靈果 Bonus","百靈果到處跑","百靈果Bonus","百靈果閒聊","懶人包"]
 exclusive = []
 category = ["#節目系列"]
 

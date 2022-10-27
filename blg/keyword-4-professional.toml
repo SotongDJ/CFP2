@@ -200,3 +200,8 @@ category = ["運動"]
 inclusive = ["Jack"]
 exclusive = []
 category = ["運動"]
+
+["館長"]
+inclusive = ["館長"]
+exclusive = []
+category = ["時事","專業人士","健身教練","運動","企業家"]

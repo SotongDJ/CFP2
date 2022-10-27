@@ -45,7 +45,7 @@ category = ["朋友"]
 ["Shao Yong"]
 inclusive = ["Shao Yong"]
 exclusive = []
-category = ["朋友"]
+category = ["朋友","專業人士","健身教練","運動"]
 
 ["趙哥"]
 inclusive = ["趙哥"]

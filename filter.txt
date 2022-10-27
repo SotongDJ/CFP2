@@ -418,6 +418,12 @@ Start annotation
     1101 台南佈道大會、紐時批評大紀元、LGBT逆襲驕傲男孩、三本柱 QA
   Excluded: (0)
     
+[週二夜現場]
+  found in: (2)
+    【週二夜現場】館長現場QA
+    【週二夜現場】曹興誠現場QA
+  Excluded: (0)
+    
 [THE STIR]
   found in: (10)
     Q&A with RON, the LAST Episode? ... THE STIR EP 10
@@ -1035,6 +1041,12 @@ Start annotation
     『新春特別企劃』百靈果之友 - 葉耀元教授
     The KK Show - #91 葉耀元教授又來啦
     The KK Show - #70 Clubhouse 認識的朋友 - 葉耀元教授
+  Excluded: (0)
+    
+[館長]
+  found in: (2)
+    【週二夜現場】館長現場QA
+    The KK Show - #157 館長
   Excluded: (0)
     
 [Angel]

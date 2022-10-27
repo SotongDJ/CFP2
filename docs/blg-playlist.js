@@ -1,4 +1,14 @@
 const playlist = {
+"time584":{
+"name": "【週二夜現場】館長現場QA",
+"apple": "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F%BE%E5%A0%B4-%E9%A4%A8%E9%95%B7%E7%8F%BE%E5%A0%B4qa/id1106847606?i=1000584100695",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU3NzM5Nw",
+"spotify": "https://open.spotify.com/episode/26OsH9BWnRwpr60vm7JcHN",
+"youtube": "",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
+"tag": ['Oct 2022', '週二夜現場', '館長', '企業家', '健身教練', '專業人士', '時事', '運動']
+},
 "time583":{
 "name": "The KK Show - #157 館長",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-157-%E9%A4%A8%E9%95%B7/id1106847606?i=1000583828261",

@@ -8,8 +8,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/7h4bi97Xzgi7TcnhWZDQcx"
 youtube = "https://www.youtube.com/watch?v=Sq0sBtQU-vY"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Oct 2022", "KK Show"]
-category = ["#節目系列"]
+tag = ["Oct 2022", "KK Show", "館長"]
+category = ["#節目系列", "時事", "專業人士", "健身教練", "運動", "企業家"]
 
 ["中共20大常委誰是誰懶人包 ft. 士杰，IEObserve"]
 name = "中共20大常委誰是誰懶人包 ft. 士杰，IEObserve"
@@ -18,8 +18,8 @@ apple = "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%85%B120%E5%A4%A7%E5%
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU2MjExMw"
 spotify = "https://open.spotify.com/episode/7m92A3cicBn1ADw0boPp4W"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Oct 2022"]
-category = []
+tag = ["Oct 2022", "百靈果 Bonus"]
+category = ["#節目系列"]
 
 ["百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版"]
 name = "百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版"
@@ -4913,7 +4913,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/4G654y51mDc2fZdTWNSqKL"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Dec 2019", "KK Show", "Shao Yong"]
-category = ["#節目系列", "朋友"]
+category = ["#節目系列", "朋友", "專業人士", "健身教練", "運動"]
 
 ["1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War"]
 name = "1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War"

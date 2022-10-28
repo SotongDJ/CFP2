@@ -1,0 +1,53 @@
+# Special
+
+["百靈果到處跑"]
+inclusive = ["老闆去新竹向員工道歉","John Oliver 觀後感"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["百靈果之友"]
+inclusive = ["百靈果之友"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["免費教你如何做 Podcast"]
+inclusive = ["免費教你如何做Podcast"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["八角籠"]
+inclusive = ["八角籠"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["Clubhouse 企劃"]
+inclusive = ["海外連線","『Clubhouse特別企劃』"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+# 事件備註
+
+["日本遶境"]
+inclusive = ["0731 裴洛西"]
+exclusive = []
+category = ["#事件備註"]
+
+["裴洛西訪台事件"]
+inclusive = ["0731 裴洛西","What do TAIWANESE","Pelosi 來台灣","0807 國外旅遊"]
+exclusive = []
+category = ["#事件備註"]
+
+["國傳司事件"]
+inclusive = ["Bonus：國傳司"]
+exclusive = []
+category = ["#事件備註"]
+
+["紐時集資事件"]
+inclusive = ["你知道紐約時報其實很親中嗎？"]
+exclusive = []
+category = ["#事件備註"]
+
+["五月天事件"]
+inclusive = ["五月天"]
+exclusive = []
+category = ["#事件備註"]

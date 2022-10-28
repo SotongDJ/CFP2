@@ -102,6 +102,16 @@ inclusive = ["IORG"]
 exclusive = []
 category = ["時事","事實查核"]
 
+["雕大 @IEObserve"]
+inclusive = ["IEObserve"]
+exclusive = []
+category = ["時事"]
+
+["士杰"]
+inclusive = ["士杰"]
+exclusive = []
+category = ["時事"]
+
 ["沈伯洋（助理）教授"]
 inclusive = ["沈伯洋"]
 exclusive = []

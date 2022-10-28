@@ -19,11 +19,6 @@ inclusive = ["Live Podcast","鹿港繞境","1101 台南佈道大會"]
 exclusive = []
 category = ["#節目系列"]
 
-["週二夜現場"]
-inclusive = ["週二夜現場"]
-exclusive = []
-category = ["#節目系列"]
-
 ["THE STIR"]
 inclusive = ["THE STIR"]
 exclusive = []

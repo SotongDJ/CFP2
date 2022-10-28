@@ -1,0 +1,9 @@
+["隱藏版 KK Show"]
+inclusive = ["女演員的互相傷害","笑友會的無情工商","特別來賓：敏迪選讀","我不是泰國人","0704 Bonus"]
+exclusive = []
+category = ["#節目系列"]
+
+["週二夜現場"]
+inclusive = ["週二夜現場"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]

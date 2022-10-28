@@ -19,11 +19,6 @@ inclusive = ["Live Podcast","鹿港繞境","1101 台南佈道大會"]
 exclusive = []
 category = ["#節目系列"]
 
-["週二夜現場"]
-inclusive = ["週二夜現場"]
-exclusive = []
-category = ["#節目系列"]
-
 ["THE STIR"]
 inclusive = ["THE STIR"]
 exclusive = []
@@ -146,11 +141,6 @@ category = ["讀書會"]
 
 # 暫代讀書會
 
-["隱藏版 KK Show"]
-inclusive = ["女演員的互相傷害","笑友會的無情工商","特別來賓：敏迪選讀","我不是泰國人","0704 Bonus"]
-exclusive = []
-category = ["#節目系列"]
-
 ["暫代讀書會"]
 inclusive = ["不是讀書會","沒有讀書會","Pelosi 來台灣街訪心得","女演員的互相傷害","笑友會的無情工商","2021年台灣十大熱門國際新聞","迪化街Live Podcast！","John Oliver 觀後感","百靈果去新竹","與國際接軌前的閒聊","訂閲 QA","百靈果助念祈福法會","228 佈道大會 Live Podcast 特輯","特別來賓：敏迪選讀","我不是泰國人"]
 exclusive = []
@@ -181,6 +171,8 @@ inclusive = ["海外連線","『Clubhouse特別企劃』"]
 exclusive = []
 category = ["#節目系列","暫代讀書會"]
 
+# 事件備註
+
 ["日本遶境"]
 inclusive = ["0731 裴洛西"]
 exclusive = []
@@ -205,6 +197,16 @@ category = ["#事件備註"]
 inclusive = ["五月天"]
 exclusive = []
 category = ["#事件備註"]
+
+["隱藏版 KK Show"]
+inclusive = ["女演員的互相傷害","笑友會的無情工商","特別來賓：敏迪選讀","我不是泰國人","0704 Bonus"]
+exclusive = []
+category = ["#節目系列"]
+
+["週二夜現場"]
+inclusive = ["週二夜現場"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
 
 ["樂樂法利"]
 inclusive = ["樂樂法利"]
@@ -408,7 +410,7 @@ inclusive = ["歷史哥"]
 exclusive = []
 category = ["Youtuber"]
 
-["嗩吶"]
+["嗩吶 @好機車"]
 inclusive = ["嗩吶"]
 exclusive = []
 category = ["時事","Youtuber"]
@@ -951,6 +953,16 @@ category = ["時事"]
 inclusive = ["IORG"]
 exclusive = []
 category = ["時事","事實查核"]
+
+["雕大 @IEObserve"]
+inclusive = ["IEObserve"]
+exclusive = []
+category = ["時事"]
+
+["士杰"]
+inclusive = ["士杰"]
+exclusive = []
+category = ["時事"]
 
 ["沈伯洋（助理）教授"]
 inclusive = ["沈伯洋"]

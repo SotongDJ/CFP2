@@ -8,7 +8,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/26OsH9BWnRwpr60vm7JcHN"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Oct 2022", "週二夜現場", "館長"]
-category = ["#節目系列", "時事", "專業人士", "健身教練", "運動", "企業家"]
+category = ["#節目系列", "暫代讀書會", "時事", "專業人士", "健身教練", "運動", "企業家"]
 
 ["The KK Show - #157 館長"]
 name = "The KK Show - #157 館長"
@@ -28,8 +28,8 @@ apple = "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%85%B120%E5%A4%A7%E5%
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU2MjExMw"
 spotify = "https://open.spotify.com/episode/7m92A3cicBn1ADw0boPp4W"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Oct 2022", "百靈果 Bonus"]
-category = ["#節目系列"]
+tag = ["Oct 2022", "百靈果 Bonus", "雕大 @IEObserve", "士杰"]
+category = ["#節目系列", "時事", "時事"]
 
 ["百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版"]
 name = "百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版"
@@ -124,7 +124,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/7ks8XCTzdH6N0f94VNv0pn"
 youtube = "https://www.youtube.com/watch?v=-kBQY6Wvz90"
 image = "11c39e0dc6e6cdfaebfeb1835f835be75a92eb0ea929288f9d7c31686c8791bb"
-tag = ["Oct 2022", "KK Show", "嗩吶"]
+tag = ["Oct 2022", "KK Show", "嗩吶 @好機車"]
 category = ["#節目系列", "時事", "Youtuber"]
 
 ["百靈果News｜日本錄KKShow！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程"]
@@ -244,7 +244,7 @@ spotify = "https://open.spotify.com/episode/5osASVJXEAj3ewPYwjhf3d"
 youtube = "https://www.youtube.com/watch?v=1HjOdxk0410"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Sep 2022", "週二夜現場", "曹興誠"]
-category = ["#節目系列", "企業家"]
+category = ["#節目系列", "暫代讀書會", "企業家"]
 
 ["The KK Show - #150 拿出30億反共的男人 - 曹興誠"]
 name = "The KK Show - #150 拿出30億反共的男人 - 曹興誠"
@@ -276,7 +276,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/1s0uzKscI2naMAdOy1yIEz"
 youtube = "https://www.youtube.com/watch?v=sb5xt8LKbm4"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Sep 2022", "隱藏版 KK Show", "暫代讀書會", "巴大雄 @東南美娛樂"]
+tag = ["Sep 2022", "暫代讀書會", "隱藏版 KK Show", "巴大雄 @東南美娛樂"]
 category = ["#節目系列", "#節目系列", "Youtuber", "音樂", "原住民"]
 
 ["The KK Show - #149 離島醫生 - 黃京葦醫師"]
@@ -672,7 +672,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/65FAVoxwTCrjF2EU7dfxA7"
 youtube = "https://www.youtube.com/watch?v=AG1CuTPxQSA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Jun 2022", "隱藏版 KK Show", "暫代讀書會", "酸酸", "涵冷娜"]
+tag = ["Jun 2022", "暫代讀書會", "隱藏版 KK Show", "酸酸", "涵冷娜"]
 category = ["#節目系列", "#節目系列", "喜劇演員", "Youtuber", "Podcaster", "喜劇演員", "演員", "文藝"]
 
 ["Why DO TAIWANESE people love TRAVELLING? ... THE STIR EP. 7"]
@@ -760,7 +760,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/0XXAOtKav2LCjsShCc6ZcN"
 youtube = "https://www.youtube.com/watch?v=jwNvaWNRrWs&t=1168s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["May 2022", "隱藏版 KK Show", "暫代讀書會", "微笑丹尼", "黃豪平"]
+tag = ["May 2022", "暫代讀書會", "隱藏版 KK Show", "微笑丹尼", "黃豪平"]
 category = ["#節目系列", "#節目系列", "喜劇演員", "Youtuber", "喜劇演員", "廣播人", "藝人", "Youtuber", "魔術師"]
 
 ["We TALKED about the Filipino PRESIDENTIAL election and RON CRIED... THE STIR EP. 5"]
@@ -5358,7 +5358,7 @@ apple = "https://podcasts.apple.com/tw/podcast/0822-%E7%89%B9%E5%88%A5%E4%BE%86%
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNjY5NDIwNjQ3"
 spotify = "https://open.spotify.com/episode/09iO59pl0St1tSeY77BpD0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Aug 2019", "隱藏版 KK Show", "暫代讀書會", "敏迪 @敏迪選讀"]
+tag = ["Aug 2019", "暫代讀書會", "隱藏版 KK Show", "敏迪 @敏迪選讀"]
 category = ["#節目系列", "#節目系列", "時事", "Podcaster"]
 
 ["0818 Facebook付錢找人來聽你的語音訊息、不要再吃什麼阿膠了，那是驢子你知道嗎？、推薦Podcast：敏迪"]

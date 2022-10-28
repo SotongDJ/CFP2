@@ -418,12 +418,6 @@ Start annotation
     1101 台南佈道大會、紐時批評大紀元、LGBT逆襲驕傲男孩、三本柱 QA
   Excluded: (0)
     
-[週二夜現場]
-  found in: (2)
-    【週二夜現場】館長現場QA
-    【週二夜現場】曹興誠現場QA
-  Excluded: (0)
-    
 [THE STIR]
   found in: (10)
     Q&A with RON, the LAST Episode? ... THE STIR EP 10
@@ -781,15 +775,6 @@ Start annotation
     百靈果讀書會 - Born a crime 以母之名 第七章
   Excluded: (0)
     
-[隱藏版 KK Show]
-  found in: (5)
-    女演員的互相傷害 觀眾在旁吃瓜 feat 酸酸 and 許乃涵 涵冷娜
-    喜劇演員開喜劇俱樂部是悲劇的開始嗎？ 笑友會的無情工商 ft. 黃豪平, 微笑丹尼
-    0822 特別來賓：敏迪選讀的敏迪其實很活潑？！
-    我不是泰國人 - 巴大雄
-    0704 Bonus：只有凱莉跟馬力歐喝一杯
-  Excluded: (0)
-    
 [暫代讀書會]
   found in: (14)
     0828 閒聊：不是讀書會的自我檢討會
@@ -861,6 +846,21 @@ Start annotation
   found in: (2)
     【百靈果】找律師 vs #五月天？打工仔如何捍衛自身權益
     【百靈果】直接槓上五月天！自家小編打工竟然被翻手機？！
+  Excluded: (0)
+    
+[隱藏版 KK Show]
+  found in: (5)
+    女演員的互相傷害 觀眾在旁吃瓜 feat 酸酸 and 許乃涵 涵冷娜
+    喜劇演員開喜劇俱樂部是悲劇的開始嗎？ 笑友會的無情工商 ft. 黃豪平, 微笑丹尼
+    0822 特別來賓：敏迪選讀的敏迪其實很活潑？！
+    我不是泰國人 - 巴大雄
+    0704 Bonus：只有凱莉跟馬力歐喝一杯
+  Excluded: (0)
+    
+[週二夜現場]
+  found in: (2)
+    【週二夜現場】館長現場QA
+    【週二夜現場】曹興誠現場QA
   Excluded: (0)
     
 [歐馬克]

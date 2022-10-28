@@ -7,7 +7,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
-"tag": ['Oct 2022', '週二夜現場', '館長', '企業家', '健身教練', '專業人士', '時事', '運動']
+"tag": ['Oct 2022', '週二夜現場', '館長', '企業家', '健身教練', '專業人士', '時事', '暫代讀書會', '運動']
 },
 "time583":{
 "name": "The KK Show - #157 館長",
@@ -27,7 +27,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11562113-20-ft-ieobserve.mp3",
-"tag": ['Oct 2022', '百靈果 Bonus']
+"tag": ['Oct 2022', '百靈果 Bonus', '雕大 @IEObserve', '士杰', '時事']
 },
 "time581":{
 "name": "百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版",
@@ -117,7 +117,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-kBQY6Wvz90",
 "image": "11c39e0dc6e6cdfaebfeb1835f835be75a92eb0ea929288f9d7c31686c8791bb",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3",
-"tag": ['Oct 2022', 'KK Show', '嗩吶', 'Youtuber', '時事']
+"tag": ['Oct 2022', 'KK Show', '嗩吶 @好機車', 'Youtuber', '時事']
 },
 "time572":{
 "name": "百靈果News｜日本錄KKShow！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程",
@@ -227,7 +227,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=1HjOdxk0410",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11276846-qa.mp3",
-"tag": ['Sep 2022', '週二夜現場', '曹興誠', '企業家']
+"tag": ['Sep 2022', '週二夜現場', '曹興誠', '企業家', '暫代讀書會']
 },
 "time561":{
 "name": "The KK Show - #150 拿出30億反共的男人 - 曹興誠",
@@ -257,7 +257,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=sb5xt8LKbm4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11242357-.mp3",
-"tag": ['Sep 2022', '隱藏版 KK Show', '暫代讀書會', '巴大雄 @東南美娛樂', 'Youtuber', '原住民', '音樂']
+"tag": ['Sep 2022', '暫代讀書會', '隱藏版 KK Show', '巴大雄 @東南美娛樂', 'Youtuber', '原住民', '音樂']
 },
 "time558":{
 "name": "The KK Show - #149 離島醫生 - 黃京葦醫師",
@@ -617,7 +617,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AG1CuTPxQSA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10763534-feat-and.mp3",
-"tag": ['Jun 2022', '隱藏版 KK Show', '暫代讀書會', '酸酸', '涵冷娜', 'Podcaster', 'Youtuber', '喜劇演員', '文藝', '演員']
+"tag": ['Jun 2022', '暫代讀書會', '隱藏版 KK Show', '酸酸', '涵冷娜', 'Podcaster', 'Youtuber', '喜劇演員', '文藝', '演員']
 },
 "time522":{
 "name": "Why DO TAIWANESE people love TRAVELLING? ... THE STIR EP. 7",
@@ -697,7 +697,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=jwNvaWNRrWs&t=1168s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10684190-ft.mp3",
-"tag": ['May 2022', '隱藏版 KK Show', '暫代讀書會', '微笑丹尼', '黃豪平', 'Youtuber', '喜劇演員', '廣播人', '藝人', '魔術師']
+"tag": ['May 2022', '暫代讀書會', '隱藏版 KK Show', '微笑丹尼', '黃豪平', 'Youtuber', '喜劇演員', '廣播人', '藝人', '魔術師']
 },
 "time514":{
 "name": "We TALKED about the Filipino PRESIDENTIAL election and RON CRIED... THE STIR EP. 5",
@@ -4937,7 +4937,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531024-0822.mp3",
-"tag": ['Aug 2019', '隱藏版 KK Show', '暫代讀書會', '敏迪 @敏迪選讀', 'Podcaster', '時事']
+"tag": ['Aug 2019', '暫代讀書會', '隱藏版 KK Show', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time90":{
 "name": "0818 Facebook付錢找人來聽你的語音訊息、不要再吃什麼阿膠了，那是驢子你知道嗎？、推薦Podcast：敏迪",
@@ -5845,7 +5845,6 @@ const tag_class = {
 "百靈果 Bonus": ['#節目系列'],
 "KK Show": ['#節目系列'],
 "Live Podcast": ['#節目系列'],
-"週二夜現場": ['#節目系列'],
 "THE STIR": ['#節目系列'],
 "讀書會": ['#節目系列'],
 "王子習近平": ['讀書會'],
@@ -5870,7 +5869,6 @@ const tag_class = {
 "核爆家園": ['讀書會'],
 "陳澄波密碼": ['讀書會'],
 "以母之名": ['讀書會'],
-"隱藏版 KK Show": ['#節目系列'],
 "暫代讀書會": ['#節目系列'],
 "百靈果到處跑": ['#節目系列', '暫代讀書會'],
 "百靈果之友": ['#節目系列', '暫代讀書會'],
@@ -5882,6 +5880,8 @@ const tag_class = {
 "國傳司事件": ['#事件備註'],
 "紐時集資事件": ['#事件備註'],
 "五月天事件": ['#事件備註'],
+"隱藏版 KK Show": ['#節目系列'],
+"週二夜現場": ['#節目系列', '暫代讀書會'],
 "樂樂法利": ['喜劇演員', 'Youtuber'],
 "陳大天": ['喜劇演員', '藝人'],
 "小歐": ['喜劇演員', 'Youtuber'],
@@ -5922,7 +5922,7 @@ const tag_class = {
 "泥泥學姐": ['Youtuber'],
 "盧卡斯 @BBK Networ": ['Youtuber'],
 "歷史哥": ['Youtuber'],
-"嗩吶": ['時事', 'Youtuber'],
+"嗩吶 @好機車": ['時事', 'Youtuber'],
 "阿爆": ['音樂', '原住民', '朋友'],
 "阿拉斯": ['Youtuber', '音樂', '原住民'],
 "巴大雄 @東南美娛樂": ['Youtuber', '音樂', '原住民'],
@@ -6028,6 +6028,8 @@ const tag_class = {
 "Neil": ['編輯'],
 "美國台灣觀測站": ['時事'],
 "IORG": ['時事', '事實查核'],
+"雕大 @IEObserve": ['時事'],
+"士杰": ['時事'],
 "沈伯洋（助理）教授": ['時事', '事實查核', '學者'],
 "張五岳": ['時事'],
 "Luke Martin": ['時事'],
@@ -6086,12 +6088,12 @@ const class_tag = {
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
 "#2019": ['Jan 2019', 'Feb 2019', 'Mar 2019', 'Apr 2019', 'May 2019', 'Jun 2019', 'Jul 2019', 'Aug 2019', 'Sep 2019', 'Oct 2019', 'Nov 2019', 'Dec 2019'],
-"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', '週二夜現場', 'THE STIR', '讀書會', '隱藏版 KK Show', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃'],
+"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
-"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃'],
+"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '週二夜現場'],
 "#事件備註": ['日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
 "喜劇演員": ['樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
-"Youtuber": ['樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '嗩吶', '阿拉斯', '巴大雄 @東南美娛樂'],
+"Youtuber": ['樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '嗩吶 @好機車', '阿拉斯', '巴大雄 @東南美娛樂'],
 "藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '陳沂'],
 "企業家": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', '曹興誠', 'Jay', '顧立楷', '林榮基'],
 "Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '吳淡如', 'Howard'],
@@ -6102,7 +6104,7 @@ const class_tag = {
 "工程師": ['巴斯'],
 "魔術師": ['巴斯', '黃豪平'],
 "政治人物": ['呱吉', '陳柏惟', '林昶佐', '吳怡農', '李有宜', '蔣萬安', '范雲', '于北辰', '林智堅', '郭書成'],
-"時事": ['范琪斐', '敏迪 @敏迪選讀', '嗩吶', '瑞典劉先生', '陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', '吳品瑜', '印度尤', 'Naomi O’Leary', 'Kevin', 'Mario', '黃京葦醫師', '烏烏醫生', 'Chiels', '李淳', 'Dr. Leanne Wu', 'Dr. Justin Yang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '單信瑜教授', '高智雄醫檢師', '館長', '美國台灣觀測站', 'IORG', '沈伯洋（助理）教授', '張五岳', 'Luke Martin'],
+"時事": ['范琪斐', '敏迪 @敏迪選讀', '嗩吶 @好機車', '瑞典劉先生', '陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', '吳品瑜', '印度尤', 'Naomi O’Leary', 'Kevin', 'Mario', '黃京葦醫師', '烏烏醫生', 'Chiels', '李淳', 'Dr. Leanne Wu', 'Dr. Justin Yang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '單信瑜教授', '高智雄醫檢師', '館長', '美國台灣觀測站', 'IORG', '雕大 @IEObserve', '士杰', '沈伯洋（助理）教授', '張五岳', 'Luke Martin'],
 "音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', 'Musa 明馬丁', '桃子 A1J', '珂拉琪 Collage', '林昶佐'],
 "原住民": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '黃京葦醫師', '陳念琴', '東冬侯溫'],
 "朋友": ['阿爆', 'Howard', 'Ivan', 'Shao Yong', '趙哥', '陳沂', 'Pom 咩'],

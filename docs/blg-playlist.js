@@ -1,4 +1,14 @@
 const playlist = {
+"time585":{
+"name": "百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%87%B1%E8%8E%89%E8%B5%B0%E9%87%91%E9%90%98-%E8%8B%B1%E5%9C%8B%E6%96%B0%E9%A6%96%E7%9B%B8%E5%B1%85%E7%84%B6%E9%80%99%E9%BA%BC%E6%9C%89%E9%8C%A2-%E5%8D%A1%E9%81%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A0%B9%E6%9C%AC%E6%98%AF%E7%8F%BE%E4%BB%A3%E9%87%91%E5%AD%97%E5%A1%94-%E6%8E%A8%E8%96%A6-ic%E5%AF%A6%E9%A9%97%E5%AE%A4/id1106847606?i=1000584391049",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTU5Mzg3MQ",
+"spotify": "https://open.spotify.com/episode/3MzW7FoM77FbTMRecKna02",
+"youtube": "https://www.youtube.com/watch?v=0rKYaCmRsHQ",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11593871-news-ic.mp3",
+"tag": ['Oct 2022', '百靈果 NEWS']
+},
 "time584":{
 "name": "【週二夜現場】館長現場QA",
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F%BE%E5%A0%B4-%E9%A4%A8%E9%95%B7%E7%8F%BE%E5%A0%B4qa/id1106847606?i=1000584100695",

@@ -1,4 +1,14 @@
 const playlist = {
+"time586":{
+"name": "The KK Show - #158 與鯨魚游泳的男人-剛哥",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-158-%E8%88%87%E9%AF%A8%E9%AD%9A%E6%B8%B8%E6%B3%B3%E7%9A%84%E7%94%B7%E4%BA%BA-%E5%89%9B%E5%93%A5/id1106847606?i=1000584648491",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYwNTc5Mw",
+"spotify": "https://open.spotify.com/episode/48Ga4RZHGAqWuQVg94bsAe",
+"youtube": "",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11605793-the-kk-show-158.mp3",
+"tag": ['Nov 2022', 'KK Show']
+},
 "time585":{
 "name": "百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%87%B1%E8%8E%89%E8%B5%B0%E9%87%91%E9%90%98-%E8%8B%B1%E5%9C%8B%E6%96%B0%E9%A6%96%E7%9B%B8%E5%B1%85%E7%84%B6%E9%80%99%E9%BA%BC%E6%9C%89%E9%8C%A2-%E5%8D%A1%E9%81%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A0%B9%E6%9C%AC%E6%98%AF%E7%8F%BE%E4%BB%A3%E9%87%91%E5%AD%97%E5%A1%94-%E6%8E%A8%E8%96%A6-ic%E5%AF%A6%E9%A9%97%E5%AE%A4/id1106847606?i=1000584391049",
@@ -6046,6 +6056,7 @@ const tag_class = {
 "東冬侯溫": ['原住民'],
 "Pom 咩": ['朋友'],
 "Wolf": ['來賓'],
+"Nov 2022": ['#2022'],
 "Oct 2022": ['#2022'],
 "Sep 2022": ['#2022'],
 "Aug 2022": ['#2022'],
@@ -6094,7 +6105,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022'],
+"#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
 "#2019": ['Jan 2019', 'Feb 2019', 'Mar 2019', 'Apr 2019', 'May 2019', 'Jun 2019', 'Jul 2019', 'Aug 2019', 'Sep 2019', 'Oct 2019', 'Nov 2019', 'Dec 2019'],

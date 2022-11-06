@@ -1,4 +1,14 @@
 const playlist = {
+"time587":{
+"name": "The KK Show - #159 聊聊選舉 - 人渣文本",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-159-%E8%81%8A%E8%81%8A%E9%81%B8%E8%88%89-%E4%BA%BA%E6%B8%A3%E6%96%87%E6%9C%AC/id1106847606?i=1000585223383",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYzNzIxNw",
+"spotify": "https://open.spotify.com/episode/0ylEInn0WZv7yCGs9yycyF",
+"youtube": "https://www.youtube.com/watch?v=b4FX4gSNVqQ",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3",
+"tag": ['Nov 2022', 'KK Show', '人渣文本', '學者', '運動']
+},
 "time586":{
 "name": "The KK Show - #158 與鯨魚游泳的男人-剛哥",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-158-%E8%88%87%E9%AF%A8%E9%AD%9A%E6%B8%B8%E6%B3%B3%E7%9A%84%E7%94%B7%E4%BA%BA-%E5%89%9B%E5%93%A5/id1106847606?i=1000584648491",

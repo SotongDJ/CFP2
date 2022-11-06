@@ -247,7 +247,8 @@ Start annotation
   Excluded: (0)
     
 [KK Show]
-  found in: (162)
+  found in: (163)
+    The KK Show - #159 聊聊選舉 - 人渣文本
     The KK Show - #158 與鯨魚游泳的男人-剛哥
     The KK Show - #157 館長
     The KK Show - #156 吳念真
@@ -1030,6 +1031,12 @@ Start annotation
   found in: (2)
     The KK Show - #43 - 報導者來了 - Jason
     百靈果之友: 004 報導者 致昕
+  Excluded: (0)
+    
+[人渣文本]
+  found in: (2)
+    The KK Show - #159 聊聊選舉 - 人渣文本
+    The KK Show - #121 運動歸運動 政治歸政治？ 人渣文本
   Excluded: (0)
     
 [李淳]

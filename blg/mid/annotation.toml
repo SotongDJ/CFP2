@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["The KK Show - #159 聊聊選舉 - 人渣文本"]
+name = "The KK Show - #159 聊聊選舉 - 人渣文本"
+feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-159-%E8%81%8A%E8%81%8A%E9%81%B8%E8%88%89-%E4%BA%BA%E6%B8%A3%E6%96%87%E6%9C%AC/id1106847606?i=1000585223383"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYzNzIxNw"
+spotify = "https://open.spotify.com/episode/0ylEInn0WZv7yCGs9yycyF"
+youtube = "https://www.youtube.com/watch?v=b4FX4gSNVqQ"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022", "KK Show", "人渣文本"]
+category = ["#節目系列", "學者", "運動"]
+
 ["The KK Show - #158 與鯨魚游泳的男人-剛哥"]
 name = "The KK Show - #158 與鯨魚游泳的男人-剛哥"
 feed = "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11605793-the-kk-show-158.mp3"

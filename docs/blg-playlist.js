@@ -1,4 +1,14 @@
 const playlist = {
+"time588":{
+"name": "The KK Show - #160 新竹縣長候選人 - 周江杰",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-160-%E6%96%B0%E7%AB%B9%E7%B8%A3%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA-%E5%91%A8%E6%B1%9F%E6%9D%B0/id1106847606?i=1000585493974",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY1MjY1Nw",
+"spotify": "https://open.spotify.com/episode/0bKZnaBmvcdePWq8iqQu76",
+"youtube": "https://www.youtube.com/watch?v=qeoWnFSUPP4",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3",
+"tag": ['Nov 2022', 'KK Show']
+},
 "time587":{
 "name": "The KK Show - #159 聊聊選舉 - 人渣文本",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-159-%E8%81%8A%E8%81%8A%E9%81%B8%E8%88%89-%E4%BA%BA%E6%B8%A3%E6%96%87%E6%9C%AC/id1106847606?i=1000585223383",

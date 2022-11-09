@@ -7,7 +7,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=qeoWnFSUPP4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3",
-"tag": ['Nov 2022', 'KK Show']
+"tag": ['Nov 2022', 'KK Show', '周江杰', '政治人物']
 },
 "time587":{
 "name": "The KK Show - #159 聊聊選舉 - 人渣文本",
@@ -27,7 +27,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11605793-the-kk-show-158.mp3",
-"tag": ['Nov 2022', 'KK Show']
+"tag": ['Nov 2022', 'KK Show', '剛哥', '專業人士', '教練', '潛水', '運動']
 },
 "time585":{
 "name": "百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室",
@@ -47,7 +47,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
-"tag": ['Oct 2022', '週二夜現場', '館長', '企業家', '健身教練', '專業人士', '時事', '暫代讀書會', '運動']
+"tag": ['Oct 2022', '週二夜現場', '館長', '健身', '專業人士', '教練', '時事', '暫代讀書會', '老闆', '運動']
 },
 "time583":{
 "name": "The KK Show - #157 館長",
@@ -57,7 +57,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=Sq0sBtQU-vY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11564184-the-kk-show-157.mp3",
-"tag": ['Oct 2022', 'KK Show', '館長', '企業家', '健身教練', '專業人士', '時事', '運動']
+"tag": ['Oct 2022', 'KK Show', '館長', '健身', '專業人士', '教練', '時事', '老闆', '運動']
 },
 "time582":{
 "name": "中共20大常委誰是誰懶人包 ft. 士杰，IEObserve",
@@ -267,7 +267,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=1HjOdxk0410",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11276846-qa.mp3",
-"tag": ['Sep 2022', '週二夜現場', '曹興誠', '企業家', '暫代讀書會']
+"tag": ['Sep 2022', '週二夜現場', '曹興誠', '暫代讀書會', '老闆']
 },
 "time561":{
 "name": "The KK Show - #150 拿出30億反共的男人 - 曹興誠",
@@ -277,7 +277,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=NWFFdNN0ssQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11262919-the-kk-show-150-30.mp3",
-"tag": ['Sep 2022', 'KK Show', '曹興誠', '企業家']
+"tag": ['Sep 2022', 'KK Show', '曹興誠', '老闆']
 },
 "time560":{
 "name": "百靈果News｜叫助理去首爾約砲是違法的嗎？ 烏克蘭的夏令營、聯合國新疆報告出爐、推薦書：World's Worst Assistant @Team Coco",
@@ -557,7 +557,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=jMLLKm_VFeA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10868739-the-kk-show-140-lgbt-netflix-jay.mp3",
-"tag": ['Jun 2022', 'KK Show', 'Jay', '企業家']
+"tag": ['Jun 2022', 'KK Show', 'Jay', '老闆']
 },
 "time532":{
 "name": "0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷葉邊的威力",
@@ -637,7 +637,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=uFB-F_lDsX8&t=1339s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10789877-the-kk-show-138.mp3",
-"tag": ['Jun 2022', 'KK Show', '志祺 @志祺七七', '阿滴', 'Podcaster', 'Youtuber', '企業家']
+"tag": ['Jun 2022', 'KK Show', '志祺 @志祺七七', '阿滴', 'Podcaster', 'Youtuber', '老闆']
 },
 "time524":{
 "name": "0612 中國去南洋吃癟、日經記者想要採訪台灣中心被拒絕、聊聊德國海德堡性侵事件",
@@ -797,7 +797,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=S6bD5Hu4wyY",
 "image": "db2f081285bf86477acfb68014e2e43c4a1ace8dd40dc648571bdbd65f43a218",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10631575-the-kk-show-134-youtuber-joeman.mp3",
-"tag": ['May 2022', 'KK Show', 'Joeman', 'Youtuber', '企業家']
+"tag": ['May 2022', 'KK Show', 'Joeman', 'Youtuber', '老闆']
 },
 "time508":{
 "name": "0515 中國到底在幹嘛？ 拉斯維加斯黑幫毀屍滅跡聖地、菲律賓總統大選、推薦電影 ： CODA",
@@ -1107,7 +1107,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=IEOyozHKAU0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530637-the-kk-show-123-chapman.mp3",
-"tag": ['Mar 2022', 'KK Show', 'Chapman 杜汶澤', '企業家', '文藝', '演員']
+"tag": ['Mar 2022', 'KK Show', 'Chapman 杜汶澤', '文藝', '演員', '老闆']
 },
 "time477":{
 "name": "0313 聯合國試圖掩蓋真相、全球油價暴漲、RIP 西藏歌手 才旺羅布",
@@ -1327,7 +1327,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=yD83H7ryaws&t=479s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530659-the-kk-show-117.mp3",
-"tag": ['Jan 2022', 'KK Show', '呱吉', 'Youtuber', '企業家', '喜劇演員', '政治人物']
+"tag": ['Jan 2022', 'KK Show', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '老闆']
 },
 "time455":{
 "name": "0123 哥倫比亞總統候選人曾經被綁架6年、大麻抗Covid、推薦書：WIll 威爾史密斯回憶錄",
@@ -1507,7 +1507,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=NI5vfSIMZrw&t=2s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530677-the-kk-show-111-social.mp3",
-"tag": ['Dec 2021', 'KK Show', 'Social', '企業家', '喜劇演員']
+"tag": ['Dec 2021', 'KK Show', 'Social', '喜劇演員', '老闆']
 },
 "time437":{
 "name": "1212 教練帶辣妹來大學教球員人生道理、中國公務員被砍薪 連獎金都要交回去、蘋果跟中國的秘密協議、推薦： Youtube 頻道 @Colin and Samir",
@@ -1867,7 +1867,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=GKmlRVZq2kY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530713-the-kk-show-99.mp3",
-"tag": ['Sep 2021', 'KK Show', '林榮基', '企業家']
+"tag": ['Sep 2021', 'KK Show', '林榮基', '老闆']
 },
 "time401":{
 "name": "0919 #世界銀行 逃不出中國魔爪、川普參謀長超怕第三次世界大戰、玩遊戲賺加密貨幣、台南跟澎湖旅游",
@@ -2207,7 +2207,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AIA21lcH0A0&t=13s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530747-002.mp3",
-"tag": ['Jul 2021', '百靈果之友', '呱吉', 'Youtuber', '企業家', '喜劇演員', '政治人物', '暫代讀書會']
+"tag": ['Jul 2021', '百靈果之友', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '暫代讀書會', '老闆']
 },
 "time367":{
 "name": "The KK Show - #88 台越混血的和平黑音人 - 桃子A1J",
@@ -2237,7 +2237,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=RAD6tSnn3AE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530750-001-s-is-for-sister.mp3",
-"tag": ['Jul 2021', '百靈果之友', '阿滴', 'Youtuber', '企業家', '暫代讀書會']
+"tag": ['Jul 2021', '百靈果之友', '阿滴', 'Youtuber', '暫代讀書會', '老闆']
 },
 "time364":{
 "name": "The KK Show - #87 消防到災害管理 - 張賢龢博士",
@@ -2337,7 +2337,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=Ppop2I6xcSE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530760-the-kk-show-81.mp3",
-"tag": ['Jun 2021', 'KK Show', '葉丙成教授', '企業家', '學者']
+"tag": ['Jun 2021', 'KK Show', '葉丙成教授', '學者', '老闆']
 },
 "time354":{
 "name": "0606 這個鍋誰來背？ 大坂直美事件、馬來西亞要沒啤酒可以喝了、推薦： Friends Reunion",
@@ -2697,7 +2697,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=3Ku0m1Xm2pA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530796-the-kk-show-71-soundon.mp3",
-"tag": ['Mar 2021', 'KK Show', '顧立楷', '企業家']
+"tag": ['Mar 2021', 'KK Show', '顧立楷', '老闆']
 },
 "time318":{
 "name": "鹿港遶境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦",
@@ -3377,7 +3377,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=VtwCcbHnRkA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530864-the-kk-show-47.mp3",
-"tag": ['Oct 2020', 'KK Show', '志祺 @志祺七七', '阿滴', 'Podcaster', 'Youtuber', '企業家']
+"tag": ['Oct 2020', 'KK Show', '志祺 @志祺七七', '阿滴', 'Podcaster', 'Youtuber', '老闆']
 },
 "time250":{
 "name": "1004 美國總統大選辯論心得、世仇戰爭、川普中了武漢肺炎、閑聊",
@@ -3457,7 +3457,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=5vo3Im5hSCU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530872-the-kk-show-ft-grrr.mp3",
-"tag": ['Sep 2020', 'KK Show', '范琪斐', '敏迪 @敏迪選讀', '邱 grr', 'Podcaster', 'Youtuber', '企業家', '時事']
+"tag": ['Sep 2020', 'KK Show', '范琪斐', '敏迪 @敏迪選讀', '邱 grr', 'Podcaster', 'Youtuber', '健力', '時事', '老闆', '運動']
 },
 "time242":{
 "name": "0913 美國西岸大火又來了、就算川普説謊你還是會支持他嗎？、暴雷 不推薦：三十而已",
@@ -3657,7 +3657,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=dtuLTbw6Bn8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530892-the-kk-show-38-joeman.mp3",
-"tag": ['Jul 2020', 'KK Show', 'Joeman', 'Youtuber', '企業家']
+"tag": ['Jul 2020', 'KK Show', 'Joeman', 'Youtuber', '老闆']
 },
 "time222":{
 "name": "0726 紐時買下Podcast復興之母 Serial、中國太空中心的科學家需要你的愛、高雄臺南行",
@@ -3997,7 +3997,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530926-the-kk-show-27-grr.mp3",
-"tag": ['May 2020', 'KK Show', '邱 grr', 'Youtuber', '企業家']
+"tag": ['May 2020', 'KK Show', '邱 grr', 'Youtuber', '健力', '老闆', '運動']
 },
 "time188":{
 "name": "0510 印度的恐怖分子是別人的自由鬥士、推薦書：My Life On The Road、國際傳播司",
@@ -4017,7 +4017,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530928-the-kk-show-25-5-2020-04-30.mp3",
-"tag": ['May 2020', 'KK Show', '呱吉', 'Youtuber', '企業家', '喜劇演員', '政治人物']
+"tag": ['May 2020', 'KK Show', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '老闆']
 },
 "time186":{
 "name": "The KK Show - 26 人妻啦啦隊 妍言",
@@ -4047,7 +4047,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530931-the-kk-show-25.mp3",
-"tag": ['Apr 2020', 'KK Show', '呱吉', 'Youtuber', '企業家', '喜劇演員', '政治人物']
+"tag": ['Apr 2020', 'KK Show', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '老闆']
 },
 "time183":{
 "name": "0426 若為自由故疫情皆可抛的美國人、肯亞嚴格執行宵禁、新企劃！",
@@ -4467,7 +4467,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
-"tag": ['Jan 2020', 'KK Show', '顧立楷', '企業家']
+"tag": ['Jan 2020', 'KK Show', '顧立楷', '老闆']
 },
 "time141":{
 "name": "0112 2020台灣選舉後感想、伊朗擊毀民航機、溝通的重要性",
@@ -4557,7 +4557,7 @@ const playlist = {
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530982-the-kk-show-006-shao-yong.mp3",
-"tag": ['Dec 2019', 'KK Show', 'Shao Yong', '健身教練', '專業人士', '朋友', '運動']
+"tag": ['Dec 2019', 'KK Show', 'Shao Yong', '健身', '專業人士', '教練', '朋友', '運動']
 },
 "time132":{
 "name": "1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War",
@@ -5928,7 +5928,7 @@ const tag_class = {
 "老K": ['喜劇演員'],
 "妍霏": ['喜劇演員'],
 "學仁": ['喜劇演員'],
-"Social": ['喜劇演員', '企業家'],
+"Social": ['喜劇演員', '老闆'],
 "歐馬克": ['Podcaster', '喜劇演員', '廣播人'],
 "微笑丹尼": ['喜劇演員', 'Youtuber'],
 "博恩": ['喜劇演員'],
@@ -5947,18 +5947,18 @@ const tag_class = {
 "酸酸": ['喜劇演員', 'Youtuber', 'Podcaster'],
 "涵冷娜": ['喜劇演員', '演員', '文藝'],
 "Esther Chen": ['喜劇演員', '演員', '文藝'],
-"呱吉": ['喜劇演員', 'Youtuber', '政治人物', '企業家'],
+"呱吉": ['喜劇演員', 'Youtuber', '政治人物', '老闆'],
 "Jim": ['喜劇演員', 'Youtuber'],
 "龍龍": ['喜劇演員', 'Youtuber'],
 "范琪斐": ['時事', 'Youtuber', 'Podcaster'],
 "敏迪 @敏迪選讀": ['時事', 'Podcaster'],
-"志祺 @志祺七七": ['Youtuber', 'Podcaster', '企業家'],
+"志祺 @志祺七七": ['Youtuber', 'Podcaster', '老闆'],
 "好和弦 @NiceChord": ['Youtuber', 'Podcaster'],
-"阿滴": ['Youtuber', '企業家'],
-"Joeman": ['Youtuber', '企業家'],
+"阿滴": ['Youtuber', '老闆'],
+"Joeman": ['Youtuber', '老闆'],
 "黃大謙": ['Youtuber'],
 "China Mac": ['Youtuber'],
-"邱 grr": ['Youtuber', '企業家'],
+"邱 grr": ['Youtuber', '老闆', '運動', '健力'],
 "泥泥學姐": ['Youtuber'],
 "盧卡斯 @BBK Networ": ['Youtuber'],
 "歷史哥": ['Youtuber'],
@@ -5978,7 +5978,7 @@ const tag_class = {
 "Musa 明馬丁": ['音樂'],
 "桃子 A1J": ['音樂'],
 "珂拉琪 Collage": ['音樂'],
-"Chapman 杜汶澤": ['演員', '企業家', '文藝'],
+"Chapman 杜汶澤": ['演員', '老闆', '文藝'],
 "黃秋生": ['演員', '文藝'],
 "台南人劇團": ['文藝', '劇場'],
 "蕭東意": ['文藝', '演員', '劇場', '喜劇演員'],
@@ -6017,6 +6017,7 @@ const tag_class = {
 "于北辰": ['政治人物'],
 "林智堅": ['政治人物'],
 "郭書成": ['政治人物'],
+"周江杰": ['政治人物'],
 "陳秋實": ['時事', '記者'],
 "Jason 劉致昕 @報導者": ['時事', '記者'],
 "Byun 秉昀": ['時事', '記者'],
@@ -6039,7 +6040,7 @@ const tag_class = {
 "葉耀元教授": ['時事', '學者'],
 "陳小雀教授": ['時事', '學者'],
 "張賢龢博士": ['時事', '學者'],
-"葉丙成教授": ['學者', '企業家'],
+"葉丙成教授": ['學者', '老闆'],
 "單信瑜教授": ['時事', '學者'],
 "高智雄醫檢師": ['時事', '醫學', '學者'],
 "莉婷": ['記者', '運動'],
@@ -6047,7 +6048,8 @@ const tag_class = {
 "妍言": ['運動'],
 "Hito 大聯盟": ['運動'],
 "Jack": ['運動'],
-"館長": ['時事', '專業人士', '健身教練', '運動', '企業家'],
+"館長": ['時事', '專業人士', '健身', '教練', '運動', '老闆'],
+"剛哥": ['運動', '專業人士', '潛水', '教練'],
 "Xin": ['聽眾'],
 "JC": ['聽眾'],
 "Vasilisa": ['聽眾'],
@@ -6056,15 +6058,15 @@ const tag_class = {
 "Feyza": ['聽眾'],
 "Howard": ['朋友', 'Podcaster', '專業人士', '口譯員'],
 "Ivan": ['朋友'],
-"Shao Yong": ['朋友', '專業人士', '健身教練', '運動'],
+"Shao Yong": ['朋友', '專業人士', '健身', '教練', '運動'],
 "趙哥": ['朋友'],
 "陳沂": ['朋友', '藝人'],
 "楊杰凱": ['專業人士', '專利師'],
 "黑嘉嘉": ['專業人士'],
-"曹興誠": ['企業家'],
-"Jay": ['企業家'],
-"顧立楷": ['企業家'],
-"林榮基": ['企業家'],
+"曹興誠": ['老闆'],
+"Jay": ['老闆'],
+"顧立楷": ['老闆'],
+"林榮基": ['老闆'],
 "Neil": ['編輯'],
 "美國台灣觀測站": ['時事'],
 "IORG": ['時事', '事實查核'],
@@ -6136,16 +6138,18 @@ const class_tag = {
 "喜劇演員": ['樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
 "Youtuber": ['樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '嗩吶 @好機車', '阿拉斯', '巴大雄 @東南美娛樂'],
 "藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '陳沂'],
-"企業家": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', '曹興誠', 'Jay', '顧立楷', '林榮基'],
+"老闆": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', '曹興誠', 'Jay', '顧立楷', '林榮基'],
 "Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '吳淡如', 'Howard'],
 "廣播人": ['歐馬克', '黃豪平', '李律', '邵大倫', '小潘', '寶拉', '吳淡如'],
 "演員": ['權樂', '涵冷娜', 'Esther Chen', 'Chapman 杜汶澤', '黃秋生', '蕭東意', '吳念真'],
 "文藝": ['權樂', '涵冷娜', 'Esther Chen', 'Chapman 杜汶澤', '黃秋生', '台南人劇團', '蕭東意', '布拉瑞揚 @布拉瑞揚舞團', '孫翠鳳', '真蓉', '周冠威', '阮鳳儀', '吳念真'],
-"專業人士": ['巴斯', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '館長', 'Howard', 'Shao Yong', '楊杰凱', '黑嘉嘉'],
+"專業人士": ['巴斯', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '館長', '剛哥', 'Howard', 'Shao Yong', '楊杰凱', '黑嘉嘉'],
 "工程師": ['巴斯'],
 "魔術師": ['巴斯', '黃豪平'],
-"政治人物": ['呱吉', '陳柏惟', '林昶佐', '吳怡農', '李有宜', '蔣萬安', '范雲', '于北辰', '林智堅', '郭書成'],
+"政治人物": ['呱吉', '陳柏惟', '林昶佐', '吳怡農', '李有宜', '蔣萬安', '范雲', '于北辰', '林智堅', '郭書成', '周江杰'],
 "時事": ['范琪斐', '敏迪 @敏迪選讀', '嗩吶 @好機車', '瑞典劉先生', '陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', '吳品瑜', '印度尤', 'Naomi O’Leary', 'Kevin', 'Mario', '黃京葦醫師', '烏烏醫生', 'Chiels', '李淳', 'Dr. Leanne Wu', 'Dr. Justin Yang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '單信瑜教授', '高智雄醫檢師', '館長', '美國台灣觀測站', 'IORG', '雕大 @IEObserve', '士杰', '沈伯洋（助理）教授', '張五岳', 'Luke Martin'],
+"運動": ['邱 grr', '人渣文本', '莉婷', '陳念琴', '妍言', 'Hito 大聯盟', 'Jack', '館長', '剛哥', 'Shao Yong'],
+"健力": ['邱 grr'],
 "音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', 'Musa 明馬丁', '桃子 A1J', '珂拉琪 Collage', '林昶佐'],
 "原住民": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '黃京葦醫師', '陳念琴', '東冬侯溫'],
 "朋友": ['阿爆', 'Howard', 'Ivan', 'Shao Yong', '趙哥', '陳沂', 'Pom 咩'],
@@ -6160,9 +6164,10 @@ const class_tag = {
 "記者": ['陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', '印度尤', 'Naomi O’Leary', '莉婷'],
 "醫學": ['黃京葦醫師', '烏烏醫生', '陳耀昌醫師', 'Chiels', 'Dr. Leanne Wu', 'Dr. Justin Yang', '高智雄醫檢師'],
 "學者": ['黃京葦醫師', '烏烏醫生', '許翱麟教授', '人渣文本', '陳耀昌醫師', 'Chiels', '李淳', 'Dr. Leanne Wu', 'Dr. Justin Yang', '葉耀元教授', '陳小雀教授', '張賢龢博士', '葉丙成教授', '單信瑜教授', '高智雄醫檢師', '沈伯洋（助理）教授'],
-"運動": ['人渣文本', '莉婷', '陳念琴', '妍言', 'Hito 大聯盟', 'Jack', '館長', 'Shao Yong'],
 "作者": ['陳耀昌醫師'],
-"健身教練": ['館長', 'Shao Yong'],
+"健身": ['館長', 'Shao Yong'],
+"教練": ['館長', '剛哥', 'Shao Yong'],
+"潛水": ['剛哥'],
 "聽眾": ['Xin', 'JC', 'Vasilisa', 'Angeli', 'Angel', 'Feyza'],
 "口譯員": ['Howard'],
 "專利師": ['楊杰凱'],

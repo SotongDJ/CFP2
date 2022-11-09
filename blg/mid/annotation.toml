@@ -8,8 +8,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/0bKZnaBmvcdePWq8iqQu76"
 youtube = "https://www.youtube.com/watch?v=qeoWnFSUPP4"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Nov 2022", "KK Show"]
-category = ["#節目系列"]
+tag = ["Nov 2022", "KK Show", "周江杰"]
+category = ["#節目系列", "政治人物"]
 
 ["The KK Show - #159 聊聊選舉 - 人渣文本"]
 name = "The KK Show - #159 聊聊選舉 - 人渣文本"
@@ -29,8 +29,8 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-158-%E8%88%87%E9%AF%A
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYwNTc5Mw"
 spotify = "https://open.spotify.com/episode/48Ga4RZHGAqWuQVg94bsAe"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Nov 2022", "KK Show"]
-category = ["#節目系列"]
+tag = ["Nov 2022", "KK Show", "剛哥"]
+category = ["#節目系列", "運動", "專業人士", "潛水", "教練"]
 
 ["百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室"]
 name = "百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室"
@@ -51,7 +51,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/26OsH9BWnRwpr60vm7JcHN"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Oct 2022", "週二夜現場", "館長"]
-category = ["#節目系列", "暫代讀書會", "時事", "專業人士", "健身教練", "運動", "企業家"]
+category = ["#節目系列", "暫代讀書會", "時事", "專業人士", "健身", "教練", "運動", "老闆"]
 
 ["The KK Show - #157 館長"]
 name = "The KK Show - #157 館長"
@@ -62,7 +62,7 @@ spotify = "https://open.spotify.com/episode/7h4bi97Xzgi7TcnhWZDQcx"
 youtube = "https://www.youtube.com/watch?v=Sq0sBtQU-vY"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Oct 2022", "KK Show", "館長"]
-category = ["#節目系列", "時事", "專業人士", "健身教練", "運動", "企業家"]
+category = ["#節目系列", "時事", "專業人士", "健身", "教練", "運動", "老闆"]
 
 ["中共20大常委誰是誰懶人包 ft. 士杰，IEObserve"]
 name = "中共20大常委誰是誰懶人包 ft. 士杰，IEObserve"
@@ -287,7 +287,7 @@ spotify = "https://open.spotify.com/episode/5osASVJXEAj3ewPYwjhf3d"
 youtube = "https://www.youtube.com/watch?v=1HjOdxk0410"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Sep 2022", "週二夜現場", "曹興誠"]
-category = ["#節目系列", "暫代讀書會", "企業家"]
+category = ["#節目系列", "暫代讀書會", "老闆"]
 
 ["The KK Show - #150 拿出30億反共的男人 - 曹興誠"]
 name = "The KK Show - #150 拿出30億反共的男人 - 曹興誠"
@@ -298,7 +298,7 @@ spotify = "https://open.spotify.com/episode/25QFPLdkGdhxk8cqTvVOuR"
 youtube = "https://www.youtube.com/watch?v=NWFFdNN0ssQ"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Sep 2022", "KK Show", "曹興誠"]
-category = ["#節目系列", "企業家"]
+category = ["#節目系列", "老闆"]
 
 ["百靈果News｜叫助理去首爾約砲是違法的嗎？ 烏克蘭的夏令營、聯合國新疆報告出爐、推薦書：World's Worst Assistant"]
 name = "百靈果News｜叫助理去首爾約砲是違法的嗎？ 烏克蘭的夏令營、聯合國新疆報告出爐、推薦書：World's Worst Assistant @Team Coco"
@@ -606,7 +606,7 @@ spotify = "https://open.spotify.com/episode/78XH4BXyH9q90c7OHduQoc"
 youtube = "https://www.youtube.com/watch?v=jMLLKm_VFeA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jun 2022", "KK Show", "Jay"]
-category = ["#節目系列", "企業家"]
+category = ["#節目系列", "老闆"]
 
 ["0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷葉邊的威力"]
 name = "0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷葉邊的威力"
@@ -694,7 +694,7 @@ spotify = "https://open.spotify.com/episode/5jhBJpS45KpnSoehSmTS0y"
 youtube = "https://www.youtube.com/watch?v=uFB-F_lDsX8&t=1339s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jun 2022", "KK Show", "志祺 @志祺七七", "阿滴"]
-category = ["#節目系列", "Youtuber", "Podcaster", "企業家", "Youtuber", "企業家"]
+category = ["#節目系列", "Youtuber", "Podcaster", "老闆", "Youtuber", "老闆"]
 
 ["0612 中國去南洋吃癟、日經記者想要採訪台灣中心被拒絕、聊聊德國海德堡性侵事件"]
 name = "0612 中國去南洋吃癟、日經記者想要採訪台灣中心被拒絕、聊聊德國海德堡性侵事件"
@@ -870,7 +870,7 @@ spotify = "https://open.spotify.com/episode/6RWmiDzKWDF67XwS27teuj"
 youtube = "https://www.youtube.com/watch?v=S6bD5Hu4wyY"
 image = "db2f081285bf86477acfb68014e2e43c4a1ace8dd40dc648571bdbd65f43a218"
 tag = ["May 2022", "KK Show", "Joeman"]
-category = ["#節目系列", "Youtuber", "企業家"]
+category = ["#節目系列", "Youtuber", "老闆"]
 
 ["0515 中國到底在幹嘛？ 拉斯維加斯黑幫毀屍滅跡聖地、菲律賓總統大選、推薦電影 ： CODA"]
 name = "0515 中國到底在幹嘛？ 拉斯維加斯黑幫毀屍滅跡聖地、菲律賓總統大選、推薦電影 ： CODA"
@@ -1211,7 +1211,7 @@ spotify = "https://open.spotify.com/episode/0HzXVCTGtn2oAAtr4lK1VY"
 youtube = "https://www.youtube.com/watch?v=IEOyozHKAU0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Mar 2022", "KK Show", "Chapman 杜汶澤"]
-category = ["#節目系列", "演員", "企業家", "文藝"]
+category = ["#節目系列", "演員", "老闆", "文藝"]
 
 ["0313 聯合國試圖掩蓋真相、全球油價暴漲、RIP 西藏歌手 才旺羅布"]
 name = "0313 聯合國試圖掩蓋真相、全球油價暴漲、RIP 西藏歌手 才旺羅布"
@@ -1453,7 +1453,7 @@ spotify = "https://open.spotify.com/episode/7AOd1ZpbDN5Y4NCgdR20bh"
 youtube = "https://www.youtube.com/watch?v=yD83H7ryaws&t=479s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jan 2022", "KK Show", "呱吉"]
-category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "企業家"]
+category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "老闆"]
 
 ["0123 哥倫比亞總統候選人曾經被綁架6年、大麻抗Covid、推薦書：WIll 威爾史密斯回憶錄"]
 name = "0123 哥倫比亞總統候選人曾經被綁架6年、大麻抗Covid、推薦書：WIll 威爾史密斯回憶錄"
@@ -1651,7 +1651,7 @@ spotify = "https://open.spotify.com/episode/6ld3buOGyuTE2kD0IOJwIN"
 youtube = "https://www.youtube.com/watch?v=NI5vfSIMZrw&t=2s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Dec 2021", "KK Show", "Social"]
-category = ["#節目系列", "喜劇演員", "企業家"]
+category = ["#節目系列", "喜劇演員", "老闆"]
 
 ["1212 教練帶辣妹來大學教球員人生道理、中國公務員被砍薪 連獎金都要交回去、蘋果跟中國的秘密協議、推薦： Youtube 頻道"]
 name = "1212 教練帶辣妹來大學教球員人生道理、中國公務員被砍薪 連獎金都要交回去、蘋果跟中國的秘密協議、推薦： Youtube 頻道 @Colin and Samir"
@@ -2047,7 +2047,7 @@ spotify = "https://open.spotify.com/episode/6j0q5jZRXHZ0OGy6Bxkaxd"
 youtube = "https://www.youtube.com/watch?v=GKmlRVZq2kY"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Sep 2021", "KK Show", "林榮基"]
-category = ["#節目系列", "企業家"]
+category = ["#節目系列", "老闆"]
 
 ["0919 #世界銀行 逃不出中國魔爪、川普參謀長超怕第三次世界大戰、玩遊戲賺加密貨幣、台南跟澎湖旅游"]
 name = "0919 #世界銀行 逃不出中國魔爪、川普參謀長超怕第三次世界大戰、玩遊戲賺加密貨幣、台南跟澎湖旅游"
@@ -2421,7 +2421,7 @@ spotify = "https://open.spotify.com/episode/5KpwsK6VpqowATZJLXXCok"
 youtube = "https://www.youtube.com/watch?v=AIA21lcH0A0&t=13s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jul 2021", "百靈果之友", "呱吉"]
-category = ["#節目系列", "暫代讀書會", "喜劇演員", "Youtuber", "政治人物", "企業家"]
+category = ["#節目系列", "暫代讀書會", "喜劇演員", "Youtuber", "政治人物", "老闆"]
 
 ["The KK Show - #88 台越混血的和平黑音人 - 桃子A1J"]
 name = "The KK Show - #88 台越混血的和平黑音人 - 桃子A1J"
@@ -2454,7 +2454,7 @@ spotify = "https://open.spotify.com/episode/5jFxAPOtbuZBTxKV0yHPXa"
 youtube = "https://www.youtube.com/watch?v=RAD6tSnn3AE"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jul 2021", "百靈果之友", "阿滴"]
-category = ["#節目系列", "暫代讀書會", "Youtuber", "企業家"]
+category = ["#節目系列", "暫代讀書會", "Youtuber", "老闆"]
 
 ["The KK Show - #87 消防到災害管理 - 張賢龢博士"]
 name = "The KK Show - #87 消防到災害管理 - 張賢龢博士"
@@ -2564,7 +2564,7 @@ spotify = "https://open.spotify.com/episode/1PsnckLCKb9msMOnHhlxny"
 youtube = "https://www.youtube.com/watch?v=Ppop2I6xcSE"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jun 2021", "KK Show", "葉丙成教授"]
-category = ["#節目系列", "學者", "企業家"]
+category = ["#節目系列", "學者", "老闆"]
 
 ["0606 這個鍋誰來背？ 大坂直美事件、馬來西亞要沒啤酒可以喝了、推薦： Friends Reunion"]
 name = "0606 這個鍋誰來背？ 大坂直美事件、馬來西亞要沒啤酒可以喝了、推薦： Friends Reunion"
@@ -2960,7 +2960,7 @@ spotify = "https://open.spotify.com/episode/3tKLuoz8L54l7jjCpWf4Hm"
 youtube = "https://www.youtube.com/watch?v=3Ku0m1Xm2pA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Mar 2021", "KK Show", "顧立楷"]
-category = ["#節目系列", "企業家"]
+category = ["#節目系列", "老闆"]
 
 ["鹿港遶境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦"]
 name = "鹿港遶境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦"
@@ -3708,7 +3708,7 @@ spotify = "https://open.spotify.com/episode/4UGgs12EUZBr9SQA4n8B8U"
 youtube = "https://www.youtube.com/watch?v=VtwCcbHnRkA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Oct 2020", "KK Show", "志祺 @志祺七七", "阿滴"]
-category = ["#節目系列", "Youtuber", "Podcaster", "企業家", "Youtuber", "企業家"]
+category = ["#節目系列", "Youtuber", "Podcaster", "老闆", "Youtuber", "老闆"]
 
 ["1004 美國總統大選辯論心得、世仇戰爭、川普中了武漢肺炎、閑聊"]
 name = "1004 美國總統大選辯論心得、世仇戰爭、川普中了武漢肺炎、閑聊"
@@ -3796,7 +3796,7 @@ spotify = "https://open.spotify.com/episode/0lXVI9oGe0qdgfu434zaJQ"
 youtube = "https://www.youtube.com/watch?v=5vo3Im5hSCU"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Sep 2020", "KK Show", "范琪斐", "敏迪 @敏迪選讀", "邱 grr"]
-category = ["#節目系列", "時事", "Youtuber", "Podcaster", "時事", "Podcaster", "Youtuber", "企業家"]
+category = ["#節目系列", "時事", "Youtuber", "Podcaster", "時事", "Podcaster", "Youtuber", "老闆", "運動", "健力"]
 
 ["0913 美國西岸大火又來了、就算川普説謊你還是會支持他嗎？、暴雷 不推薦：三十而已"]
 name = "0913 美國西岸大火又來了、就算川普説謊你還是會支持他嗎？、暴雷 不推薦：三十而已"
@@ -4016,7 +4016,7 @@ spotify = "https://open.spotify.com/episode/7qhuMEzADVhbmjNR0LEmGo"
 youtube = "https://www.youtube.com/watch?v=dtuLTbw6Bn8"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jul 2020", "KK Show", "Joeman"]
-category = ["#節目系列", "Youtuber", "企業家"]
+category = ["#節目系列", "Youtuber", "老闆"]
 
 ["0726 紐時買下Podcast復興之母 Serial、中國太空中心的科學家需要你的愛、高雄臺南行"]
 name = "0726 紐時買下Podcast復興之母 Serial、中國太空中心的科學家需要你的愛、高雄臺南行"
@@ -4381,7 +4381,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/4KV4opBYW3MnbbEBQCaKMa"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["May 2020", "KK Show", "邱 grr"]
-category = ["#節目系列", "Youtuber", "企業家"]
+category = ["#節目系列", "Youtuber", "老闆", "運動", "健力"]
 
 ["0510 印度的恐怖分子是別人的自由鬥士、推薦書：My Life On The Road、國際傳播司"]
 name = "0510 印度的恐怖分子是別人的自由鬥士、推薦書：My Life On The Road、國際傳播司"
@@ -4402,7 +4402,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/6mlJGAf1M3tf2rZkk3WVbx"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["May 2020", "KK Show", "呱吉"]
-category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "企業家"]
+category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "老闆"]
 
 ["The KK Show - 26 人妻啦啦隊 妍言"]
 name = "The KK Show - 26 人妻啦啦隊 妍言"
@@ -4432,7 +4432,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/3bw7Np0BZlkItDnWXEaztj"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Apr 2020", "KK Show", "呱吉"]
-category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "企業家"]
+category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "老闆"]
 
 ["0426 若為自由故疫情皆可抛的美國人、肯亞嚴格執行宵禁、新企劃！"]
 name = "0426 若為自由故疫情皆可抛的美國人、肯亞嚴格執行宵禁、新企劃！"
@@ -4872,7 +4872,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/0TLeJz9Ja4qP861FU7b6cH"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Jan 2020", "KK Show", "顧立楷"]
-category = ["#節目系列", "企業家"]
+category = ["#節目系列", "老闆"]
 
 ["0112 2020台灣選舉後感想、伊朗擊毀民航機、溝通的重要性"]
 name = "0112 2020台灣選舉後感想、伊朗擊毀民航機、溝通的重要性"
@@ -4966,7 +4966,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/4G654y51mDc2fZdTWNSqKL"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 tag = ["Dec 2019", "KK Show", "Shao Yong"]
-category = ["#節目系列", "朋友", "專業人士", "健身教練", "運動"]
+category = ["#節目系列", "朋友", "專業人士", "健身", "教練", "運動"]
 
 ["1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War"]
 name = "1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War"

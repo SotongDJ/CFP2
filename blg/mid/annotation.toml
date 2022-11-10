@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）"]
+name = "崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11668217-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E5%B4%94%E5%81%A5%E7%9A%84%E4%B8%80%E5%A1%8A%E7%B4%85%E5%B8%83-%E8%AA%B0%E4%BE%86%E5%88%B6%E8%A3%81%E7%BF%92%E8%BF%91%E5%B9%B3-%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%8E%8B%E5%AD%90%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%90%9B%E7%8E%8B%E8%AB%96-%E5%90%9B%E4%B8%BB%E8%AB%96/id1106847606?i=1000585763606"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY2ODIxNw"
+spotify = "https://open.spotify.com/episode/7rQniZeg9SYzOFbL0qLfoi"
+youtube = "https://www.youtube.com/watch?v=hPK0JfIr9qw"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022", "讀書會", "王子習近平"]
+category = ["#節目系列", "讀書會"]
+
 ["The KK Show - #160 新竹縣長候選人 - 周江杰"]
 name = "The KK Show - #160 新竹縣長候選人 - 周江杰"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3"

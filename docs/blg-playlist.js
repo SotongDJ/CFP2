@@ -6,7 +6,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0bKZnaBmvcdePWq8iqQu76",
 "youtube": "https://www.youtube.com/watch?v=qeoWnFSUPP4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3",
 "tag": ['Nov 2022', 'KK Show', '周江杰', '政治人物']
 },
 "time587":{
@@ -16,7 +16,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0ylEInn0WZv7yCGs9yycyF",
 "youtube": "https://www.youtube.com/watch?v=b4FX4gSNVqQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3",
 "tag": ['Nov 2022', 'KK Show', '人渣文本', '學者', '運動']
 },
 "time586":{
@@ -26,7 +26,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/48Ga4RZHGAqWuQVg94bsAe",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11605793-the-kk-show-158.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11605793-the-kk-show-158.mp3",
 "tag": ['Nov 2022', 'KK Show', '剛哥', '專業人士', '教練', '潛水', '運動']
 },
 "time585":{
@@ -36,7 +36,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3MzW7FoM77FbTMRecKna02",
 "youtube": "https://www.youtube.com/watch?v=0rKYaCmRsHQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11593871-news-ic.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11593871-news-ic.mp3",
 "tag": ['Oct 2022', '百靈果 NEWS']
 },
 "time584":{
@@ -46,7 +46,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/26OsH9BWnRwpr60vm7JcHN",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
 "tag": ['Oct 2022', '週二夜現場', '館長', '健身', '專業人士', '教練', '時事', '暫代讀書會', '老闆', '運動']
 },
 "time583":{
@@ -56,7 +56,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7h4bi97Xzgi7TcnhWZDQcx",
 "youtube": "https://www.youtube.com/watch?v=Sq0sBtQU-vY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11564184-the-kk-show-157.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11564184-the-kk-show-157.mp3",
 "tag": ['Oct 2022', 'KK Show', '館長', '健身', '專業人士', '教練', '時事', '老闆', '運動']
 },
 "time582":{
@@ -66,7 +66,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7m92A3cicBn1ADw0boPp4W",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11562113-20-ft-ieobserve.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11562113-20-ft-ieobserve.mp3",
 "tag": ['Oct 2022', '百靈果 Bonus', '雕大 @IEObserve', '士杰', '時事']
 },
 "time581":{
@@ -76,7 +76,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/27F7RgbJge8yShb5M1NyAd",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11549654-news.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11549654-news.mp3",
 "tag": ['Oct 2022', '百靈果 NEWS']
 },
 "time580":{
@@ -86,7 +86,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1OYbFIDQAyyUazoQO3s5a1",
 "youtube": "",
 "image": "ea841f2d516818def46340197edbe387520931fe3d2bb7f8cdf38f959cb9f3d3",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11534123-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11534123-.mp3",
 "tag": ['Oct 2022', '讀書會', '王子習近平']
 },
 "time579":{
@@ -96,7 +96,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/51yiBFfBZEfgGAZNWkCrPC",
 "youtube": "https://www.youtube.com/watch?v=33Kve-4tPxY",
 "image": "0efd48e46375f2f7cb6fc08fb27955783b712f216d5ab6b574b1b2286b15b9c0",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3",
 "tag": ['Oct 2022', 'KK Show', '吳念真', '導演', '影視製作', '文藝', '演員']
 },
 "time578":{
@@ -106,7 +106,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5ntS5QoqDmGbWexFkL1lc5",
 "youtube": "https://www.youtube.com/watch?v=rkXutiLhch8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11504840-news-tiktok-hasan-minhaj-the-king-s-jester.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11504840-news-tiktok-hasan-minhaj-the-king-s-jester.mp3",
 "tag": ['Oct 2022', '百靈果 NEWS', '陳秋實', '時事', '記者']
 },
 "time577":{
@@ -116,7 +116,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0jLJrxYLW8VMs9M2zN90Y7",
 "youtube": "",
 "image": "0bf8bca6c89e851b912d2606384523bc63f3764acd821edd10e772d83764f4fe",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11485842-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11485842-.mp3",
 "tag": ['Oct 2022', '讀書會', '王子習近平']
 },
 "time576":{
@@ -126,7 +126,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0FUHzU5k8yd0nZxM9S8Dbx",
 "youtube": "https://www.youtube.com/watch?v=tH8gejUUjg4",
 "image": "e549b6a0be6422646b5307ee71db77775ae19e517bb25d750812724954cd748c",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11476041-the-kk-show-155-musa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11476041-the-kk-show-155-musa.mp3",
 "tag": ['Oct 2022', 'KK Show', 'Musa 明馬丁', '音樂']
 },
 "time575":{
@@ -136,7 +136,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4KldmJo6xoVNsAzn1GWPvE",
 "youtube": "https://www.youtube.com/watch?v=q8Fk-GTcuig",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3",
 "tag": ['Oct 2022', '百靈果 NEWS']
 },
 "time574":{
@@ -146,7 +146,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/59DqaVWX897isslf3wvjTr",
 "youtube": "https://www.youtube.com/watch?v=-E-G_zHtUKU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11443849-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11443849-.mp3",
 "tag": ['Oct 2022', '讀書會', '王子習近平']
 },
 "time573":{
@@ -156,7 +156,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7ks8XCTzdH6N0f94VNv0pn",
 "youtube": "https://www.youtube.com/watch?v=-kBQY6Wvz90",
 "image": "11c39e0dc6e6cdfaebfeb1835f835be75a92eb0ea929288f9d7c31686c8791bb",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3",
 "tag": ['Oct 2022', 'KK Show', '嗩吶 @好機車', 'Youtuber', '時事']
 },
 "time572":{
@@ -166,7 +166,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7zIc1W0h3eZXxBb5UmWO7Q",
 "youtube": "https://www.youtube.com/watch?v=TSPx70UaOsA",
 "image": "89844e47f561964f3f2eac3cdc9cae1d73dfa0d37cf4bac6c653cc207be51364",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11418606-news-kkshow-i-left-russia.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11418606-news-kkshow-i-left-russia.mp3",
 "tag": ['Oct 2022', '百靈果 NEWS']
 },
 "time571":{
@@ -176,7 +176,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6w6Wk6ZR5KBmayHyudcCdJ",
 "youtube": "https://www.youtube.com/watch?v=fcPztb9Jzoo",
 "image": "f57422a8653980ea54fe97c7b37608d92d9e7b119ba482088e4fdf85001c9eee",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11400465-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11400465-.mp3",
 "tag": ['Sep 2022', '讀書會', '八尺門的辯護人']
 },
 "time570":{
@@ -186,7 +186,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/11M5PHXrEXpXSfXrPdEw6q",
 "youtube": "",
 "image": "09b0a92eae00bf0f5929da7b0750e23a6352d39020ba03962b7216f34487631c",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3",
 "tag": ['Sep 2022', 'KK Show', 'Michael Smith', '時事', '記者']
 },
 "time569":{
@@ -196,7 +196,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0GKzOT3b7Vmmf6cSg0vt7u",
 "youtube": "https://www.youtube.com/watch?v=bJS0qb6nLmw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11378934-news.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11378934-news.mp3",
 "tag": ['Sep 2022', '百靈果 NEWS']
 },
 "time568":{
@@ -206,7 +206,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1Wjll2MtcUh5Yv2HVzacjT",
 "youtube": "https://www.youtube.com/watch?v=VElAkHzfw14",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11359766-nothingess-is-the-key-ep-6.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11359766-nothingess-is-the-key-ep-6.mp3",
 "tag": ['Sep 2022', '讀書會', '同情者']
 },
 "time567":{
@@ -216,7 +216,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5UtJeVmnHjGEIrLdpxiYbh",
 "youtube": "https://www.youtube.com/watch?v=n9Z1hI_89ZM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11349483-the-kk-show-152.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11349483-the-kk-show-152.mp3",
 "tag": ['Sep 2022', 'KK Show', '趙詠華', '林俊逸', 'Podcaster', '藝人', '音樂']
 },
 "time566":{
@@ -226,7 +226,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3MmddYmHrSXCjCsf2saz73",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11335950-news-summer-of-85.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11335950-news-summer-of-85.mp3",
 "tag": ['Sep 2022', '百靈果 NEWS']
 },
 "time565":{
@@ -236,7 +236,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2SRjlv95uZFdwdPPTUwMdR",
 "youtube": "https://www.youtube.com/watch?v=yiK1eN5sovI",
 "image": "9be113ea6beefdb5fc47fe750fdfeaa361427c507b24d8b397d7e2ece5e958a1",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11318304-10-000.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11318304-10-000.mp3",
 "tag": ['Sep 2022', '八角籠', '暫代讀書會']
 },
 "time564":{
@@ -246,7 +246,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/74WGXhMvyROyazVckRvCki",
 "youtube": "https://www.youtube.com/watch?v=e41cfPztS2M",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11308260-the-kk-show-151.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11308260-the-kk-show-151.mp3",
 "tag": ['Sep 2022', 'KK Show', '巴斯', '喜劇演員', '專業人士', '工程師', '魔術師']
 },
 "time563":{
@@ -256,7 +256,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5IweCFMvXkx4DDBFCWvkEZ",
 "youtube": "https://www.youtube.com/watch?v=c7_DCZ8b3nQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11296412-news.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11296412-news.mp3",
 "tag": ['Sep 2022', '百靈果 NEWS']
 },
 "time562":{
@@ -266,7 +266,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5osASVJXEAj3ewPYwjhf3d",
 "youtube": "https://www.youtube.com/watch?v=1HjOdxk0410",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11276846-qa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11276846-qa.mp3",
 "tag": ['Sep 2022', '週二夜現場', '曹興誠', '暫代讀書會', '老闆']
 },
 "time561":{
@@ -276,7 +276,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/25QFPLdkGdhxk8cqTvVOuR",
 "youtube": "https://www.youtube.com/watch?v=NWFFdNN0ssQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11262919-the-kk-show-150-30.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11262919-the-kk-show-150-30.mp3",
 "tag": ['Sep 2022', 'KK Show', '曹興誠', '老闆']
 },
 "time560":{
@@ -286,7 +286,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/336kZ1JVo3InAuN6vvcGNE",
 "youtube": "https://www.youtube.com/watch?v=vyt9RW2pKzQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11255501-news-world-s-worst-assistant.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11255501-news-world-s-worst-assistant.mp3",
 "tag": ['Sep 2022', '百靈果 NEWS']
 },
 "time559":{
@@ -296,7 +296,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1s0uzKscI2naMAdOy1yIEz",
 "youtube": "https://www.youtube.com/watch?v=sb5xt8LKbm4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11242357-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11242357-.mp3",
 "tag": ['Sep 2022', '暫代讀書會', '隱藏版 KK Show', '巴大雄 @東南美娛樂', 'Youtuber', '原住民', '音樂']
 },
 "time558":{
@@ -306,7 +306,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6wKHUkx0Ki9pVDkbB999Uf",
 "youtube": "https://www.youtube.com/watch?v=cLdWsf1ad4s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11226641-the-kk-show-149.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11226641-the-kk-show-149.mp3",
 "tag": ['Aug 2022', 'KK Show', '黃京葦醫師', '原住民', '學者', '時事', '醫學']
 },
 "time557":{
@@ -316,7 +316,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6iSXMfcV4mgEKsZF9g7eXD",
 "youtube": "https://www.youtube.com/watch?v=lpY0RFNDJu0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11211933-news-soft-white-underbelly.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11211933-news-soft-white-underbelly.mp3",
 "tag": ['Aug 2022', '百靈果 NEWS']
 },
 "time556":{
@@ -326,7 +326,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1Jp9rgmo4P8Cvv21uaFWQD",
 "youtube": "https://www.youtube.com/watch?v=zDx1GgN5SeE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11196213-ep-5.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11196213-ep-5.mp3",
 "tag": ['Aug 2022', '讀書會', '同情者']
 },
 "time555":{
@@ -336,7 +336,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/56fCT5LWaMd5WmvAYSTOax",
 "youtube": "https://www.youtube.com/watch?v=t42lQo1mjr0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11186483-the-kk-show-148.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11186483-the-kk-show-148.mp3",
 "tag": ['Aug 2022', 'KK Show', '歷史哥', 'Youtuber']
 },
 "time554":{
@@ -346,7 +346,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5ik1hSfajI7Hu1i0YHufik",
 "youtube": "https://www.youtube.com/watch?v=rXYf8nVVno0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11171827-news-legal-eagle.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11171827-news-legal-eagle.mp3",
 "tag": ['Aug 2022', '百靈果 NEWS']
 },
 "time553":{
@@ -356,7 +356,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1ZjLmEr3WlwuwWAyS10fsL",
 "youtube": "https://www.youtube.com/watch?v=rpAo1Wn29g8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11154018-interpride-2025-ep-4.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11154018-interpride-2025-ep-4.mp3",
 "tag": ['Aug 2022', '讀書會', '同情者']
 },
 "time552":{
@@ -366,7 +366,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1HgYPkjSzf0pigqAnLdn9T",
 "youtube": "https://www.youtube.com/watch?v=tvEwOyKqQH8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11146016-the-kk-show-147.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11146016-the-kk-show-147.mp3",
 "tag": ['Aug 2022', 'KK Show', '郭書成', '政治人物']
 },
 "time551":{
@@ -376,7 +376,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1v3NOrmA5EGj0EmMf6fw1k",
 "youtube": "https://www.youtube.com/watch?v=BFM0tfr2Cxo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11133591-0814-fbi-fat-shaming.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11133591-0814-fbi-fat-shaming.mp3",
 "tag": ['Aug 2022', '百靈果 NEWS']
 },
 "time550":{
@@ -386,7 +386,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/42rvrEAfY82OgNGA2E4box",
 "youtube": "https://www.youtube.com/watch?v=Oolj-2X5KCE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11117771-ep-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11117771-ep-3.mp3",
 "tag": ['Aug 2022', '讀書會', '同情者']
 },
 "time549":{
@@ -396,7 +396,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3TNPa904eKlfo5DhPMHpOb",
 "youtube": "https://www.youtube.com/watch?v=OBOicolGKtw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11111621-the-kk-show-146.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11111621-the-kk-show-146.mp3",
 "tag": ['Aug 2022', 'KK Show', '權樂', '喜劇演員', '文藝', '演員']
 },
 "time548":{
@@ -406,7 +406,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3oraxeh1S3w78eCrvTO9s1",
 "youtube": "https://www.youtube.com/watch?v=mH07nR0gCX0&t=2204s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11092713-0807.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11092713-0807.mp3",
 "tag": ['Aug 2022', '百靈果 NEWS', '裴洛西訪台事件', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time547":{
@@ -416,7 +416,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3KuAKYPe7yEz0hrkdI7kwj",
 "youtube": "https://www.youtube.com/watch?v=0Cx6YHsCeHg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11074788-pelosi.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11074788-pelosi.mp3",
 "tag": ['Aug 2022', '暫代讀書會', '裴洛西訪台事件']
 },
 "time546":{
@@ -426,7 +426,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/44ptI3E2lG6kvF69l6SSpK",
 "youtube": "https://www.youtube.com/watch?v=Ya-_IY3fh8o",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066583-the-kk-show-145.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066583-the-kk-show-145.mp3",
 "tag": ['Aug 2022', 'KK Show', '瑞典劉先生', 'Podcaster', '時事']
 },
 "time545":{
@@ -436,7 +436,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7yMpfplfhXGKZ8DU5cpTR9",
 "youtube": "https://www.youtube.com/watch?v=GEZW53oYheg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066639-hot-take-what-do-taiwanese-really-think-about-nancy-pelosi-s-visit-english.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066639-hot-take-what-do-taiwanese-really-think-about-nancy-pelosi-s-visit-english.mp3",
 "tag": ['Aug 2022', '裴洛西訪台事件']
 },
 "time544":{
@@ -446,7 +446,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2cMNL7S1BdbC7kxLtwG57X",
 "youtube": "https://www.youtube.com/watch?v=AqU7qC7zyEw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11054876-0731.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11054876-0731.mp3",
 "tag": ['Jul 2022', '百靈果 NEWS', '日本遶境', '裴洛西訪台事件']
 },
 "time543":{
@@ -456,7 +456,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/76PaXrphXdeR0Smrv6Ce1l",
 "youtube": "https://www.youtube.com/watch?v=UW5y3DHwjyY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11029614-the-kk-show-144.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11029614-the-kk-show-144.mp3",
 "tag": ['Jul 2022', 'KK Show', '樂樂法利', 'Youtuber', '喜劇演員']
 },
 "time542":{
@@ -466,7 +466,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1kxpfu6vdhN3QB22yCVjB0",
 "youtube": "https://www.youtube.com/watch?v=cJu5V3TmAZU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11017306-0724-sleep-no-more.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11017306-0724-sleep-no-more.mp3",
 "tag": ['Jul 2022', '百靈果 NEWS']
 },
 "time541":{
@@ -476,7 +476,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0Wn0PbdtpD3wV5Cl7rufet",
 "youtube": "https://www.youtube.com/watch?v=tHlkxgREnj4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10984817-the-kk-show-143.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10984817-the-kk-show-143.mp3",
 "tag": ['Jul 2022', 'KK Show', '陳大天', '喜劇演員', '藝人']
 },
 "time540":{
@@ -486,7 +486,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2BN2EKJOgrfOOsXUhrVJtG",
 "youtube": "https://www.youtube.com/watch?v=NaJkxHDtaq0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10972860-0717.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10972860-0717.mp3",
 "tag": ['Jul 2022', '百靈果 NEWS']
 },
 "time539":{
@@ -496,7 +496,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2kTbdjB8cALvUD30NqaUJa",
 "youtube": "https://www.youtube.com/watch?v=CdbVxwVIhf4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10945642-the-kk-show-142-china-mac.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10945642-the-kk-show-142-china-mac.mp3",
 "tag": ['Jul 2022', 'KK Show', 'China Mac', 'Youtuber']
 },
 "time538":{
@@ -506,7 +506,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3jtF1Y3qqBQMPzMDhdXrrG",
 "youtube": "https://www.youtube.com/watch?v=EwtZdL8KDag&t=1s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10930324-0710.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10930324-0710.mp3",
 "tag": ['Jul 2022', '百靈果 NEWS']
 },
 "time537":{
@@ -516,7 +516,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3QmayuZCMY0tcbk0oIrqRV",
 "youtube": "https://www.youtube.com/watch?v=DDqg1L1ZYzI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10905509-the-kk-show-141.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10905509-the-kk-show-141.mp3",
 "tag": ['Jul 2022', 'KK Show', '小歐', 'Youtuber', '喜劇演員']
 },
 "time536":{
@@ -526,7 +526,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6JG0aiz22W2yMBeJole3Bp",
 "youtube": "https://www.youtube.com/watch?v=b-9XJFMmSEk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10887421-0703-nato.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10887421-0703-nato.mp3",
 "tag": ['Jul 2022', '百靈果 NEWS']
 },
 "time535":{
@@ -536,7 +536,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0r1faTUBBjKhryoCs7Tzkn",
 "youtube": "https://www.youtube.com/watch?v=MAW_YS_-qwY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10876702-ch-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10876702-ch-2.mp3",
 "tag": ['Jun 2022', '讀書會', '同情者']
 },
 "time534":{
@@ -546,7 +546,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2ZQs3zhdeEM2Cgiwj5PHNI",
 "youtube": "https://www.youtube.com/watch?v=Pu1hlK_LGkg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10874081-q-a-with-ron-the-last-episode-the-stir-ep-10.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10874081-q-a-with-ron-the-last-episode-the-stir-ep-10.mp3",
 "tag": ['Jun 2022', 'THE STIR']
 },
 "time533":{
@@ -556,7 +556,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/78XH4BXyH9q90c7OHduQoc",
 "youtube": "https://www.youtube.com/watch?v=jMLLKm_VFeA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10868739-the-kk-show-140-lgbt-netflix-jay.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10868739-the-kk-show-140-lgbt-netflix-jay.mp3",
 "tag": ['Jun 2022', 'KK Show', 'Jay', '老闆']
 },
 "time532":{
@@ -566,7 +566,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1r87zXNWakwHuvSUPBDGX2",
 "youtube": "https://www.youtube.com/watch?v=wqRH7nzJyME",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10853099-0626.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10853099-0626.mp3",
 "tag": ['Jun 2022', '百靈果 NEWS']
 },
 "time531":{
@@ -576,7 +576,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4Od4OrdYMFkyznBH4nhLLY",
 "youtube": "https://www.youtube.com/watch?v=NLnS4HpKIuc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10846457-ch-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10846457-ch-1.mp3",
 "tag": ['Jun 2022', '讀書會', '同情者']
 },
 "time530":{
@@ -586,7 +586,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2epINxHnOA2AGlf9u6MwU9",
 "youtube": "https://www.youtube.com/watch?v=3Xo8tXahTLk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10835697-how-did-you-get-that-accent-the-stir-ep-9.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10835697-how-did-you-get-that-accent-the-stir-ep-9.mp3",
 "tag": ['Jun 2022', 'THE STIR']
 },
 "time529":{
@@ -596,7 +596,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4wrGcI5H32vPYZnSOXrPcG",
 "youtube": "https://www.youtube.com/watch?v=q91GWSvKCfE&t=449s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10829018-the-kk-show-139.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10829018-the-kk-show-139.mp3",
 "tag": ['Jun 2022', 'KK Show', '王彩樺', '藝人', '音樂']
 },
 "time528":{
@@ -606,7 +606,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4ehqra9CTf8of7njvtohVj",
 "youtube": "https://www.youtube.com/watch?v=fwvL350DkXg&t=2631s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10813153-0619-ai.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10813153-0619-ai.mp3",
 "tag": ['Jun 2022', '百靈果 NEWS']
 },
 "time527":{
@@ -616,7 +616,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4ZfUU4EZeEMXVSvwKcgqBp",
 "youtube": "https://www.youtube.com/watch?v=1QlB2MMBXJ8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10804609-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10804609-.mp3",
 "tag": ['Jun 2022', '八角籠', '暫代讀書會']
 },
 "time526":{
@@ -626,7 +626,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/505nwNiNkbSZQKTL0kP1Am",
 "youtube": "https://www.youtube.com/watch?v=XaN8IvfXA5Y",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10796566-you-read-what-for-fun-the-stir-ep-8.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10796566-you-read-what-for-fun-the-stir-ep-8.mp3",
 "tag": ['Jun 2022', 'THE STIR']
 },
 "time525":{
@@ -636,7 +636,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5jhBJpS45KpnSoehSmTS0y",
 "youtube": "https://www.youtube.com/watch?v=uFB-F_lDsX8&t=1339s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10789877-the-kk-show-138.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10789877-the-kk-show-138.mp3",
 "tag": ['Jun 2022', 'KK Show', '志祺 @志祺七七', '阿滴', 'Podcaster', 'Youtuber', '老闆']
 },
 "time524":{
@@ -646,7 +646,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1rcAf4dGW3DwQUCkgqWroW",
 "youtube": "https://www.youtube.com/watch?v=ehGbPjQdEl8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10777471-0612.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10777471-0612.mp3",
 "tag": ['Jun 2022', '百靈果 NEWS']
 },
 "time523":{
@@ -656,7 +656,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/65FAVoxwTCrjF2EU7dfxA7",
 "youtube": "https://www.youtube.com/watch?v=AG1CuTPxQSA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10763534-feat-and.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10763534-feat-and.mp3",
 "tag": ['Jun 2022', '暫代讀書會', '隱藏版 KK Show', '酸酸', '涵冷娜', 'Podcaster', 'Youtuber', '喜劇演員', '文藝', '演員']
 },
 "time522":{
@@ -666,7 +666,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5AgmVORyKklC9eWwAIWbkY",
 "youtube": "https://www.youtube.com/watch?v=SSNMgxXhOPY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10757771-why-do-taiwanese-people-love-travelling-the-stir-ep-7.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10757771-why-do-taiwanese-people-love-travelling-the-stir-ep-7.mp3",
 "tag": ['Jun 2022', 'THE STIR']
 },
 "time521":{
@@ -676,7 +676,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5vH4D034KzmZCepOwPmopH",
 "youtube": "https://www.youtube.com/watch?v=HrRfPMMZ4W8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10749435-the-kk-show-137.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10749435-the-kk-show-137.mp3",
 "tag": ['Jun 2022', 'KK Show', '吳品瑜', '時事']
 },
 "time520":{
@@ -686,7 +686,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1DzbY6vBLdgiSYAfdZ9yMn",
 "youtube": "https://www.youtube.com/watch?v=jVxFKRJLQik",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10737887-0605-tiktok-spotify-podcast-the-girl-with-the-louding-voice.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10737887-0605-tiktok-spotify-podcast-the-girl-with-the-louding-voice.mp3",
 "tag": ['Jun 2022', '百靈果 NEWS']
 },
 "time519":{
@@ -696,7 +696,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7sG8kRl9gHw1Zjnqh5rArG",
 "youtube": "https://www.youtube.com/watch?v=hSNEU2ilBlQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10719634-00.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10719634-00.mp3",
 "tag": ['Jun 2022', '讀書會', '同情者']
 },
 "time518":{
@@ -706,7 +706,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3x2In2UafD6Hkf8dZTkyCO",
 "youtube": "https://www.youtube.com/watch?v=zUrEg83kxdk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10718661-bad-bad-taiwanese-the-stir-ep-6.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10718661-bad-bad-taiwanese-the-stir-ep-6.mp3",
 "tag": ['Jun 2022', 'THE STIR']
 },
 "time517":{
@@ -716,7 +716,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7IUyPI0qa8OzsjxNjY3gcV",
 "youtube": "https://www.youtube.com/watch?v=dK539bqkBkg",
 "image": "e4380fff90a3043b0f8ba070a3ad253f495820a6d38ddbda42043cba49114696",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10711217-the-kk-show-136.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10711217-the-kk-show-136.mp3",
 "tag": ['May 2022', 'KK Show', '台南人劇團', '劇場', '文藝']
 },
 "time516":{
@@ -726,7 +726,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2sTR8OlGfG0oa2dKBMjxLe",
 "youtube": "https://www.youtube.com/watch?v=7E4B2yqud2s&t=3095s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10696769-0529.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10696769-0529.mp3",
 "tag": ['May 2022', '百靈果 NEWS']
 },
 "time515":{
@@ -736,7 +736,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0XXAOtKav2LCjsShCc6ZcN",
 "youtube": "https://www.youtube.com/watch?v=jwNvaWNRrWs&t=1168s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10684190-ft.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10684190-ft.mp3",
 "tag": ['May 2022', '暫代讀書會', '隱藏版 KK Show', '微笑丹尼', '黃豪平', 'Youtuber', '喜劇演員', '廣播人', '藝人', '魔術師']
 },
 "time514":{
@@ -746,7 +746,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1WzZje61QLnwqnvDuCmoII",
 "youtube": "https://www.youtube.com/watch?v=cW1zRYmbAO0&t=53s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672787-we-talked-about-the-filipino-presidential-election-and-ron-cried-the-stir-ep-5.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672787-we-talked-about-the-filipino-presidential-election-and-ron-cried-the-stir-ep-5.mp3",
 "tag": ['May 2022', 'THE STIR']
 },
 "time513":{
@@ -756,7 +756,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2IXNCYoxCCGi086Ubw3uiY",
 "youtube": "https://www.youtube.com/watch?v=to-yJOwzs_w",
 "image": "496937873a2d81177fe98d41f48cd12d7ebc345b8a4a7471a330b95e92f5680b",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672453-the-kk-show-135.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672453-the-kk-show-135.mp3",
 "tag": ['May 2022', 'KK Show', '陳零九', '音樂']
 },
 "time512":{
@@ -766,7 +766,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6lXUW2HkgeHG6eTRzbmbQm",
 "youtube": "https://www.youtube.com/watch?v=-qrC7tzJ_Q8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10659161-0522.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10659161-0522.mp3",
 "tag": ['May 2022', '百靈果 NEWS', '范琪斐', '敏迪 @敏迪選讀', 'Podcaster', 'Youtuber', '時事']
 },
 "time511":{
@@ -776,7 +776,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/57upaOfBpeDNX6sVCAx7Pj",
 "youtube": "https://www.youtube.com/watch?v=J8YzN0gKPCs&t=5s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10649832-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10649832-.mp3",
 "tag": ['May 2022', 'Clubhouse 企劃', '暫代讀書會']
 },
 "time510":{
@@ -786,7 +786,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2TANXdsH7TNEpyngeFTRyz",
 "youtube": "https://www.youtube.com/watch?v=hf62HQ7a6rA&t=592s",
 "image": "773a096692aa0e101a476c8aa259544b50540bff2d04eef3f2b30de512282fd4",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10639107-when-you-point-a-finger-the-stir-ep-4.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10639107-when-you-point-a-finger-the-stir-ep-4.mp3",
 "tag": ['May 2022', 'THE STIR']
 },
 "time509":{
@@ -796,7 +796,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6RWmiDzKWDF67XwS27teuj",
 "youtube": "https://www.youtube.com/watch?v=S6bD5Hu4wyY",
 "image": "db2f081285bf86477acfb68014e2e43c4a1ace8dd40dc648571bdbd65f43a218",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10631575-the-kk-show-134-youtuber-joeman.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10631575-the-kk-show-134-youtuber-joeman.mp3",
 "tag": ['May 2022', 'KK Show', 'Joeman', 'Youtuber', '老闆']
 },
 "time508":{
@@ -806,7 +806,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/37e78wMbs8vmqZYPZhzf7p",
 "youtube": "https://www.youtube.com/watch?v=BgcLxaFC1s0&t=3579s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10616158-0515-coda.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10616158-0515-coda.mp3",
 "tag": ['May 2022', '百靈果 NEWS']
 },
 "time507":{
@@ -816,7 +816,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2OLqfatVH12Ww2kLLCpYTK",
 "youtube": "https://www.youtube.com/watch?v=_vuka6oIZSg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10606073-a-homophobe-the-stir-ep-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10606073-a-homophobe-the-stir-ep-3.mp3",
 "tag": ['May 2022', 'THE STIR']
 },
 "time506":{
@@ -826,7 +826,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1ZkXE3gqsE0kV9cZsChabR",
 "youtube": "https://www.youtube.com/watch?v=i3R49uyIyr8&t=1734s",
 "image": "52de10d327116959a6b37f2a7bc275955f6d97377689a792102c1ca1645fe848",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10585688-the-kk-show-133.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10585688-the-kk-show-133.mp3",
 "tag": ['May 2022', 'KK Show', '歐馬克', 'Podcaster', '喜劇演員', '廣播人']
 },
 "time505":{
@@ -836,7 +836,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7bPsFmDGfDFZFHZ3oh7AKS",
 "youtube": "https://www.youtube.com/watch?v=oSFtstj-qDc&t=9s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10578358-0508-shein-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10578358-0508-shein-2.mp3",
 "tag": ['May 2022', '百靈果 NEWS']
 },
 "time504":{
@@ -846,7 +846,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5S83NvmA9KQ8GTiiQookVH",
 "youtube": "https://www.youtube.com/watch?v=Vyeev6DosIU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10562017-pachinko-6.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10562017-pachinko-6.mp3",
 "tag": ['May 2022', '讀書會', '柏青哥']
 },
 "time503":{
@@ -856,7 +856,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4MDbgiP5KI7gHY0uUSdOVl",
 "youtube": "https://www.youtube.com/watch?v=Hq-3FWg_1hM",
 "image": "33f9d8db270b59046d18669bd12f520073258bc502485bf5d0032239d967dd14",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548865-what-are-you-eating-the-stir-ep-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548865-what-are-you-eating-the-stir-ep-2.mp3",
 "tag": ['May 2022', 'THE STIR']
 },
 "time502":{
@@ -866,7 +866,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0gTcROcEW4sgJj9oV4WQYw",
 "youtube": "https://www.youtube.com/watch?v=vZcmJAHoZXo",
 "image": "8f91a3bc5adb98889b85f60c4dc79dc3cbc564d8043a97e9e204029bd9f1fd54",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548494-the-kk-show-132.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548494-the-kk-show-132.mp3",
 "tag": ['May 2022', 'KK Show', '賀瓏', 'Youtuber', '喜劇演員']
 },
 "time501":{
@@ -876,7 +876,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0eDg9j0ckIPexaSwFEBCJS",
 "youtube": "https://www.youtube.com/watch?v=67hllvJBYWc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531538-0501-vs.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531538-0501-vs.mp3",
 "tag": ['May 2022', '百靈果 NEWS']
 },
 "time500":{
@@ -886,7 +886,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/65PUfwOfzawkBTse8Tjnxe",
 "youtube": "https://www.youtube.com/watch?v=ELPrkI2E2YY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530617-pachinko-05.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530617-pachinko-05.mp3",
 "tag": ['Apr 2022', '讀書會', '柏青哥']
 },
 "time499":{
@@ -896,7 +896,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/76cSIVlNi7FzrAAiUdTyiq",
 "youtube": "https://www.youtube.com/watch?v=DRUKcQmejHo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530618-poverty-vs-racism-the-stir-ep-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530618-poverty-vs-racism-the-stir-ep-1.mp3",
 "tag": ['Apr 2022', 'THE STIR']
 },
 "time498":{
@@ -906,7 +906,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/48d4mGgfuDuZYIAq3zjd8D",
 "youtube": "https://www.youtube.com/watch?v=N1lL9ytT4Jg&t=8s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530619-the-kk-show-131.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530619-the-kk-show-131.mp3",
 "tag": ['Apr 2022', 'KK Show', '吳淡如', 'Podcaster', '媒體人', '廣播人']
 },
 "time497":{
@@ -916,7 +916,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5BCBEu6sez15W5Sjxc3BT5",
 "youtube": "https://www.youtube.com/watch?v=q5UOYdaSDOs&t=924s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530620-0424-youtube-severance.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530620-0424-youtube-severance.mp3",
 "tag": ['Apr 2022', '百靈果 NEWS']
 },
 "time496":{
@@ -926,7 +926,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/07OJ9gAAd9NOLc50ueaCQg",
 "youtube": "https://www.youtube.com/watch?v=8R-kfkbAjx4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530621-the-kk-show-130.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530621-the-kk-show-130.mp3",
 "tag": ['Apr 2022', 'KK Show', '楊杰凱', '專利師', '專業人士']
 },
 "time495":{
@@ -936,7 +936,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2eRbkdWCJ2UzprEljTqMcP",
 "youtube": "https://www.youtube.com/watch?v=C1jjsAPLqFg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530622-the-kk-show-129-naomi-o-leary.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530622-the-kk-show-129-naomi-o-leary.mp3",
 "tag": ['Apr 2022', 'KK Show', 'Naomi O’Leary', '時事', '記者']
 },
 "time494":{
@@ -946,7 +946,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7nrjuo3RqLIAZ1uBLideIB",
 "youtube": "https://www.youtube.com/watch?v=wJCehXTCiTo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530623-0417.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530623-0417.mp3",
 "tag": ['Apr 2022', '百靈果 NEWS']
 },
 "time493":{
@@ -956,7 +956,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1c4Itr9qVCImSlv5FydiX3",
 "youtube": "https://www.youtube.com/watch?v=IRLvzHUkTTY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451268-clubhouse-pachinko-04.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451268-clubhouse-pachinko-04.mp3",
 "tag": ['Apr 2022', '讀書會', '柏青哥']
 },
 "time492":{
@@ -966,7 +966,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0nr9PX2jUjWXWi9KPYA6Bx",
 "youtube": "https://www.youtube.com/watch?v=Rc84cbOajJ0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
 "tag": ['Apr 2022', 'Clubhouse 企劃', '暫代讀書會']
 },
 "time491":{
@@ -976,7 +976,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5XytWp3EW1Vo7OBFsvXa7r",
 "youtube": "https://www.youtube.com/watch?v=QBfV4Ed96CQ&t=527s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530624-the-kk-show-128-jim.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530624-the-kk-show-128-jim.mp3",
 "tag": ['Apr 2022', 'KK Show', 'Jim', 'Youtuber', '喜劇演員']
 },
 "time490":{
@@ -986,7 +986,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/75immgU75hOvcjle9fiPEI",
 "youtube": "https://www.youtube.com/watch?v=_m32fU72GKE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530625-0410-so-what-once.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530625-0410-so-what-once.mp3",
 "tag": ['Apr 2022', '百靈果 NEWS']
 },
 "time489":{
@@ -996,7 +996,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3rcMGoj6WAbIyg8ddrtBei",
 "youtube": "https://www.youtube.com/watch?v=eFitMnhARFQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530626-pachinko-03.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530626-pachinko-03.mp3",
 "tag": ['Apr 2022', '讀書會', '柏青哥']
 },
 "time488":{
@@ -1006,7 +1006,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1i1UoTrKb45rMxQ3of0wBA",
 "youtube": "https://www.youtube.com/watch?v=0mlp7kvqWoc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530627-the-kk-show-127-kevin.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530627-the-kk-show-127-kevin.mp3",
 "tag": ['Apr 2022', 'KK Show', 'Kevin', '時事']
 },
 "time487":{
@@ -1016,7 +1016,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4TTB4mKAHHSQDjB9egfWMi",
 "youtube": "https://www.youtube.com/watch?v=nS4U-Z-hdOI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530628-0403.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530628-0403.mp3",
 "tag": ['Apr 2022', '百靈果 NEWS']
 },
 "time486":{
@@ -1026,7 +1026,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/77aC0Yh1Sp3umupAW62e2m",
 "youtube": "https://www.youtube.com/watch?v=LnVBvzlEKYk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530629-pachinko-02.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530629-pachinko-02.mp3",
 "tag": ['Mar 2022', '讀書會', '柏青哥']
 },
 "time485":{
@@ -1036,7 +1036,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/187TMalJfRe7tVtscNoXGK",
 "youtube": "https://www.youtube.com/watch?v=b4iQHmqsvvk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530630-ft.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530630-ft.mp3",
 "tag": ['Mar 2022', '酸酸', 'Podcaster', 'Youtuber', '喜劇演員']
 },
 "time484":{
@@ -1046,7 +1046,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0VcogrLVNvrswXTQgz2kc4",
 "youtube": "https://www.youtube.com/watch?v=fcmz88dHgHU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530631-the-kk-show-126.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530631-the-kk-show-126.mp3",
 "tag": ['Mar 2022', 'KK Show', '許翱麟教授', '學者']
 },
 "time483":{
@@ -1056,7 +1056,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/03L8XdcscY7yPkjIEsyaJH",
 "youtube": "https://www.youtube.com/watch?v=oH6P3NndEpY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530632-0327-youtube-will-tennyson.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530632-0327-youtube-will-tennyson.mp3",
 "tag": ['Mar 2022', '百靈果 NEWS']
 },
 "time482":{
@@ -1066,7 +1066,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2B1NluzBJCYFq8EsvGQnXM",
 "youtube": "https://www.youtube.com/watch?v=9OgHwOpbLOE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530633-pachinko-01.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530633-pachinko-01.mp3",
 "tag": ['Mar 2022', '讀書會', '柏青哥']
 },
 "time481":{
@@ -1076,7 +1076,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1pX5gRfcM5yeOeDFM8cKfV",
 "youtube": "https://www.youtube.com/watch?v=a-cFp4bTM6I",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530634-the-kk-show-125.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530634-the-kk-show-125.mp3",
 "tag": ['Mar 2022', 'KK Show', '陳秋實', '時事', '記者']
 },
 "time480":{
@@ -1086,7 +1086,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1noPH5uM9LudT8bM5rgoXt",
 "youtube": "https://www.youtube.com/watch?v=yJhmxaO_QjM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530635-0320-covid.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530635-0320-covid.mp3",
 "tag": ['Mar 2022', '百靈果 NEWS']
 },
 "time479":{
@@ -1096,7 +1096,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0kA46Rq6akC2PBFgEj0LUf",
 "youtube": "https://www.youtube.com/watch?v=ndHk8SY-i1M",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530636-pachinko.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530636-pachinko.mp3",
 "tag": ['Mar 2022', '讀書會', '柏青哥']
 },
 "time478":{
@@ -1106,7 +1106,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0HzXVCTGtn2oAAtr4lK1VY",
 "youtube": "https://www.youtube.com/watch?v=IEOyozHKAU0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530637-the-kk-show-123-chapman.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530637-the-kk-show-123-chapman.mp3",
 "tag": ['Mar 2022', 'KK Show', 'Chapman 杜汶澤', '文藝', '演員', '老闆']
 },
 "time477":{
@@ -1116,7 +1116,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2VxPSVhNxQSu5WyjTLnAVI",
 "youtube": "https://www.youtube.com/watch?v=cs0OQ8V5q6Q",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530638-0313-rip.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530638-0313-rip.mp3",
 "tag": ['Mar 2022', '百靈果 NEWS']
 },
 "time476":{
@@ -1126,7 +1126,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3nbxoAF19SPPUVzyWV65qB",
 "youtube": "https://www.youtube.com/watch?v=r4cI0A0PD94",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530639-fat-leonard-mindy.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530639-fat-leonard-mindy.mp3",
 "tag": ['Mar 2022', '讀書會', 'Fat Leonard', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time475":{
@@ -1136,7 +1136,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0Bpf5ie7zKGfIXTW9OvEwp",
 "youtube": "https://www.youtube.com/watch?v=onuxU3B1cx8&t=2490s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530640-the-kk-show-123-kimberley.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530640-the-kk-show-123-kimberley.mp3",
 "tag": ['Mar 2022', 'KK Show', 'Kimberley陳芳語', '音樂']
 },
 "time474":{
@@ -1146,7 +1146,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6SU4upTMtF97LAbDESehpJ",
 "youtube": "https://www.youtube.com/watch?v=qrqNDS4Q97I",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530641-0306-the-batman.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530641-0306-the-batman.mp3",
 "tag": ['Mar 2022', '百靈果 NEWS']
 },
 "time473":{
@@ -1156,7 +1156,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/48TIPTaZ7QOQ9j9X89kKS1",
 "youtube": "https://www.youtube.com/watch?v=jgcfyYXm54s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530642-fat-leonard-ch-4.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530642-fat-leonard-ch-4.mp3",
 "tag": ['Mar 2022', '讀書會', 'Fat Leonard']
 },
 "time472":{
@@ -1166,7 +1166,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/60mvDqva5Fw4YrMSI9DQOP",
 "youtube": "https://www.youtube.com/watch?v=lTgJ31O1BOI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530643-the-kk-show-122.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530643-the-kk-show-122.mp3",
 "tag": ['Mar 2022', 'KK Show', '蕭東意', '劇場', '喜劇演員', '文藝', '演員']
 },
 "time471":{
@@ -1176,7 +1176,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4KUWkHe6yfBr9DK0Xu6uAQ",
 "youtube": "https://www.youtube.com/watch?v=di8qVp21p40",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530644-0227-eternal-sunshine-of-the-spotless-mind.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530644-0227-eternal-sunshine-of-the-spotless-mind.mp3",
 "tag": ['Feb 2022', '百靈果 NEWS']
 },
 "time470":{
@@ -1186,7 +1186,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3t5COoU8YAWQsxAwteNEVT",
 "youtube": "https://www.youtube.com/watch?v=lYzntDSR_wc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3",
 "tag": ['Feb 2022', '讀書會', 'Fat Leonard']
 },
 "time469":{
@@ -1196,7 +1196,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1JCFoN8l3pewJWEebri6Zc",
 "youtube": "https://www.youtube.com/watch?v=REdynLwcZ2U",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530646-the-kk-show-121.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530646-the-kk-show-121.mp3",
 "tag": ['Feb 2022', 'KK Show', '人渣文本', '學者', '運動']
 },
 "time468":{
@@ -1206,7 +1206,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3XhlmEQaI62GiffhI3loGw",
 "youtube": "https://www.youtube.com/watch?v=M_IZGve0O1s&t=130s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530647-tough-bobas-live-podcast-ken-ft.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530647-tough-bobas-live-podcast-ken-ft.mp3",
 "tag": ['Feb 2022', 'Live Podcast']
 },
 "time467":{
@@ -1216,7 +1216,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6wDr1hwwN1y5c1CBBfyBOv",
 "youtube": "https://www.youtube.com/watch?v=ea5g8I75JXk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530648-0220-gg-green-light-by-mathew-mcconaughey.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530648-0220-gg-green-light-by-mathew-mcconaughey.mp3",
 "tag": ['Feb 2022', '百靈果 NEWS']
 },
 "time466":{
@@ -1226,7 +1226,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/36WPj10E71UtGOgABxjVBt",
 "youtube": "https://www.youtube.com/watch?v=bqwxwgZrzG0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530649-ncis-fat-leonard-fat-leonard-02.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530649-ncis-fat-leonard-fat-leonard-02.mp3",
 "tag": ['Feb 2022', '讀書會', 'Fat Leonard']
 },
 "time465":{
@@ -1236,7 +1236,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4pNQ4FSVloFo5bm4TNhrbo",
 "youtube": "https://www.youtube.com/watch?v=Bi4oWH8v3qs&t=684s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530650-the-kk-show-120.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530650-the-kk-show-120.mp3",
 "tag": ['Feb 2022', 'KK Show', '周冠威', '導演', '文藝']
 },
 "time464":{
@@ -1246,7 +1246,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4qoeSLJz0HEk9CpGyghxYd",
 "youtube": "https://www.youtube.com/watch?v=0AuBdSF1nHI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530651-0213-218-dna.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530651-0213-218-dna.mp3",
 "tag": ['Feb 2022', '百靈果 NEWS']
 },
 "time463":{
@@ -1256,7 +1256,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4EDAI5ccjfPlNRmgP6nf8F",
 "youtube": "https://www.youtube.com/watch?v=2ExhG5dsHW0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530652-fat-leonard-01.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530652-fat-leonard-01.mp3",
 "tag": ['Feb 2022', '讀書會', 'Fat Leonard']
 },
 "time462":{
@@ -1266,7 +1266,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7vfgu7is4uLiVhLIBTCsiS",
 "youtube": "https://www.youtube.com/watch?v=GgCzbOCj_28&t=2597s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530653-the-kk-show-119.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530653-the-kk-show-119.mp3",
 "tag": ['Feb 2022', 'KK Show', '黃大謙', 'Youtuber']
 },
 "time461":{
@@ -1276,7 +1276,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3LhXENmdJXGiXnkD9EhMXr",
 "youtube": "https://www.youtube.com/watch?v=VdAi52hm4MQ&t=1s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530654-0206-joe-rogan.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530654-0206-joe-rogan.mp3",
 "tag": ['Feb 2022', '百靈果 NEWS']
 },
 "time460":{
@@ -1286,7 +1286,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1XKaXCHdAz9SMJcWAUvI39",
 "youtube": "https://www.youtube.com/watch?v=JeEAPj9TCEs&t=35s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530655-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530655-.mp3",
 "tag": ['Feb 2022', '百靈果之友', '葉耀元教授', '學者', '時事', '暫代讀書會']
 },
 "time459":{
@@ -1296,7 +1296,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1Im2GYWiAlrHWAti38Pg5i",
 "youtube": "https://www.youtube.com/watch?v=UDM18-DG2Sw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530656-the-kk-show-118.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530656-the-kk-show-118.mp3",
 "tag": ['Feb 2022', 'KK Show', '妍霏', '學仁', '喜劇演員']
 },
 "time458":{
@@ -1306,7 +1306,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7yyCfjTJ9Tc7JrzujUK82M",
 "youtube": "https://www.youtube.com/watch?v=f3-tbslhXtw&t=60s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530657-0130-toughbobas-218-why.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530657-0130-toughbobas-218-why.mp3",
 "tag": ['Jan 2022', '百靈果 NEWS']
 },
 "time457":{
@@ -1316,7 +1316,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6nLTqo3biF358SA0VkwmgL",
 "youtube": "https://www.youtube.com/watch?v=B4GT7Ty049c",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530658-end.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530658-end.mp3",
 "tag": ['Jan 2022', '讀書會', '林獻堂環球遊記']
 },
 "time456":{
@@ -1326,7 +1326,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7AOd1ZpbDN5Y4NCgdR20bh",
 "youtube": "https://www.youtube.com/watch?v=yD83H7ryaws&t=479s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530659-the-kk-show-117.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530659-the-kk-show-117.mp3",
 "tag": ['Jan 2022', 'KK Show', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '老闆']
 },
 "time455":{
@@ -1336,7 +1336,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1K0dFhcNVExeoJHfDCEpuL",
 "youtube": "https://www.youtube.com/watch?v=yoT7ROsdkTw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530660-0123-6-covid-will.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530660-0123-6-covid-will.mp3",
 "tag": ['Jan 2022', '百靈果 NEWS']
 },
 "time454":{
@@ -1346,7 +1346,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0JIqqnaHojWs2SRRfAyC5u",
 "youtube": "https://www.youtube.com/watch?v=pqYX8OhyXak",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530661-live-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530661-live-podcast.mp3",
 "tag": ['Jan 2022', 'Live Podcast', '暫代讀書會']
 },
 "time453":{
@@ -1356,7 +1356,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5eiaSWGHetZm12E5kPssjC",
 "youtube": "https://www.youtube.com/watch?v=fhaRy0WGzIQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530662-the-kk-show-116-senorita-xin.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530662-the-kk-show-116-senorita-xin.mp3",
 "tag": ['Jan 2022', 'KK Show', 'Xin', '聽眾']
 },
 "time452":{
@@ -1366,7 +1366,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2w03WDSmgaA5hZGoxjkVbV",
 "youtube": "https://www.youtube.com/watch?v=hlDDJWdKIfM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530663-0116-the-rescue-found.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530663-0116-the-rescue-found.mp3",
 "tag": ['Jan 2022', '百靈果 NEWS']
 },
 "time451":{
@@ -1376,7 +1376,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1nlNev1RDHBcJzUmj9V64r",
 "youtube": "https://www.youtube.com/watch?v=oVKE3QrEPh8&t=649s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530664-omicron-ken-ch1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530664-omicron-ken-ch1.mp3",
 "tag": ['Jan 2022', '讀書會', '林獻堂環球遊記']
 },
 "time450":{
@@ -1386,7 +1386,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2q5OjVaEsvWB5fFddBP32Z",
 "youtube": "https://www.youtube.com/watch?v=MInVRrpHZz4&t=1623s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530665-the-kk-show-115.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530665-the-kk-show-115.mp3",
 "tag": ['Jan 2022', 'KK Show', '泥泥學姐', 'Youtuber']
 },
 "time449":{
@@ -1396,7 +1396,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3fuGcMHpqFKwldXIK669Wa",
 "youtube": "https://www.youtube.com/watch?v=NqNnTZDW6Tc&t=2655s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530666-0109.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530666-0109.mp3",
 "tag": ['Jan 2022', '百靈果 NEWS']
 },
 "time448":{
@@ -1406,7 +1406,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1yPZgE4HbZFUSlh2DJDuPe",
 "youtube": "https://www.youtube.com/watch?v=YOj5QS8lNmk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530667-vs.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530667-vs.mp3",
 "tag": ['Jan 2022', '五月天事件', '楊貴智 @法律白話文', 'Podcaster', '專業人士', '律師']
 },
 "time447":{
@@ -1416,7 +1416,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4XT50UIkMbVjfBOCSsTXpx",
 "youtube": "https://www.youtube.com/watch?v=WDpWUpvyaiI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530668-the-kk-show-114.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530668-the-kk-show-114.mp3",
 "tag": ['Jan 2022', 'KK Show', '阮鳳儀', '導演', '文藝']
 },
 "time446":{
@@ -1426,7 +1426,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1IxQP2yrabjT0cP6rXpYvr",
 "youtube": "https://www.youtube.com/watch?v=R1jpqkFZTUs&t=171s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530669-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530669-.mp3",
 "tag": ['Jan 2022', '五月天事件']
 },
 "time445":{
@@ -1436,7 +1436,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/07zBzs6hTHaSJ1yWtR0o11",
 "youtube": "https://www.youtube.com/watch?v=L0WyUjHdo3M&t=1831s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530670-0102-podcast-korea-24-by-kbs.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530670-0102-podcast-korea-24-by-kbs.mp3",
 "tag": ['Jan 2022', '百靈果 NEWS']
 },
 "time444":{
@@ -1446,7 +1446,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1pJt6SjTHnir6xhKcoIElD",
 "youtube": "https://www.youtube.com/watch?v=YEtKlRJAN38",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530671-2021-kmt.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530671-2021-kmt.mp3",
 "tag": ['Dec 2021', '暫代讀書會']
 },
 "time443":{
@@ -1456,7 +1456,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0qRhuGgiXya1XgvQPZ6WxR",
 "youtube": "https://www.youtube.com/watch?v=LZw9L65NqiM&t=277s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530672-the-kk-show-113.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530672-the-kk-show-113.mp3",
 "tag": ['Dec 2021', 'KK Show', '阿爆', '阿拉斯', 'Youtuber', '原住民', '朋友', '音樂']
 },
 "time442":{
@@ -1466,7 +1466,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6oMVQXF1ETytCyKXvOkVJO",
 "youtube": "https://www.youtube.com/watch?v=ZLAstaqu9y8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530673-1226-podcast-fat-leonard.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530673-1226-podcast-fat-leonard.mp3",
 "tag": ['Dec 2021', '百靈果 NEWS']
 },
 "time441":{
@@ -1476,7 +1476,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3iyvOPo0sXrg81QkdoBzAr",
 "youtube": "https://www.youtube.com/watch?v=_CEHwL5fUOg&t=4268s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530674-the-kk-show-112.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530674-the-kk-show-112.mp3",
 "tag": ['Dec 2021', 'KK Show', '李四端', '媒體人']
 },
 "time440":{
@@ -1486,7 +1486,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0ewH49PXwp8w4Hc7ioD5JH",
 "youtube": "https://www.youtube.com/watch?v=UJirhvhsk7g",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530675-hello-stranger.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530675-hello-stranger.mp3",
 "tag": ['Dec 2021', '百靈果 Bonus']
 },
 "time439":{
@@ -1496,7 +1496,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0P1owb2536yPCTnC3bzhm5",
 "youtube": "https://www.youtube.com/watch?v=vYdfgb5FRQs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530676-1219-a-tunnel-29.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530676-1219-a-tunnel-29.mp3",
 "tag": ['Dec 2021', '百靈果 NEWS']
 },
 "time438":{
@@ -1506,7 +1506,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6ld3buOGyuTE2kD0IOJwIN",
 "youtube": "https://www.youtube.com/watch?v=NI5vfSIMZrw&t=2s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530677-the-kk-show-111-social.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530677-the-kk-show-111-social.mp3",
 "tag": ['Dec 2021', 'KK Show', 'Social', '喜劇演員', '老闆']
 },
 "time437":{
@@ -1516,7 +1516,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5DjKYMNwronmuOdAGMlaC4",
 "youtube": "https://www.youtube.com/watch?v=ssrLldd8loc&t=3572s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530678-1212-youtube-colin-and-samir.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530678-1212-youtube-colin-and-samir.mp3",
 "tag": ['Dec 2021', '百靈果 NEWS']
 },
 "time436":{
@@ -1526,7 +1526,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5aYzrIXGNP6hJKJMPN56EZ",
 "youtube": "https://www.youtube.com/watch?v=3A5rUU_gh4o",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530679-ep-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530679-ep-3.mp3",
 "tag": ['Dec 2021', '八角籠', '暫代讀書會']
 },
 "time435":{
@@ -1536,7 +1536,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2TABU6PXqoVpbL1wj4E3ws",
 "youtube": "https://www.youtube.com/watch?v=KV-UdsfNLA0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530680-the-kk-show-110-jc.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530680-the-kk-show-110-jc.mp3",
 "tag": ['Dec 2021', 'KK Show', 'JC', '聽眾']
 },
 "time434":{
@@ -1546,7 +1546,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5ZpRjndQV9scdrTZHMMt4v",
 "youtube": "https://www.youtube.com/watch?v=GvzwcGPOUaQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530681-1205-airbnb.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530681-1205-airbnb.mp3",
 "tag": ['Dec 2021', '百靈果 NEWS']
 },
 "time433":{
@@ -1556,7 +1556,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2iJfRGzExN0C7sCKKV79pF",
 "youtube": "https://www.youtube.com/watch?v=eT055eJ3S8I&t=5s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530682-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530682-.mp3",
 "tag": ['Dec 2021', '讀書會', '林獻堂環球遊記']
 },
 "time432":{
@@ -1566,7 +1566,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2VKscuZZwaljBleGBCn0Tj",
 "youtube": "https://www.youtube.com/watch?v=7bNnaRnf74g&t=2038s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530683-the-kk-show-109.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530683-the-kk-show-109.mp3",
 "tag": ['Nov 2021', 'KK Show', '林昶佐', '政治人物', '音樂']
 },
 "time431":{
@@ -1576,7 +1576,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4PnBRvm285DHtbdAUmN8FR",
 "youtube": "https://www.youtube.com/watch?v=N1szvO_niik",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530684-1128-1000-years-of-joys-and-sorrows-by.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530684-1128-1000-years-of-joys-and-sorrows-by.mp3",
 "tag": ['Nov 2021', '百靈果 NEWS']
 },
 "time430":{
@@ -1586,7 +1586,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2AFF6s01wkaJwQGxCGtGR1",
 "youtube": "https://www.youtube.com/watch?v=qclnXdrAI5s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530685-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530685-.mp3",
 "tag": ['Nov 2021', '讀書會']
 },
 "time429":{
@@ -1596,7 +1596,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2V0fE2XSKn6Rj0CvfUplpR",
 "youtube": "https://www.youtube.com/watch?v=V73cWjLkUM8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530686-the-kk-show-108.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530686-the-kk-show-108.mp3",
 "tag": ['Nov 2021', 'KK Show', '吳怡農', '政治人物']
 },
 "time428":{
@@ -1606,7 +1606,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2iVltHQ72qDB43lYUjcyt2",
 "youtube": "https://www.youtube.com/watch?v=vMRhQmXJ7C8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530687-1121-taylor-swift-whereispengshuai.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530687-1121-taylor-swift-whereispengshuai.mp3",
 "tag": ['Nov 2021', '百靈果 NEWS']
 },
 "time427":{
@@ -1616,7 +1616,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2EzKDAZuxoEv6aWPvgVBx9",
 "youtube": "https://www.youtube.com/watch?v=nmlKOIrQVnk&t=1340s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530688-eat-the-buddha-07-ch22-23-end.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530688-eat-the-buddha-07-ch22-23-end.mp3",
 "tag": ['Nov 2021', '讀書會', '吃佛']
 },
 "time426":{
@@ -1626,7 +1626,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1d1DufKfQ0IEusgMNpNLNL",
 "youtube": "https://www.youtube.com/watch?v=1_wI4IdLMXs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530689-the-kk-show-107-101.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530689-the-kk-show-107-101.mp3",
 "tag": ['Nov 2021', 'KK Show', '美國台灣觀測站', '時事']
 },
 "time425":{
@@ -1636,7 +1636,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7BHeva5uyvTlst6gjsAEhf",
 "youtube": "https://www.youtube.com/watch?v=KQ_ziCRkWDY&t=11s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530690-1114.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530690-1114.mp3",
 "tag": ['Nov 2021', '百靈果 NEWS']
 },
 "time424":{
@@ -1646,7 +1646,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7fVSseHhJ6Lm3AwAVy3qcd",
 "youtube": "https://www.youtube.com/watch?v=l_O9AUDCCY0&t=68s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530691-8-eat-the-buddha-ch18-21.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530691-8-eat-the-buddha-ch18-21.mp3",
 "tag": ['Nov 2021', '讀書會', '吃佛']
 },
 "time423":{
@@ -1656,7 +1656,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4J24soqpSRFdfsC3QwFLH4",
 "youtube": "https://www.youtube.com/watch?v=_jUV9x5nffo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530692-the-kk-show-106-kimberley.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530692-the-kk-show-106-kimberley.mp3",
 "tag": ['Nov 2021', 'KK Show', 'Kimberley陳芳語', '音樂']
 },
 "time422":{
@@ -1666,7 +1666,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0tl55u6p98RbPg7TOUBuMH",
 "youtube": "https://www.youtube.com/watch?v=mAHkrb_fC_0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530693-1107-covid.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530693-1107-covid.mp3",
 "tag": ['Nov 2021', '百靈果 NEWS']
 },
 "time421":{
@@ -1676,7 +1676,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/49DZSfG38Q539LZxltjqBk",
 "youtube": "https://www.youtube.com/watch?v=m3rj1Pd2VvY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530694-314-05-ch-15-17.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530694-314-05-ch-15-17.mp3",
 "tag": ['Nov 2021', '讀書會', '吃佛']
 },
 "time420":{
@@ -1686,7 +1686,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5bgms44vvWMAjuP6B7nRyv",
 "youtube": "https://www.youtube.com/watch?v=YdUFfPCkc6Y&t=751s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530695-the-kk-show-105-onlyfans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530695-the-kk-show-105-onlyfans.mp3",
 "tag": ['Nov 2021', 'KK Show', '社畜', '色色']
 },
 "time419":{
@@ -1696,7 +1696,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7bL3SXQ2NKXb4VFOgoNFBP",
 "youtube": "https://www.youtube.com/watch?v=FEoRa0o--U4&t=1798s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530696-1031.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530696-1031.mp3",
 "tag": ['Oct 2021', '百靈果 NEWS']
 },
 "time418":{
@@ -1706,7 +1706,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1X90ygzxnEl9HXi8LBkLB0",
 "youtube": "https://www.youtube.com/watch?v=p6k-1jxUj9w",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530697-john-oliver.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530697-john-oliver.mp3",
 "tag": ['Oct 2021', '暫代讀書會', '百靈果到處跑']
 },
 "time417":{
@@ -1716,7 +1716,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/78msAlIHPEZDXTmw4DtF95",
 "youtube": "https://www.youtube.com/watch?v=0P4sNCDUmhY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530698-the-kk-show-104.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530698-the-kk-show-104.mp3",
 "tag": ['Oct 2021', 'KK Show', '汪怡昕', '影視製作', '製作人']
 },
 "time416":{
@@ -1726,7 +1726,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4CfwJHLMGMGpiixJgznMmg",
 "youtube": "https://www.youtube.com/watch?v=6UkurZKS3hc&t=90s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530699-1024-nba-house-of-secrets.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530699-1024-nba-house-of-secrets.mp3",
 "tag": ['Oct 2021', '百靈果 NEWS']
 },
 "time415":{
@@ -1736,7 +1736,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5lfA32OK1YTuOqBHWnor0J",
 "youtube": "https://www.youtube.com/watch?v=SMC2pOMq5OA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530700-cptpp-open-eat-the-buddha-04.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530700-cptpp-open-eat-the-buddha-04.mp3",
 "tag": ['Oct 2021', '讀書會', '吃佛']
 },
 "time414":{
@@ -1746,7 +1746,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6vgM0rujWuwx4DsZV50h3b",
 "youtube": "https://www.youtube.com/watch?v=swlpXxqPuYU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530701-the-kk-show-103-k.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530701-the-kk-show-103-k.mp3",
 "tag": ['Oct 2021', 'KK Show', '老K', '喜劇演員']
 },
 "time413":{
@@ -1756,7 +1756,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2GYwlddbZ0kYbyFaoXMnP3",
 "youtube": "https://www.youtube.com/watch?v=8Zr1U-UaLE4&t=2782s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530702-1017-podcast-arirang-radio.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530702-1017-podcast-arirang-radio.mp3",
 "tag": ['Oct 2021', '百靈果 NEWS']
 },
 "time412":{
@@ -1766,7 +1766,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6dQLxjI7K8ui669dOsKG5v",
 "youtube": "https://www.youtube.com/watch?v=l-w04cu-jqE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530703-eat-the-buddha-03.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530703-eat-the-buddha-03.mp3",
 "tag": ['Oct 2021', '讀書會', '吃佛']
 },
 "time411":{
@@ -1776,7 +1776,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2YKtlgRXbE6hD5afdsfF3X",
 "youtube": "https://www.youtube.com/watch?v=xZO2mcNyDQ8&t=8s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530704-the-kk-show-102.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530704-the-kk-show-102.mp3",
 "tag": ['Oct 2021', 'KK Show', '黃秋生', '文藝', '演員']
 },
 "time410":{
@@ -1786,7 +1786,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0BRgLmNbwg1Njrk4rTUOmT",
 "youtube": "https://www.youtube.com/watch?v=xRIBJcpLeXE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530705-1010-cia-the-closer-by-dave-chappelle.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530705-1010-cia-the-closer-by-dave-chappelle.mp3",
 "tag": ['Oct 2021', '百靈果 NEWS']
 },
 "time409":{
@@ -1796,7 +1796,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2tVexmr5Imm7jk6woRUKed",
 "youtube": "https://www.youtube.com/watch?v=w8y6IGtCWOo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530706-update-eat-the-buddha-02.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530706-update-eat-the-buddha-02.mp3",
 "tag": ['Oct 2021', '讀書會', '吃佛']
 },
 "time408":{
@@ -1806,7 +1806,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3j6odG3sn8uN7wpdDbFadA",
 "youtube": "https://www.youtube.com/watch?v=wMy9BPJcVYM&t=3812s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530707-the-kk-show-101-cptpp.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530707-the-kk-show-101-cptpp.mp3",
 "tag": ['Oct 2021', 'KK Show', '李淳', '學者', '時事']
 },
 "time407":{
@@ -1816,7 +1816,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7i2Dx0YRtXzqHk8PbE9d4z",
 "youtube": "https://www.youtube.com/watch?v=JVF4rcnSj7M&t=945s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530708-1003-ken.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530708-1003-ken.mp3",
 "tag": ['Oct 2021', '百靈果 NEWS', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time406":{
@@ -1826,7 +1826,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1d2STlVcI1jPW2PjyaZN3K",
 "youtube": "https://www.youtube.com/watch?v=RJkHamDBb5s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530709-eat-the-buddha-01.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530709-eat-the-buddha-01.mp3",
 "tag": ['Sep 2021', '讀書會', '吃佛']
 },
 "time405":{
@@ -1836,7 +1836,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2FFLcCtMa4omYyzrppoGER",
 "youtube": "https://www.youtube.com/watch?v=soPLUYHdXMA&t=2022s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530710-the-kk-show-100.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530710-the-kk-show-100.mp3",
 "tag": ['Sep 2021', 'KK Show', '龍哥', '影視製作', '製作人']
 },
 "time404":{
@@ -1846,7 +1846,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/26bijo6vGFKyUkIBusr4fs",
 "youtube": "https://www.youtube.com/watch?v=gm2RdIPM1eQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530711-0926-peril-by-bob-woodward.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530711-0926-peril-by-bob-woodward.mp3",
 "tag": ['Sep 2021', '百靈果 NEWS']
 },
 "time403":{
@@ -1856,7 +1856,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1FIiS666PIldwNxfIuzgx9",
 "youtube": "https://www.youtube.com/watch?v=UpqiVR5bktc&t=191s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530712-eat-the-buddha.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530712-eat-the-buddha.mp3",
 "tag": ['Sep 2021', '讀書會', '吃佛']
 },
 "time402":{
@@ -1866,7 +1866,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6j0q5jZRXHZ0OGy6Bxkaxd",
 "youtube": "https://www.youtube.com/watch?v=GKmlRVZq2kY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530713-the-kk-show-99.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530713-the-kk-show-99.mp3",
 "tag": ['Sep 2021', 'KK Show', '林榮基', '老闆']
 },
 "time401":{
@@ -1876,7 +1876,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0VfP1BD7k77D1Yo6nnhajE",
 "youtube": "https://www.youtube.com/watch?v=oGicg_hvJig&t=351s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530714-0919.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530714-0919.mp3",
 "tag": ['Sep 2021', '百靈果 NEWS']
 },
 "time400":{
@@ -1886,7 +1886,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1WFZqeWxmeI5jCm233UAoj",
 "youtube": "https://www.youtube.com/watch?v=1QZzG08Recs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530715-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530715-.mp3",
 "tag": ['Sep 2021', '百靈果到處跑', '暫代讀書會']
 },
 "time399":{
@@ -1896,7 +1896,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2eR0Ozv5Vjifh9d5GCAIMM",
 "youtube": "https://www.youtube.com/watch?v=JJKq8dY6lqU&t=3082s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530716-the-kk-show-98.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530716-the-kk-show-98.mp3",
 "tag": ['Sep 2021', 'KK Show', '東冬侯溫', '原住民']
 },
 "time398":{
@@ -1906,7 +1906,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3VmOD5mpWvmPsy2F4gE8Tm",
 "youtube": "https://www.youtube.com/watch?v=gBuw7coI-z8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530717-0912.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530717-0912.mp3",
 "tag": ['Sep 2021', '百靈果 NEWS']
 },
 "time397":{
@@ -1916,7 +1916,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4R3McFsH2s7aEfIhKLvVbE",
 "youtube": "https://www.youtube.com/watch?v=V5TfRhNWOSs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530718-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530718-.mp3",
 "tag": ['Sep 2021', '讀書會', '宮前町九十番']
 },
 "time396":{
@@ -1926,7 +1926,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7cRRiiIwuIOt05nHCAUsdi",
 "youtube": "https://www.youtube.com/watch?v=7ASQL_mOJEE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530719-the-kk-show-97.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530719-the-kk-show-97.mp3",
 "tag": ['Sep 2021', 'KK Show', '陳念琴', '原住民', '運動']
 },
 "time395":{
@@ -1936,7 +1936,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6skpYs95gaMo6t6awl7pTO",
 "youtube": "https://www.youtube.com/watch?v=94xCcr72i-U",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530720-0904.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530720-0904.mp3",
 "tag": ['Sep 2021', '百靈果 NEWS']
 },
 "time394":{
@@ -1946,7 +1946,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/57ku5eGEuLSgH9igfTslxd",
 "youtube": "https://www.youtube.com/watch?v=pid1x9FTs5M",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530721-05.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530721-05.mp3",
 "tag": ['Sep 2021', '讀書會', '宮前町九十番']
 },
 "time393":{
@@ -1956,7 +1956,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0XSatFaWPFjquVFj6u29tw",
 "youtube": "https://www.youtube.com/watch?v=PZzJuLbCHCI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530722-the-kk-show-96-neil.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530722-the-kk-show-96-neil.mp3",
 "tag": ['Aug 2021', 'KK Show', 'Neil', '編輯']
 },
 "time392":{
@@ -1966,7 +1966,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/75IFjEDMlqfKR8krYd8iDf",
 "youtube": "https://www.youtube.com/watch?v=hD-y5k4IS9U",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530723-0829-project-hail-mary.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530723-0829-project-hail-mary.mp3",
 "tag": ['Aug 2021', '百靈果 NEWS']
 },
 "time391":{
@@ -1976,7 +1976,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1ENBw316NSyMWduBcp639K",
 "youtube": "https://www.youtube.com/watch?v=O0E16PvIIZE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530724-04.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530724-04.mp3",
 "tag": ['Aug 2021', '讀書會', '宮前町九十番']
 },
 "time390":{
@@ -1986,7 +1986,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/363S553abjsQ3SzvyWd6kg",
 "youtube": "https://www.youtube.com/watch?v=pTwAdgbM5es&t=2560s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530725-the-kk-show-95-bbk-network.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530725-the-kk-show-95-bbk-network.mp3",
 "tag": ['Aug 2021', 'KK Show', '盧卡斯 @BBK Networ', 'Youtuber']
 },
 "time389":{
@@ -1996,7 +1996,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0gAyuWSxnevabqablGkn0b",
 "youtube": "https://www.youtube.com/watch?v=7wZlAOz7ZPs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530726-0822-onlyfans-feat.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530726-0822-onlyfans-feat.mp3",
 "tag": ['Aug 2021', '百靈果 NEWS', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time388":{
@@ -2006,7 +2006,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2bsgJJF01lwbvv004iA8QV",
 "youtube": "https://www.youtube.com/watch?v=_crS0T4m_1w",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530727-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530727-.mp3",
 "tag": ['Aug 2021', '讀書會']
 },
 "time387":{
@@ -2016,7 +2016,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/476OChIwe04shZ5lca0bki",
 "youtube": "https://www.youtube.com/watch?v=zkI141qC8zM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530728-the-kk-show-94-jack.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530728-the-kk-show-94-jack.mp3",
 "tag": ['Aug 2021', 'KK Show', 'Jack', '運動']
 },
 "time386":{
@@ -2026,7 +2026,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3lj7UtBysi7gR1fHDgeoa8",
 "youtube": "https://www.youtube.com/watch?v=p6uxRECWEvs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530729-0815.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530729-0815.mp3",
 "tag": ['Aug 2021', '百靈果 NEWS']
 },
 "time385":{
@@ -2036,7 +2036,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1lZuATcI5GxvBuNZJdUwEu",
 "youtube": "https://www.youtube.com/watch?v=V61QA2MmkZE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530730-ch9-20.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530730-ch9-20.mp3",
 "tag": ['Aug 2021', '讀書會', '宮前町九十番']
 },
 "time384":{
@@ -2046,7 +2046,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/45GEKwNVsGNZijKCPQhWLO",
 "youtube": "https://www.youtube.com/watch?v=kMNk-HdtwGA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530731-the-kk-show-93.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530731-the-kk-show-93.mp3",
 "tag": ['Aug 2021', 'KK Show', '瑞典劉先生', 'Podcaster', '時事']
 },
 "time383":{
@@ -2056,7 +2056,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1CgdJnTSpUZowahCF4d01m",
 "youtube": "https://www.youtube.com/watch?v=fip3GCvRI3o&t=624s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530732-0808.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530732-0808.mp3",
 "tag": ['Aug 2021', '百靈果 NEWS']
 },
 "time382":{
@@ -2066,7 +2066,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4rSW1lSJwgYOX5KePJp3Kt",
 "youtube": "https://www.youtube.com/watch?v=xzXIBI8LIqI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530733-ch1-8.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530733-ch1-8.mp3",
 "tag": ['Aug 2021', '讀書會', '宮前町九十番']
 },
 "time381":{
@@ -2076,7 +2076,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3tBhSx9lDXTMXi1Yf0hslR",
 "youtube": "https://www.youtube.com/watch?v=bZx__bXYf6k",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530734-the-kk-show-92.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530734-the-kk-show-92.mp3",
 "tag": ['Aug 2021', 'KK Show', '于北辰', '政治人物']
 },
 "time380":{
@@ -2086,7 +2086,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5lGMPbQxnb7re4mcCFvFlM",
 "youtube": "https://www.youtube.com/watch?v=4BqPudMdn5A&t=2s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530735-0801.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530735-0801.mp3",
 "tag": ['Aug 2021', '百靈果 NEWS']
 },
 "time379":{
@@ -2096,7 +2096,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1gKAh6csMNxofGqArWriKI",
 "youtube": "https://www.youtube.com/watch?v=2xWAnZjqdPk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530736-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530736-.mp3",
 "tag": ['Jul 2021', '讀書會', '宮前町九十番']
 },
 "time378":{
@@ -2106,7 +2106,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5TDHN5ismOCER6Rxyl7Qee",
 "youtube": "https://www.youtube.com/watch?v=TrY2vYFIEeU&t=17s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530737-the-kk-show-90.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530737-the-kk-show-90.mp3",
 "tag": ['Jul 2021', 'KK Show', '葉耀元教授', '學者', '時事']
 },
 "time377":{
@@ -2116,7 +2116,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/50VSefimRhohejlIp4XSTZ",
 "youtube": "https://www.youtube.com/watch?v=H37o9sB4E9I",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530738-0725-the-marvelous-mrs-maisel.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530738-0725-the-marvelous-mrs-maisel.mp3",
 "tag": ['Jul 2021', '百靈果 NEWS']
 },
 "time376":{
@@ -2126,7 +2126,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3SoEQr2FTm9ZgcLKaoytwM",
 "youtube": "https://www.youtube.com/watch?v=oEIBXYo2mBg&t=13s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530739-004.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530739-004.mp3",
 "tag": ['Jul 2021', '百靈果之友', 'Jason 劉致昕 @報導者', '時事', '暫代讀書會', '記者']
 },
 "time375":{
@@ -2136,7 +2136,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/54Wt6pRunWdeuvZz64cjC8",
 "youtube": "https://www.youtube.com/watch?v=_9QMP46awhg&t=3s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530740-the-kk-show-90-byun.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530740-the-kk-show-90-byun.mp3",
 "tag": ['Jul 2021', 'KK Show', 'Byun 秉昀', '時事', '記者']
 },
 "time374":{
@@ -2146,7 +2146,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7vkMbjJM4vVqXiP7coSgyG",
 "youtube": "https://www.youtube.com/watch?v=55gZQQzZYs0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530741-0718-vaxxers.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530741-0718-vaxxers.mp3",
 "tag": ['Jul 2021', '百靈果 NEWS']
 },
 "time373":{
@@ -2156,7 +2156,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7eBWJnzP4PG0bJHv1zMiaM",
 "youtube": "https://www.youtube.com/watch?v=m-1Z6PawdPs&t=1094s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530742-ep2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530742-ep2.mp3",
 "tag": ['Jul 2021', '八角籠', '暫代讀書會']
 },
 "time372":{
@@ -2166,7 +2166,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3Sk9Hv41IlFZOkNwJK555i",
 "youtube": "https://www.youtube.com/watch?v=GrnvpxvweVo&t=474s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530743-003.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530743-003.mp3",
 "tag": ['Jul 2021', '百靈果之友', '暫代讀書會']
 },
 "time371":{
@@ -2176,7 +2176,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4EeuoFl2MMbfALhzlxQybV",
 "youtube": "https://www.youtube.com/watch?v=v1J4m09W3Mw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530744-the-kk-show-89.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530744-the-kk-show-89.mp3",
 "tag": ['Jul 2021', 'KK Show', '李有宜', '政治人物']
 },
 "time370":{
@@ -2186,7 +2186,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7xACghdLObPkZu154BQOtA",
 "youtube": "https://www.youtube.com/watch?v=iyzI8eUxPEI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530745-0711-sex-life.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530745-0711-sex-life.mp3",
 "tag": ['Jul 2021', '百靈果 NEWS']
 },
 "time369":{
@@ -2196,7 +2196,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2iNL66Mvwce4nzIPYVqMkO",
 "youtube": "https://www.youtube.com/watch?v=Tx8Tnk_E6xM&t=9s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530746-001.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530746-001.mp3",
 "tag": ['Jul 2021', '八角籠', '暫代讀書會']
 },
 "time368":{
@@ -2206,7 +2206,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5KpwsK6VpqowATZJLXXCok",
 "youtube": "https://www.youtube.com/watch?v=AIA21lcH0A0&t=13s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530747-002.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530747-002.mp3",
 "tag": ['Jul 2021', '百靈果之友', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '暫代讀書會', '老闆']
 },
 "time367":{
@@ -2216,7 +2216,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0OI4c00ctVe2XNodRAAkpC",
 "youtube": "https://www.youtube.com/watch?v=zX-K8I_9u-Y",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530748-the-kk-show-88-a1j.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530748-the-kk-show-88-a1j.mp3",
 "tag": ['Jul 2021', 'KK Show', '桃子 A1J', '音樂']
 },
 "time366":{
@@ -2226,7 +2226,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/34Vb6PmulmD1MXs4GeV5N5",
 "youtube": "https://www.youtube.com/watch?v=dyLQsPr9CIg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530749-0704-pew-chasing-cosby-the-morning-show.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530749-0704-pew-chasing-cosby-the-morning-show.mp3",
 "tag": ['Jul 2021', '百靈果 NEWS']
 },
 "time365":{
@@ -2236,7 +2236,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5jFxAPOtbuZBTxKV0yHPXa",
 "youtube": "https://www.youtube.com/watch?v=RAD6tSnn3AE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530750-001-s-is-for-sister.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530750-001-s-is-for-sister.mp3",
 "tag": ['Jul 2021', '百靈果之友', '阿滴', 'Youtuber', '暫代讀書會', '老闆']
 },
 "time364":{
@@ -2246,7 +2246,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5fNzOBm8jE5VKweDpaJsRJ",
 "youtube": "https://www.youtube.com/watch?v=EHAXfaS3-Gw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530751-the-kk-show-87.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530751-the-kk-show-87.mp3",
 "tag": ['Jun 2021', 'KK Show', '張賢龢博士', '學者', '時事']
 },
 "time363":{
@@ -2256,7 +2256,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/62sUoF2RDsUKe5Lo2Gm9br",
 "youtube": "https://www.youtube.com/watch?v=bD92ckxdK7w",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530752-0627-x-unorthodox.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530752-0627-x-unorthodox.mp3",
 "tag": ['Jun 2021', '百靈果 NEWS']
 },
 "time362":{
@@ -2266,7 +2266,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6csB7SiZvkTZh1ikBVVKhD",
 "youtube": "https://www.youtube.com/watch?v=oWVfi_5IpxQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530753-the-kk-show-86-swagger.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530753-the-kk-show-86-swagger.mp3",
 "tag": ['Jun 2021', 'KK Show', '娃娃', '色色']
 },
 "time361":{
@@ -2276,7 +2276,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3p4zCzCFB2S88FDnJwBHo3",
 "youtube": "https://www.youtube.com/watch?v=BzEV3s5ZCrk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530754-the-kk-show-85.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530754-the-kk-show-85.mp3",
 "tag": ['Jun 2021', 'KK Show', '高智雄醫檢師', '學者', '時事', '醫學']
 },
 "time360":{
@@ -2286,7 +2286,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4LKDIwJzOFsUTcYa1w1GYE",
 "youtube": "https://www.youtube.com/watch?v=5xAnZzxfPFE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530755-0620-inside-by-bo-burnham-inside-by-bo-burnham.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530755-0620-inside-by-bo-burnham-inside-by-bo-burnham.mp3",
 "tag": ['Jun 2021', '百靈果 NEWS']
 },
 "time359":{
@@ -2296,7 +2296,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7fMMQe71IZROd5UKpYOFFa",
 "youtube": "https://www.youtube.com/watch?v=8Fw8JYqqXko",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530756-cia.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530756-cia.mp3",
 "tag": ['Jun 2021', '讀書會', 'CIA洗腦計畫']
 },
 "time358":{
@@ -2306,7 +2306,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2QxBNZ3nRE7xr42aEj32tV",
 "youtube": "https://www.youtube.com/watch?v=MI-uzq2cW4A",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530757-the-kk-show-84.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530757-the-kk-show-84.mp3",
 "tag": ['Jun 2021', 'KK Show', '微笑丹尼', 'Youtuber', '喜劇演員']
 },
 "time357":{
@@ -2316,7 +2316,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2MJQZFgQen9epnKg48YzGa",
 "youtube": "https://www.youtube.com/watch?v=enYBHX5XPVw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530758-0613.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530758-0613.mp3",
 "tag": ['Jun 2021', '百靈果 NEWS']
 },
 "time356":{
@@ -2326,7 +2326,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/37mWZ5jjyPtXu55jxuUglD",
 "youtube": "https://www.youtube.com/watch?v=rudbw1Rb53k",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
 "tag": ['Jun 2021', '讀書會', 'CIA洗腦計畫']
 },
 "time355":{
@@ -2336,7 +2336,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1PsnckLCKb9msMOnHhlxny",
 "youtube": "https://www.youtube.com/watch?v=Ppop2I6xcSE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530760-the-kk-show-81.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530760-the-kk-show-81.mp3",
 "tag": ['Jun 2021', 'KK Show', '葉丙成教授', '學者', '老闆']
 },
 "time354":{
@@ -2346,7 +2346,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2a7pCXwMECDtnt4wchXPp8",
 "youtube": "https://www.youtube.com/watch?v=W1b8q1pda6w",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530761-0606-friends-reunion.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530761-0606-friends-reunion.mp3",
 "tag": ['Jun 2021', '百靈果 NEWS']
 },
 "time353":{
@@ -2356,7 +2356,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5X6HMMXEKwb95Ntt4mFF3S",
 "youtube": "https://www.youtube.com/watch?v=e6NraUmmymM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530762-we-love-you-cia-ch-3-4.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530762-we-love-you-cia-ch-3-4.mp3",
 "tag": ['Jun 2021', '讀書會', 'CIA洗腦計畫']
 },
 "time352":{
@@ -2366,7 +2366,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1Nos1q5QohJK1xuIRiGpfw",
 "youtube": "https://www.youtube.com/watch?v=Kd0ByUwQya8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530763-the-kk-show-83-dr-leanne-wu.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530763-the-kk-show-83-dr-leanne-wu.mp3",
 "tag": ['Jun 2021', 'KK Show', 'Dr. Leanne Wu', '學者', '時事', '醫學']
 },
 "time351":{
@@ -2376,7 +2376,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6ZWEWo9IGeyJWZZmX3xMIn",
 "youtube": "https://www.youtube.com/watch?v=850bZPS48qY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530764-0530-ban.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530764-0530-ban.mp3",
 "tag": ['May 2021', '百靈果 NEWS']
 },
 "time350":{
@@ -2386,7 +2386,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3h7nzPQVk6dFjNQlGjyeXK",
 "youtube": "https://www.youtube.com/watch?v=qaRVxmFNreY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530765-cia-pt-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530765-cia-pt-1.mp3",
 "tag": ['May 2021', '讀書會', 'CIA洗腦計畫']
 },
 "time349":{
@@ -2396,7 +2396,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/53K4eNdUw3zs6Yu3eGhkd5",
 "youtube": "https://www.youtube.com/watch?v=XrAHddsFvCw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530766-the-kk-show-82-dr-justin-yang.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530766-the-kk-show-82-dr-justin-yang.mp3",
 "tag": ['May 2021', 'KK Show', 'Dr. Justin Yang', '學者', '時事', '醫學']
 },
 "time348":{
@@ -2406,7 +2406,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5saKfMwxwCSZC2mRpprolB",
 "youtube": "https://www.youtube.com/watch?v=-eRKHV2dIMs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530767-0523-seaspiracy.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530767-0523-seaspiracy.mp3",
 "tag": ['May 2021', '百靈果 NEWS']
 },
 "time347":{
@@ -2416,7 +2416,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2SYwytgwO4O2tTbZUEOj6c",
 "youtube": "https://www.youtube.com/watch?v=yM5a2WlCMqo&t=1132s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530768-podcast-cia.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530768-podcast-cia.mp3",
 "tag": ['May 2021', '讀書會', 'CIA洗腦計畫']
 },
 "time346":{
@@ -2426,7 +2426,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1KtvdFouFM0Bycj8gK6vdF",
 "youtube": "https://www.youtube.com/watch?v=pcaxy9jmCAc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530769-the-kk-show-80.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530769-the-kk-show-80.mp3",
 "tag": ['May 2021', 'KK Show', '單信瑜教授', '學者', '時事']
 },
 "time345":{
@@ -2436,7 +2436,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/35q6wEQiGmR5aVnMs1GS3J",
 "youtube": "https://www.youtube.com/watch?v=wbJP78WezBE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530770-0516-ai-droppings.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530770-0516-ai-droppings.mp3",
 "tag": ['May 2021', '百靈果 NEWS']
 },
 "time344":{
@@ -2446,7 +2446,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5Usj6Lr8DY0kwpzDm5m3LS",
 "youtube": "https://www.youtube.com/watch?v=K1jr9tsOpIg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530771-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530771-.mp3",
 "tag": ['May 2021', '讀書會', '蚵仔煎的身世']
 },
 "time343":{
@@ -2456,7 +2456,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/02rTkT1YKTybMFOPxrMR4o",
 "youtube": "https://www.youtube.com/watch?v=zdZYhnBXinA&t=14s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530772-the-kk-show-79.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530772-the-kk-show-79.mp3",
 "tag": ['May 2021', 'KK Show', '陳耀昌醫師', '作者', '學者', '醫學']
 },
 "time342":{
@@ -2466,7 +2466,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7hE52uFCfkGfyUST0ZdvHH",
 "youtube": "https://www.youtube.com/watch?v=X9qr5T1oJtw&t=2089s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530773-0509-mia-khalifa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530773-0509-mia-khalifa.mp3",
 "tag": ['May 2021', '百靈果 NEWS']
 },
 "time341":{
@@ -2476,7 +2476,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6FvBNBHqgbj69OAPg455Jb",
 "youtube": "https://www.youtube.com/watch?v=sVaoQvOem0c",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530774-part-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530774-part-2.mp3",
 "tag": ['May 2021', '讀書會', '蚵仔煎的身世']
 },
 "time340":{
@@ -2486,7 +2486,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6sl5FTN5qyLOxuPiJ3DaBA",
 "youtube": "https://www.youtube.com/watch?v=Lx2LivBOiJM&t=1048s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530775-the-kk-show-78.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530775-the-kk-show-78.mp3",
 "tag": ['May 2021', 'KK Show', '布拉瑞揚 @布拉瑞揚舞團', '文藝', '舞蹈']
 },
 "time339":{
@@ -2496,7 +2496,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0z4bnjQiUHhQ036k2Zn311",
 "youtube": "https://www.youtube.com/watch?v=nr4RPWmC4p0&t=8s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530776-0502.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530776-0502.mp3",
 "tag": ['May 2021', '百靈果 NEWS']
 },
 "time338":{
@@ -2506,7 +2506,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1l7PA0kFkEZq7BGpLfDc9u",
 "youtube": "https://www.youtube.com/watch?v=KMQbAxwcPAQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530777-part-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530777-part-1.mp3",
 "tag": ['Apr 2021', '讀書會', '蚵仔煎的身世']
 },
 "time337":{
@@ -2516,7 +2516,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2wKpK2R1GsDyrGYJyRg99E",
 "youtube": "https://www.youtube.com/watch?v=lI2K0M2RTfs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530778-the-kk-show-77-av.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530778-the-kk-show-77-av.mp3",
 "tag": ['Apr 2021', 'KK Show', '石巴朝', '色色']
 },
 "time336":{
@@ -2526,7 +2526,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4rwaXosCuyruppgYUoov9U",
 "youtube": "https://www.youtube.com/watch?v=dRl8dP-NCmU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530779-0425-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530779-0425-podcast.mp3",
 "tag": ['Apr 2021', '百靈果 NEWS']
 },
 "time335":{
@@ -2536,7 +2536,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3KlCsVZyafL9eOWFn7AYcS",
 "youtube": "https://www.youtube.com/watch?v=Jr74mFA8TkQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530780-literally.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530780-literally.mp3",
 "tag": ['Apr 2021', '讀書會', '蚵仔煎的身世']
 },
 "time334":{
@@ -2546,7 +2546,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/61Gr6GWNMqBynKJj9sEAsA",
 "youtube": "https://www.youtube.com/watch?v=izxnDNr6wtc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530781-the-kk-show-76.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530781-the-kk-show-76.mp3",
 "tag": ['Apr 2021', 'KK Show', '蔣萬安', '政治人物']
 },
 "time333":{
@@ -2556,7 +2556,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7iaazOKhPyeWdklR3CcPvw",
 "youtube": "https://www.youtube.com/watch?v=uq2Bt6eixQc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530782-0418.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530782-0418.mp3",
 "tag": ['Apr 2021', '百靈果 NEWS']
 },
 "time332":{
@@ -2566,7 +2566,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7cF1a074dxpW5yvZuAHwgY",
 "youtube": "https://www.youtube.com/watch?v=jLC5sk8Q7i4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530783-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530783-.mp3",
 "tag": ['Apr 2021', '讀書會', '傀儡花']
 },
 "time331":{
@@ -2576,7 +2576,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0hNfboIo5rhsmbrYg8At2N",
 "youtube": "https://www.youtube.com/watch?v=WVw7MD54Kc0&t=3s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530784-the-kk-show-75.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530784-the-kk-show-75.mp3",
 "tag": ['Apr 2021', 'KK Show', '范雲', '政治人物']
 },
 "time330":{
@@ -2586,7 +2586,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0tcmfJTlK0pwoQc90Vonam",
 "youtube": "https://www.youtube.com/watch?v=yyrNWsXt4rU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530785-0411-dora-we-love-you-wtf-is-nft-the-giver.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530785-0411-dora-we-love-you-wtf-is-nft-the-giver.mp3",
 "tag": ['Apr 2021', '百靈果 NEWS']
 },
 "time329":{
@@ -2596,7 +2596,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6p7os9UTZE9mRKs5ckuiK7",
 "youtube": "https://www.youtube.com/watch?v=eoH_3NJm3uw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530786-56.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530786-56.mp3",
 "tag": ['Apr 2021', '讀書會', '傀儡花']
 },
 "time328":{
@@ -2606,7 +2606,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7HHiu15FXnVUXWLB2Fvtgy",
 "youtube": "https://www.youtube.com/watch?v=jsUrqemDqA0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530787-the-kk-show-74-iorg.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530787-the-kk-show-74-iorg.mp3",
 "tag": ['Apr 2021', 'KK Show', 'IORG', '事實查核', '時事']
 },
 "time327":{
@@ -2616,7 +2616,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/26fuhVOV86bB6w6O6Hmyfb",
 "youtube": "https://www.youtube.com/watch?v=s4cYhtIrXPk&t=348s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530788-0404-youtuber-eat-the-buddha.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530788-0404-youtuber-eat-the-buddha.mp3",
 "tag": ['Apr 2021', '百靈果 NEWS']
 },
 "time326":{
@@ -2626,7 +2626,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6kbO6YnL4riEyHva2SbSuH",
 "youtube": "https://www.youtube.com/watch?v=Hnh7jl2q4Ig",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530789-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530789-.mp3",
 "tag": ['Apr 2021', '讀書會', '傀儡花']
 },
 "time325":{
@@ -2636,7 +2636,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3b3GW1H5Zj3sf5RroQLG6B",
 "youtube": "https://www.youtube.com/watch?v=0NFrz1fd_V0&t=2980s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530790-the-kk-show-73.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530790-the-kk-show-73.mp3",
 "tag": ['Mar 2021', 'KK Show', '李律', '廣播人']
 },
 "time324":{
@@ -2646,7 +2646,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2VEkws0fMtm3vuBQCLksV5",
 "youtube": "https://www.youtube.com/watch?v=oZCklUMoX6k&t=793s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530791-0328-a-gentleman-in-moscow.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530791-0328-a-gentleman-in-moscow.mp3",
 "tag": ['Mar 2021', '百靈果 NEWS']
 },
 "time323":{
@@ -2656,7 +2656,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/55hucyyGjdHZeihOEF6Iqe",
 "youtube": "https://www.youtube.com/watch?v=fLuga-M9O0Y",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530792-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530792-.mp3",
 "tag": ['Mar 2021', '讀書會', '傀儡花']
 },
 "time322":{
@@ -2666,7 +2666,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3LAaUO4r8XTnx4ETkldiCb",
 "youtube": "https://www.youtube.com/watch?v=oMWOicJErfU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530793-the-kk-show-72.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530793-the-kk-show-72.mp3",
 "tag": ['Mar 2021', 'KK Show', '阿爆', '阿拉斯', 'Youtuber', '原住民', '朋友', '音樂']
 },
 "time321":{
@@ -2676,7 +2676,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0S58XKBBkpbMNxKZuV213t",
 "youtube": "https://www.youtube.com/watch?v=qrKnyx1dxGg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530794-0321-american-dirt.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530794-0321-american-dirt.mp3",
 "tag": ['Mar 2021', '百靈果 NEWS']
 },
 "time320":{
@@ -2686,7 +2686,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1jCEKvAHNLSOIDqKVcHDij",
 "youtube": "https://www.youtube.com/watch?v=VmpWAemAS3U&t=125s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530795-ch-1-ch-7.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530795-ch-1-ch-7.mp3",
 "tag": ['Mar 2021', '讀書會', '傀儡花']
 },
 "time319":{
@@ -2696,7 +2696,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3tKLuoz8L54l7jjCpWf4Hm",
 "youtube": "https://www.youtube.com/watch?v=3Ku0m1Xm2pA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530796-the-kk-show-71-soundon.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530796-the-kk-show-71-soundon.mp3",
 "tag": ['Mar 2021', 'KK Show', '顧立楷', '老闆']
 },
 "time318":{
@@ -2706,7 +2706,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/58ynOq653GuYxhTh3ZhXYg",
 "youtube": "https://www.youtube.com/watch?v=y_NNHL6NnMk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530797-0314-peace.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530797-0314-peace.mp3",
 "tag": ['Mar 2021']
 },
 "time317":{
@@ -2716,7 +2716,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1TzWin58UJLzjRGDoimXie",
 "youtube": "https://www.youtube.com/watch?v=-idkqgM63Io&t=38s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530798-vs.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530798-vs.mp3",
 "tag": ['Mar 2021', '讀書會', '傀儡花']
 },
 "time316":{
@@ -2726,7 +2726,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5MAGqh1kiaAoMg5FzIzYng",
 "youtube": "https://www.youtube.com/watch?v=5BykfCPPKr8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530799-the-kk-show-70-clubhouse.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530799-the-kk-show-70-clubhouse.mp3",
 "tag": ['Mar 2021', 'KK Show', '葉耀元教授', '學者', '時事']
 },
 "time315":{
@@ -2736,7 +2736,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2bZ1BOpFyIavQDf6Ww90Bs",
 "youtube": "https://www.youtube.com/watch?v=GAbn-3XsE7I",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530800-0307.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530800-0307.mp3",
 "tag": ['Mar 2021', '百靈果 NEWS']
 },
 "time314":{
@@ -2746,7 +2746,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6Udd4iPyJKW5eDLZmzn8W0",
 "youtube": "https://www.youtube.com/watch?v=F2Z63QLHWls",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530801-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530801-.mp3",
 "tag": ['Mar 2021', '讀書會', '毒家企業']
 },
 "time313":{
@@ -2756,7 +2756,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1kMcPmdTfWLJ6VpdpdsbbS",
 "youtube": "https://www.youtube.com/watch?v=4JlQbzlfgs4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530802-the-kk-show-69.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530802-the-kk-show-69.mp3",
 "tag": ['Mar 2021', 'KK Show', '孫翠鳳', '文藝']
 },
 "time312":{
@@ -2766,7 +2766,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/24EFGLVMSXQ6X45TgFTCEB",
 "youtube": "https://www.youtube.com/watch?v=Hvva8i-Ljnw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530803-0228-netflix.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530803-0228-netflix.mp3",
 "tag": ['Feb 2021', '百靈果 NEWS']
 },
 "time311":{
@@ -2776,7 +2776,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0BNIrj7oyZRNTBAd87UiKn",
 "youtube": "https://www.youtube.com/watch?v=y2_2KIjvx9k",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530804-los-zetas-ch-6-7.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530804-los-zetas-ch-6-7.mp3",
 "tag": ['Feb 2021', '讀書會', '毒家企業']
 },
 "time310":{
@@ -2786,7 +2786,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3pJeFPNmikCNtRHFvF32UO",
 "youtube": "https://www.youtube.com/watch?v=hAJWJPXg9Qo&t=740s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530805-the-kk-show-68-vasilisa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530805-the-kk-show-68-vasilisa.mp3",
 "tag": ['Feb 2021', 'KK Show', 'Vasilisa', '聽眾']
 },
 "time309":{
@@ -2796,7 +2796,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1d7T0kEgvZBESE1VOwEzFw",
 "youtube": "https://www.youtube.com/watch?v=4FCHiOxPmKU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530806-0221.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530806-0221.mp3",
 "tag": ['Feb 2021', '百靈果 NEWS']
 },
 "time308":{
@@ -2806,7 +2806,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0wshnFJdREWaceqsjxPe27",
 "youtube": "https://www.youtube.com/watch?v=_HHcaPIuYeY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530807-ch4-5.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530807-ch4-5.mp3",
 "tag": ['Feb 2021', '讀書會', '毒家企業']
 },
 "time307":{
@@ -2816,7 +2816,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4qzvNg3t2SvDzbsxY0wT6U",
 "youtube": "https://www.youtube.com/watch?v=-aNJ8XQ2YAw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530808-the-kk-show-67-ait-luke-martin.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530808-the-kk-show-67-ait-luke-martin.mp3",
 "tag": ['Feb 2021', 'KK Show', 'Luke Martin', '時事']
 },
 "time306":{
@@ -2826,7 +2826,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7mgVyvspWzDrgFbF8F3MNQ",
 "youtube": "https://www.youtube.com/watch?v=NWg0jN_66yw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530809-0214-vs.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530809-0214-vs.mp3",
 "tag": ['Feb 2021', '百靈果 NEWS']
 },
 "time305":{
@@ -2836,7 +2836,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4UkXGfYosUs0gxzC7KxLBQ",
 "youtube": "https://www.youtube.com/watch?v=2WJ1yW-F_bo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530810-clubhouse.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530810-clubhouse.mp3",
 "tag": ['Feb 2021', '暫代讀書會']
 },
 "time304":{
@@ -2846,7 +2846,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2k855tlHksrnjCzAS5yGuA",
 "youtube": "https://www.youtube.com/watch?v=EjXGWOygqqI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530811-the-kk-show-66.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530811-the-kk-show-66.mp3",
 "tag": ['Feb 2021', 'KK Show', '陳小雀教授', '學者', '時事']
 },
 "time303":{
@@ -2856,7 +2856,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4FznmNt4vIZMYAJdWfNfIn",
 "youtube": "https://www.youtube.com/watch?v=wlslnhhaLag",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530812-0207-podcast-the-passenger-list.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530812-0207-podcast-the-passenger-list.mp3",
 "tag": ['Feb 2021', '百靈果 NEWS']
 },
 "time302":{
@@ -2866,7 +2866,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1TWd8Lg0HzcXNeG6ERVe8D",
 "youtube": "https://www.youtube.com/watch?v=o8HXtjDNA1s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530813-narconomics-ch-1-2-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530813-narconomics-ch-1-2-3.mp3",
 "tag": ['Feb 2021', '讀書會', '毒家企業']
 },
 "time301":{
@@ -2876,7 +2876,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1qckWckUYHQYlqMbjtxvfZ",
 "youtube": "https://www.youtube.com/watch?v=nJ_0KDTxasQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530814-the-kk-show-65-samson-ellis.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530814-the-kk-show-65-samson-ellis.mp3",
 "tag": ['Feb 2021', 'KK Show', 'Samson Ellis', '時事', '記者']
 },
 "time300":{
@@ -2886,7 +2886,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1dQyVRc9k6lHxK65E4y5d8",
 "youtube": "https://www.youtube.com/watch?v=mBJGZUdTDww&t=3s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530815-0131-18-belle-delphine-ken-gme.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530815-0131-18-belle-delphine-ken-gme.mp3",
 "tag": ['Jan 2021', '百靈果 NEWS']
 },
 "time299":{
@@ -2896,7 +2896,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6lwpxToPR3kQjlzhYkYr3D",
 "youtube": "https://www.youtube.com/watch?v=QUfhp9evhyM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530816-narconomics.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530816-narconomics.mp3",
 "tag": ['Jan 2021', '讀書會', '毒家企業']
 },
 "time298":{
@@ -2906,7 +2906,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6IJhviv3WlOjedckS85jt3",
 "youtube": "https://www.youtube.com/watch?v=Nr7RGw6ymNM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530817-the-kk-show-64.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530817-the-kk-show-64.mp3",
 "tag": ['Jan 2021', 'KK Show', '博恩', '喜劇演員']
 },
 "time297":{
@@ -2916,7 +2916,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5XVkpqetsA6qxR93kuy5fS",
 "youtube": "https://www.youtube.com/watch?v=xgOTgWMRGa4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530818-0124-google-facebook.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530818-0124-google-facebook.mp3",
 "tag": ['Jan 2021', '百靈果 NEWS']
 },
 "time296":{
@@ -2926,7 +2926,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/43mbs9X0wwflx0gLnayKHe",
 "youtube": "https://www.youtube.com/watch?v=9sEJ30JwmLQ&t=2470s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530819-the-kk-show-63.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530819-the-kk-show-63.mp3",
 "tag": ['Jan 2021', 'KK Show', '張五岳', '時事']
 },
 "time295":{
@@ -2936,7 +2936,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3aocPgQpu7TP6IGUJoUTXf",
 "youtube": "https://www.youtube.com/watch?v=pCM04m1sKXM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530820-0117-red-notice.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530820-0117-red-notice.mp3",
 "tag": ['Jan 2021', '百靈果 NEWS']
 },
 "time294":{
@@ -2946,7 +2946,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3o7VnMoW7den2zP9NtagUW",
 "youtube": "https://www.youtube.com/watch?v=FE54pDJmMYY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530821-ch-22-23-24.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530821-ch-22-23-24.mp3",
 "tag": ['Jan 2021', '讀書會', '宋氏三姊妹']
 },
 "time293":{
@@ -2956,7 +2956,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1eXmyhLRxJNPPpnfaT6kx5",
 "youtube": "https://www.youtube.com/watch?v=EB_Wvx9KYz8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530822-the-kk-show-62.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530822-the-kk-show-62.mp3",
 "tag": ['Jan 2021', 'KK Show', '大可愛', '喜劇演員']
 },
 "time292":{
@@ -2966,7 +2966,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/184YxFU2p4fhbJ524f3Tyz",
 "youtube": "https://www.youtube.com/watch?v=q_F_Wv8xSp0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530823-0110.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530823-0110.mp3",
 "tag": ['Jan 2021', '百靈果 NEWS']
 },
 "time291":{
@@ -2976,7 +2976,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4vqYLfHkuvx1SHfMLnI0JG",
 "youtube": "https://www.youtube.com/watch?v=dujg_paGOT0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530824-ch-19-21.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530824-ch-19-21.mp3",
 "tag": ['Jan 2021', '讀書會', '宋氏三姊妹']
 },
 "time290":{
@@ -2986,7 +2986,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/311q1swuE8QSezZ40kGCD7",
 "youtube": "https://www.youtube.com/watch?v=pAtz4Vu-kYg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530825-the-kk-show-61-chiels.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530825-the-kk-show-61-chiels.mp3",
 "tag": ['Jan 2021', 'KK Show', 'Chiels', '學者', '時事', '醫學']
 },
 "time289":{
@@ -2996,7 +2996,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/72OIH6M71U44jTnuGGfapX",
 "youtube": "https://www.youtube.com/watch?v=ToVoe9AuSak",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530826-0103-narconomics.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530826-0103-narconomics.mp3",
 "tag": ['Jan 2021', '百靈果 NEWS']
 },
 "time288":{
@@ -3006,7 +3006,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2h3xyw0bxMxUyUmwfJ7vYd",
 "youtube": "https://www.youtube.com/watch?v=-9enVFmtJ3w",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530827-ch-15-18.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530827-ch-15-18.mp3",
 "tag": ['Dec 2020', '讀書會', '宋氏三姊妹']
 },
 "time287":{
@@ -3016,7 +3016,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7k8iBj56vNsezlj5xdHeND",
 "youtube": "https://www.youtube.com/watch?v=TNftjQZNtYw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530828-the-kk-show-60-angel.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530828-the-kk-show-60-angel.mp3",
 "tag": ['Dec 2020', 'KK Show', 'Angel', '聽眾']
 },
 "time286":{
@@ -3026,7 +3026,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1hjg37EZ3wQfrLStMTIxF0",
 "youtube": "https://www.youtube.com/watch?v=eMgKRQEgN1s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530829-1227-deep-deep-snow.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530829-1227-deep-deep-snow.mp3",
 "tag": ['Dec 2020', '百靈果 NEWS']
 },
 "time285":{
@@ -3036,7 +3036,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2SzFdTX0A1AqO9Bmz7IUuS",
 "youtube": "https://www.youtube.com/watch?v=rcEsjwe-vy0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530830-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530830-.mp3",
 "tag": ['Dec 2020', '讀書會', '宋氏三姊妹']
 },
 "time284":{
@@ -3046,7 +3046,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2cDtVGzyVPukvlfJ3isbtH",
 "youtube": "https://www.youtube.com/watch?v=d3pNN0y6lqg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530831-the-kk-show-59-mego.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530831-the-kk-show-59-mego.mp3",
 "tag": ['Dec 2020', 'KK Show', 'Mego', '影視製作']
 },
 "time283":{
@@ -3056,7 +3056,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2GCOL2TzqHMEAlA2XxHX0g",
 "youtube": "https://www.youtube.com/watch?v=uN_SpMOztg0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530832-1220.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530832-1220.mp3",
 "tag": ['Dec 2020', '百靈果 NEWS']
 },
 "time282":{
@@ -3066,7 +3066,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/217Vzw3Y7RGtFMEmwTfXJs",
 "youtube": "https://www.youtube.com/watch?v=hn48sYM7u4g",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530833-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530833-.mp3",
 "tag": ['Dec 2020', '讀書會', '宋氏三姊妹']
 },
 "time281":{
@@ -3076,7 +3076,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/36CksXCrA4fqxu3WO8sVik",
 "youtube": "https://www.youtube.com/watch?v=OyGkm7ROc2o",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530834-the-kk-show-58-collage.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530834-the-kk-show-58-collage.mp3",
 "tag": ['Dec 2020', 'KK Show']
 },
 "time280":{
@@ -3086,7 +3086,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4fDGb3Qfgb9lTbllD5FEnd",
 "youtube": "https://www.youtube.com/watch?v=IFPsQ09DaRs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530835-1213-educated.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530835-1213-educated.mp3",
 "tag": ['Dec 2020', '百靈果 NEWS']
 },
 "time279":{
@@ -3096,7 +3096,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1oneSD52YWILqC2KDMIkjP",
 "youtube": "https://www.youtube.com/watch?v=284uHdqiCgc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530836-tiffany-881-ch6-7.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530836-tiffany-881-ch6-7.mp3",
 "tag": ['Dec 2020', '讀書會', '宋氏三姊妹']
 },
 "time278":{
@@ -3106,7 +3106,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6q8oGgSnYlH7WzOvw5lHjl",
 "youtube": "https://www.youtube.com/watch?v=w96MSHSlL6c",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530837-the-kk-show-57-nick.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530837-the-kk-show-57-nick.mp3",
 "tag": ['Dec 2020', 'KK Show', 'Nick', '影視製作']
 },
 "time277":{
@@ -3116,7 +3116,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2cUgiZk4rN6IbaZgKlcgam",
 "youtube": "https://www.youtube.com/watch?v=t0MlzJKSkwk&t=2s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530838-the-kk-show-56.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530838-the-kk-show-56.mp3",
 "tag": ['Dec 2020', 'KK Show', '博恩', '黃逸豪', '喜劇演員']
 },
 "time276":{
@@ -3126,7 +3126,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/323kOXT7UupGL4STWGlbcA",
 "youtube": "https://www.youtube.com/watch?v=tBlcyBqPduM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530839-1206.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530839-1206.mp3",
 "tag": ['Dec 2020', '百靈果 NEWS']
 },
 "time275":{
@@ -3136,7 +3136,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0zYDMZXyUW7vPrKKANcDIS",
 "youtube": "https://www.youtube.com/watch?v=Lk1ghfF4UM4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530840-ch4-5.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530840-ch4-5.mp3",
 "tag": ['Dec 2020', '讀書會', '宋氏三姊妹']
 },
 "time274":{
@@ -3146,7 +3146,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5HpFz0qeTtbwDF5TkSoXI4",
 "youtube": "https://www.youtube.com/watch?v=6DPKaLo-PJA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530841-the-kk-show-55.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530841-the-kk-show-55.mp3",
 "tag": ['Dec 2020', 'KK Show', '陳柏惟', '政治人物']
 },
 "time273":{
@@ -3156,7 +3156,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3mER7M27pBgIhid7RSCm6U",
 "youtube": "https://www.youtube.com/watch?v=Ck_L2YPYN54",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530842-1129-the-truth-we-hold.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530842-1129-the-truth-we-hold.mp3",
 "tag": ['Nov 2020', '百靈果 NEWS']
 },
 "time272":{
@@ -3166,7 +3166,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6w8ALhCMSYJd77beHavJvF",
 "youtube": "https://www.youtube.com/watch?v=I5oX9XYTRCY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530843-ch-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530843-ch-3.mp3",
 "tag": ['Nov 2020', '讀書會', '宋氏三姊妹']
 },
 "time271":{
@@ -3176,7 +3176,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/22wXcbB63Qs6re51RPqk36",
 "youtube": "https://www.youtube.com/watch?v=aBp89cLkskw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530844-the-kk-show-54-rcep.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530844-the-kk-show-54-rcep.mp3",
 "tag": ['Nov 2020', 'KK Show', '李淳', '學者', '時事']
 },
 "time270":{
@@ -3186,7 +3186,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4cVM2ORZcsQvTfZEghYkiS",
 "youtube": "https://www.youtube.com/watch?v=o0t4fZF9Dwo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530845-1122-rcep-a-promised-land.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530845-1122-rcep-a-promised-land.mp3",
 "tag": ['Nov 2020', '百靈果 NEWS']
 },
 "time269":{
@@ -3196,7 +3196,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/49tbMGLc6EMB6EsV1TjVDs",
 "youtube": "https://www.youtube.com/watch?v=HW6_kuZFt0s&t=16s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530846-abc-charlie-soong-ch1-ch2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530846-abc-charlie-soong-ch1-ch2.mp3",
 "tag": ['Nov 2020', '讀書會', '宋氏三姊妹']
 },
 "time268":{
@@ -3206,7 +3206,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3tY5KZItsOOmLixBhUTwt9",
 "youtube": "https://www.youtube.com/watch?v=5pigna37j00",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530847-the-kk-show-53.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530847-the-kk-show-53.mp3",
 "tag": ['Nov 2020', 'KK Show', '黃豪平', 'Youtuber', '喜劇演員', '廣播人', '藝人', '魔術師']
 },
 "time267":{
@@ -3216,7 +3216,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5CiKk7RuUJTcwy4KviPFip",
 "youtube": "https://www.youtube.com/watch?v=2CRrc5MulQM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530848-1115-youtuber.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530848-1115-youtuber.mp3",
 "tag": ['Nov 2020', '百靈果 NEWS']
 },
 "time266":{
@@ -3226,7 +3226,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7iQ1SpseKnpEhvxYnzaPED",
 "youtube": "https://www.youtube.com/watch?v=Q3_2z-xXRgg&t=10s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530849-big-sister-little-sister-red-sister.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530849-big-sister-little-sister-red-sister.mp3",
 "tag": ['Nov 2020', '讀書會', '宋氏三姊妹']
 },
 "time265":{
@@ -3236,7 +3236,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5rpqQIhTvBMo9gK7OByzlt",
 "youtube": "https://www.youtube.com/watch?v=1gc4tIPH_7s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530850-the-kk-show-52-ken.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530850-the-kk-show-52-ken.mp3",
 "tag": ['Nov 2020', 'KK Show', '唐綺陽', 'Podcaster']
 },
 "time264":{
@@ -3246,7 +3246,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/32yG8UK4BBCwguJrfZp0mx",
 "youtube": "https://www.youtube.com/watch?v=Faa-M09NrVc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530851-1108-rode-casterpro.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530851-1108-rode-casterpro.mp3",
 "tag": ['Nov 2020', '百靈果 NEWS']
 },
 "time263":{
@@ -3256,7 +3256,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5M8ChjqXOlm2mDhvEbBLXZ",
 "youtube": "https://www.youtube.com/watch?v=JRtKm4c0RYs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530852-the-kk-show-51.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530852-the-kk-show-51.mp3",
 "tag": ['Nov 2020', 'KK Show', '邵大倫', '廣播人']
 },
 "time262":{
@@ -3266,7 +3266,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3IWuwl4xN3KeMmgYV3Ly2N",
 "youtube": "https://www.youtube.com/watch?v=lDtVDnHJh0E",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530853-1101-lgbt-qa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530853-1101-lgbt-qa.mp3",
 "tag": ['Nov 2020', '百靈果 NEWS', 'Live Podcast']
 },
 "time261":{
@@ -3276,7 +3276,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2ILjuB0gwUMCkPzG2aE3ig",
 "youtube": "https://www.youtube.com/watch?v=sEvWhZGSVRs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530854-international-docking.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530854-international-docking.mp3",
 "tag": ['Oct 2020', '暫代讀書會']
 },
 "time260":{
@@ -3286,7 +3286,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/59gdmrrLEDBcgGy5EaogRX",
 "youtube": "https://www.youtube.com/watch?v=dDw50VlC9JU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530855-the-kk-show-50.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530855-the-kk-show-50.mp3",
 "tag": ['Oct 2020', 'KK Show', '東區德', '喜劇演員']
 },
 "time259":{
@@ -3296,7 +3296,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3xbWh34MnBeM26L8qCvpM0",
 "youtube": "https://www.youtube.com/watch?v=Nt8XgWhrc2c",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530856-1025.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530856-1025.mp3",
 "tag": ['Oct 2020', '百靈果 NEWS']
 },
 "time258":{
@@ -3306,7 +3306,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5pdqiCjskZdysw3K3k3vEw",
 "youtube": "https://www.youtube.com/watch?v=FD-7nNR2HJQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530857-be-water-rage-by-bob-woodward-chap-33-35.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530857-be-water-rage-by-bob-woodward-chap-33-35.mp3",
 "tag": ['Oct 2020', 'Rage by Bob Woodward', '讀書會']
 },
 "time257":{
@@ -3316,7 +3316,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0umDPQM3DEAxFmbwEqQMuG",
 "youtube": "https://www.youtube.com/watch?v=AjlSKtDId9E",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530858-the-kk-show-49.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530858-the-kk-show-49.mp3",
 "tag": ['Oct 2020', 'KK Show', '小潘', '寶拉', '廣播人']
 },
 "time256":{
@@ -3326,7 +3326,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/12fedXttTRrRdwQVbdqSSv",
 "youtube": "https://www.youtube.com/watch?v=Xn_JfBlmY2g",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
 "tag": ['Oct 2020', '百靈果 NEWS']
 },
 "time255":{
@@ -3336,7 +3336,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1jORzxbRpl6obS7xH0kiSL",
 "youtube": "https://www.youtube.com/watch?v=52Xhwd1cZLI&t=1341s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530860-rage-by-bob-woodward.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530860-rage-by-bob-woodward.mp3",
 "tag": ['Oct 2020', 'Rage by Bob Woodward', '范琪斐', 'Podcaster', 'Youtuber', '時事', '讀書會']
 },
 "time254":{
@@ -3346,7 +3346,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4lM8hTKgYTOkThVY0G0GDb",
 "youtube": "https://www.youtube.com/watch?v=IjS6ZZ2GF6c&t=2s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530861-the-kk-show-048.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530861-the-kk-show-048.mp3",
 "tag": ['Oct 2020', 'KK Show', '于北辰', '政治人物']
 },
 "time253":{
@@ -3356,7 +3356,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6ZLoDBm3a1oHS8mH6Y6Ydt",
 "youtube": "https://www.youtube.com/watch?v=VCTX1OL--UE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530862-1011.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530862-1011.mp3",
 "tag": ['Oct 2020', '百靈果 NEWS']
 },
 "time252":{
@@ -3366,7 +3366,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2IfIfie3u61YxoX8cztXst",
 "youtube": "https://www.youtube.com/watch?v=I_qwUm51oPY&t=677s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530863-rage-by-bob-woodward-chap-30-32.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530863-rage-by-bob-woodward-chap-30-32.mp3",
 "tag": ['Oct 2020', 'Rage by Bob Woodward', '讀書會']
 },
 "time251":{
@@ -3376,7 +3376,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4UGgs12EUZBr9SQA4n8B8U",
 "youtube": "https://www.youtube.com/watch?v=VtwCcbHnRkA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530864-the-kk-show-47.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530864-the-kk-show-47.mp3",
 "tag": ['Oct 2020', 'KK Show', '志祺 @志祺七七', '阿滴', 'Podcaster', 'Youtuber', '老闆']
 },
 "time250":{
@@ -3386,7 +3386,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3MJ5ph2rdgtegfoTISIVkG",
 "youtube": "https://www.youtube.com/watch?v=6MTTLng8_9s&t=234s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530865-1004.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530865-1004.mp3",
 "tag": ['Oct 2020', '百靈果 NEWS']
 },
 "time249":{
@@ -3396,7 +3396,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5cLNOKXw9u3CA0aGC0KnjT",
 "youtube": "https://www.youtube.com/watch?v=qlJE_VNp-D0&t=418s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530866-youtube-10-ig-5-qa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530866-youtube-10-ig-5-qa.mp3",
 "tag": ['Oct 2020', '暫代讀書會']
 },
 "time248":{
@@ -3406,7 +3406,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3yYBzyQn0UdUIIplIO1rS5",
 "youtube": "https://www.youtube.com/watch?v=14ghz2xvoRA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530867-the-kk-show-046.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530867-the-kk-show-046.mp3",
 "tag": ['Sep 2020', 'KK Show', '林智堅', '政治人物']
 },
 "time247":{
@@ -3416,7 +3416,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/55S5boEY8Q0YMRd6MM3WOx",
 "youtube": "https://www.youtube.com/watch?v=T1kHMBT_PZw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530868-0927.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530868-0927.mp3",
 "tag": ['Sep 2020', '百靈果 NEWS']
 },
 "time246":{
@@ -3426,7 +3426,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2kFgdDxj2Oj2et8yGPLb3G",
 "youtube": "https://www.youtube.com/watch?v=jmabO5IM_lA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530869-the-kk-show-045-podcast-firstory.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530869-the-kk-show-045-podcast-firstory.mp3",
 "tag": ['Sep 2020', 'KK Show', 'Firstory', 'Podcaster']
 },
 "time245":{
@@ -3436,7 +3436,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/46y6mGCmxYAx9ihqerOtgK",
 "youtube": "https://www.youtube.com/watch?v=rRzKtcuYNKc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530870-0920-bob-woodward-rage-ken.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530870-0920-bob-woodward-rage-ken.mp3",
 "tag": ['Sep 2020', '百靈果 NEWS']
 },
 "time244":{
@@ -3446,7 +3446,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1ABPF5dGMeYRNRUtTgSRha",
 "youtube": "https://www.youtube.com/watch?v=-45gdS-68Yo&t=193s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530871-podcast-06-qa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530871-podcast-06-qa.mp3",
 "tag": ['Sep 2020', '免費教你如何做 Podcast', '暫代讀書會']
 },
 "time243":{
@@ -3456,7 +3456,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0lXVI9oGe0qdgfu434zaJQ",
 "youtube": "https://www.youtube.com/watch?v=5vo3Im5hSCU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530872-the-kk-show-ft-grrr.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530872-the-kk-show-ft-grrr.mp3",
 "tag": ['Sep 2020', 'KK Show', '范琪斐', '敏迪 @敏迪選讀', '邱 grr', 'Podcaster', 'Youtuber', '健力', '時事', '老闆', '運動']
 },
 "time242":{
@@ -3466,7 +3466,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5tv6fOdQbxAB49cXQr85uI",
 "youtube": "https://www.youtube.com/watch?v=9pvd-vwZKJc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530873-0913.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530873-0913.mp3",
 "tag": ['Sep 2020', '百靈果 NEWS']
 },
 "time241":{
@@ -3476,7 +3476,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2xNQAq7cCkDACqrxL13oJ5",
 "youtube": "https://www.youtube.com/watch?v=PWKBawwQAss",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530874-podcast-05-ft.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530874-podcast-05-ft.mp3",
 "tag": ['Sep 2020', '免費教你如何做 Podcast', '好和弦 @NiceChord', 'Podcaster', 'Youtuber', '暫代讀書會']
 },
 "time240":{
@@ -3486,7 +3486,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/14tNmPj1H6WNogekDkna2X",
 "youtube": "https://www.youtube.com/watch?v=Oqnf8zsSp6c",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530875-the-kk-show-044.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530875-the-kk-show-044.mp3",
 "tag": ['Sep 2020', 'KK Show', '真蓉', '文藝']
 },
 "time239":{
@@ -3496,7 +3496,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/08Cy4sJdpPUx4XZ0hZWHNz",
 "youtube": "https://www.youtube.com/watch?v=daZYd4nY1Us",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530876-0906-joe-rogan-spotify.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530876-0906-joe-rogan-spotify.mp3",
 "tag": ['Sep 2020', '百靈果 NEWS']
 },
 "time238":{
@@ -3506,7 +3506,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4Am4DGmAoRy8HZ0fTcyHjy",
 "youtube": "https://www.youtube.com/watch?v=-IotZeP-CFs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530877-the-kk-show-043-jason.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530877-the-kk-show-043-jason.mp3",
 "tag": ['Sep 2020', 'KK Show', 'Jason 劉致昕 @報導者', '時事', '記者']
 },
 "time237":{
@@ -3516,7 +3516,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0LrAHgInpSXIOwcZZhsRjN",
 "youtube": "https://www.youtube.com/watch?v=za6RpGnLumo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530878-0830-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530878-0830-2.mp3",
 "tag": ['Aug 2020', '百靈果 NEWS']
 },
 "time236":{
@@ -3526,7 +3526,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7vpWo11aElxcQ3Bg4n2gHz",
 "youtube": "https://www.youtube.com/watch?v=nDpwC0YyypA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530879-podcast-04.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530879-podcast-04.mp3",
 "tag": ['Aug 2020', '免費教你如何做 Podcast', '暫代讀書會']
 },
 "time235":{
@@ -3536,7 +3536,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3DhmVSHSy3IcwynVgfXiaG",
 "youtube": "https://www.youtube.com/watch?v=Or0XR8M8x5M",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530880-the-kk-show-042.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530880-the-kk-show-042.mp3",
 "tag": ['Aug 2020', 'KK Show', '印度尤', '時事', '記者']
 },
 "time234":{
@@ -3546,7 +3546,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5rCGS1ukuEIXx0LfknWOJK",
 "youtube": "https://www.youtube.com/watch?v=rp3GgNTlQU8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530881-0823-ok.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530881-0823-ok.mp3",
 "tag": ['Aug 2020', '百靈果 NEWS']
 },
 "time233":{
@@ -3556,7 +3556,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2s0hIsCVCyVhBCWwafyiBT",
 "youtube": "https://www.youtube.com/watch?v=LNGAWlyYMQA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530882-podcast-03.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530882-podcast-03.mp3",
 "tag": ['Aug 2020', '免費教你如何做 Podcast', '暫代讀書會']
 },
 "time232":{
@@ -3566,7 +3566,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2aC518nDrXbKaA1zQH8nHE",
 "youtube": "https://www.youtube.com/watch?v=dtjJo04O3Xs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530883-the-kk-show-41-esther-chen.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530883-the-kk-show-41-esther-chen.mp3",
 "tag": ['Aug 2020', 'KK Show', 'Esther Chen', '喜劇演員', '文藝', '演員']
 },
 "time231":{
@@ -3576,7 +3576,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7d6eSooJ3IzbFBGOwGEdcd",
 "youtube": "https://www.youtube.com/watch?v=ZSzb8Gcf6DE&t=14s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530884-0816.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530884-0816.mp3",
 "tag": ['Aug 2020', '百靈果 NEWS']
 },
 "time230":{
@@ -3586,7 +3586,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0utZzLpuWhqgikjnNwBjKL",
 "youtube": "https://www.youtube.com/watch?v=EXs95Div_IU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530885-podcast-02-hosting.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530885-podcast-02-hosting.mp3",
 "tag": ['Aug 2020', '免費教你如何做 Podcast', '暫代讀書會']
 },
 "time229":{
@@ -3596,7 +3596,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6siUjCMNNA2fLExLdfzX6D",
 "youtube": "https://www.youtube.com/watch?v=j3aPw1Y2knU&t=6s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530886-the-kk-show-40.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530886-the-kk-show-40.mp3",
 "tag": ['Aug 2020', 'KK Show', '台灣通勤第一品牌', 'Podcaster']
 },
 "time228":{
@@ -3606,7 +3606,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4m5XMac5OyKTPEJTmrI5fR",
 "youtube": "https://www.youtube.com/watch?v=POIpPaUn1gI&t=1280s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530887-0809-netflix-indian-matchmaking.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530887-0809-netflix-indian-matchmaking.mp3",
 "tag": ['Aug 2020', '百靈果 NEWS']
 },
 "time227":{
@@ -3616,7 +3616,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3y3jnVUipSrVgGAy6KW5yF",
 "youtube": "https://www.youtube.com/watch?v=Kafr-_A0IRg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530888-podcast-01.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530888-podcast-01.mp3",
 "tag": ['Aug 2020', '免費教你如何做 Podcast', '暫代讀書會']
 },
 "time226":{
@@ -3626,7 +3626,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/09LsVSXBrsl28xtUFqO0wJ",
 "youtube": "https://www.youtube.com/watch?v=bfsQLRi-png",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530889-the-kk-show-39.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530889-the-kk-show-39.mp3",
 "tag": ['Aug 2020', 'KK Show', '陳沂', '朋友', '藝人']
 },
 "time225":{
@@ -3636,7 +3636,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1tYvC63eEesGTzIAQSjkbL",
 "youtube": "https://www.youtube.com/watch?v=rYpPQPc4xRE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530890-0802.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530890-0802.mp3",
 "tag": ['Aug 2020', '百靈果 NEWS']
 },
 "time224":{
@@ -3646,7 +3646,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0MRU516WcpAmp2a26LVyCP",
 "youtube": "https://www.youtube.com/watch?v=FkeY1xxGcWk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530891-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530891-podcast.mp3",
 "tag": ['Jul 2020', '免費教你如何做 Podcast', '暫代讀書會']
 },
 "time223":{
@@ -3656,7 +3656,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7qhuMEzADVhbmjNR0LEmGo",
 "youtube": "https://www.youtube.com/watch?v=dtuLTbw6Bn8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530892-the-kk-show-38-joeman.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530892-the-kk-show-38-joeman.mp3",
 "tag": ['Jul 2020', 'KK Show', 'Joeman', 'Youtuber', '老闆']
 },
 "time222":{
@@ -3666,7 +3666,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0QAULmdAc5eq8FH8Tt2Fik",
 "youtube": "https://www.youtube.com/watch?v=VNoyfXFAuvM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530893-0726-podcast-serial.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530893-0726-podcast-serial.mp3",
 "tag": ['Jul 2020', '百靈果 NEWS']
 },
 "time221":{
@@ -3676,7 +3676,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4L7TvbU2Uuq17HLDmeSTCp",
 "youtube": "https://www.youtube.com/watch?v=DkDQbNZGSTY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530894-the-room-where-it-happened-by-john-bolton-ch-11-12-13-14-15-end.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530894-the-room-where-it-happened-by-john-bolton-ch-11-12-13-14-15-end.mp3",
 "tag": ['Jul 2020', '讀書會', 'The Room Where It Happened by John Bolton']
 },
 "time220":{
@@ -3686,7 +3686,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7ylgM9liUuinIhaCgwUtcO",
 "youtube": "https://www.youtube.com/watch?v=jUkv2Yn8uuY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530895-the-kk-show-037.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530895-the-kk-show-037.mp3",
 "tag": ['Jul 2020', 'KK Show', '烏烏醫生', '學者', '時事', '醫學']
 },
 "time219":{
@@ -3696,7 +3696,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0fyBuu9KMhLme8nsliL7fX",
 "youtube": "https://www.youtube.com/watch?v=m55ojjWC1yk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530896-0719.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530896-0719.mp3",
 "tag": ['Jul 2020', '百靈果 NEWS']
 },
 "time218":{
@@ -3706,7 +3706,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3ZFAq2PTuiJ4PZa0eDxrTl",
 "youtube": "https://www.youtube.com/watch?v=FYf25Wz6Sk8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530897-the-room-where-it-happened-by-john-bolton-ch-7-8-9-10.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530897-the-room-where-it-happened-by-john-bolton-ch-7-8-9-10.mp3",
 "tag": ['Jul 2020', '讀書會', 'The Room Where It Happened by John Bolton']
 },
 "time217":{
@@ -3716,7 +3716,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6WECdla5FKPsyAIqJaVufq",
 "youtube": "https://www.youtube.com/watch?v=a60mUZWvNjo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530898-the-kk-show-036-3q.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530898-the-kk-show-036-3q.mp3",
 "tag": ['Jul 2020', 'KK Show', '陳柏惟', '政治人物']
 },
 "time216":{
@@ -3726,7 +3726,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3CPSZdNSs0J4RALIDx9lEF",
 "youtube": "https://www.youtube.com/watch?v=EEDLdqQdxDE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530899-0712-yt-beau-of-the-fifth-column.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530899-0712-yt-beau-of-the-fifth-column.mp3",
 "tag": ['Jul 2020', '百靈果 NEWS']
 },
 "time215":{
@@ -3736,7 +3736,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4PfPPokyBrO5vbbeWGipzD",
 "youtube": "https://www.youtube.com/watch?v=C4-OQUwORts",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530900-the-room-where-it-happened-by-john-bolton-ch-3-4-5-6.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530900-the-room-where-it-happened-by-john-bolton-ch-3-4-5-6.mp3",
 "tag": ['Jul 2020', '讀書會', 'The Room Where It Happened by John Bolton']
 },
 "time214":{
@@ -3746,7 +3746,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/382W5mU4CMWZN003dL9tDd",
 "youtube": "https://www.youtube.com/watch?v=bULLEg9Z91Y",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530901-the-kk-show-035.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530901-the-kk-show-035.mp3",
 "tag": ['Jul 2020', 'KK Show', '黑嘉嘉', '專業人士']
 },
 "time213":{
@@ -3756,7 +3756,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0vXPoKg9OwDFdcCfA1bwvf",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530902-0705-space-force.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530902-0705-space-force.mp3",
 "tag": ['Jul 2020', '百靈果 NEWS']
 },
 "time212":{
@@ -3766,7 +3766,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5Z4333pt9Oiw9su0DYTfl9",
 "youtube": "https://www.youtube.com/watch?v=BKm85V9KZhA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530903-the-room-where-it-happened-by-john-bolton-ch-1-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530903-the-room-where-it-happened-by-john-bolton-ch-1-2.mp3",
 "tag": ['Jul 2020', '讀書會', 'The Room Where It Happened by John Bolton']
 },
 "time211":{
@@ -3776,7 +3776,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1OFkPhuvXyLfrISXezIYR9",
 "youtube": "https://www.youtube.com/watch?v=XCBjCtCNcSQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530904-the-kk-show-34.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530904-the-kk-show-34.mp3",
 "tag": ['Jul 2020', 'KK Show', '沈伯洋（助理）教授', '事實查核', '學者', '時事']
 },
 "time210":{
@@ -3786,7 +3786,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3JjULmy2yjh9UDwsLwAoJ7",
 "youtube": "https://www.youtube.com/watch?v=3D2c7PjtJkg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530905-0628-the-room-where-it-happened.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530905-0628-the-room-where-it-happened.mp3",
 "tag": ['Jun 2020', '百靈果 NEWS']
 },
 "time209":{
@@ -3796,7 +3796,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5MDpxCUXHSlReuqU1HzAPv",
 "youtube": "https://www.youtube.com/watch?v=gYGS0AGSXAk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530906-ken-05.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530906-ken-05.mp3",
 "tag": ['Jun 2020', '讀書會', '浪淘沙']
 },
 "time208":{
@@ -3806,7 +3806,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4kspFjv1jnqQqTLJAlH8ej",
 "youtube": "https://www.youtube.com/watch?v=JeIlMyCnz54",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530907-the-kk-show-033-docking.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530907-the-kk-show-033-docking.mp3",
 "tag": ['Jun 2020', 'KK Show', '趙哥', '朋友']
 },
 "time207":{
@@ -3816,7 +3816,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2SOWspd77fSxRGG1d491kX",
 "youtube": "https://www.youtube.com/watch?v=A7JuQwt6aE4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530908-0621-black-face-podcast-call-her-daddy-earfun.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530908-0621-black-face-podcast-call-her-daddy-earfun.mp3",
 "tag": ['Jun 2020', '百靈果 NEWS']
 },
 "time206":{
@@ -3826,7 +3826,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7tF0RwcWOV3IvsXTJp5Jro",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530909-04-ken.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530909-04-ken.mp3",
 "tag": ['Jun 2020', '讀書會', '浪淘沙']
 },
 "time205":{
@@ -3836,7 +3836,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/05F2ntwjkpjXQAIirBFC2y",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530910-the-kk-show-032.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530910-the-kk-show-032.mp3",
 "tag": ['Jun 2020', 'KK Show', '阿秋', '喜劇演員']
 },
 "time204":{
@@ -3846,7 +3846,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1KiRdEWjKT3v5DDZCFIBSk",
 "youtube": "https://www.youtube.com/watch?v=L90ML6vrFM0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530911-0614-black-face.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530911-0614-black-face.mp3",
 "tag": ['Jun 2020', '百靈果 NEWS']
 },
 "time203":{
@@ -3856,7 +3856,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5doX8HHVRKGZgUAmUOqvbW",
 "youtube": "https://www.youtube.com/watch?v=JkDmksRG-YQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530912-03.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530912-03.mp3",
 "tag": ['Jun 2020', '讀書會', '浪淘沙']
 },
 "time202":{
@@ -3866,7 +3866,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2H90y6AXq1Cfi1qSMB3vmt",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530913-the-kk-show-31-hito.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530913-the-kk-show-31-hito.mp3",
 "tag": ['Jun 2020', 'KK Show', 'Hito 大聯盟', '運動']
 },
 "time201":{
@@ -3876,7 +3876,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/43Bwea0ek1CBJongIBvojv",
 "youtube": "https://www.youtube.com/watch?v=26WvVx6t_fw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530914-0607-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530914-0607-podcast.mp3",
 "tag": ['Jun 2020', '百靈果 NEWS']
 },
 "time200":{
@@ -3886,7 +3886,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/15iyvmnHILXRHArGjYuVar",
 "youtube": "https://www.youtube.com/watch?v=_Gxkop2ozHc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530915-bonus.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530915-bonus.mp3",
 "tag": ['Jun 2020', '百靈果 Bonus']
 },
 "time199":{
@@ -3896,7 +3896,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6rzIJdehc9CgcMxLougeN3",
 "youtube": "https://www.youtube.com/watch?v=VTVp4MmBy-I&t=468s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530916-001.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530916-001.mp3",
 "tag": ['Jun 2020', '暫代讀書會']
 },
 "time198":{
@@ -3906,7 +3906,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3ZeKCGjCfiomlkyJKAoomW",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530917-the-kk-show-30.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530917-the-kk-show-30.mp3",
 "tag": ['Jun 2020', 'KK Show', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', 'Podcaster', '專業人士', '律師']
 },
 "time197":{
@@ -3916,7 +3916,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4ZIm0Gobhkhi1oKxwFx9yI",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530918-0531-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530918-0531-podcast.mp3",
 "tag": ['May 2020', '百靈果 NEWS']
 },
 "time196":{
@@ -3926,7 +3926,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2tqbjnanKwBwsbPpDCZauB",
 "youtube": "https://www.youtube.com/watch?v=3J9ZuU7h1Po&t=140s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530919-02.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530919-02.mp3",
 "tag": ['May 2020', '讀書會', '浪淘沙']
 },
 "time195":{
@@ -3936,7 +3936,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1QZDVzLISkV1GedgLo2apm",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530920-the-kk-show-29-roger.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530920-the-kk-show-29-roger.mp3",
 "tag": ['May 2020', 'KK Show', 'Roger', '影視製作', '製作人']
 },
 "time194":{
@@ -3946,7 +3946,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3AbWHKT3cUqrLk81li0Ulr",
 "youtube": "https://www.youtube.com/watch?v=M4JQralmJeY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530921-0524-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530921-0524-podcast.mp3",
 "tag": ['May 2020', '百靈果 NEWS']
 },
 "time193":{
@@ -3956,7 +3956,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1L8OJhHTVITOpLiZdlrkYI",
 "youtube": "https://www.youtube.com/watch?v=K2m6j-aIgd0&t=465s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530922-01.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530922-01.mp3",
 "tag": ['May 2020', '讀書會', '浪淘沙']
 },
 "time192":{
@@ -3966,7 +3966,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0raDf3u8wwCPpAeJTqRprQ",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530923-the-kk-show-28.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530923-the-kk-show-28.mp3",
 "tag": ['May 2020', 'KK Show', '簡少年', 'Podcaster']
 },
 "time191":{
@@ -3976,7 +3976,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4sLuXCgQuattE2kql6gkQ3",
 "youtube": "https://www.youtube.com/watch?v=pAB68brXkGg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530924-news-bonus-update.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530924-news-bonus-update.mp3",
 "tag": ['May 2020', '百靈果 NEWS', '國傳司事件']
 },
 "time190":{
@@ -3986,7 +3986,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6xaHWPL5eExzqyWSyCLWJW",
 "youtube": "https://www.youtube.com/watch?v=_odo78jLlBE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530925-0517-vs.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530925-0517-vs.mp3",
 "tag": ['May 2020', '百靈果 NEWS']
 },
 "time189":{
@@ -3996,7 +3996,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4KV4opBYW3MnbbEBQCaKMa",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530926-the-kk-show-27-grr.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530926-the-kk-show-27-grr.mp3",
 "tag": ['May 2020', 'KK Show', '邱 grr', 'Youtuber', '健力', '老闆', '運動']
 },
 "time188":{
@@ -4006,7 +4006,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3MlVtKsl893r0nLfLROfVc",
 "youtube": "https://www.youtube.com/watch?v=UAGMI-RV8PA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530927-0510-my-life-on-the-road.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530927-0510-my-life-on-the-road.mp3",
 "tag": ['May 2020', '百靈果 NEWS']
 },
 "time187":{
@@ -4016,7 +4016,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6mlJGAf1M3tf2rZkk3WVbx",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530928-the-kk-show-25-5-2020-04-30.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530928-the-kk-show-25-5-2020-04-30.mp3",
 "tag": ['May 2020', 'KK Show', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '老闆']
 },
 "time186":{
@@ -4026,7 +4026,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4ZyhQEa3x1IpmKZitOhMfH",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530929-the-kk-show-26.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530929-the-kk-show-26.mp3",
 "tag": ['May 2020', 'KK Show', '妍言', '運動']
 },
 "time185":{
@@ -4036,7 +4036,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7EjvNlBUe3h52jDiQegLHR",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530930-0503-too-hot-to-handel.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530930-0503-too-hot-to-handel.mp3",
 "tag": ['May 2020', '百靈果 NEWS']
 },
 "time184":{
@@ -4046,7 +4046,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3bw7Np0BZlkItDnWXEaztj",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530931-the-kk-show-25.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530931-the-kk-show-25.mp3",
 "tag": ['Apr 2020', 'KK Show', '呱吉', 'Youtuber', '喜劇演員', '政治人物', '老闆']
 },
 "time183":{
@@ -4056,7 +4056,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5t8RC3VdzhwB2rlpDYEKux",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530932-0426.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530932-0426.mp3",
 "tag": ['Apr 2020', '百靈果 NEWS']
 },
 "time182":{
@@ -4066,7 +4066,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/62yeXY0Twb64n8WKOitL1R",
 "youtube": "https://www.youtube.com/watch?v=5k7XxtD-ogo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530933-charite-at-war-6-end.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530933-charite-at-war-6-end.mp3",
 "tag": ['Apr 2020', '讀書會', '戰裡的夏里特']
 },
 "time181":{
@@ -4076,7 +4076,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6DbzopgxHNJStNuUlBk5UX",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530934-the-kk-show-24.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530934-the-kk-show-24.mp3",
 "tag": ['Apr 2020', 'KK Show', '范琪斐', 'Podcaster', 'Youtuber', '時事']
 },
 "time180":{
@@ -4086,7 +4086,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7oinEG5yonu3oqMQQgFOHF",
 "youtube": "https://www.youtube.com/watch?v=Wboehk8pIQA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530935-0419-get-out-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530935-0419-get-out-podcast.mp3",
 "tag": ['Apr 2020', '百靈果 NEWS']
 },
 "time179":{
@@ -4096,7 +4096,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/056wDWgGq8GzFZir3rywJp",
 "youtube": "https://www.youtube.com/watch?v=Ti5QF452GW0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530936-charite-at-war-5.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530936-charite-at-war-5.mp3",
 "tag": ['Apr 2020', '讀書會', '戰裡的夏里特']
 },
 "time178":{
@@ -4106,7 +4106,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4XFDs4yY9uXNHpegPP6ySW",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530937-the-kk-show-23-jim.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530937-the-kk-show-23-jim.mp3",
 "tag": ['Apr 2020', 'KK Show', 'Jim', 'Youtuber', '喜劇演員']
 },
 "time177":{
@@ -4116,7 +4116,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/49o9oaXleC4j5DaIKI3OKM",
 "youtube": "https://www.youtube.com/watch?v=pZBm9gjISCI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530938-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530938-.mp3",
 "tag": ['Apr 2020', '紐時集資事件']
 },
 "time176":{
@@ -4126,7 +4126,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1O2l190yXJl3jXg9lZQyxd",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530939-0412.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530939-0412.mp3",
 "tag": ['Apr 2020', '百靈果 NEWS']
 },
 "time175":{
@@ -4136,7 +4136,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0egTvvlAq6DnkPhSfMG8gf",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530940-the-kk-show-asmr-pom.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530940-the-kk-show-asmr-pom.mp3",
 "tag": ['Apr 2020', 'KK Show', 'Pom 咩', '朋友']
 },
 "time174":{
@@ -4146,7 +4146,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3kUtZgoZawj9YZ03E5T3Rv",
 "youtube": "https://www.youtube.com/watch?v=BZyrhYQfZxE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530941-charite-at-war-4.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530941-charite-at-war-4.mp3",
 "tag": ['Apr 2020', '讀書會', '戰裡的夏里特']
 },
 "time173":{
@@ -4156,7 +4156,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0UWP0xjcwr4KvHVgpfEx89",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530942-the-kk-show-22-eleven-sports.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530942-the-kk-show-22-eleven-sports.mp3",
 "tag": ['Apr 2020', 'KK Show', '莉婷', '記者', '運動']
 },
 "time172":{
@@ -4166,7 +4166,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4wBQzP4BulPFHujkw7W7hQ",
 "youtube": "https://www.youtube.com/watch?v=hoHl1ftdRgE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530943-0405-tiger-king.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530943-0405-tiger-king.mp3",
 "tag": ['Apr 2020', '百靈果 NEWS']
 },
 "time171":{
@@ -4176,7 +4176,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1N2Q1XPlPOSorTVgJRFpxG",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530944-the-kk-show-21.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530944-the-kk-show-21.mp3",
 "tag": ['Apr 2020', 'KK Show', '股癌', 'Podcaster']
 },
 "time170":{
@@ -4186,7 +4186,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7aIuUHIVWz7StkFpNitYEf",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530945-the-kk-show-20-niki.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530945-the-kk-show-20-niki.mp3",
 "tag": ['Mar 2020', 'KK Show', 'Niki', '色色']
 },
 "time169":{
@@ -4196,7 +4196,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6yl3ssuRgnWJ2tJPaXdSn3",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530946-0329.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530946-0329.mp3",
 "tag": ['Mar 2020', '百靈果 NEWS']
 },
 "time168":{
@@ -4206,7 +4206,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2HUJ9K4ugsSdrYFJr0BN10",
 "youtube": "https://www.youtube.com/watch?v=30gKpVybKIk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530947-charite-at-war-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530947-charite-at-war-3.mp3",
 "tag": ['Mar 2020', '讀書會', '戰裡的夏里特']
 },
 "time167":{
@@ -4216,7 +4216,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2yBWwoTyo1obgf9Vyw6aey",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530948-the-kk-show-19.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530948-the-kk-show-19.mp3",
 "tag": ['Mar 2020', 'KK Show', '酸酸', 'Podcaster', 'Youtuber', '喜劇演員']
 },
 "time166":{
@@ -4226,7 +4226,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4sCPTE1LApTRUO16FjqrL6",
 "youtube": "https://www.youtube.com/watch?v=_9-tXBLC1sU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530949-0322-1000-crash-landing.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530949-0322-1000-crash-landing.mp3",
 "tag": ['Mar 2020', '百靈果 NEWS']
 },
 "time165":{
@@ -4236,7 +4236,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/143K9zhnAabOIWp6CqygZY",
 "youtube": "https://www.youtube.com/watch?v=LP5m161suas",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530950-charite-at-war-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530950-charite-at-war-2.mp3",
 "tag": ['Mar 2020', '讀書會', '戰裡的夏里特']
 },
 "time164":{
@@ -4246,7 +4246,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0UBecJbZQR6wkIKugcQvcI",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530951-the-kk-show-18-angeli.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530951-the-kk-show-18-angeli.mp3",
 "tag": ['Mar 2020', 'KK Show', 'Angeli', '聽眾']
 },
 "time163":{
@@ -4256,7 +4256,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3C7jltwHdcAk4wIH3aJ9sW",
 "youtube": "https://www.youtube.com/watch?v=Un0WNxwrihs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530952-0315-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530952-0315-podcast.mp3",
 "tag": ['Mar 2020', '百靈果 NEWS']
 },
 "time162":{
@@ -4266,7 +4266,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4oaATPpT38uWhHVBnLeFqu",
 "youtube": "https://www.youtube.com/watch?v=-cSpV6vN24I&t=4s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530953-charite-at-war-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530953-charite-at-war-1.mp3",
 "tag": ['Mar 2020', '讀書會', '戰裡的夏里特']
 },
 "time161":{
@@ -4276,7 +4276,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2n4Jc8FnfnXU8CxCiJCYib",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530954-the-kk-show-17-feyza.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530954-the-kk-show-17-feyza.mp3",
 "tag": ['Mar 2020', 'KK Show', 'Feyza', '聽眾']
 },
 "time160":{
@@ -4286,7 +4286,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0BgvJ5qj5PllqDBUmoohrq",
 "youtube": "https://www.youtube.com/watch?v=x8Fu-mUChI4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530955-0308-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530955-0308-2.mp3",
 "tag": ['Mar 2020', '百靈果 NEWS']
 },
 "time159":{
@@ -4296,7 +4296,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3Fm20NAc8oxja4KY9lSE4n",
 "youtube": "https://www.youtube.com/watch?v=h4ozMrq-tII&t=1s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530956-228-live-podcast-qa.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530956-228-live-podcast-qa.mp3",
 "tag": ['Mar 2020', 'Live Podcast', '暫代讀書會']
 },
 "time158":{
@@ -4306,7 +4306,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5VuVPbrz2X9JQyB3Jg4enS",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530957-the-kk-show-16.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530957-the-kk-show-16.mp3",
 "tag": ['Mar 2020', 'KK Show', '龍龍', 'Youtuber', '喜劇演員']
 },
 "time157":{
@@ -4316,7 +4316,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1A8Adh4FNKQPB2n8rUE8y8",
 "youtube": "https://www.youtube.com/watch?v=kYeUhgOMBF0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530958-0301-228.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530958-0301-228.mp3",
 "tag": ['Mar 2020', '百靈果 NEWS']
 },
 "time156":{
@@ -4326,7 +4326,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6kE7SDx9hLhg7G5MjTAEBp",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530959-the-kk-show-015-howard.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530959-the-kk-show-015-howard.mp3",
 "tag": ['Feb 2020', 'KK Show', 'Howard', 'Podcaster', '口譯員', '專業人士', '朋友']
 },
 "time155":{
@@ -4336,7 +4336,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3D4B1uxAMeZVT3CfcwGfY3",
 "youtube": "https://www.youtube.com/watch?v=7LPF4s68k90",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530960-0223.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530960-0223.mp3",
 "tag": ['Feb 2020', '百靈果 NEWS']
 },
 "time154":{
@@ -4346,7 +4346,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6HdYxkqOCCNGMmMUGOAVpN",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530961-the-kk-show-014-ivan.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530961-the-kk-show-014-ivan.mp3",
 "tag": ['Feb 2020', 'KK Show', 'Ivan', '朋友']
 },
 "time153":{
@@ -4356,7 +4356,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6fPKMBPWGVbZycapAHnnjS",
 "youtube": "https://www.youtube.com/watch?v=UV6q37Cke1I",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530962-0216-pimp.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530962-0216-pimp.mp3",
 "tag": ['Feb 2020', '百靈果 NEWS']
 },
 "time152":{
@@ -4366,7 +4366,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3mLztcG1osj6QN8rNqE9mo",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530963-the-kk-show-013-wolf.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530963-the-kk-show-013-wolf.mp3",
 "tag": ['Feb 2020', 'KK Show', 'Wolf', '來賓']
 },
 "time151":{
@@ -4376,7 +4376,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0NAn7F17jaF9JbdfLlEWua",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530964-0210-app.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530964-0210-app.mp3",
 "tag": ['Feb 2020', '百靈果 NEWS']
 },
 "time150":{
@@ -4386,7 +4386,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/58xiIe5whF2rOOptKU8QS9",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530965-the-kk-show-012.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530965-the-kk-show-012.mp3",
 "tag": ['Feb 2020', 'KK Show', '么么', '怡岑', '喜劇演員']
 },
 "time149":{
@@ -4396,7 +4396,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4LDB9LobJa2iAL94Oa9GUv",
 "youtube": "https://www.youtube.com/watch?v=NeD_dkYyXAc&t=573s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530966-0202-who.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530966-0202-who.mp3",
 "tag": ['Feb 2020', '百靈果 NEWS']
 },
 "time148":{
@@ -4406,7 +4406,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5Dd9TcZmPCx8THNx8siIuH",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530967-wild-swans-25-26-27-28-end.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530967-wild-swans-25-26-27-28-end.mp3",
 "tag": ['Jan 2020', '讀書會', '鴻：三代中國女人']
 },
 "time147":{
@@ -4416,7 +4416,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5XOUbFJcqvSF0R1FYrOv9u",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530968-the-kk-show-011-rihanna.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530968-the-kk-show-011-rihanna.mp3",
 "tag": ['Jan 2020', 'KK Show', '阿爆', '原住民', '朋友', '音樂']
 },
 "time146":{
@@ -4426,7 +4426,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3X7EUmHDkUCv9UJUkl1Re3",
 "youtube": "https://www.youtube.com/watch?v=IIG9_5XK5FY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530969-0126.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530969-0126.mp3",
 "tag": ['Jan 2020', '百靈果 NEWS']
 },
 "time145":{
@@ -4436,7 +4436,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7FqTiImXVdm9VXcPbSaYZg",
 "youtube": "https://www.youtube.com/watch?v=sGXOqAX5_vo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530970-wild-swans-22-23-24.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530970-wild-swans-22-23-24.mp3",
 "tag": ['Jan 2020', '讀書會', '鴻：三代中國女人']
 },
 "time144":{
@@ -4446,7 +4446,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/24bjXyzUTRwp9fgD1BwhrU",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530971-the-kk-show-010-angel.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530971-the-kk-show-010-angel.mp3",
 "tag": ['Jan 2020', 'KK Show', 'Angel', '聽眾']
 },
 "time143":{
@@ -4456,7 +4456,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0RhFgUoNxQ3c6AScUcm0HN",
 "youtube": "https://www.youtube.com/watch?v=x87FnOchEHU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530972-0119.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530972-0119.mp3",
 "tag": ['Jan 2020', '百靈果 NEWS']
 },
 "time142":{
@@ -4466,7 +4466,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0TLeJz9Ja4qP861FU7b6cH",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
 "tag": ['Jan 2020', 'KK Show', '顧立楷', '老闆']
 },
 "time141":{
@@ -4476,7 +4476,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0P4t5y0IDMaaWKIklzjqxO",
 "youtube": "https://www.youtube.com/watch?v=1N8q-iKrq1Q&t=2232s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530974-0112-2020.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530974-0112-2020.mp3",
 "tag": ['Jan 2020', '百靈果 NEWS']
 },
 "time140":{
@@ -4486,7 +4486,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530975-the-kk-show-008.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530975-the-kk-show-008.mp3",
 "tag": ['Jan 2020', 'KK Show', '范琪斐', 'Podcaster', 'Youtuber', '時事']
 },
 "time139":{
@@ -4496,7 +4496,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/621E9GKGP6A0gBhzJI3WZu",
 "youtube": "https://www.youtube.com/watch?v=vsFNBBQXQrg&t=1528s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530976-0105-news-podcast-ideas.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530976-0105-news-podcast-ideas.mp3",
 "tag": ['Jan 2020', '百靈果 NEWS']
 },
 "time138":{
@@ -4506,7 +4506,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1uCY5bd02dnhpz5dLP2xt0",
 "youtube": "https://www.youtube.com/watch?v=rcIfUz2FHvg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530977-wild-swans-20-21.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530977-wild-swans-20-21.mp3",
 "tag": ['Jan 2020', '讀書會', '鴻：三代中國女人']
 },
 "time137":{
@@ -4516,7 +4516,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2ncVvglpTxZvDfChZMW25z",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530978-the-kk-show-007.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530978-the-kk-show-007.mp3",
 "tag": ['Dec 2019', 'KK Show', '賀瓏', 'Youtuber', '喜劇演員']
 },
 "time136":{
@@ -4526,7 +4526,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6K9ee1Aaj4EtFFbunVBYG6",
 "youtube": "https://www.youtube.com/watch?v=MTrLvE1hOh8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530979-1229.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530979-1229.mp3",
 "tag": ['Dec 2019', '百靈果 NEWS']
 },
 "time135":{
@@ -4536,7 +4536,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7eHfTlnZhztKGu7S46Kl51",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530980-news-fire.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530980-news-fire.mp3",
 "tag": ['Dec 2019', '百靈果 NEWS']
 },
 "time134":{
@@ -4546,7 +4546,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2i0Ioh8YA8M9TYA6KtwgPf",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530981-wild-swans-18-19.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530981-wild-swans-18-19.mp3",
 "tag": ['Dec 2019', '讀書會', '鴻：三代中國女人']
 },
 "time133":{
@@ -4556,7 +4556,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4G654y51mDc2fZdTWNSqKL",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530982-the-kk-show-006-shao-yong.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530982-the-kk-show-006-shao-yong.mp3",
 "tag": ['Dec 2019', 'KK Show', 'Shao Yong', '健身', '專業人士', '教練', '朋友', '運動']
 },
 "time132":{
@@ -4566,7 +4566,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6lGsEOZ06miKcQzqdMQSeU",
 "youtube": "https://www.youtube.com/watch?v=ztsH8oFHIVg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530983-1222-greta-thunberg-charite-at-war.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530983-1222-greta-thunberg-charite-at-war.mp3",
 "tag": ['Dec 2019', '百靈果 NEWS']
 },
 "time131":{
@@ -4576,7 +4576,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3ZGJWDG6N5cQaadlWO6tgg",
 "youtube": "https://www.youtube.com/watch?v=Cx0J9v6toz8",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530984-bonus-greta-thunberg.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530984-bonus-greta-thunberg.mp3",
 "tag": ['Dec 2019', '百靈果 Bonus']
 },
 "time130":{
@@ -4586,7 +4586,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5sUJfuFx202mc3bGBEPzD4",
 "youtube": "https://www.youtube.com/watch?v=2-lIqGyLANQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530985-wild-swans-17.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530985-wild-swans-17.mp3",
 "tag": ['Dec 2019', '讀書會', '鴻：三代中國女人']
 },
 "time129":{
@@ -4596,7 +4596,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1wmtMwv1BsfFKa04b1pLxT",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530986-the-kk-show-005.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530986-the-kk-show-005.mp3",
 "tag": ['Dec 2019', 'KK Show', '歐馬克', 'Podcaster', '喜劇演員', '廣播人']
 },
 "time128":{
@@ -4606,7 +4606,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3OXCVnyynsTA4Zu5gY9a9r",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530987-1215-dna.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530987-1215-dna.mp3",
 "tag": ['Dec 2019', '百靈果 NEWS']
 },
 "time127":{
@@ -4616,7 +4616,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2RNSqpTbReZjLc66qV8RAo",
 "youtube": "https://www.youtube.com/watch?v=F2myUkFD0LM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530988-wild-swans-15-16.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530988-wild-swans-15-16.mp3",
 "tag": ['Dec 2019', '讀書會', '鴻：三代中國女人']
 },
 "time126":{
@@ -4626,7 +4626,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2ZeRPc3B6qIscpbyOX4EuN",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530989-the-kk-show-004.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530989-the-kk-show-004.mp3",
 "tag": ['Dec 2019', 'KK Show', '艾董', '喜劇演員']
 },
 "time125":{
@@ -4636,7 +4636,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0HCpE3XFVPDah08VkpJivn",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530990-1208-30-podcast-jungle-prince.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530990-1208-30-podcast-jungle-prince.mp3",
 "tag": ['Dec 2019', '百靈果 NEWS']
 },
 "time124":{
@@ -4646,7 +4646,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/203wS2avrR9uaTcPjtQHjd",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530991-wild-swans-14.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530991-wild-swans-14.mp3",
 "tag": ['Dec 2019', '讀書會', '鴻：三代中國女人']
 },
 "time123":{
@@ -4656,7 +4656,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7lxzAF6gQ5mF2YjcjD9t2x",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530992-the-kk-show-003-2020.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530992-the-kk-show-003-2020.mp3",
 "tag": ['Dec 2019', 'KK Show', '黃豪平', 'Youtuber', '喜劇演員', '廣播人', '藝人', '魔術師']
 },
 "time122":{
@@ -4666,7 +4666,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7yECDzyQ3kqptJcdndcs3f",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530993-1201-uber-billie-eilish.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530993-1201-uber-billie-eilish.mp3",
 "tag": ['Dec 2019', '百靈果 NEWS']
 },
 "time121":{
@@ -4676,7 +4676,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3O87uoo5QXTGnbNjgpZNYL",
 "youtube": "https://www.youtube.com/watch?v=JgWDsV8eXBo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530994-wild-swans-12-13.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530994-wild-swans-12-13.mp3",
 "tag": ['Nov 2019', '讀書會', '鴻：三代中國女人']
 },
 "time120":{
@@ -4686,7 +4686,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7lYihOSMuiCUiW76uK5zm9",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530995-the-kk-show-000-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530995-the-kk-show-000-podcast.mp3",
 "tag": ['Nov 2019', 'KK Show', '馬力歐', 'Podcaster']
 },
 "time119":{
@@ -4696,7 +4696,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3NI2bTxT3gKHLAKQs1vmnY",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530996-1124.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530996-1124.mp3",
 "tag": ['Nov 2019', '百靈果 NEWS']
 },
 "time118":{
@@ -4706,7 +4706,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7GzgGpHhgG9KinJbP1tRno",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530997-the-kk-show-002-tim-chen.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530997-the-kk-show-002-tim-chen.mp3",
 "tag": ['Nov 2019', 'KK Show', 'Tim Chen', '喜劇演員']
 },
 "time117":{
@@ -4716,7 +4716,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5gPEn2xD8rgH7HKJsWEgDF",
 "youtube": "https://www.youtube.com/watch?v=hE2g5InsqsA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530998-wild-swans-10-11.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530998-wild-swans-10-11.mp3",
 "tag": ['Nov 2019', '讀書會', '鴻：三代中國女人']
 },
 "time116":{
@@ -4726,7 +4726,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/11q9SSwRocRaMKTiIN0nag",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530999-1117-google-chill.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530999-1117-google-chill.mp3",
 "tag": ['Nov 2019', '百靈果 NEWS']
 },
 "time115":{
@@ -4736,7 +4736,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3pl1BKbEgYzvcHVghCM5O8",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531000-1110-rice.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531000-1110-rice.mp3",
 "tag": ['Nov 2019', '百靈果 NEWS']
 },
 "time114":{
@@ -4746,7 +4746,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3UBi2vyvYZ05Vam3qiGmDK",
 "youtube": "https://www.youtube.com/watch?v=A7CmB19Bg74",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531001-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531001-wild-swans.mp3",
 "tag": ['Nov 2019', '讀書會', '鴻：三代中國女人']
 },
 "time113":{
@@ -4756,7 +4756,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3FTtZ5phFzMEcIuEYz1miu",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531002-the-kk-show-001-mario.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531002-the-kk-show-001-mario.mp3",
 "tag": ['Nov 2019', 'KK Show', 'Mario', '時事']
 },
 "time112":{
@@ -4766,7 +4766,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/07s7tMyaeREXs4cOQaX75z",
 "youtube": "https://www.youtube.com/watch?v=osfZqxaQ3zc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531003-1103.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531003-1103.mp3",
 "tag": ['Nov 2019', '百靈果 NEWS']
 },
 "time111":{
@@ -4776,7 +4776,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0GVSEHUJcMpCHGyApendEe",
 "youtube": "https://www.youtube.com/watch?v=aOZtyk4p-CM",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531004-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531004-wild-swans.mp3",
 "tag": ['Oct 2019', '讀書會', '鴻：三代中國女人']
 },
 "time110":{
@@ -4786,7 +4786,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3gjeI5mHONaDn3b0DBkPcj",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531005-1027.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531005-1027.mp3",
 "tag": ['Oct 2019', '百靈果 NEWS']
 },
 "time109":{
@@ -4796,7 +4796,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6u39UHrNlAwsGe0romkur5",
 "youtube": "https://www.youtube.com/watch?v=uqkQoJKj3AE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531006-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531006-wild-swans.mp3",
 "tag": ['Oct 2019', '讀書會', '鴻：三代中國女人']
 },
 "time108":{
@@ -4806,7 +4806,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7q7P7BwDK5rIket17dUJx2",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531007-1020-nba-made-in-usa-kylie.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531007-1020-nba-made-in-usa-kylie.mp3",
 "tag": ['Oct 2019', '百靈果 NEWS']
 },
 "time107":{
@@ -4816,7 +4816,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5N0upvKJrjgYiJWSdB37ZT",
 "youtube": "https://www.youtube.com/watch?v=FfXDWZOfdjk",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531008-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531008-wild-swans.mp3",
 "tag": ['Oct 2019', '讀書會', '鴻：三代中國女人']
 },
 "time106":{
@@ -4826,7 +4826,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/68BH1tVaZs1buQ4R5RUOx0",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531009-1013-kylie.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531009-1013-kylie.mp3",
 "tag": ['Oct 2019', '百靈果 NEWS']
 },
 "time105":{
@@ -4836,7 +4836,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3PUTYbX3hKCmj9ZE33U0f7",
 "youtube": "https://www.youtube.com/watch?v=QDUGyCDIJYs",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531010-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531010-wild-swans.mp3",
 "tag": ['Oct 2019', '讀書會', '鴻：三代中國女人']
 },
 "time104":{
@@ -4846,7 +4846,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7bCkwDUkna3Gm62tVPcbjN",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531011-1006.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531011-1006.mp3",
 "tag": ['Oct 2019', '百靈果 NEWS']
 },
 "time103":{
@@ -4856,7 +4856,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4Sj8IqQ4WoH9QQIg4c5Yhi",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531012-rode-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531012-rode-wild-swans.mp3",
 "tag": ['Oct 2019', '讀書會', '鴻：三代中國女人']
 },
 "time102":{
@@ -4866,7 +4866,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4fReJ8wRv9bHbf19DEyFU0",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531013-0929-rode.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531013-0929-rode.mp3",
 "tag": ['Sep 2019', '百靈果 NEWS']
 },
 "time101":{
@@ -4876,7 +4876,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4Rr8RbBzcAJoxctcEWD37z",
 "youtube": "https://www.youtube.com/watch?v=8UQrCqkOiqo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531014-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531014-wild-swans.mp3",
 "tag": ['Sep 2019', '讀書會', '鴻：三代中國女人']
 },
 "time100":{
@@ -4886,7 +4886,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/20ICn0wmND8zZGqoALjEzK",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531015-0922-18.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531015-0922-18.mp3",
 "tag": ['Sep 2019', '百靈果 NEWS']
 },
 "time99":{
@@ -4896,7 +4896,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5FcKPCulT8T4yDOPn4xxxC",
 "youtube": "https://www.youtube.com/watch?v=6xawK0AEMnQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531016-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531016-wild-swans.mp3",
 "tag": ['Sep 2019', '讀書會', '鴻：三代中國女人']
 },
 "time98":{
@@ -4906,7 +4906,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6HFctdXWwfK03a8V7KCrcc",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531017-0915.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531017-0915.mp3",
 "tag": ['Sep 2019', '百靈果 NEWS']
 },
 "time97":{
@@ -4916,7 +4916,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1S7sW7J4H78AYzop7Guns1",
 "youtube": "https://www.youtube.com/watch?v=RzwQ984cCzg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531018-wild-swans.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531018-wild-swans.mp3",
 "tag": ['Sep 2019', '讀書會', '鴻：三代中國女人']
 },
 "time96":{
@@ -4926,7 +4926,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5yJxLxG36hw1D8yn1GsfWR",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531019-0908-american-factory.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531019-0908-american-factory.mp3",
 "tag": ['Sep 2019', '百靈果 NEWS']
 },
 "time95":{
@@ -4936,7 +4936,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4pBYwhkYz6cz1DC0mCMjML",
 "youtube": "https://www.youtube.com/watch?v=qAUUBZYEcdQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531020-this-american-life-ten-sessions.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531020-this-american-life-ten-sessions.mp3",
 "tag": ['Sep 2019', '讀書會', 'This American Life']
 },
 "time94":{
@@ -4946,7 +4946,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2mdVY1aISVJBH5RZ5ETUKk",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531021-0901-sticks-and-stones.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531021-0901-sticks-and-stones.mp3",
 "tag": ['Sep 2019', '百靈果 NEWS']
 },
 "time93":{
@@ -4956,7 +4956,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0jsffFr3l8zhsbBzEClvwn",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531022-0828.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531022-0828.mp3",
 "tag": ['Aug 2019', '暫代讀書會']
 },
 "time92":{
@@ -4966,7 +4966,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5XLlAbvKmcwYmBH81SVTrY",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531023-0825.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531023-0825.mp3",
 "tag": ['Aug 2019', '百靈果 NEWS']
 },
 "time91":{
@@ -4976,7 +4976,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/09iO59pl0St1tSeY77BpD0",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531024-0822.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531024-0822.mp3",
 "tag": ['Aug 2019', '暫代讀書會', '隱藏版 KK Show', '敏迪 @敏迪選讀', 'Podcaster', '時事']
 },
 "time90":{
@@ -4986,7 +4986,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6bnIAyxIEcv1Higkh4Fwzs",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531025-0818-facebook-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531025-0818-facebook-podcast.mp3",
 "tag": ['Aug 2019', '百靈果 NEWS']
 },
 "time89":{
@@ -4996,7 +4996,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0P0Mvz7iE0t0KhxGRZGeCZ",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531026-chernobyl.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531026-chernobyl.mp3",
 "tag": ['Aug 2019', '讀書會', '核爆家園']
 },
 "time88":{
@@ -5006,7 +5006,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4UZSNU84GMaoLTOq1trlF4",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531027-0811.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531027-0811.mp3",
 "tag": ['Aug 2019', '百靈果 NEWS']
 },
 "time87":{
@@ -5016,7 +5016,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5SS1Dr4FWIIJ9MxcncNXTJ",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531028-0804.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531028-0804.mp3",
 "tag": ['Aug 2019', '百靈果 NEWS']
 },
 "time86":{
@@ -5026,7 +5026,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1yoscM85bfGAyP4LCUSyu9",
 "youtube": "https://www.youtube.com/watch?v=fXF3oSYKFIQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531029-chernobyl.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531029-chernobyl.mp3",
 "tag": ['Jul 2019', '讀書會', '核爆家園']
 },
 "time85":{
@@ -5036,7 +5036,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/39gEa1WDrg09R9q7x9vzp9",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531030-0728-jeffery-epstein-721.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531030-0728-jeffery-epstein-721.mp3",
 "tag": ['Jul 2019', '百靈果 NEWS']
 },
 "time84":{
@@ -5046,7 +5046,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5n6bHxVNFJE0gUkSFEPsPX",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531031-chernobyl.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531031-chernobyl.mp3",
 "tag": ['Jul 2019', '讀書會', '核爆家園']
 },
 "time83":{
@@ -5056,7 +5056,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/32yedIcyUN8RmD4tT9vSkt",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531032-0721.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531032-0721.mp3",
 "tag": ['Jul 2019', '百靈果 NEWS']
 },
 "time82":{
@@ -5066,7 +5066,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4wjYHhbpVwZkpRHhdUboYt",
 "youtube": "https://www.youtube.com/watch?v=OOAKIlUCA1Y",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531033-chernobyl.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531033-chernobyl.mp3",
 "tag": ['Jul 2019', '讀書會', '核爆家園']
 },
 "time81":{
@@ -5076,7 +5076,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6lBiRDnNzb99umLSeCMLCV",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531034-0714-3-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531034-0714-3-1.mp3",
 "tag": ['Jul 2019', '百靈果 NEWS']
 },
 "time80":{
@@ -5086,7 +5086,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6fqqeUMgRIlqDEWQt1eBzT",
 "youtube": "https://www.youtube.com/watch?v=Bes7k9kVNs0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531035-chernobyl.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531035-chernobyl.mp3",
 "tag": ['Jul 2019', '讀書會', '核爆家園']
 },
 "time79":{
@@ -5096,7 +5096,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7a31f2SmVivL3jiNRKJHX4",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531036-0707-2-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531036-0707-2-1.mp3",
 "tag": ['Jul 2019', '百靈果 NEWS']
 },
 "time78":{
@@ -5106,7 +5106,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3MhbxtcnsrWRLqG45lTC4C",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531037-0706.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531037-0706.mp3",
 "tag": ['Jul 2019', '百靈果 NEWS']
 },
 "time77":{
@@ -5116,7 +5116,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/24QCdjG5Cb2bf0FXZZkIHn",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531038-0704-bonus.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531038-0704-bonus.mp3",
 "tag": ['Jul 2019', '隱藏版 KK Show', '馬力歐', 'Podcaster']
 },
 "time76":{
@@ -5126,7 +5126,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6xz27juz29yNVGA6L2Mv5z",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531039-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531039-.mp3",
 "tag": ['Jul 2019', '讀書會', '陳澄波密碼']
 },
 "time75":{
@@ -5136,7 +5136,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3WEomE9TM35KCPf0vLXGf5",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531040-0630-623.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531040-0630-623.mp3",
 "tag": ['Jul 2019', '百靈果 NEWS']
 },
 "time74":{
@@ -5146,7 +5146,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4SHAGEO14EkzvK5MthZd33",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531041-0627-ken.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531041-0627-ken.mp3",
 "tag": ['Jun 2019', '百靈果 NEWS']
 },
 "time73":{
@@ -5156,7 +5156,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1UvhovjmeMp3HpVGb3lsjl",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531042-0623.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531042-0623.mp3",
 "tag": ['Jun 2019', '百靈果 NEWS']
 },
 "time72":{
@@ -5166,7 +5166,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4cqJPWsuNWosv2nIBHuyzG",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531043-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531043-.mp3",
 "tag": ['Jun 2019', '讀書會', '陳澄波密碼']
 },
 "time71":{
@@ -5176,7 +5176,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6vZYHmU3x1v75t2aBsluzs",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531044-0616-3-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531044-0616-3-1.mp3",
 "tag": ['Jun 2019', '百靈果 NEWS']
 },
 "time70":{
@@ -5186,7 +5186,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6OGBTbFoAMlgMpDDreeK7J",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531045-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531045-.mp3",
 "tag": ['Jun 2019', '讀書會', '陳澄波密碼']
 },
 "time69":{
@@ -5196,7 +5196,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4RUtpXS0nfOVt924BTQs8H",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531046-0609.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531046-0609.mp3",
 "tag": ['Jun 2019', '百靈果 NEWS']
 },
 "time68":{
@@ -5206,7 +5206,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3qZ2co8j3zj38Jt1byDoEZ",
 "youtube": "https://www.youtube.com/watch?v=POCqtegPlxo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531047-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531047-.mp3",
 "tag": ['Jun 2019', '讀書會', '陳澄波密碼']
 },
 "time67":{
@@ -5216,7 +5216,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/00a3TXU4cgkSu5a3XFOCX0",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531048-0602.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531048-0602.mp3",
 "tag": ['Jun 2019', '百靈果 NEWS']
 },
 "time66":{
@@ -5226,7 +5226,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3paLXmTMjLQLF2gT1Ola3w",
 "youtube": "https://www.youtube.com/watch?v=Dhv9TNZtmUE",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531049-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531049-.mp3",
 "tag": ['May 2019', '讀書會', '陳澄波密碼']
 },
 "time65":{
@@ -5236,7 +5236,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0zveou313aED0p6Sa0Aoem",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531050-0526-3-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531050-0526-3-1.mp3",
 "tag": ['May 2019', '百靈果 NEWS']
 },
 "time64":{
@@ -5246,7 +5246,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/74tTw8cxCaifoHi32A9c3g",
 "youtube": "https://www.youtube.com/watch?v=L6RQonBGoXo",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531051-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531051-.mp3",
 "tag": ['May 2019', '讀書會', '陳澄波密碼']
 },
 "time63":{
@@ -5256,7 +5256,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/13g1KRXUpDKb40VetRn1JU",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531052-0519-andrew-yang.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531052-0519-andrew-yang.mp3",
 "tag": ['May 2019', '百靈果 NEWS']
 },
 "time62":{
@@ -5266,7 +5266,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2mHt1TzrdlqEBZ5cHoAUO4",
 "youtube": "https://www.youtube.com/watch?v=VGpIygphfJI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531053-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531053-.mp3",
 "tag": ['May 2019', '讀書會', '陳澄波密碼']
 },
 "time61":{
@@ -5276,7 +5276,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/75LrNlX3M9uPP7CVTJNw2z",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531054-0512-3-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531054-0512-3-1.mp3",
 "tag": ['May 2019', '百靈果 NEWS']
 },
 "time60":{
@@ -5286,7 +5286,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2DasrKyzLZeY5eA854vb9U",
 "youtube": "https://www.youtube.com/watch?v=geYwksklnDQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531055-.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531055-.mp3",
 "tag": ['May 2019', '讀書會', '陳澄波密碼']
 },
 "time59":{
@@ -5296,7 +5296,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3ZFsHib3y7NzpZ6wfETQ9E",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531056-0505-3-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531056-0505-3-1.mp3",
 "tag": ['May 2019', '百靈果 NEWS']
 },
 "time58":{
@@ -5306,7 +5306,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/609o86vSxT8olHo0Ye2j9y",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531057-0428-3-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531057-0428-3-1.mp3",
 "tag": ['Apr 2019', '百靈果 NEWS']
 },
 "time57":{
@@ -5316,7 +5316,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2GLM9tuJ2ZlgPdqSkv1Ir1",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531058-0421-3in1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531058-0421-3in1.mp3",
 "tag": ['Apr 2019', '百靈果 NEWS']
 },
 "time56":{
@@ -5326,7 +5326,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0gs5NuJBQJ9Z7ITJjjlE73",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531059-0417-bonus.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531059-0417-bonus.mp3",
 "tag": ['Apr 2019', '百靈果 NEWS']
 },
 "time55":{
@@ -5336,7 +5336,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7KsCWmpPvlNw98NxyxudSI",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531060-0414.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531060-0414.mp3",
 "tag": ['Apr 2019', '百靈果 NEWS']
 },
 "time54":{
@@ -5346,7 +5346,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4vD9UUw8EMhB082VCzDvVF",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531061-0407.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531061-0407.mp3",
 "tag": ['Apr 2019', '百靈果 NEWS']
 },
 "time53":{
@@ -5356,7 +5356,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7pZPs7HaVNGI0A6hWSL7pB",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531062-0331-app.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531062-0331-app.mp3",
 "tag": ['Apr 2019', '百靈果 NEWS']
 },
 "time52":{
@@ -5366,7 +5366,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/38Z0qi0NX30Ux2eyamWzPX",
 "youtube": "https://www.youtube.com/watch?v=IhhdlPeoy9k",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531063-0328-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531063-0328-born-a-crime.mp3",
 "tag": ['Mar 2019', '以母之名', '讀書會']
 },
 "time51":{
@@ -5376,7 +5376,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6sNE2OzHNjJHfxcGfcpkuo",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531064-0324-3-bad-blood.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531064-0324-3-bad-blood.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time50":{
@@ -5386,7 +5386,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1gP8y966me3brWwof77zBm",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531065-0324-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531065-0324-2.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time49":{
@@ -5396,7 +5396,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/44QDZdeSoUHCt0kfCnpUDR",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531066-0324-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531066-0324-1.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time48":{
@@ -5406,7 +5406,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6vo4OixrVc2iMU17wxieCh",
 "youtube": "https://www.youtube.com/watch?v=IDVE4gDH304",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531067-0320-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531067-0320-born-a-crime.mp3",
 "tag": ['Mar 2019', '以母之名', '讀書會']
 },
 "time47":{
@@ -5416,7 +5416,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6wPL0ayPabhLF8i1O7jwdF",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531068-0319-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531068-0319-1.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time46":{
@@ -5426,7 +5426,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/724OA5gc7i4PbFHZBa9ci8",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531069-0319-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531069-0319-2.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time45":{
@@ -5436,7 +5436,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7KjUjW3zEamgUm6PUBrbuR",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531070-0319-3-whyyyyyyy.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531070-0319-3-whyyyyyyy.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time44":{
@@ -5446,7 +5446,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/56hPMGbTJp8V5r9P2iQIv5",
 "youtube": "https://www.youtube.com/watch?v=DhBSjLt3Zxc",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531071-0314-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531071-0314-born-a-crime.mp3",
 "tag": ['Mar 2019', '以母之名', '讀書會']
 },
 "time43":{
@@ -5456,7 +5456,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3swt8OyTm7aCwLOZOU4yqP",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531072-03101-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531072-03101-1.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time42":{
@@ -5466,7 +5466,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/012mR7CO8M3wR20VzDf6ky",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531073-0310-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531073-0310-3.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time41":{
@@ -5476,7 +5476,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5XoZTspIxPc5Vi4E4fk0fu",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531074-0310-2-make-china-great-again.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531074-0310-2-make-china-great-again.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time40":{
@@ -5486,7 +5486,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5LiSmfFxmnw6l0xgAxd9JD",
 "youtube": "https://www.youtube.com/watch?v=LxKnQndNXAY",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531075-0306-born-a-crime-go-hitler.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531075-0306-born-a-crime-go-hitler.mp3",
 "tag": ['Mar 2019', '讀書會', '以母之名']
 },
 "time39":{
@@ -5496,7 +5496,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2cxRPwS58UBT6JXRzmRuoj",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531076-news-2019-03-03-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531076-news-2019-03-03-1.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time38":{
@@ -5506,7 +5506,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6hENRNSkGavrPvMJKFmE4H",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531077-news-2019-03-03-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531077-news-2019-03-03-2.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time37":{
@@ -5516,7 +5516,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2cI5iJ5FXMajwfS3tmMGye",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531078-news-2019-03-03-3-podcast-the-daily.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531078-news-2019-03-03-3-podcast-the-daily.mp3",
 "tag": ['Mar 2019', '百靈果 NEWS']
 },
 "time36":{
@@ -5526,7 +5526,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/02WPFvbbqqn6I6FTfMrKFF",
 "youtube": "https://www.youtube.com/watch?v=mZ39pgiFKVI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531079-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531079-born-a-crime.mp3",
 "tag": ['Feb 2019', '讀書會', '以母之名']
 },
 "time35":{
@@ -5536,7 +5536,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1GpjPQHufkGZRsoPkBUdkf",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531080-news-2019-02-24-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531080-news-2019-02-24-1.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time34":{
@@ -5546,7 +5546,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6wV0CKst5KFlrAs0tKsGaK",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531081-news-2019-02-24-2-app.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531081-news-2019-02-24-2-app.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time33":{
@@ -5556,7 +5556,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3fmM3V46RW4bvjVbltWO6p",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531082-news-2019-02-24-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531082-news-2019-02-24-3.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time32":{
@@ -5566,7 +5566,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0m1VP4ptHpo7BoEb6C9Z7u",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531083-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531083-born-a-crime.mp3",
 "tag": ['Feb 2019', '讀書會', '以母之名']
 },
 "time31":{
@@ -5576,7 +5576,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5j8PqayM2g0SUH1Nz4Q0og",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531084-news-2019-02-17-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531084-news-2019-02-17-1.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time30":{
@@ -5586,7 +5586,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6gtkIg2fbkBs3mQd8PtQk9",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531085-news-2019-02-17-2-bye-bye.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531085-news-2019-02-17-2-bye-bye.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time29":{
@@ -5596,7 +5596,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2wqB5W5TvIAFsEnLtu2fxa",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531086-news-2019-02-17-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531086-news-2019-02-17-3.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time28":{
@@ -5606,7 +5606,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3LjaGfktwN0zZmIdcF26JM",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531087-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531087-born-a-crime.mp3",
 "tag": ['Feb 2019', '讀書會', '以母之名']
 },
 "time27":{
@@ -5616,7 +5616,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4EECacUl1jcDrSbZ3cAdTR",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531088-news-2019-02-10-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531088-news-2019-02-10-1.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time26":{
@@ -5626,7 +5626,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4R1Vjgw0zbzjJ4ZDZxjcRY",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531089-news-2019-02-10-2-wtf.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531089-news-2019-02-10-2-wtf.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time25":{
@@ -5636,7 +5636,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2yKbulp3xZ60gQ8HpJAJ3q",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531090-news-2019-02-10-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531090-news-2019-02-10-3.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time24":{
@@ -5646,7 +5646,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0ws7Nvvwy9Zlv48AEdZUZN",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531091-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531091-born-a-crime.mp3",
 "tag": ['Feb 2019', '讀書會', '以母之名']
 },
 "time23":{
@@ -5656,7 +5656,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4TWOuuWbVSO8r9qINzvCAT",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531092-news-2019-02-03-1-9.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531092-news-2019-02-03-1-9.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time22":{
@@ -5666,7 +5666,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/104ArZxAgbArBn004jC0Fh",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531093-news-2019-02-03-2-seriously.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531093-news-2019-02-03-2-seriously.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time21":{
@@ -5676,7 +5676,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/7JXoJoxb7TXjYx8oHEPUOg",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531094-news-2019-02-03-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531094-news-2019-02-03-3.mp3",
 "tag": ['Feb 2019', '百靈果 NEWS']
 },
 "time20":{
@@ -5686,7 +5686,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5Mxd2m2I4me2thlexqamMu",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531095-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531095-born-a-crime.mp3",
 "tag": ['Jan 2019', '讀書會', '以母之名']
 },
 "time19":{
@@ -5696,7 +5696,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0CUTctTTojEIQYKDuoIxoz",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531096-2019-01-28.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531096-2019-01-28.mp3",
 "tag": ['Jan 2019', '百靈果 Bonus']
 },
 "time18":{
@@ -5706,7 +5706,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/79KUl79tTKkox2wIBczmFL",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531097-news-2019-01-27-1-der-update.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531097-news-2019-01-27-1-der-update.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time17":{
@@ -5716,7 +5716,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/2z1712thbxWjuDlSXGfoWg",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531098-news-2019-01-27-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531098-news-2019-01-27-2.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time16":{
@@ -5726,7 +5726,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6PPwvEOUb15tcC20URRKhJ",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531099-news-2019-01-27-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531099-news-2019-01-27-3.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time15":{
@@ -5736,7 +5736,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1LoCwsqsq08PiTsTuseiAG",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531100-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531100-born-a-crime.mp3",
 "tag": ['Jan 2019', '讀書會', '以母之名']
 },
 "time14":{
@@ -5746,7 +5746,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5ZCJMRrFrLyV8pot1IWXse",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531101-news-2019-01-20-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531101-news-2019-01-20-1.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time13":{
@@ -5756,7 +5756,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3fhLZdPQIFAJ1wUDfF22uk",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531102-news-2019-01-20-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531102-news-2019-01-20-2.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time12":{
@@ -5766,7 +5766,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/1dLimek2lEU7BHnk8NhBKq",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531103-news-2019-01-20-3-podcast.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531103-news-2019-01-20-3-podcast.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time11":{
@@ -5776,7 +5776,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4j37XH87nqmr3X39hkvEQf",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531104-news-2019-01-13-1.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531104-news-2019-01-13-1.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time10":{
@@ -5786,7 +5786,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0SrcefNqInJhE9rv79O3zX",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531105-news-2019-01-13-2.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531105-news-2019-01-13-2.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time9":{
@@ -5796,7 +5796,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/3aAPmPIs3DBTjAStLwfKvD",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531106-news-2019-01-13-3-ellen-kevin-hart.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531106-news-2019-01-13-3-ellen-kevin-hart.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time8":{
@@ -5806,7 +5806,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/6iAJguzbfSQVkVvopJUpvJ",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531107-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531107-born-a-crime.mp3",
 "tag": ['Jan 2019', '讀書會', '以母之名']
 },
 "time7":{
@@ -5816,7 +5816,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0NpTEN3fOJBTnuvK4DeP26",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531108-2019-01-07.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531108-2019-01-07.mp3",
 "tag": ['Jan 2019', '百靈果 Bonus']
 },
 "time6":{
@@ -5826,7 +5826,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5jIsu85f8f4232HrYSpE37",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531109-news-2019-01-06-4-bonus.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531109-news-2019-01-06-4-bonus.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS', '小潘', '廣播人']
 },
 "time5":{
@@ -5836,7 +5836,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/0h7QBvxoSljVgLowDJ2Nxn",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531110-news-2019-01-06-1-2018-top-10.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531110-news-2019-01-06-1-2018-top-10.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time4":{
@@ -5846,7 +5846,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/4xnehOJreLzURjKdMDW4ah",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531111-news-2019-01-06-2-2019.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531111-news-2019-01-06-2-2019.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS', '小潘', '廣播人']
 },
 "time3":{
@@ -5856,7 +5856,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5IF1mNBU0xMu7IKZx8Xq1q",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531112-news-2019-01-06-3.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531112-news-2019-01-06-3.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS', '小潘', '廣播人']
 },
 "time2":{
@@ -5866,7 +5866,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/76QimHF7zoO5MWGsNhsgEp",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531113-news-2019-01-04.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531113-news-2019-01-04.mp3",
 "tag": ['Jan 2019', '百靈果 NEWS']
 },
 "time1":{
@@ -5876,7 +5876,7 @@ const playlist = {
 "spotify": "https://open.spotify.com/episode/5SvEYBGKu6AFmrLpk2EGAN",
 "youtube": "",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"feed": "https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531114-born-a-crime.mp3",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531114-born-a-crime.mp3",
 "tag": ['Jan 2019', '讀書會', '以母之名']
 }
 };

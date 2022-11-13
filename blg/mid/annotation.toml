@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？"]
+name = "百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11683271-news-xx.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E7%B6%B2%E8%B7%AF%E6%93%8D%E4%BD%9C%E7%BF%BB%E8%BB%8A%E4%BA%8B%E4%BB%B6-%E7%BE%8E%E5%9C%8B%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89%E5%B7%9D%E6%99%AE%E5%A4%B1%E5%88%A9-%E5%87%B1%E8%8E%89%E5%8E%BB%E6%97%A5%E6%9C%AC%E7%89%9B%E9%83%8E%E5%BA%97%E5%9C%93%E5%A4%A2%E4%BD%86%E6%98%AF%E7%99%BC%E7%8F%BExx%E5%A4%AA%E5%B0%8F/id1106847606?i=1000586003180"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY4MzI3MQ"
+spotify = "https://open.spotify.com/episode/5NYpII2m2fr3dR4f0DSMJH"
+youtube = "https://www.youtube.com/watch?v=5itxIt5glUI"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022", "百靈果 NEWS"]
+category = ["#節目系列"]
+
 ["崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）"]
 name = "崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11668217-.mp3"

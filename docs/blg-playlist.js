@@ -2,7 +2,7 @@ const playlist = {
 "time591":{
 "name": "The KK Show - #161 喬瑟夫",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-161-%E5%96%AC%E7%91%9F%E5%A4%AB/id1106847606?i=1000586274460",
-"google": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY5NzEwMA",
 "spotify": "https://open.spotify.com/episode/09iV2bBYp1qWwr48ibvIJ8",
 "youtube": "https://www.youtube.com/watch?v=Uf3IeFFonG0",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",

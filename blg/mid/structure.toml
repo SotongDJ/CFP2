@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+["The KK Show - #161 喬瑟夫"]
+name = "The KK Show - #161 喬瑟夫"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11697100-the-kk-show-161.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-161-%E5%96%AC%E7%91%9F%E5%A4%AB/id1106847606?i=1000586274460"
+spotify = "https://open.spotify.com/episode/09iV2bBYp1qWwr48ibvIJ8"
+youtube = "https://www.youtube.com/watch?v=Uf3IeFFonG0"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022"]
+category = []
+
 ["百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？"]
 name = "百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11683271-news-xx.mp3"

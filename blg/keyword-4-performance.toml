@@ -1,5 +1,10 @@
 # Comedians/Stand Up comedy
 
+["喬瑟夫"]
+inclusive = ["喬瑟夫"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
 ["樂樂法利"]
 inclusive = ["樂樂法利"]
 exclusive = []

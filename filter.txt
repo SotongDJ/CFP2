@@ -866,9 +866,16 @@ Start annotation
   Excluded: (0)
     
 [週二夜現場]
-  found in: (2)
+  found in: (3)
+    【週二夜現場】會說唱的美國反賊 - 樂樂法利
     【週二夜現場】館長現場QA
     【週二夜現場】曹興誠現場QA
+  Excluded: (0)
+    
+[樂樂法利]
+  found in: (2)
+    【週二夜現場】會說唱的美國反賊 - 樂樂法利
+    The KK Show - #144 樂樂法利
   Excluded: (0)
     
 [歐馬克]

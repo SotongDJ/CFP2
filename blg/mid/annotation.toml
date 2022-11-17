@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["【週二夜現場】會說唱的美國反賊 - 樂樂法利"]
+name = "【週二夜現場】會說唱的美國反賊 - 樂樂法利 @LeLe Farley"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11712838-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F%BE%E5%A0%B4-%E6%9C%83%E8%AA%AA%E5%94%B1%E7%9A%84%E7%BE%8E%E5%9C%8B%E5%8F%8D%E8%B3%8A-%E6%A8%82%E6%A8%82%E6%B3%95%E5%88%A9/id1106847606?i=1000586568805"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTcxMjgzOA"
+spotify = "https://open.spotify.com/episode/6TM9AMOg5HBhATXhpzahhs"
+youtube = "https://www.youtube.com/watch?v=PunAv8pqWnk"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022", "週二夜現場", "樂樂法利"]
+category = ["#節目系列", "暫代讀書會", "喜劇演員", "Youtuber"]
+
 ["The KK Show - #161 喬瑟夫"]
 name = "The KK Show - #161 喬瑟夫"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11697100-the-kk-show-161.mp3"

@@ -1,4 +1,14 @@
 const playlist = {
+"time593":{
+"name": "百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E9%A3%9B%E5%BD%88%E6%89%93%E5%88%B0%E6%B3%A2%E8%98%AD-%E6%8B%9C%E7%99%BB%E8%B7%9F%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A6%8B%E9%9D%A2-%E6%8E%A8%E8%96%A6-aziz-ansari-nightclub-comedian/id1106847606?i=1000586855351",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTcyOTQxNA",
+"spotify": "https://open.spotify.com/episode/5wvVpQTyFwZCX6oWNMhT3a",
+"youtube": "https://www.youtube.com/watch?v=56Dcj50KGHA",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11729414-news-aziz-ansari-nightclub-comedian.mp3",
+"tag": ['Nov 2022']
+},
 "time592":{
 "name": "【週二夜現場】會說唱的美國反賊 - 樂樂法利 @LeLe Farley",
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F%BE%E5%A0%B4-%E6%9C%83%E8%AA%AA%E5%94%B1%E7%9A%84%E7%BE%8E%E5%9C%8B%E5%8F%8D%E8%B3%8A-%E6%A8%82%E6%A8%82%E6%B3%95%E5%88%A9/id1106847606?i=1000586568805",

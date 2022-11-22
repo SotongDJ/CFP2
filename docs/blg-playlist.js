@@ -1,4 +1,14 @@
 const playlist = {
+"time594":{
+"name": "The KK Show - #162 散盡家財做喜劇 - 龍哥",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-162-%E6%95%A3%E7%9B%A1%E5%AE%B6%E8%B2%A1%E5%81%9A%E5%96%9C%E5%8A%87-%E9%BE%8D%E5%93%A5/id1106847606?i=1000587127586",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc0MTc3NA",
+"spotify": "https://open.spotify.com/episode/654gDmnYOCxczYHYBiNPl0",
+"youtube": "https://www.youtube.com/watch?v=3N9xl0yXkMU",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3",
+"tag": ['Nov 2022', 'KK Show', '龍哥', '影視製作', '製作人']
+},
 "time593":{
 "name": "百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian",
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E9%A3%9B%E5%BD%88%E6%89%93%E5%88%B0%E6%B3%A2%E8%98%AD-%E6%8B%9C%E7%99%BB%E8%B7%9F%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A6%8B%E9%9D%A2-%E6%8E%A8%E8%96%A6-aziz-ansari-nightclub-comedian/id1106847606?i=1000586855351",

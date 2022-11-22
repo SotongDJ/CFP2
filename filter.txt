@@ -248,7 +248,8 @@ Start annotation
   Excluded: (0)
     
 [KK Show]
-  found in: (165)
+  found in: (166)
+    The KK Show - #162 散盡家財做喜劇 - 龍哥
     The KK Show - #161 喬瑟夫
     The KK Show - #160 新竹縣長候選人 - 周江杰
     The KK Show - #159 聊聊選舉 - 人渣文本
@@ -1011,6 +1012,12 @@ Start annotation
   found in: (2)
     The KK Show - 000 一切的起源，Podcast的馬力歐
     0704 Bonus：只有凱莉跟馬力歐喝一杯
+  Excluded: (0)
+    
+[龍哥]
+  found in: (2)
+    The KK Show - #162 散盡家財做喜劇 - 龍哥
+    The KK Show - #100 寶島神很大-龍哥
   Excluded: (0)
     
 [小潘]

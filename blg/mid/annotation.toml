@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+["The KK Show - #162 散盡家財做喜劇 - 龍哥"]
+name = "The KK Show - #162 散盡家財做喜劇 - 龍哥"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-162-%E6%95%A3%E7%9B%A1%E5%AE%B6%E8%B2%A1%E5%81%9A%E5%96%9C%E5%8A%87-%E9%BE%8D%E5%93%A5/id1106847606?i=1000587127586"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc0MTc3NA"
+spotify = "https://open.spotify.com/episode/654gDmnYOCxczYHYBiNPl0"
+youtube = "https://www.youtube.com/watch?v=3N9xl0yXkMU"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022", "KK Show", "龍哥"]
+category = ["#節目系列", "製作人", "影視製作"]
+
 ["百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian"]
 name = "百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11729414-news-aziz-ansari-nightclub-comedian.mp3"

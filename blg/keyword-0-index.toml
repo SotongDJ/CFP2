@@ -1,5 +1,5 @@
 ["百靈果 NEWS"]
-inclusive = ["百靈果NEWS","百靈果News","鹿港繞境"]
+inclusive = ["百靈果NEWS","百靈果News","鹿港繞境","百靈果news"]
 exclusive = ["特別來賓：敏迪選讀","Born a crime","讀書會","0704 Bonus"]
 re = "^[0-9]{4}"
 category = ["#節目系列"]

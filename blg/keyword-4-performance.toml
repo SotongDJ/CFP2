@@ -1,5 +1,10 @@
 # Comedians/Stand Up comedy
 
+["龍哥（喜劇）"]
+inclusive = ["龍哥"]
+exclusive = ["神很大"]
+category = ["喜劇演員"]
+
 ["喬瑟夫"]
 inclusive = ["喬瑟夫"]
 exclusive = []
@@ -393,9 +398,9 @@ inclusive = ["汪怡昕"]
 exclusive = []
 category = ["製作人","影視製作"]
 
-["龍哥"]
+["龍哥（影視）"]
 inclusive = ["龍哥"]
-exclusive = []
+exclusive = ["做喜劇"]
 category = ["製作人","影視製作"]
 
 ["Roger"]

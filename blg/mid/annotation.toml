@@ -8,8 +8,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/654gDmnYOCxczYHYBiNPl0"
 youtube = "https://www.youtube.com/watch?v=3N9xl0yXkMU"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Nov 2022", "KK Show", "龍哥"]
-category = ["#節目系列", "製作人", "影視製作"]
+tag = ["Nov 2022", "KK Show", "龍哥（喜劇）"]
+category = ["#節目系列", "喜劇演員"]
 
 ["百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian"]
 name = "百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian"
@@ -19,8 +19,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/5wvVpQTyFwZCX6oWNMhT3a"
 youtube = "https://www.youtube.com/watch?v=56Dcj50KGHA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Nov 2022"]
-category = []
+tag = ["Nov 2022", "百靈果 NEWS"]
+category = ["#節目系列"]
 
 ["【週二夜現場】會說唱的美國反賊 - 樂樂法利"]
 name = "【週二夜現場】會說唱的美國反賊 - 樂樂法利 @LeLe Farley"
@@ -2079,7 +2079,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/2FFLcCtMa4omYyzrppoGER"
 youtube = "https://www.youtube.com/watch?v=soPLUYHdXMA&t=2022s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-tag = ["Sep 2021", "KK Show", "龍哥"]
+tag = ["Sep 2021", "KK Show", "龍哥（影視）"]
 category = ["#節目系列", "製作人", "影視製作"]
 
 ["0926 海地的苦難從法國殖民開始、中國戰狼要澳洲付出代價、讀書心得：Peril by Bob Woodward"]

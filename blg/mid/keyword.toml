@@ -1,5 +1,5 @@
 ["百靈果 NEWS"]
-inclusive = ["百靈果NEWS","百靈果News","鹿港繞境"]
+inclusive = ["百靈果NEWS","百靈果News","鹿港繞境","百靈果news"]
 exclusive = ["特別來賓：敏迪選讀","Born a crime","讀書會","0704 Bonus"]
 re = "^[0-9]{4}"
 category = ["#節目系列"]
@@ -207,6 +207,11 @@ category = ["#節目系列"]
 inclusive = ["週二夜現場"]
 exclusive = []
 category = ["#節目系列","暫代讀書會"]
+
+["龍哥（喜劇）"]
+inclusive = ["龍哥"]
+exclusive = ["神很大"]
+category = ["喜劇演員"]
 
 ["喬瑟夫"]
 inclusive = ["喬瑟夫"]
@@ -601,9 +606,9 @@ inclusive = ["汪怡昕"]
 exclusive = []
 category = ["製作人","影視製作"]
 
-["龍哥"]
+["龍哥（影視）"]
 inclusive = ["龍哥"]
-exclusive = []
+exclusive = ["做喜劇"]
 category = ["製作人","影視製作"]
 
 ["Roger"]

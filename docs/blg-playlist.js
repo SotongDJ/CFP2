@@ -7,7 +7,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=3N9xl0yXkMU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3",
-"tag": ['Nov 2022', 'KK Show', '龍哥', '影視製作', '製作人']
+"tag": ['Nov 2022', 'KK Show', '龍哥（喜劇）', '喜劇演員']
 },
 "time593":{
 "name": "百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian",
@@ -17,7 +17,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=56Dcj50KGHA",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11729414-news-aziz-ansari-nightclub-comedian.mp3",
-"tag": ['Nov 2022']
+"tag": ['Nov 2022', '百靈果 NEWS']
 },
 "time592":{
 "name": "【週二夜現場】會說唱的美國反賊 - 樂樂法利 @LeLe Farley",
@@ -1897,7 +1897,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=soPLUYHdXMA&t=2022s",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530710-the-kk-show-100.mp3",
-"tag": ['Sep 2021', 'KK Show', '龍哥', '影視製作', '製作人']
+"tag": ['Sep 2021', 'KK Show', '龍哥（影視）', '影視製作', '製作人']
 },
 "time404":{
 "name": "0926 海地的苦難從法國殖民開始、中國戰狼要澳洲付出代價、讀書心得：Peril by Bob Woodward",
@@ -5982,6 +5982,7 @@ const tag_class = {
 "五月天事件": ['#事件備註'],
 "隱藏版 KK Show": ['#節目系列'],
 "週二夜現場": ['#節目系列', '暫代讀書會'],
+"龍哥（喜劇）": ['喜劇演員'],
 "喬瑟夫": ['喜劇演員', 'Youtuber'],
 "樂樂法利": ['喜劇演員', 'Youtuber'],
 "陳大天": ['喜劇演員', '藝人'],
@@ -6059,7 +6060,7 @@ const tag_class = {
 "阮鳳儀": ['導演', '文藝'],
 "吳念真": ['導演', '影視製作', '演員', '文藝'],
 "汪怡昕": ['製作人', '影視製作'],
-"龍哥": ['製作人', '影視製作'],
+"龍哥（影視）": ['製作人', '影視製作'],
 "Roger": ['製作人', '影視製作'],
 "Mego": ['影視製作'],
 "Nick": ['影視製作'],
@@ -6196,7 +6197,7 @@ const class_tag = {
 "讀書會": ['王子習近平', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '週二夜現場'],
 "#事件備註": ['日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
-"喜劇演員": ['喬瑟夫', '樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
+"喜劇演員": ['龍哥（喜劇）', '喬瑟夫', '樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
 "Youtuber": ['喬瑟夫', '樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '嗩吶 @好機車', '阿拉斯', '巴大雄 @東南美娛樂'],
 "藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '陳沂'],
 "老闆": ['Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', '曹興誠', 'Jay', '顧立楷', '林榮基'],
@@ -6219,8 +6220,8 @@ const class_tag = {
 "舞蹈": ['布拉瑞揚 @布拉瑞揚舞團'],
 "律師": ['劉珞亦 @法律白話文', '楊貴智 @法律白話文'],
 "導演": ['周冠威', '阮鳳儀', '吳念真'],
-"影視製作": ['吳念真', '汪怡昕', '龍哥', 'Roger', 'Mego', 'Nick'],
-"製作人": ['汪怡昕', '龍哥', 'Roger'],
+"影視製作": ['吳念真', '汪怡昕', '龍哥（影視）', 'Roger', 'Mego', 'Nick'],
+"製作人": ['汪怡昕', '龍哥（影視）', 'Roger'],
 "媒體人": ['吳淡如', '李四端'],
 "記者": ['陳秋實', 'Jason 劉致昕 @報導者', 'Byun 秉昀', 'Samson Ellis', 'Michael Smith', '印度尤', 'Naomi O’Leary', '莉婷'],
 "醫學": ['黃京葦醫師', '烏烏醫生', '陳耀昌醫師', 'Chiels', 'Dr. Leanne Wu', 'Dr. Justin Yang', '高智雄醫檢師'],

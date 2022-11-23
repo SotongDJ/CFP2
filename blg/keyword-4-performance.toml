@@ -3,7 +3,7 @@
 ["龍哥（喜劇）"]
 inclusive = ["龍哥"]
 exclusive = ["神很大"]
-category = ["喜劇演員"]
+category = ["喜劇演員","老闆"]
 
 ["喬瑟夫"]
 inclusive = ["喬瑟夫"]

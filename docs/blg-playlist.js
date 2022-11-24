@@ -1,4 +1,14 @@
 const playlist = {
+"time595":{
+"name": "【週二夜現場】喬瑟夫 & 博恩 @Stand up, Brian! 博恩站起來！ @喬瑟夫 ChillSeph",
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc1NjU3Ng",
+"spotify": "https://open.spotify.com/episode/2jJbbAz2jc4f6ZAxGS6nHW",
+"youtube": "https://www.youtube.com/watch?v=prwKh1c_yik",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11756576-.mp3",
+"tag": ['Nov 2022', '週二夜現場', '喬瑟夫', '博恩', 'Youtuber', '喜劇演員', '暫代讀書會']
+},
 "time594":{
 "name": "The KK Show - #162 散盡家財做喜劇 - 龍哥",
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-162-%E6%95%A3%E7%9B%A1%E5%AE%B6%E8%B2%A1%E5%81%9A%E5%96%9C%E5%8A%87-%E9%BE%8D%E5%93%A5/id1106847606?i=1000587127586",

@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+["【週二夜現場】喬瑟夫 & 博恩"]
+name = "【週二夜現場】喬瑟夫 & 博恩 @Stand up, Brian! 博恩站起來！ @喬瑟夫 ChillSeph"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11756576-.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc1NjU3Ng"
+spotify = "https://open.spotify.com/episode/2jJbbAz2jc4f6ZAxGS6nHW"
+youtube = "https://www.youtube.com/watch?v=prwKh1c_yik"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+tag = ["Nov 2022", "週二夜現場", "喬瑟夫", "博恩"]
+category = ["#節目系列", "暫代讀書會", "喜劇演員", "Youtuber", "喜劇演員"]
+
 ["The KK Show - #162 散盡家財做喜劇 - 龍哥"]
 name = "The KK Show - #162 散盡家財做喜劇 - 龍哥"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3"

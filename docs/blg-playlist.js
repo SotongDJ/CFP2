@@ -1,4 +1,14 @@
 const playlist = {
+"time596":{
+"name": "UPDATE: 新疆烏魯木齊大火、中國聽眾好奇台灣選舉結果",
+"apple": "https://podcasts.apple.com/tw/podcast/update-%E6%96%B0%E7%96%86%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E5%A4%A7%E7%81%AB-%E4%B8%AD%E5%9C%8B%E8%81%BD%E7%9C%BE%E5%A5%BD%E5%A5%87%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C/id1106847606?i=1000587558691",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc2MzcxOA",
+"spotify": "https://open.spotify.com/episode/3fQMygScmrCTbvGpEw8Il6",
+"youtube": "https://www.youtube.com/watch?v=9wSJPaM4dFU",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11763718-update.mp3",
+"tag": ['Nov 2022']
+},
 "time595":{
 "name": "【週二夜現場】喬瑟夫 & 博恩 @Stand up, Brian! 博恩站起來！ @喬瑟夫 ChillSeph",
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F%BE%E5%A0%B4-%E5%96%AC%E7%91%9F%E5%A4%AB-%E5%8D%9A%E6%81%A9/id1106847606?i=1000587390162",

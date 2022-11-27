@@ -1,4 +1,14 @@
 const playlist = {
+"time597":{
+"name": "百靈果news | (11/24錄音)簡體中文反共圈的困境、馬來西亞大選結果、凱莉看流麻溝十五號Ken 抱怨黑豹2",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-11-24%E9%8C%84%E9%9F%B3-%E7%B0%A1%E9%AB%94%E4%B8%AD%E6%96%87%E5%8F%8D%E5%85%B1%E5%9C%88%E7%9A%84%E5%9B%B0%E5%A2%83-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E5%A4%A7%E9%81%B8%E7%B5%90%E6%9E%9C-%E5%87%B1%E8%8E%89%E7%9C%8B%E6%B5%81%E9%BA%BB%E6%BA%9D%E5%8D%81%E4%BA%94%E8%99%9Fken-%E6%8A%B1%E6%80%A8%E9%BB%91%E8%B1%B92/id1106847606?i=1000587607517",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc2NjEwMw",
+"spotify": "https://open.spotify.com/episode/5WkeNDotWI8rnDRSrdFyts",
+"youtube": "https://www.youtube.com/watch?v=7DxD4V3VS3c",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11766103-news-11-24-ken-2.mp3",
+"tag": ['Nov 2022', '百靈果 NEWS']
+},
 "time596":{
 "name": "UPDATE: 新疆烏魯木齊大火、中國聽眾好奇台灣選舉結果",
 "apple": "https://podcasts.apple.com/tw/podcast/update-%E6%96%B0%E7%96%86%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E5%A4%A7%E7%81%AB-%E4%B8%AD%E5%9C%8B%E8%81%BD%E7%9C%BE%E5%A5%BD%E5%A5%87%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C/id1106847606?i=1000587558691",

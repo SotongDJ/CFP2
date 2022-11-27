@@ -1,7 +1,7 @@
 ----
 Start annotation
 [百靈果 NEWS]
-  found in: (232)
+  found in: (233)
     百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？
     百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室
     0814 川普豪宅為什麼被FBI闖入、歐洲能源現狀是怎樣、經濟學人fat shaming？
@@ -233,6 +233,7 @@ Start annotation
     百靈果News Bonus：國傳司 Update
     百靈果News 閒聊：封印解除！年底前突然被fire
     百靈果News 2019-01-04 閒聊：沒有人記得發生什麼事的婚禮
+    百靈果news | (11/24錄音)簡體中文反共圈的困境、馬來西亞大選結果、凱莉看流麻溝十五號Ken 抱怨黑豹2
     百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian
   Excluded: (3)
     0828 閒聊：不是讀書會的自我檢討會

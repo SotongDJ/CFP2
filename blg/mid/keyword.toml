@@ -616,7 +616,7 @@ inclusive = ["龍哥"]
 exclusive = ["做喜劇"]
 category = ["製作人","影視製作"]
 
-[Roger]
+["Roger"]
 inclusive = ["Roger"]
 exclusive = []
 category = ["製作人","影視製作"]

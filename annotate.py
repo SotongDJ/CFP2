@@ -1,13 +1,16 @@
-import tomlkit
-import re
+import tomlkit, re, argparse
 from pathlib import Path
 
 
+parser = argparse.ArgumentParser(description="Annotate data")
+parser.add_argument("target", help="target path")
+args = parser.parse_args()
+
 print("----\nStart annotation")
-structure_doc = tomlkit.load(open("blg/mid/structure.toml"))
+structure_doc = tomlkit.load(open(args.target+"/mid/structure.toml"))
 keyword_dict = dict()
 keyword_list = list()
-for keyword_path in sorted(list(Path("blg").glob('keyword-*.toml'))):
+for keyword_path in sorted(list(Path(args.target).glob('keyword-*.toml'))):
     keyword_doc = tomlkit.load(open(keyword_path))
     unique_list = [n for n in keyword_doc.keys() if n not in keyword_list]
     duplicate_list = [n for n in keyword_doc.keys() if n in keyword_list]
@@ -56,8 +59,8 @@ for entry_name in keyword_list:
         episode_tag_list.extend(entry_detail["category"])  # type: ignore
         episode_table["category"] = episode_tag_list  # type: ignore
         structure_doc[episode_str] = episode_table
-with open("blg/mid/keyword.toml",'w') as target_handler:
+with open(args.target+"/mid/keyword.toml",'w') as target_handler:
     tomlkit.dump(keyword_dict,target_handler)
-with open("blg/mid/annotation.toml",'w') as target_handler:
+with open(args.target+"/mid/annotation.toml",'w') as target_handler:
     tomlkit.dump(structure_doc,target_handler)
 print("    ----\nEnd annotation")

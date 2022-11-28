@@ -1,14 +1,20 @@
-import tomlkit #, json
+import tomlkit, argparse #, json
 from datetime import datetime
+
+
 def convertMonth(input):
     return int(datetime.strptime(input,"%b %Y").strftime("%Y%m"))
+
+parser = argparse.ArgumentParser(description="Export playlist")
+parser.add_argument("target", help="target path")
+args = parser.parse_args()
 
 print("----\nStart export")
 print("    ----")
 print("    load data")
-title_dict = tomlkit.load(open("blg/mid/annotation.toml"))
-keyword_doc = tomlkit.load(open("blg/mid/keyword.toml"))
-month_doc = tomlkit.load(open("blg/record/feedPodcast-month.toml"))
+title_dict = tomlkit.load(open(args.target+"/mid/annotation.toml"))
+keyword_doc = tomlkit.load(open(args.target+"/mid/keyword.toml"))
+month_doc = tomlkit.load(open(args.target+"/record/feedPodcast-month.toml"))
 month_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
 reverse_month_dict = dict()
 for month_str, year_str in month_dict.items():
@@ -21,7 +27,7 @@ header_list = ["name", "apple", "google", "spotify", "youtube", "image", "feed"]
 title_list = list()
 total_int = len(title_dict.keys())
 print("    ----")
-print("    export docs/blg-playlist")
+print("    export docs/"+args.target+"-playlist")
 playlist_dict = dict()
 for enum_int, value_dict in enumerate(title_dict.values()):
     key_inner_str = "time{}".format(total_int-enum_int)
@@ -47,7 +53,7 @@ outer_str = "const playlist = {\n"+"\n},\n".join(title_list)+"\n}\n};\n"
 #     tomlkit.dump(playlist_dict,target_handler)
 
 print("    ----")
-print("    export docs/blg-tag_class")
+print("    export docs/"+args.target+"-tag_class")
 tag2class_dict = {tag_name: [str(n) for n in entry_detail["category"]] for tag_name, entry_detail in keyword_doc.items()}
 tag2class_dict.update({m: [F"#{y}"] for m,y in month_dict.items()})
 tag2class_list = ["\"{}\": {}".format(tag_name,tag_category_list) for tag_name, tag_category_list in tag2class_dict.items()]
@@ -59,7 +65,7 @@ tag2class_str = "const tag_class = {\n"+",\n".join(tag2class_list)+"\n};\n"
 #     tomlkit.dump(tag2class_dict,target_handler)
 
 print("    ----")
-print("    export docs/blg-class_tag")
+print("    export docs/"+args.target+"-class_tag")
 class2tag_dict = dict()
 class2tag_dict.update({F"#{y}":m for y,m in reverse_dict.items()})
 for tag_name, entry_detail in keyword_doc.items():
@@ -77,7 +83,7 @@ class2tag_str = "const class_tag = {\n"+",\n".join(class2tag_list)+"\n};\n"
 # with open("docs/blg-class_tag.toml",'w') as target_handler:
 #     tomlkit.dump(class2tag_dict,target_handler)
 
-with open("docs/blg-playlist.js",'w') as target_handler:
+with open("docs/"+args.target+"-playlist.js",'w') as target_handler:
     target_handler.write(outer_str)
     target_handler.write(tag2class_str)
     target_handler.write(class2tag_str)

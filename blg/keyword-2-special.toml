@@ -25,29 +25,34 @@ inclusive = ["海外連線","『Clubhouse特別企劃』"]
 exclusive = []
 category = ["#節目系列","暫代讀書會"]
 
-# 事件備註
+# 事件備註（測試）
+
+["2022台灣地方選舉"]
+inclusive = ["台灣選舉結果","網路操作翻車事件","周江杰","聊聊選舉 - 人渣文本"]
+exclusive = []
+category = ["#事件備註（測試）"]
 
 ["日本遶境"]
-inclusive = ["0731 裴洛西"]
+inclusive = ["0731 裴洛西","我們要去日本辦活動啦","日本錄KKShow！","凱莉去日本牛郎店圓夢"]
 exclusive = []
-category = ["#事件備註"]
+category = ["#事件備註（測試）"]
 
 ["裴洛西訪台事件"]
 inclusive = ["0731 裴洛西","What do TAIWANESE","Pelosi 來台灣","0807 國外旅遊"]
 exclusive = []
-category = ["#事件備註"]
+category = ["#事件備註（測試）"]
 
 ["國傳司事件"]
 inclusive = ["Bonus：國傳司"]
 exclusive = []
-category = ["#事件備註"]
+category = ["#事件備註（測試）"]
 
 ["紐時集資事件"]
 inclusive = ["你知道紐約時報其實很親中嗎？"]
 exclusive = []
-category = ["#事件備註"]
+category = ["#事件備註（測試）"]
 
 ["五月天事件"]
 inclusive = ["五月天"]
 exclusive = []
-category = ["#事件備註"]
+category = ["#事件備註（測試）"]

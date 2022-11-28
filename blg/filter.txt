@@ -1,7 +1,9 @@
 ----
 Start annotation
 [百靈果 NEWS]
-  found in: (224)
+  found in: (232)
+    百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？
+    百靈果NEWS | 凱莉走金鐘、英國新首相居然這麼有錢、卡達世界杯根本是現代金字塔、推薦：IC實驗室
     0814 川普豪宅為什麼被FBI闖入、歐洲能源現狀是怎樣、經濟學人fat shaming？
     0807 國外旅遊怎麼找廁所、用屁股呼吸的可能性、澤倫斯基向中國尋求協助
     0731 裴洛西踩中國紅線？ 牧師佈道穿金戴銀、脫衣舞俱樂部心得分享
@@ -218,29 +220,49 @@ Start annotation
     百靈果NEWS 2019-01-06 1. 經濟學人2018 Top 10 封面新聞
     百靈果NEWS 2019-01-06 2. 小潘對2019年有信心嗎？
     百靈果NEWS 2019-01-06 3. 與小潘閒聊
+    百靈果News｜凱莉變成愛天使、英國最短命首相、德國要趕走烏克蘭納粹？美國為了多元文化取消萬聖節遊行、推薦：北港香爐人人插 漫畫版
+    百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester
+    百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議
+    百靈果News｜日本錄KKShow！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程
+    百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令
     百靈果News｜新疆封城餓死人、英國還需要皇室嗎、烏克蘭的反擊、推薦：Summer of 85, 好機車
     百靈果News｜韓國第一夫人的論文抄襲案、 什麼都不做的日本人、買鮮奶油要看證件、推薦書：異世界歸來的舅舅
     百靈果News｜叫助理去首爾約砲是違法的嗎？ 烏克蘭的夏令營、聯合國新疆報告出爐、推薦書：World's Worst Assistant
     百靈果News｜西方女性因為韓劇去南韓找真愛、去美國的中國留學生銳減、推薦頻道： Soft White Underbelly
     百靈果News｜歐盟要開始針對俄國遊客？ 印度假警察局發大財、推薦頻道： Legal Eagle
-    百靈果News Bonus：國傳司 Update
     百靈果News 閒聊：封印解除！年底前突然被fire
     百靈果News 2019-01-04 閒聊：沒有人記得發生什麼事的婚禮
-  Excluded: (3)
+    百靈果news | (11/24錄音)簡體中文反共圈的困境、馬來西亞大選結果、凱莉看流麻溝十五號Ken 抱怨黑豹2
+    百靈果news | 飛彈打到波蘭、拜登跟習近平見面、推薦： Aziz Ansari： Nightclub Comedian
+  Excluded: (4)
     0828 閒聊：不是讀書會的自我檢討會
     0822 特別來賓：敏迪選讀的敏迪其實很活潑？！
     0704 Bonus：只有凱莉跟馬力歐喝一杯
+    百靈果News Bonus：國傳司 Update
 [百靈果 Bonus]
-  found in: (5)
+  found in: (8)
     百靈果 Bonus：黃氏兄弟與鏡周刊事件的閒聊
     分享Hello Stranger的實戰經驗、吃瓜#王力宏 吃到大家睡眠不足、百靈果到處跑：新竹十二寮
     百靈果Bonus： 閒聊Greta Thunberg 。當網路上謾罵一個小女生的人比批評習近平的人還多的時候...
+    百靈果News Bonus：國傳司 Update
     百靈果閒聊 2019-01-28 委內瑞拉政變閒聊
     百靈果閒聊 2019-01-07 閒聊：如果中國經濟垮台 會有人跑去銀行領錢出來嗎？
+    中共20大常委誰是誰懶人包 ft. 士杰，IEObserve
+    UPDATE: 新疆烏魯木齊大火、中國聽眾好奇台灣選舉結果
   Excluded: (0)
     
 [KK Show]
-  found in: (156)
+  found in: (166)
+    The KK Show - #162 散盡家財做喜劇 - 龍哥
+    The KK Show - #161 喬瑟夫
+    The KK Show - #160 新竹縣長候選人 - 周江杰
+    The KK Show - #159 聊聊選舉 - 人渣文本
+    The KK Show - #158 與鯨魚游泳的男人-剛哥
+    The KK Show - #157 館長
+    The KK Show - #156 吳念真
+    The KK Show - #155 自由的爵士野獸 - Musa 明馬丁
+    The KK Show - #154 好機車-嗩吶
+    The KK Show - #153 逃出中國 - Michael Smith
     The KK Show - #152 趙詠華＆林俊逸
     The KK Show - #151 會講脫口秀的魔術師 - 巴斯
     The KK Show - #150 拿出30億反共的男人 - 曹興誠
@@ -422,7 +444,13 @@ Start annotation
   Excluded: (0)
     
 [讀書會]
-  found in: (123)
+  found in: (129)
+    崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）
+    讀書會｜去年有漢人恐怖份子去炸中國的政府大樓？ 中國的屍體工廠 ！｜ 王子習近平 （君王論/君主論）
+    習近平的論文門？賴昌星 賄賂的時候跳過習近平？ ｜ 讀書會：王子習近平 （君王論/君主論）
+    比紅更紅 習近平早期人生 ｜ #讀書會：王子習近平
+    讀書會：八尺門的辯護人 序
+    Nothingess is the KEY 、讀書會：同情者 Ep 6（完）
     好萊塢十大種族歧視經典、、讀書會：同情者 Ep 5
     InterPride 取消高雄2025的活動、讀書會：同情者 Ep 4
     烏賊跟素肚都是男孩子的好朋友、讀書會：同情者 Ep 3
@@ -549,8 +577,17 @@ Start annotation
   Excluded: (2)
     在Clubhouse 上吵架、跟維吾爾族人聊天後續、沒有讀書會
     0828 閒聊：不是讀書會的自我檢討會
+[王子習近平]
+  found in: (4)
+    崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）
+    讀書會｜去年有漢人恐怖份子去炸中國的政府大樓？ 中國的屍體工廠 ！｜ 王子習近平 （君王論/君主論）
+    習近平的論文門？賴昌星 賄賂的時候跳過習近平？ ｜ 讀書會：王子習近平 （君王論/君主論）
+    比紅更紅 習近平早期人生 ｜ #讀書會：王子習近平
+  Excluded: (0)
+    
 [同情者]
-  found in: (6)
+  found in: (7)
+    Nothingess is the KEY 、讀書會：同情者 Ep 6（完）
     好萊塢十大種族歧視經典、、讀書會：同情者 Ep 5
     InterPride 取消高雄2025的活動、讀書會：同情者 Ep 4
     烏賊跟素肚都是男孩子的好朋友、讀書會：同情者 Ep 3
@@ -570,7 +607,7 @@ Start annotation
     讀書會： Pachinko 柏青哥 序
   Excluded: (0)
     
-[FatLeonard]
+[Fat Leonard]
   found in: (5)
     讀書會： Fat Leonard 完結，關心一下隔離中的Mindy
     美國海軍出賣台灣機密為了滿足私慾，讀書會：Fat Leonard Ch 4
@@ -751,15 +788,6 @@ Start annotation
     百靈果讀書會 - Born a crime 以母之名 第七章
   Excluded: (0)
     
-[隱藏版 KK Show]
-  found in: (5)
-    女演員的互相傷害 觀眾在旁吃瓜 feat 酸酸 and 許乃涵 涵冷娜
-    喜劇演員開喜劇俱樂部是悲劇的開始嗎？ 笑友會的無情工商 ft. 黃豪平, 微笑丹尼
-    0822 特別來賓：敏迪選讀的敏迪其實很活潑？！
-    我不是泰國人 - 巴大雄
-    0704 Bonus：只有凱莉跟馬力歐喝一杯
-  Excluded: (0)
-    
 [暫代讀書會]
   found in: (14)
     0828 閒聊：不是讀書會的自我檢討會
@@ -793,7 +821,7 @@ Start annotation
     百靈果之友: 001 阿滴 S is for Sister
   Excluded: (0)
     
-[免費教你如何做Podcast]
+[免費教你如何做 Podcast]
   found in: (7)
     推倒資本主義的高牆：免費教你如何做Podcast 06 : QA
     推倒資本主義的高牆：免費教你如何做Podcast 05 : 軟體後製 ft. 好和弦
@@ -813,10 +841,26 @@ Start annotation
     八角籠直播 EP1《熱愛祖國的中國人》
   Excluded: (0)
     
-[Clubhouse企劃]
+[Clubhouse 企劃]
   found in: (2)
     海外連線： 中國人吐封城心聲、希望台灣人不要內鬥？！
     『Clubhouse特別企劃』與在中國封城的聽眾聊天
+  Excluded: (0)
+    
+[2022台灣地方選舉]
+  found in: (4)
+    UPDATE: 新疆烏魯木齊大火、中國聽眾好奇台灣選舉結果
+    百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？
+    The KK Show - #160 新竹縣長候選人 - 周江杰
+    The KK Show - #159 聊聊選舉 - 人渣文本
+  Excluded: (0)
+    
+[日本遶境]
+  found in: (4)
+    0731 裴洛西踩中國紅線？ 牧師佈道穿金戴銀、脫衣舞俱樂部心得分享
+    百靈果News｜我們要去日本辦活動啦、尋找自己的老闆們、俄國史上第三次動員令
+    百靈果News｜日本錄KKShow！“I Left Russia”、美國疫情詐騙補助金、助理蛇編要去首爾“打獵”行程
+    百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？
   Excluded: (0)
     
 [裴洛西訪台事件]
@@ -833,6 +877,36 @@ Start annotation
     【百靈果】直接槓上五月天！自家小編打工竟然被翻手機？！
   Excluded: (0)
     
+[隱藏版 KK Show]
+  found in: (5)
+    女演員的互相傷害 觀眾在旁吃瓜 feat 酸酸 and 許乃涵 涵冷娜
+    喜劇演員開喜劇俱樂部是悲劇的開始嗎？ 笑友會的無情工商 ft. 黃豪平, 微笑丹尼
+    0822 特別來賓：敏迪選讀的敏迪其實很活潑？！
+    我不是泰國人 - 巴大雄
+    0704 Bonus：只有凱莉跟馬力歐喝一杯
+  Excluded: (0)
+    
+[週二夜現場]
+  found in: (4)
+    【週二夜現場】喬瑟夫 & 博恩
+    【週二夜現場】會說唱的美國反賊 - 樂樂法利
+    【週二夜現場】館長現場QA
+    【週二夜現場】曹興誠現場QA
+  Excluded: (0)
+    
+[喬瑟夫]
+  found in: (2)
+    【週二夜現場】喬瑟夫 & 博恩
+    The KK Show - #161 喬瑟夫
+  Excluded: (0)
+    
+[樂樂法利]
+  found in: (3)
+    【週二夜現場】會說唱的美國反賊 - 樂樂法利
+    The KK Show - #144 樂樂法利
+    百靈果news | (11/24錄音)簡體中文反共圈的困境、馬來西亞大選結果、凱莉看流麻溝十五號Ken 抱怨黑豹2
+  Excluded: (0)
+    
 [歐馬克]
   found in: (2)
     The KK Show - #133 歐馬克
@@ -846,7 +920,8 @@ Start annotation
   Excluded: (0)
     
 [博恩]
-  found in: (2)
+  found in: (3)
+    【週二夜現場】喬瑟夫 & 博恩
     The KK Show - #64 今天來賣票 - 博恩
     The KK Show - #56 相聲邊緣人 - 黃逸豪 （相聲界的博恩）
   Excluded: (2)
@@ -925,7 +1000,7 @@ Start annotation
     The KK Show - #38 遇到凱莉就無法炫富的 Joeman
   Excluded: (0)
     
-[邱grr]
+[邱 grr]
   found in: (2)
     The KK Show - 27 斜槓破表的 邱grr （音量調整）
     The KK Show - 公海大戰小粉紅 ft. 邱Grrr、敏迪、 范琪斐
@@ -976,12 +1051,6 @@ Start annotation
     百靈果NEWS 2019-01-06 3. 與小潘閒聊
   Excluded: (0)
     
-[Jason劉致昕 @報導者]
-  found in: (2)
-    The KK Show - #43 - 報導者來了 - Jason
-    百靈果之友: 004 報導者 致昕
-  Excluded: (0)
-    
 [陳柏惟]
   found in: (2)
     The KK Show - #55 好想上班的立委 - 陳柏惟
@@ -992,6 +1061,24 @@ Start annotation
   found in: (2)
     The KK Show - #92 被排擠的國民黨將軍 - 于北辰將軍
     The KK Show - #48 國民黨的邊緣人 - 于北辰將軍
+  Excluded: (0)
+    
+[陳秋實]
+  found in: (2)
+    百靈果News｜陳秋實加油、北京四通橋事件、敘利亞難民用Tiktok乞討、推薦： Hasan Minhaj: The King's Jester
+    The KK Show - #125 公民記者 陳秋實
+  Excluded: (0)
+    
+[Jason 劉致昕 @報導者]
+  found in: (2)
+    The KK Show - #43 - 報導者來了 - Jason
+    百靈果之友: 004 報導者 致昕
+  Excluded: (0)
+    
+[人渣文本]
+  found in: (2)
+    The KK Show - #159 聊聊選舉 - 人渣文本
+    The KK Show - #121 運動歸運動 政治歸政治？ 人渣文本
   Excluded: (0)
     
 [李淳]
@@ -1005,6 +1092,12 @@ Start annotation
     『新春特別企劃』百靈果之友 - 葉耀元教授
     The KK Show - #91 葉耀元教授又來啦
     The KK Show - #70 Clubhouse 認識的朋友 - 葉耀元教授
+  Excluded: (0)
+    
+[館長]
+  found in: (2)
+    【週二夜現場】館長現場QA
+    The KK Show - #157 館長
   Excluded: (0)
     
 [Angel]

@@ -7,7 +7,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=7DxD4V3VS3c",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11766103-news-11-24-ken-2.mp3",
-"tag": ['Nov 2022', '百靈果 NEWS']
+"tag": ['Nov 2022', '百靈果 NEWS', '樂樂法利', 'Youtuber', '喜劇演員']
 },
 "time596":{
 "name": "UPDATE: 新疆烏魯木齊大火、中國聽眾好奇台灣選舉結果",
@@ -17,7 +17,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=9wSJPaM4dFU",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11763718-update.mp3",
-"tag": ['Nov 2022']
+"tag": ['Nov 2022', '百靈果 Bonus', '2022台灣地方選舉']
 },
 "time595":{
 "name": "【週二夜現場】喬瑟夫 & 博恩 @Stand up, Brian! 博恩站起來！ @喬瑟夫 ChillSeph",
@@ -77,7 +77,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=5itxIt5glUI",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11683271-news-xx.mp3",
-"tag": ['Nov 2022', '百靈果 NEWS']
+"tag": ['Nov 2022', '百靈果 NEWS', '2022台灣地方選舉', '日本遶境']
 },
 "time589":{
 "name": "崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）",
@@ -97,7 +97,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=qeoWnFSUPP4",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3",
-"tag": ['Nov 2022', 'KK Show', '周江杰', '政治人物']
+"tag": ['Nov 2022', 'KK Show', '2022台灣地方選舉', '周江杰', '政治人物']
 },
 "time587":{
 "name": "The KK Show - #159 聊聊選舉 - 人渣文本",
@@ -107,7 +107,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=b4FX4gSNVqQ",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3",
-"tag": ['Nov 2022', 'KK Show', '人渣文本', '學者', '運動']
+"tag": ['Nov 2022', 'KK Show', '2022台灣地方選舉', '人渣文本', '學者', '運動']
 },
 "time586":{
 "name": "The KK Show - #158 與鯨魚游泳的男人-剛哥",
@@ -257,7 +257,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=TSPx70UaOsA",
 "image": "89844e47f561964f3f2eac3cdc9cae1d73dfa0d37cf4bac6c653cc207be51364",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11418606-news-kkshow-i-left-russia.mp3",
-"tag": ['Oct 2022', '百靈果 NEWS']
+"tag": ['Oct 2022', '百靈果 NEWS', '日本遶境']
 },
 "time571":{
 "name": "讀書會：八尺門的辯護人 序",
@@ -287,7 +287,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=bJS0qb6nLmw",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11378934-news.mp3",
-"tag": ['Sep 2022', '百靈果 NEWS']
+"tag": ['Sep 2022', '百靈果 NEWS', '日本遶境']
 },
 "time568":{
 "name": "Nothingess is the KEY 、讀書會：同情者 Ep 6（完）",
@@ -4067,7 +4067,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=pAB68brXkGg",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530924-news-bonus-update.mp3",
-"tag": ['May 2020', '百靈果 NEWS', '國傳司事件']
+"tag": ['May 2020', '百靈果 Bonus', '國傳司事件']
 },
 "time190":{
 "name": "0517 熊貓租借大外宣、川普vs華裔女記者、推薦書：美國夢的悲劇",
@@ -6005,11 +6005,12 @@ const tag_class = {
 "免費教你如何做 Podcast": ['#節目系列', '暫代讀書會'],
 "八角籠": ['#節目系列', '暫代讀書會'],
 "Clubhouse 企劃": ['#節目系列', '暫代讀書會'],
-"日本遶境": ['#事件備註'],
-"裴洛西訪台事件": ['#事件備註'],
-"國傳司事件": ['#事件備註'],
-"紐時集資事件": ['#事件備註'],
-"五月天事件": ['#事件備註'],
+"2022台灣地方選舉": ['#事件備註（測試）'],
+"日本遶境": ['#事件備註（測試）'],
+"裴洛西訪台事件": ['#事件備註（測試）'],
+"國傳司事件": ['#事件備註（測試）'],
+"紐時集資事件": ['#事件備註（測試）'],
+"五月天事件": ['#事件備註（測試）'],
 "隱藏版 KK Show": ['#節目系列'],
 "週二夜現場": ['#節目系列', '暫代讀書會'],
 "龍哥（喜劇）": ['喜劇演員', '老闆'],
@@ -6226,7 +6227,7 @@ const class_tag = {
 "#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '週二夜現場'],
-"#事件備註": ['日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
+"#事件備註（測試）": ['2022台灣地方選舉', '日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
 "喜劇演員": ['龍哥（喜劇）', '喬瑟夫', '樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
 "老闆": ['龍哥（喜劇）', 'Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', '曹興誠', 'Jay', '顧立楷', '林榮基'],
 "Youtuber": ['喬瑟夫', '樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '嗩吶 @好機車', '阿拉斯', '巴大雄 @東南美娛樂'],

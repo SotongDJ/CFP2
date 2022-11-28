@@ -1,17 +1,15 @@
-import tomlkit, re, argparse
-from pathlib import Path
-
+import rtoml, re, argparse, pathlib
 
 parser = argparse.ArgumentParser(description="Annotate data")
 parser.add_argument("target", help="target path")
 args = parser.parse_args()
 
 print("----\nStart annotation")
-structure_doc = tomlkit.load(open(args.target+"/mid/structure.toml"))
+structure_doc = rtoml.load(open(args.target+"/mid/structure.toml"))
 keyword_dict = dict()
 keyword_list = list()
-for keyword_path in sorted(list(Path(args.target).glob('keyword-*.toml'))):
-    keyword_doc = tomlkit.load(open(keyword_path))
+for keyword_path in sorted(list(pathlib.Path(args.target).glob('keyword-*.toml'))):
+    keyword_doc = rtoml.load(open(keyword_path))
     unique_list = [n for n in keyword_doc.keys() if n not in keyword_list]
     duplicate_list = [n for n in keyword_doc.keys() if n in keyword_list]
     if len(duplicate_list) > 0:
@@ -52,15 +50,17 @@ for entry_name in keyword_list:
         print("    {}".format("\n    ".join(exclusive_collect_list)))
     for episode_str in inclusive_collect_list:
         episode_table = structure_doc[episode_str]
-        episode_tag_list = episode_table["tag"]  # type: ignore
-        episode_tag_list.append(entry_name)  # type: ignore
-        episode_table["tag"] = episode_tag_list  # type: ignore
-        episode_tag_list = episode_table["category"]  # type: ignore
-        episode_tag_list.extend(entry_detail["category"])  # type: ignore
-        episode_table["category"] = episode_tag_list  # type: ignore
+        episode_tag_list = episode_table["tag"]
+        episode_tag_list.append(entry_name)
+        episode_table["tag"] = episode_tag_list
+        episode_tag_list = episode_table["category"]
+        episode_tag_list.extend(entry_detail["category"])
+        episode_table["category"] = episode_tag_list
         structure_doc[episode_str] = episode_table
 with open(args.target+"/mid/keyword.toml",'w') as target_handler:
-    tomlkit.dump(keyword_dict,target_handler)
+    rtoml.dump(keyword_dict,target_handler)
 with open(args.target+"/mid/annotation.toml",'w') as target_handler:
-    tomlkit.dump(structure_doc,target_handler)
+    target_handler.write("# Add your own tag to each episode\n\n")
+with open(args.target+"/mid/annotation.toml",'a') as target_handler:
+    rtoml.dump(structure_doc,target_handler)
 print("    ----\nEnd annotation")

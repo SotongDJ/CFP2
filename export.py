@@ -1,6 +1,5 @@
-import tomlkit, argparse #, json
+import rtoml, argparse #, json
 from datetime import datetime
-
 
 def convertMonth(input):
     return int(datetime.strptime(input,"%b %Y").strftime("%Y%m"))
@@ -12,9 +11,9 @@ args = parser.parse_args()
 print("----\nStart export")
 print("    ----")
 print("    load data")
-title_dict = tomlkit.load(open(args.target+"/mid/annotation.toml"))
-keyword_doc = tomlkit.load(open(args.target+"/mid/keyword.toml"))
-month_doc = tomlkit.load(open(args.target+"/record/feedPodcast-month.toml"))
+title_dict = rtoml.load(open(args.target+"/mid/annotation.toml"))
+keyword_doc = rtoml.load(open(args.target+"/mid/keyword.toml"))
+month_doc = rtoml.load(open(args.target+"/record/feedPodcast-month.toml"))
 month_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
 reverse_month_dict = dict()
 for month_str, year_str in month_dict.items():
@@ -50,7 +49,7 @@ outer_str = "const playlist = {\n"+"\n},\n".join(title_list)+"\n}\n};\n"
 # with open("docs/blg-playlist.json",'w') as target_handler:
 #     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
 # with open("docs/blg-playlist.toml",'w') as target_handler:
-#     tomlkit.dump(playlist_dict,target_handler)
+#     rtoml.dump(playlist_dict,target_handler)
 
 print("    ----")
 print("    export docs/"+args.target+"-tag_class")
@@ -62,7 +61,7 @@ tag2class_str = "const tag_class = {\n"+",\n".join(tag2class_list)+"\n};\n"
 # with open("docs/blg-tag_class.json",'w') as target_handler:
 #     json.dump(tag2class_dict,target_handler,indent=0,sort_keys=True)
 # with open("docs/blg-tag_class.toml",'w') as target_handler:
-#     tomlkit.dump(tag2class_dict,target_handler)
+#     rtoml.dump(tag2class_dict,target_handler)
 
 print("    ----")
 print("    export docs/"+args.target+"-class_tag")
@@ -81,7 +80,7 @@ class2tag_str = "const class_tag = {\n"+",\n".join(class2tag_list)+"\n};\n"
 # with open("docs/blg-class_tag.json",'w') as target_handler:
 #     json.dump(class2tag_dict,target_handler,indent=0,sort_keys=True)
 # with open("docs/blg-class_tag.toml",'w') as target_handler:
-#     tomlkit.dump(class2tag_dict,target_handler)
+#     rtoml.dump(class2tag_dict,target_handler)
 
 with open("docs/"+args.target+"-playlist.js",'w') as target_handler:
     target_handler.write(outer_str)

@@ -1,26 +1,8 @@
 from bs4 import BeautifulSoup as bs
 from PIL import Image
 from datetime import datetime
-import json,tomlkit,requests,pathlib,hashlib,time,argparse
-
-class config:
-    def __init__(self,inputStr):
-        self.prefix = inputStr
-        self.dict = dict()
-        self.dict.update(dict(tomlkit.load(open(inputStr+"/config.toml"))))
-        self.rss = self.dict["rss"]
-        self.apple = self.dict.get("apple","")
-        self.google = self.dict.get("google","")
-        self.spotify = self.dict.get("spotify","")
-        self.youtube = self.dict.get("youtube","")
-        pathlib.Path(args.target+"/record/").mkdir(parents=True,exist_ok=True)
-        pathlib.Path(args.target+"/mid/").mkdir(parents=True,exist_ok=True)
-    def xmlw(self,contentStr,partStr):
-        with open(self.prefix+partStr,"w") as target_handler:
-            target_handler.write(contentStr)
-    def toml(self,inputDict,partStr):
-        with open(self.prefix+partStr,'w') as target_handler:
-            tomlkit.dump(inputDict,target_handler)
+import json,rtoml,requests,pathlib,hashlib,time,argparse
+from configdo import config
 
 parser = argparse.ArgumentParser(description="Update data")
 parser.add_argument("target", help="target path")
@@ -40,10 +22,10 @@ month_dict = dict()
 name2url_dict = dict()
 url2file_dict = dict()
 if pathlib.Path(args.target+"/record/image.toml").exists():
-    img_doc = tomlkit.load(open(args.target+"/record/image.toml"))
-    name2url_dict.update({str(x):str(y) for x,y in img_doc["name2url"].items()})  # type: ignore
-    url2file_dict.update({str(x):str(y) for x,y in img_doc["url2file"].items()})  # type: ignore
-channelCover_str = rss_feed.find("image").url.contents[0]  # type: ignore
+    img_doc = rtoml.load(open(args.target+"/record/image.toml"))
+    name2url_dict.update({str(x):str(y) for x,y in img_doc["name2url"].items()})
+    url2file_dict.update({str(x):str(y) for x,y in img_doc["url2file"].items()})
+channelCover_str = rss_feed.find("image").url.contents[0]
 img_size_list = [96,128,192,256,384,512]
 for unit in rss_feed.find_all('item'):
     name = unit.title.contents[0]
@@ -88,12 +70,12 @@ if Config.apple != "":
     print("        Feed: convert HTML and update dictionary")
     apple_track = bs(apple_req.text,"lxml").find('ol',{'class':'tracks tracks--linear-show'})
     if pathlib.Path(args.target+"/record/ApplePodcast.toml").exists():
-        apple_doc = tomlkit.load(open(args.target+"/record/ApplePodcast.toml"))
+        apple_doc = rtoml.load(open(args.target+"/record/ApplePodcast.toml"))
         apple_record = {str(x):str(y) for x,y in apple_doc.items()}
     else:
         apple_record = dict()
     apple_dict = dict()
-    for unit in apple_track.find_all('a',{"class":"link tracks__track__link--block"}):  # type: ignore
+    for unit in apple_track.find_all('a',{"class":"link tracks__track__link--block"}):
         name_wt_hidden = unit.contents[0].replace(" &ZeroWidthSpace;","")
         name_single = name_wt_hidden.replace("\n","")
         name = " ".join([n for n in name_single.split(" ") if n != ""])
@@ -117,7 +99,7 @@ if Config.google != "":
     google_track = bs(google_req.text,"lxml").find('div',{'jsname':'quCAxd'})
     print("        Feed: convert HTML and update dictionary")
     google_dict = dict()
-    for unit in google_track.find_all('a'):  # type: ignore
+    for unit in google_track.find_all('a'):
         url = unit['href'].split("?sa=")[0].replace("./","https://podcasts.google.com/")
         name = unit.findChildren("div", {'class': 'e3ZUqe'})[0].contents[0]
         google_dict[name] = url
@@ -131,7 +113,7 @@ if Config.spotify != "":
     print("    Start collection: Spotify")
     if pathlib.Path("secret.toml").exists():
         print("        Feed: grab rss feed")
-        secret_docs = tomlkit.load(open("secret.toml"))
+        secret_docs = rtoml.load(open("secret.toml"))
         spotify_auth_url = 'https://accounts.spotify.com/api/token'
         spotify_auth_response = requests.post(spotify_auth_url, {
             'grant_type': 'client_credentials',
@@ -151,7 +133,7 @@ if Config.spotify != "":
         print("        Feed: convert JSON and update dictionary")
         spotify_req_dict = json.loads(spotify_req.text)
         if pathlib.Path(args.target+"/record/SpotifyPodcast.toml").exists():
-            spotify_doc = tomlkit.load(open(args.target+"/record/SpotifyPodcast.toml"))
+            spotify_doc = rtoml.load(open(args.target+"/record/SpotifyPodcast.toml"))
             spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
         else:
             spotify_record = dict()
@@ -173,7 +155,7 @@ if Config.spotify != "":
         print("        Skip: secret not found")
         print("        Feed: use old records")
         if pathlib.Path(args.target+"/record/SpotifyPodcast.toml").exists():
-            spotify_doc = tomlkit.load(open(args.target+"/record/SpotifyPodcast.toml"))
+            spotify_doc = rtoml.load(open(args.target+"/record/SpotifyPodcast.toml"))
             spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
         else:
             spotify_record = dict()
@@ -190,7 +172,7 @@ if Config.youtube != "":
     youtube_track = bs(youtube_req.text,"xml")
     print("        Feed: convert XML and update dictionary")
     if pathlib.Path(args.target+"/record/YouTube.toml").exists():
-        youtube_doc = tomlkit.load(open(args.target+"/record/YouTube.toml"))
+        youtube_doc = rtoml.load(open(args.target+"/record/YouTube.toml"))
         youtube_record = {str(x):str(y) for x,y in youtube_doc.items()}
     else:
         youtube_record = dict()

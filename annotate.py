@@ -19,16 +19,17 @@ for keyword_path in sorted(list(pathlib.Path(args.target).glob('keyword-*.toml')
 def check(input_str,exclude,do_re=str()):
     include_list = list()
     exclude_list = list()
-    for key_str in structure_doc.keys():
-        include_bool = (input_str in key_str)
+    for key_str,detail_dict in structure_doc.items():
+        name_str = detail_dict["name"]
+        include_bool = (input_str in name_str)
         if do_re != str():
             key_re = re.compile(do_re)
-            if key_re.match(key_str):
+            if key_re.match(name_str):
                 include_bool = True
         if include_bool:
             exclude_bool = False
             for exclude_str in exclude:
-                if exclude_str in key_str:
+                if exclude_str in name_str:
                     exclude_bool = True
             if exclude_bool:
                 exclude_list.append(key_str)

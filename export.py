@@ -1,4 +1,4 @@
-import rtoml, argparse #, json
+import rtoml, argparse, json
 from datetime import datetime
 
 def convertMonth(input):
@@ -22,17 +22,14 @@ for month_str, year_str in month_dict.items():
     reverse_month_dict[year_str] = year_list
 reverse_dict = {y:sorted(reverse_month_dict[y],key=lambda m : convertMonth(m)) for y in sorted(list(reverse_month_dict.keys()),key=lambda x : int(x), reverse=True)}
 month_list = sorted(list(month_dict.keys()), key=lambda m : convertMonth(m), reverse=True)
-header_list = ["name", "apple", "google", "spotify", "youtube", "image", "feed"]
+header_dict = {"name":"","feed":"","image":"","tag":[],"extra":{},"apple":"","google":"","spotify":"","youtube":""}
 title_list = list()
 total_int = len(title_dict.keys())
 print("    ----")
 print("    export docs/"+args.target+"-playlist")
 playlist_dict = dict()
-for enum_int, value_dict in enumerate(title_dict.values()):
-    key_inner_str = "time{}".format(total_int-enum_int)
-    value_inner_dict = {header_str:value_dict.get(header_str,"") for header_str in header_list}
-    value_inner_list = ["\"{}\": \"{}\"".format(header_str,value_dict.get(header_str,"")) for header_str in header_list]
-    value_inner_str = "\"time{}\":".format(total_int-enum_int) + "{\n" + ",\n".join(value_inner_list)
+for key_str, value_dict in title_dict.items():
+    value_inner_dict = {x:value_dict.get(x,y) for x,y in header_dict.items()}
     tag_list = value_dict.get("tag",list())
     category_list = [n for n in value_dict.get("category",list()) if n[0] != "#"]
     tag_list.extend(sorted(list(set(category_list))))
@@ -41,10 +38,8 @@ for enum_int, value_dict in enumerate(title_dict.values()):
         if tag not in deduplicate_tag_list:
             deduplicate_tag_list.append(tag)
     value_inner_dict["tag"] = deduplicate_tag_list
-    playlist_dict[key_inner_str] = value_inner_dict
-    value_inner_str = value_inner_str + ",\n\"tag\": {}".format(deduplicate_tag_list)
-    title_list.append(value_inner_str)
-outer_str = "const playlist = {\n"+"\n},\n".join(title_list)+"\n}\n};\n"
+    playlist_dict[key_str] = value_inner_dict
+outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=False)+";\n"
 
 # with open("docs/blg-playlist.json",'w') as target_handler:
 #     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)

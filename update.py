@@ -37,7 +37,7 @@ for unit in rss_feed.find_all('item'):
     img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channelCover_str]
     img_url = img_list[0]
     name2url_dict[name] = img_url
-    safeImg_url = "{}-{}".format(Path(img_url).parent.name,Path(img_url).name)
+    safeImg_url = "{}-{}".format(pathlib.Path(img_url).parent.name,pathlib.Path(img_url).name)
     if safeImg_url not in url2file_dict.keys():
         print(F"request: {img_url} for {name}")
         cover_img_r = requests.get(img_url, stream=True)

@@ -1,4 +1,5 @@
 import argparse,rtoml
+from pathlib import Path
 from configdo import config
 
 parser = argparse.ArgumentParser(description="Update data")

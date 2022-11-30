@@ -1,5 +1,27 @@
 # Add your own tag to each episode
 
+[time599]
+name = "The KK Show - #163 小澤瑪莉雅 Maria Ozawa"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11779259-the-kk-show-163-maria-ozawa.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-163-%E5%B0%8F%E6%BE%A4%E7%91%AA%E8%8E%89%E9%9B%85-maria-ozawa/id1106847606?i=1000587932141"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc3OTI1OQ"
+spotify = "https://open.spotify.com/episode/31gjmxu3Fo6i8VK5mXp74t"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+names = ["The KK Show - #163 小澤瑪莉雅 Maria Ozawa"]
+tag = ["Nov 2022", "KK Show"]
+category = ["#節目系列"]
+
+[time598]
+name = "跟中國、香港、維吾爾、台灣人直播聊這幾天在中國發生的抗爭"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11778190-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E4%B8%AD%E5%9C%8B-%E9%A6%99%E6%B8%AF-%E7%B6%AD%E5%90%BE%E7%88%BE-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9B%B4%E6%92%AD%E8%81%8A%E9%80%99%E5%B9%BE%E5%A4%A9%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%99%BC%E7%94%9F%E7%9A%84%E6%8A%97%E7%88%AD/id1106847606?i=1000587846703"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc3ODE5MA"
+spotify = "https://open.spotify.com/episode/3VvRpezfdU9a95jpLfBdqL"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+names = ["跟中國、香港、維吾爾、台灣人直播聊這幾天在中國發生的抗爭"]
+tag = ["Nov 2022"]
+category = []
+
 [time597]
 name = "百靈果news | (11/24錄音)簡體中文反共圈的困境、馬來西亞大選結果、凱莉看流麻溝十五號Ken 抱怨黑豹2"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11766103-news-11-24-ken-2.mp3"

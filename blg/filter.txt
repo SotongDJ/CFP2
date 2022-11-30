@@ -849,10 +849,15 @@ Start annotation
     time369
   Excluded: (0)
     
-[Clubhouse 企劃]
-  found in: (2)
+[Clubhouse 直播]
+  found in: (7)
+    time527
+    time436
+    time373
+    time369
     time511
     time492
+    time598
   Excluded: (0)
     
 [2022台灣地方選舉]

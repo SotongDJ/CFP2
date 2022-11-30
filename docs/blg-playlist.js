@@ -18,7 +18,9 @@ const playlist = {
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11778190-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
-"Nov 2022"
+"Nov 2022",
+"Clubhouse 直播",
+"暫代讀書會"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E4%B8%AD%E5%9C%8B-%E9%A6%99%E6%B8%AF-%E7%B6%AD%E5%90%BE%E7%88%BE-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9B%B4%E6%92%AD%E8%81%8A%E9%80%99%E5%B9%BE%E5%A4%A9%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%99%BC%E7%94%9F%E7%9A%84%E6%8A%97%E7%88%AD/id1106847606?i=1000587846703",
@@ -459,7 +461,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%88%86%E4%BA%AB%E9%A6%96%E7%88%BE-%E6%89%93%E7%8D%B5-%E6%88%90%E6%9E%9C-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%AD%E7%AB%8B%E8%AD%A6%E5%AF%9F%E5%B1%80-%E8%B7%9F%E8%8C%83%E5%A7%90%E8%81%8A%E6%9C%80%E8%BF%91%E7%9A%84%E7%88%AD%E8%AD%B0/id1106847606?i=1000582052124",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ2NzkxNw",
-"spotify": "https://open.spotify.com/episode/4KldmJo6xoVNsAzn1GWPvE",
+"spotify": "https://open.spotify.com/episode/74LAXIwqaHDE2rqvNwnlxw",
 "youtube": "https://www.youtube.com/watch?v=q8Fk-GTcuig"
 },
 "time574": {
@@ -1228,6 +1230,7 @@ const playlist = {
 "tag": [
 "Jun 2022",
 "八角籠",
+"Clubhouse 直播",
 "暫代讀書會"
 ],
 "extra": {},
@@ -1486,7 +1489,7 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2022",
-"Clubhouse 企劃",
+"Clubhouse 直播",
 "暫代讀書會"
 ],
 "extra": {},
@@ -1776,7 +1779,7 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2022",
-"Clubhouse 企劃",
+"Clubhouse 直播",
 "暫代讀書會"
 ],
 "extra": {},
@@ -2647,6 +2650,7 @@ const playlist = {
 "tag": [
 "Dec 2021",
 "八角籠",
+"Clubhouse 直播",
 "暫代讀書會"
 ],
 "extra": {},
@@ -3608,6 +3612,7 @@ const playlist = {
 "tag": [
 "Jul 2021",
 "八角籠",
+"Clubhouse 直播",
 "暫代讀書會"
 ],
 "extra": {},
@@ -3672,6 +3677,7 @@ const playlist = {
 "tag": [
 "Jul 2021",
 "八角籠",
+"Clubhouse 直播",
 "暫代讀書會"
 ],
 "extra": {},
@@ -9271,7 +9277,7 @@ const tag_class = {
 "百靈果之友": ['#節目系列', '暫代讀書會'],
 "免費教你如何做 Podcast": ['#節目系列', '暫代讀書會'],
 "八角籠": ['#節目系列', '暫代讀書會'],
-"Clubhouse 企劃": ['#節目系列', '暫代讀書會'],
+"Clubhouse 直播": ['#節目系列', '暫代讀書會'],
 "2022台灣地方選舉": ['#事件備註（測試）'],
 "日本遶境": ['#事件備註（測試）'],
 "裴洛西訪台事件": ['#事件備註（測試）'],
@@ -9491,9 +9497,9 @@ const class_tag = {
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
 "#2019": ['Jan 2019', 'Feb 2019', 'Mar 2019', 'Apr 2019', 'May 2019', 'Jun 2019', 'Jul 2019', 'Aug 2019', 'Sep 2019', 'Oct 2019', 'Nov 2019', 'Dec 2019'],
-"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '隱藏版 KK Show', '週二夜現場'],
+"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
-"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 企劃', '週二夜現場'],
+"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '週二夜現場'],
 "#事件備註（測試）": ['2022台灣地方選舉', '日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
 "喜劇演員": ['龍哥（喜劇）', '喬瑟夫', '樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
 "老闆": ['龍哥（喜劇）', 'Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', '曹興誠', 'Jay', '顧立楷', '林榮基'],

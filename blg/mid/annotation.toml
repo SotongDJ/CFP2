@@ -19,8 +19,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/3VvRpezfdU9a95jpLfBdqL"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["跟中國、香港、維吾爾、台灣人直播聊這幾天在中國發生的抗爭"]
-tag = ["Nov 2022"]
-category = []
+tag = ["Nov 2022", "Clubhouse 直播"]
+category = ["#節目系列", "暫代讀書會"]
 
 [time597]
 name = "百靈果news | (11/24錄音)簡體中文反共圈的困境、馬來西亞大選結果、凱莉看流麻溝十五號Ken 抱怨黑豹2"
@@ -349,7 +349,7 @@ name = "百靈果News｜分享首爾“打獵”成果、中國在全世界設�
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%88%86%E4%BA%AB%E9%A6%96%E7%88%BE-%E6%89%93%E7%8D%B5-%E6%88%90%E6%9E%9C-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%AD%E7%AB%8B%E8%AD%A6%E5%AF%9F%E5%B1%80-%E8%B7%9F%E8%8C%83%E5%A7%90%E8%81%8A%E6%9C%80%E8%BF%91%E7%9A%84%E7%88%AD%E8%AD%B0/id1106847606?i=1000582052124"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ2NzkxNw"
-spotify = "https://open.spotify.com/episode/4KldmJo6xoVNsAzn1GWPvE"
+spotify = "https://open.spotify.com/episode/74LAXIwqaHDE2rqvNwnlxw"
 youtube = "https://www.youtube.com/watch?v=q8Fk-GTcuig"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議"]
@@ -949,8 +949,8 @@ spotify = "https://open.spotify.com/episode/4ZfUU4EZeEMXVSvwKcgqBp"
 youtube = "https://www.youtube.com/watch?v=1QlB2MMBXJ8"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["八角籠直播-聊聊海德堡"]
-tag = ["Jun 2022", "八角籠"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Jun 2022", "八角籠", "Clubhouse 直播"]
+category = ["#節目系列", "暫代讀書會", "#節目系列", "暫代讀書會"]
 
 [time526]
 name = "You READ WHAT for FUN???? ... THE STIR EP 8"
@@ -1137,7 +1137,7 @@ spotify = "https://open.spotify.com/episode/57upaOfBpeDNX6sVCAx7Pj"
 youtube = "https://www.youtube.com/watch?v=J8YzN0gKPCs&t=5s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["海外連線： 中國人吐封城心聲、希望台灣人不要內鬥？！"]
-tag = ["May 2022", "Clubhouse 企劃"]
+tag = ["May 2022", "Clubhouse 直播"]
 category = ["#節目系列", "暫代讀書會"]
 
 [time510]
@@ -1361,7 +1361,7 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/0nr9PX2jUjWXWi9KPYA6Bx"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["『Clubhouse特別企劃』與在中國封城的聽眾聊天"]
-tag = ["Apr 2022", "Clubhouse 企劃"]
+tag = ["Apr 2022", "Clubhouse 直播"]
 category = ["#節目系列", "暫代讀書會"]
 
 [time491]
@@ -2013,8 +2013,8 @@ spotify = "https://open.spotify.com/episode/5aYzrIXGNP6hJKJMPN56EZ"
 youtube = "https://www.youtube.com/watch?v=3A5rUU_gh4o"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["八角籠直播 Ep.3 《新疆怎麼樣》"]
-tag = ["Dec 2021", "八角籠"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Dec 2021", "八角籠", "Clubhouse 直播"]
+category = ["#節目系列", "暫代讀書會", "#節目系列", "暫代讀書會"]
 
 [time435]
 name = "The KK Show - #110 變裝國王 - JC"
@@ -2736,8 +2736,8 @@ spotify = "https://open.spotify.com/episode/7eBWJnzP4PG0bJHv1zMiaM"
 youtube = "https://www.youtube.com/watch?v=m-1Z6PawdPs&t=1094s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["八角籠直播 Ep2 《大亂鬥》"]
-tag = ["Jul 2021", "八角籠"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Jul 2021", "八角籠", "Clubhouse 直播"]
+category = ["#節目系列", "暫代讀書會", "#節目系列", "暫代讀書會"]
 
 [time372]
 name = "聲音修正 百靈果之友: 003@ 無國界醫生 劉董"
@@ -2782,8 +2782,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvb
 spotify = "https://open.spotify.com/episode/2iNL66Mvwce4nzIPYVqMkO"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["八角籠直播 #001 警告來賓網路不穩 《熱愛祖國的中國人》"]
-tag = ["Jul 2021", "八角籠"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Jul 2021", "八角籠", "Clubhouse 直播"]
+category = ["#節目系列", "暫代讀書會", "#節目系列", "暫代讀書會"]
 
 [time368]
 name = "百靈果之友: 002 呱吉 議員說他沒上班"

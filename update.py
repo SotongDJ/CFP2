@@ -35,7 +35,7 @@ for unit in rss_feed.find_all('item'):
     month_str = datetime.strptime(original_time_str,"%a, %d %b %Y %H:%M:%S %z").strftime("%b %Y")
     month_dict[name] = month_str
     img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channelCover_str]
-    img_url = img_list[0]
+    img_url = str(img_list[0])
     name2url_dict[name] = img_url
     safeImg_url = "{}-{}".format(pathlib.Path(img_url).parent.name,pathlib.Path(img_url).name)
     if safeImg_url not in url2file_dict.keys():

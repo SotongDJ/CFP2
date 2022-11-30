@@ -23,8 +23,8 @@ name2url_dict = dict()
 url2file_dict = dict()
 if pathlib.Path(args.target+"/record/image.toml").exists():
     img_doc = rtoml.load(open(args.target+"/record/image.toml"))
-    name2url_dict.update({str(x):str(y) for x,y in img_doc["name2url"].items()})
-    url2file_dict.update({str(x):str(y) for x,y in img_doc["url2file"].items()})
+    name2url_dict.update(img_doc["name2url"])
+    url2file_dict.update(img_doc["url2file"])
 channelCover_str = rss_feed.find("image").url.contents[0]
 img_size_list = [96,128,192,256,384,512]
 for unit in rss_feed.find_all('item'):
@@ -37,7 +37,8 @@ for unit in rss_feed.find_all('item'):
     img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channelCover_str]
     img_url = img_list[0]
     name2url_dict[name] = img_url
-    if img_url not in url2file_dict.keys():
+    safeImg_url = "{}-{}".format(Path(img_url).parent.name,Path(img_url).name)
+    if safeImg_url not in url2file_dict.keys():
         print(F"request: {img_url} for {name}")
         cover_img_r = requests.get(img_url, stream=True)
         time.sleep(1)
@@ -46,7 +47,7 @@ for unit in rss_feed.find_all('item'):
         h = hashlib.new('sha256')
         h.update(cover_img.tobytes())
         img_name = h.hexdigest()
-        url2file_dict[img_url] = img_name
+        url2file_dict[safeImg_url] = img_name
         if not pathlib.Path(F"docs/p/{img_name}/512.png").exists():
             print(F"resize: docs/p/{img_name}")
             for img_size in img_size_list:

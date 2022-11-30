@@ -64,7 +64,8 @@ print("    collect podcast info from image.toml")
 for title_str,link_str in name2url_dict.items():
     id_str = correct(title_str)
     title_episode_dict = title_dict.get(id_str,{})
-    title_episode_dict["image"] = url2file_dict[link_str]
+    safeImg_url = "{}-{}".format(Path(link_str).parent.name,Path(link_str).name)
+    title_episode_dict["image"] = url2file_dict[safeImg_url]
     title_dict[id_str] = title_episode_dict
 print("    ----")
 print("    collect podcast info from feedPodcast-month.toml")

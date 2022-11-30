@@ -2279,7 +2279,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=GgCzbOCj_28&t=2597s"
 },
 "time461": {
-"name": "0206 #谷愛凌 是超級間諜？ 紐西蘭爲什麽要開放旅游了？ 閒聊Joe Rogan 後續 推薦電影:偶然與想像",
+"name": "0206 #谷愛凌 是超級間諜？ 紐西蘭爲什麽要開放旅遊了？ 閒聊Joe Rogan 後續 推薦電影:偶然與想像",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530654-0206-joe-rogan.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3550,7 +3550,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=2xWAnZjqdPk"
 },
 "time378": {
-"name": "The KK Show - #91 葉耀元教授又來啦",
+"name": "The KK Show - #90 葉耀元教授又來啦",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530737-the-kk-show-90.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3904,7 +3904,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=enYBHX5XPVw"
 },
 "time356": {
-"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5，6",
+"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5、6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3950,7 +3950,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=W1b8q1pda6w"
 },
 "time353": {
-"name": "醫護人員We Love You！被自己國家下毒還無法伸冤、阿根廷是納粹天堂？ 讀書會： CIA 洗腦計劃 Ch 3、4",
+"name": "醫護人員We Love You、被自己國家下毒還無法伸冤、阿根廷是納粹天堂？ 讀書會： CIA 洗腦計劃 Ch 3、4",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530762-we-love-you-cia-ch-3-4.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4259,7 +4259,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=izxnDNr6wtc"
 },
 "time333": {
-"name": "0418 被最好的朋友刺殺的非洲領袖、中國旅游驚喜包、蛇編跟我們講解白沙屯媽祖進香",
+"name": "0418 被最好的朋友刺殺的非洲領袖、中國旅遊驚喜包、蛇編跟我們講解白沙屯媽祖進香",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530782-0418.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4489,11 +4489,13 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=3Ku0m1Xm2pA"
 },
 "time318": {
-"name": "鹿港遶境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦",
+"name": "鹿港繞境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530797-0314-peace.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
-"Mar 2021"
+"Mar 2021",
+"百靈果 NEWS",
+"Live Podcast"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%B9%BF%E6%B8%AF%E7%B9%9E%E5%A2%83-0314-%E5%8D%97%E9%9F%93%E9%A1%98%E6%84%8F%E6%8F%90%E9%AB%98%E4%BF%9D%E8%AD%B7%E8%B2%BB-peace-%E6%B5%B7%E5%BA%95%E9%9B%BB%E7%BA%9C%E6%98%AF%E8%8F%AF%E7%88%B2%E7%9A%84%E5%93%A6/id1106847606?i=1000512917414",
@@ -4714,7 +4716,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=EjXGWOygqqI"
 },
 "time303": {
-"name": "0207 膝擊緬甸的蛋蛋、蓋亞那玩弄了台灣的蛋蛋、推薦Podcast：The Passenger List",
+"name": "0207 膝擊緬甸的蛋蛋、蓋亞納玩弄了台灣的蛋蛋、推薦Podcast：The Passenger List",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530812-0207-podcast-the-passenger-list.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7068,7 +7070,7 @@ const playlist = {
 "youtube": ""
 },
 "time150": {
-"name": "The KK Show - 012 脫口秀界的小隻馬 - 么么跟怡岑",
+"name": "The KK Show - #12 脫口秀界的小隻馬 - 么么跟怡岑",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530965-the-kk-show-012.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7193,7 +7195,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=x87FnOchEHU"
 },
 "time142": {
-"name": "The KK Show - #09 這麽帥不去選立委可惜 - 顧立楷",
+"name": "The KK Show - 009 這麽帥不去選立委可惜 - 顧立楷",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7223,7 +7225,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=1N8q-iKrq1Q&t=2232s"
 },
 "time140": {
-"name": "The KK Show - #08 國際新聞扛霸子 - 范琪斐",
+"name": "The KK Show - 008 國際新聞扛霸子 - 范琪斐",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530975-the-kk-show-008.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [

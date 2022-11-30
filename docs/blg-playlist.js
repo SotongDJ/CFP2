@@ -5,13 +5,15 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2022",
-"KK Show"
+"KK Show",
+"小澤瑪莉雅",
+"色色"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-163-%E5%B0%8F%E6%BE%A4%E7%91%AA%E8%8E%89%E9%9B%85-maria-ozawa/id1106847606?i=1000587932141",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc3OTI1OQ",
 "spotify": "https://open.spotify.com/episode/31gjmxu3Fo6i8VK5mXp74t",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=47a67nvcp4c"
 },
 "time598": {
 "name": "跟中國、香港、維吾爾、台灣人直播聊這幾天在中國發生的抗爭",
@@ -66,7 +68,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=9wSJPaM4dFU"
 },
 "time595": {
-"name": "【週二夜現場】喬瑟夫 & 博恩 @Stand up, Brian! 博恩站起來！ @喬瑟夫 ChillSeph",
+"name": "【週二夜現場】喬瑟夫 & 博恩",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11756576-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -88,15 +90,18 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=prwKh1c_yik"
 },
 "time594": {
-"name": "The KK Show - #162 散盡家財做喜劇 - 龍哥",
+"name": "The KK Show - #162 來福好事 - 龍哥",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2022",
 "KK Show",
 "龍哥（喜劇）",
+"龍哥（影視）",
 "喜劇演員",
-"老闆"
+"影視製作",
+"老闆",
+"製作人"
 ],
 "extra": {
 "#Clips 台中人聽到這個一定笑？ | The KK Show - #162 散盡家財做喜劇 - 龍哥": "https://www.youtube.com/watch?v=pLPjY6gF5YE",
@@ -149,7 +154,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=PunAv8pqWnk"
 },
 "time591": {
-"name": "The KK Show - #161 @喬瑟夫 ChillSeph",
+"name": "The KK Show - #161 喬瑟夫",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11697100-the-kk-show-161.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -201,7 +206,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=hPK0JfIr9qw"
 },
 "time588": {
-"name": "The KK Show - #160 民進黨新竹縣候選人 - 周江杰",
+"name": "The KK Show - #160 新竹縣長候選人 - 周江杰",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11652657-the-kk-show-160.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -244,7 +249,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=b4FX4gSNVqQ"
 },
 "time586": {
-"name": "The KK Show - #158 與鯨魚游泳的男人 - 剛哥",
+"name": "The KK Show - #158 與鯨魚游泳的男人-剛哥",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11605793-the-kk-show-158.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -480,7 +485,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-E-G_zHtUKU"
 },
 "time573": {
-"name": "The KK Show - #154 好機車-嗩吶 @好機車",
+"name": "The KK Show - #154 好機車-嗩吶",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3",
 "image": "11c39e0dc6e6cdfaebfeb1835f835be75a92eb0ea929288f9d7c31686c8791bb",
 "tag": [
@@ -531,7 +536,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=fcPztb9Jzoo"
 },
 "time570": {
-"name": "(CC字幕) The KK Show - #153 逃出中國 - Michael Smith",
+"name": "The KK Show - #153 逃出中國 - Michael Smith",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3",
 "image": "09b0a92eae00bf0f5929da7b0750e23a6352d39020ba03962b7216f34487631c",
 "tag": [
@@ -546,7 +551,6 @@ const playlist = {
 "有外媒相信中國的謊言？ Western media bought into Chinese LIES about XINJIANG｜ The KK Show - #153 Michael Smith": "https://www.youtube.com/watch?v=_GNC5_XDFgI",
 "Escape Shanghai! 逃出上海 ｜ The KK Show - #153 逃出中國 - Michael Smith": "https://www.youtube.com/watch?v=0h1NXOJqE-c",
 "Western media bought into Chinese LIES about XINJIANG 有外媒相信中國的謊言？ ｜ The KK Show - #153 Michael Smith": "https://www.youtube.com/watch?v=_GNC5_XDFgI",
-"(Complete Version)(CC字幕) The KK Show - #153 逃出中國 - Michael Smith": "https://www.youtube.com/watch?v=Y967_IFST3o",
 "#Clips Escape Shanghai! 逃出上海 ｜ The KK Show - #153 逃出中國 - Michael Smith": "https://www.youtube.com/watch?v=0h1NXOJqE-c",
 "#clips Western media bought into Chinese LIES about XINJIANG 有外媒相信中國的謊言？ ｜ The KK Show Michael Smith": "https://www.youtube.com/watch?v=_GNC5_XDFgI"
 },
@@ -803,11 +807,15 @@ const playlist = {
 "歷史哥",
 "Youtuber"
 ],
-"extra": {},
+"extra": {
+"何謂台派？國民黨精神分裂｜KK Show 148 青年韓粉？歷史哥：我不是！ @歷史哥HistoryBro": "https://www.youtube.com/watch?v=eKIZvjiTzPY",
+"台灣人可以自己決定自己的未來？｜KK Show 148 青年韓粉？歷史哥：我不是！ @歷史哥HistoryBro": "https://www.youtube.com/watch?v=yrLghsYWWfQ",
+"幫韓國瑜站台可是選輸後被檢討？｜KK Show 148 青年韓粉？歷史哥：我不是！ @歷史哥HistoryBro": "https://www.youtube.com/watch?v=l1rPrmtvZHs"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-148-%E9%9D%92%E5%B9%B4%E9%9F%93%E7%B2%89-%E6%AD%B7%E5%8F%B2%E5%93%A5-%E6%88%91%E4%B8%8D%E6%98%AF/id1106847606?i=1000577093243",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTE4NjQ4Mw",
 "spotify": "https://open.spotify.com/episode/56fCT5LWaMd5WmvAYSTOax",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=t42lQo1mjr0"
 },
 "time554": {
 "name": "百靈果News｜歐盟要開始針對俄國遊客？ 印度假警察局發大財、推薦頻道： Legal Eagle",
@@ -848,14 +856,17 @@ const playlist = {
 "郭書成",
 "政治人物"
 ],
-"extra": {},
+"extra": {
+"疫情下的里長被里民跟中央政策夾在中間｜KK Show 147 里長": "https://www.youtube.com/watch?v=8sfiltOHlrs",
+"里長的使用手冊｜KK Show 147 里長": "https://www.youtube.com/watch?v=avX-Aam4ySs"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-147-%E9%9D%92%E5%B9%B4%E9%87%8C%E9%95%B7-%E9%83%AD%E6%9B%B8%E6%88%90/id1106847606?i=1000576252865",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTE0NjAxNg",
 "spotify": "https://open.spotify.com/episode/1HgYPkjSzf0pigqAnLdn9T",
 "youtube": "https://www.youtube.com/watch?v=tvEwOyKqQH8"
 },
 "time551": {
-"name": "0814 川普豪宅為什麼被FBI闖入、歐洲能源現狀是怎樣、經濟學人fat shaming？",
+"name": "0814 川普豪宅為什麼被FBI闖入、歐洲能源現狀、經濟學人fat shaming？",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11133591-0814-fbi-fat-shaming.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -866,7 +877,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0814-%E5%B7%9D%E6%99%AE%E8%B1%AA%E5%AE%85%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A2%ABfbi%E9%97%96%E5%85%A5-%E6%AD%90%E6%B4%B2%E8%83%BD%E6%BA%90%E7%8F%BE%E7%8B%80%E6%98%AF%E6%80%8E%E6%A8%A3-%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BAfat-shaming/id1106847606?i=1000576027274",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTEzMzU5MQ",
 "spotify": "https://open.spotify.com/episode/1v3NOrmA5EGj0EmMf6fw1k",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=BFM0tfr2Cxo"
 },
 "time550": {
 "name": "烏賊跟素肚都是男孩子的好朋友、讀書會：同情者 Ep 3",
@@ -895,7 +906,10 @@ const playlist = {
 "文藝",
 "演員"
 ],
-"extra": {},
+"extra": {
+"在便利商店發生的遇到奇人｜KK Show 146 權樂": "https://www.youtube.com/watch?v=G9WRQRknlgQ",
+"創作時如何把感官放大的修煉方式｜KK Show 146 權樂": "https://www.youtube.com/watch?v=g1fJiqwqktI"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-146-%E6%AC%8A%E6%A8%82/id1106847606?i=1000575595883",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTExMTYyMQ",
 "spotify": "https://open.spotify.com/episode/3TNPa904eKlfo5DhPMHpOb",
@@ -945,25 +959,27 @@ const playlist = {
 "Podcaster",
 "時事"
 ],
-"extra": {},
+"extra": {
+"瑞典民眾攻擊警方事件｜KK Show 145 瑞典劉先生": "https://www.youtube.com/watch?v=jOoomjK-mxs",
+"瑞典是脫離人際關係的天堂｜KK Show 145 瑞典劉先生": "https://www.youtube.com/watch?v=rSdjlI6OanY"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-145-%E7%91%9E%E5%85%B8%E5%8A%89%E5%85%88%E7%94%9F/id1106847606?i=1000574774597",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTA2NjU4Mw",
 "spotify": "https://open.spotify.com/episode/44ptI3E2lG6kvF69l6SSpK",
 "youtube": "https://www.youtube.com/watch?v=Ya-_IY3fh8o"
 },
 "time545": {
-"name": "HOT TAKE: What do TAIWANESE really THINK about NANCY PELOSI'S visit? (English)",
+"name": "PELOSI ARRIVES in TAIWAN, We talk to REAL People, REAL Thoughts",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066639-hot-take-what-do-taiwanese-really-think-about-nancy-pelosi-s-visit-english.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
-"Aug 2022",
-"裴洛西訪台事件"
+"Aug 2022"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/hot-take-what-do-taiwanese-really-think-about-nancy/id1106847606?i=1000574729557",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTA2NjYzOQ",
 "spotify": "https://open.spotify.com/episode/7yMpfplfhXGKZ8DU5cpTR9",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=GEZW53oYheg"
 },
 "time544": {
 "name": "0731 裴洛西踩中國紅線？ 牧師佈道穿金戴銀、脫衣舞俱樂部心得分享",
@@ -996,7 +1012,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-144-%E6%A8%82%E6%A8%82%E6%B3%95%E5%88%A9/id1106847606?i=1000571222374",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTAyOTYxNA",
 "spotify": "https://open.spotify.com/episode/76PaXrphXdeR0Smrv6Ce1l",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=UW5y3DHwjyY"
 },
 "time542": {
 "name": "0724 紐約把馬路變餐廳、美國人為了便宜房價搬去歐洲、推薦：Sleep No More",
@@ -1027,7 +1043,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-143-%E9%99%B3%E5%A4%A7%E5%A4%A9/id1106847606?i=1000570469954",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDk4NDgxNw",
 "spotify": "https://open.spotify.com/episode/0Wn0PbdtpD3wV5Cl7rufet",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=tHlkxgREnj4"
 },
 "time540": {
 "name": "0717 在紐約碰面的心得、美國物價漲爆有感、歐美旅遊潮擠爆機場",
@@ -1117,7 +1133,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%8C%E6%83%85%E8%80%85-ch-2-%E8%B6%8A%E6%88%B0%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%85%B5%E6%9C%89%E5%9A%B4%E9%87%8D%E7%9A%84%E7%94%A8%E8%97%A5%E5%95%8F%E9%A1%8C/id1106847606?i=1000568265732",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDg3NjcwMg",
 "spotify": "https://open.spotify.com/episode/0r1faTUBBjKhryoCs7Tzkn",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=MAW_YS_-qwY"
 },
 "time534": {
 "name": "Q&A with RON, the LAST Episode? ... THE STIR EP 10",
@@ -1150,7 +1166,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=jMLLKm_VFeA"
 },
 "time532": {
-"name": "0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷花邊的威力",
+"name": "0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷葉邊的威力",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10853099-0626.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -1161,7 +1177,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0626-%E6%8B%9C%E7%99%BB%E6%83%B3%E8%B7%9F%E4%B8%AD%E5%9C%8B%E5%92%8C%E5%A5%BD-%E6%BE%B3%E6%B4%B2%E6%96%B0%E6%94%BF%E5%BA%9C%E6%83%B3%E8%B7%9F%E4%B8%AD%E5%9C%8B%E7%A0%B4%E5%86%B0-%E8%8D%B7%E8%8A%B1%E9%82%8A%E7%9A%84%E5%A8%81%E5%8A%9B/id1106847606?i=1000567741354",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDg1MzA5OQ",
 "spotify": "https://open.spotify.com/episode/1r87zXNWakwHuvSUPBDGX2",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=wqRH7nzJyME"
 },
 "time531": {
 "name": "越戰撤退時一團混亂，阿富汗只是歷史重演 讀書會：同情者 Ch 1",
@@ -1221,7 +1237,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0619-%E9%86%92%E4%BE%86%E4%BA%86%E7%9A%84ai-%E6%B1%BD%E8%BB%8A%E4%BF%9D%E9%9A%AA%E6%9C%89%E7%90%86%E8%B3%A0%E6%80%A7%E7%97%85%E5%97%8E-%E6%8E%A8%E8%96%A6%E5%8A%87-%E8%81%BD%E8%A9%B1%E7%9A%84%E5%AD%A9%E5%AD%90-%E9%82%AA%E6%95%99%E7%9A%84%E7%A6%B1%E5%91%8A%E8%88%87%E6%9C%8D%E5%BE%9E/id1106847606?i=1000567037687",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDgxMzE1Mw",
 "spotify": "https://open.spotify.com/episode/4ehqra9CTf8of7njvtohVj",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=fwvL350DkXg&t=2631s"
 },
 "time527": {
 "name": "八角籠直播-聊聊海德堡",
@@ -1306,7 +1322,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%BC%94%E5%93%A1%E7%9A%84%E4%BA%92%E7%9B%B8%E5%82%B7%E5%AE%B3-%E8%A7%80%E7%9C%BE%E5%9C%A8%E6%97%81%E5%90%83%E7%93%9C-feat-%E9%85%B8%E9%85%B8-and-%E8%A8%B1%E4%B9%83%E6%B6%B5-%E6%B6%B5%E5%86%B7%E5%A8%9C/id1106847606?i=1000565779315",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDc2MzUzNA",
 "spotify": "https://open.spotify.com/episode/65FAVoxwTCrjF2EU7dfxA7",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=AG1CuTPxQSA"
 },
 "time522": {
 "name": "Why DO TAIWANESE people love TRAVELLING? ... THE STIR EP. 7",
@@ -1410,7 +1426,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0529-%E5%87%B1%E8%8E%89%E9%8C%84%E5%98%BB%E5%93%88-%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E5%B0%8F%E5%AD%B8%E6%A7%8D%E6%93%8A%E4%BA%8B%E4%BB%B6-%E6%96%B0%E7%96%86%E8%AD%A6%E5%AF%9F%E6%AA%94%E6%A1%88-%E6%8E%A8%E8%96%A6%E9%9B%BB%E5%BD%B1-%E6%8D%8D%E8%A1%9B%E6%88%B0%E5%A3%AB-%E7%8D%A8%E8%A1%8C%E4%BF%A0/id1106847606?i=1000564402635",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDY5Njc2OQ",
 "spotify": "https://open.spotify.com/episode/2sTR8OlGfG0oa2dKBMjxLe",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=7E4B2yqud2s&t=3095s"
 },
 "time515": {
 "name": "喜劇演員開喜劇俱樂部是悲劇的開始嗎？ 笑友會的無情工商 ft. 黃豪平, 微笑丹尼",
@@ -1432,7 +1448,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%96%9C%E5%8A%87%E6%BC%94%E5%93%A1%E9%96%8B%E5%96%9C%E5%8A%87%E4%BF%B1%E6%A8%82%E9%83%A8%E6%98%AF%E6%82%B2%E5%8A%87%E7%9A%84%E9%96%8B%E5%A7%8B%E5%97%8E-%E7%AC%91%E5%8F%8B%E6%9C%83%E7%9A%84%E7%84%A1%E6%83%85%E5%B7%A5%E5%95%86-ft-%E9%BB%83%E8%B1%AA%E5%B9%B3-%E5%BE%AE%E7%AC%91%E4%B8%B9%E5%B0%BC/id1106847606?i=1000563999084",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDY4NDE5MA",
 "spotify": "https://open.spotify.com/episode/0XXAOtKav2LCjsShCc6ZcN",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=jwNvaWNRrWs&t=1168s"
 },
 "time514": {
 "name": "We TALKED about the Filipino PRESIDENTIAL election and RON CRIED... THE STIR EP. 5",
@@ -1462,7 +1478,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-135-%E8%81%8A%E8%81%8A%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-%E9%99%B3%E9%9B%B6%E4%B9%9D/id1106847606?i=1000563519783",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDY3MjQ1Mw",
 "spotify": "https://open.spotify.com/episode/2IXNCYoxCCGi086Ubw3uiY",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=to-yJOwzs_w"
 },
 "time512": {
 "name": "0522 敏迪炎上、芬蘭瑞典申請加入北約",
@@ -1527,7 +1543,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-134-%E7%82%8E%E4%B8%8A%E7%B3%BByoutuber-joeman/id1106847606?i=1000561843728",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMDYzMTU3NQ",
 "spotify": "https://open.spotify.com/episode/6RWmiDzKWDF67XwS27teuj",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=S6bD5Hu4wyY"
 },
 "time508": {
 "name": "0515 中國到底在幹嘛？ 拉斯維加斯黑幫毀屍滅跡聖地、菲律賓總統大選、推薦電影 ： CODA",
@@ -1694,7 +1710,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-131-%E5%90%B3%E6%B7%A1%E5%A6%82/id1106847606?i=1000558746205",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI1NzE3NDEwNg",
 "spotify": "https://open.spotify.com/episode/48d4mGgfuDuZYIAq3zjd8D",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=N1lL9ytT4Jg&t=8s"
 },
 "time497": {
 "name": "0424 與病毒共存的南韓、香港特首候選人被Youtube下架、推薦劇 Severance 人生切割術",
@@ -1742,7 +1758,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-129-%E6%8F%AD%E7%99%BC%E8%81%AF%E5%90%88%E5%9C%8B%E7%9A%84%E8%A8%98%E8%80%85-naomi-oleary/id1106847606?i=1000558036393",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI1MjM2NDc4OA",
 "spotify": "https://open.spotify.com/episode/2eRbkdWCJ2UzprEljTqMcP",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=C1jjsAPLqFg"
 },
 "time494": {
 "name": "0417 馬來西亞 法官翻案 #沈可婷 事件、#蚊車黨 無法無天、#美國就是全球最大的人權赤字國 是個笑話 、 推薦電影： #媽的多重宇宙",
@@ -1774,7 +1790,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=IRLvzHUkTTY"
 },
 "time492": {
-"name": "『Clubhouse特別企劃』與在中國封城的聽眾聊天",
+"name": "『Clubhouse特別企劃』歡迎被封城的聽眾來聊天",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -1786,7 +1802,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/clubhouse%E7%89%B9%E5%88%A5%E4%BC%81%E5%8A%83-%E8%88%87%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%B0%81%E5%9F%8E%E7%9A%84%E8%81%BD%E7%9C%BE%E8%81%8A%E5%A4%A9/id1106847606?i=1000557442608",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI0OTI0ODU1Mw",
 "spotify": "https://open.spotify.com/episode/0nr9PX2jUjWXWi9KPYA6Bx",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Rc84cbOajJ0"
 },
 "time491": {
 "name": "The KK Show - #128 道德破壞者 - Jim",
@@ -1894,10 +1910,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%96%92%E8%81%8A-%E5%A8%81%E7%88%BE%E5%8F%B2%E5%AF%86%E6%96%AF-%E5%B7%B4%E6%8E%8C%E4%BA%8B%E4%BB%B6-ft-%E9%85%B8%E9%85%B8/id1106847606?i=1000555646188",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI0MDc3MDgyMA",
 "spotify": "https://open.spotify.com/episode/187TMalJfRe7tVtscNoXGK",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=b4iQHmqsvvk"
 },
 "time484": {
-"name": "The KK Show - #126 長生不老的科學 - 許翱麟教授",
+"name": "The KK Show - #126 長壽的秘密 - 許翱麟教授",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530631-the-kk-show-126.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -1910,7 +1926,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-126-%E9%95%B7%E7%94%9F%E4%B8%8D%E8%80%81%E7%9A%84%E7%A7%91%E5%AD%B8-%E8%A8%B1%E7%BF%B1%E9%BA%9F%E6%95%99%E6%8E%88/id1106847606?i=1000555590544",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI0MDUyODk4NA",
 "spotify": "https://open.spotify.com/episode/0VcogrLVNvrswXTQgz2kc4",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=fcmz88dHgHU"
 },
 "time483": {
 "name": "0327 俄國股市大漲但是通膨漲更多、泰國將禁止用虛擬貨幣支付、推薦Youtube： Will Tennyson",
@@ -1924,7 +1940,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0327-%E4%BF%84%E5%9C%8B%E8%82%A1%E5%B8%82%E5%A4%A7%E6%BC%B2%E4%BD%86%E6%98%AF%E9%80%9A%E8%86%A8%E6%BC%B2%E6%9B%B4%E5%A4%9A-%E6%B3%B0%E5%9C%8B%E5%B0%87%E7%A6%81%E6%AD%A2%E7%94%A8%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E6%94%AF%E4%BB%98-%E6%8E%A8%E8%96%A6youtube-will-tennyson/id1106847606?i=1000555361416",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIzOTI0MzgzMg",
 "spotify": "https://open.spotify.com/episode/03L8XdcscY7yPkjIEsyaJH",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=oH6P3NndEpY"
 },
 "time482": {
 "name": "讀書會：柏青哥 Pachinko #01，韓國的總統府要換地方了，論鰻魚的重要性",
@@ -1956,7 +1972,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-125-%E5%85%AC%E6%B0%91%E8%A8%98%E8%80%85-%E9%99%B3%E7%A7%8B%E5%AF%A6/id1106847606?i=1000554858344",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIzNjYwNTEyMg",
 "spotify": "https://open.spotify.com/episode/1pX5gRfcM5yeOeDFM8cKfV",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=a-cFp4bTM6I"
 },
 "time480": {
 "name": "0320 沙烏地邀請習近平去玩、韓國Covid確診新高但是...",
@@ -2003,7 +2019,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-123-%E6%9D%9C%E6%B1%B6%E6%BE%A4-chapman/id1106847606?i=1000554088981",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIzMjQ1NjI5OQ",
 "spotify": "https://open.spotify.com/episode/0HzXVCTGtn2oAAtr4lK1VY",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=IEOyozHKAU0"
 },
 "time477": {
 "name": "0313 聯合國試圖掩蓋真相、全球油價暴漲、RIP 西藏歌手 才旺羅布",
@@ -2035,7 +2051,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%AE%80%E6%9B%B8%E6%9C%83-fat-leonard-%E5%AE%8C%E7%B5%90-%E9%97%9C%E5%BF%83%E4%B8%80%E4%B8%8B%E9%9A%94%E9%9B%A2%E4%B8%AD%E7%9A%84mindy/id1106847606?i=1000553552990",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyOTIyNzU5MQ",
 "spotify": "https://open.spotify.com/episode/3nbxoAF19SPPUVzyWV65qB",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=r4cI0A0PD94"
 },
 "time475": {
 "name": "The KK Show - #123 Kimberley 陳芳語",
@@ -2051,7 +2067,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-123-kimberley-%E9%99%B3%E8%8A%B3%E8%AA%9E/id1106847606?i=1000553299008",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyODMzMzMyNw",
 "spotify": "https://open.spotify.com/episode/0Bpf5ie7zKGfIXTW9OvEwp",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=onuxU3B1cx8&t=2490s"
 },
 "time474": {
 "name": "0306 電影 The Batman 觀後感、韓國總統大選、白羅斯洩漏天機",
@@ -2068,7 +2084,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=qrqNDS4Q97I"
 },
 "time473": {
-"name": "美國海軍出賣台灣機密為了滿足私慾，讀書會：Fat Leonard Ch 4",
+"name": "美國海軍出賣台灣機密為了滿足私慾，讀書會：Fat Leonard #04",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530642-fat-leonard-ch-4.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2080,7 +2096,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%BE%8E%E5%9C%8B%E6%B5%B7%E8%BB%8D%E5%87%BA%E8%B3%A3%E5%8F%B0%E7%81%A3%E6%A9%9F%E5%AF%86%E7%82%BA%E4%BA%86%E6%BB%BF%E8%B6%B3%E7%A7%81%E6%85%BE-%E8%AE%80%E6%9B%B8%E6%9C%83-fat-leonard-ch-4/id1106847606?i=1000552815402",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyNTQxMTA0Mg",
 "spotify": "https://open.spotify.com/episode/48TIPTaZ7QOQ9j9X89kKS1",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=jgcfyYXm54s"
 },
 "time472": {
 "name": "The KK Show - #122 匿名者 蕭東意",
@@ -2095,11 +2111,14 @@ const playlist = {
 "文藝",
 "演員"
 ],
-"extra": {},
+"extra": {
+"疫情期間舞臺劇怎麽活 國家補助怎麽拿 #蕭東意 @嚎哮排演HaoxHsiaoTroupe | KK Show Clips": "https://www.youtube.com/watch?v=i7XaYtxdwNY",
+"沒看過舞臺劇新手要怎麽入門？ #蕭東意 @嚎哮排演HaoxHsiaoTroupe | KK Show Clips": "https://www.youtube.com/watch?v=tCOU_J9CaqA"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-122-%E5%8C%BF%E5%90%8D%E8%80%85-%E8%95%AD%E6%9D%B1%E6%84%8F/id1106847606?i=1000552574999",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyNDQ1NDQ2NQ",
 "spotify": "https://open.spotify.com/episode/60mvDqva5Fw4YrMSI9DQOP",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=lTgJ31O1BOI"
 },
 "time471": {
 "name": "0227 烏克蘭社群媒體資訊戰、凱莉推薦一堆電影 Eternal Sunshine of The Spotless Mind、世界上最爛的人",
@@ -2116,7 +2135,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=di8qVp21p40"
 },
 "time470": {
-"name": "第一次在秘密基地錄音、小看女人會出大事 | 讀書會：Fat Leonard Ch 3",
+"name": "第一次在秘密基地錄音、小看女人會出大事 | 讀書會：Fat Leonard #03",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2128,7 +2147,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%A7%98%E5%AF%86%E5%9F%BA%E5%9C%B0%E9%8C%84%E9%9F%B3-%E5%B0%8F%E7%9C%8B%E5%A5%B3%E4%BA%BA%E6%9C%83%E5%87%BA%E5%A4%A7%E4%BA%8B-%E8%AE%80%E6%9B%B8%E6%9C%83-fat-leonard-ch-3/id1106847606?i=1000552109381",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyMTE1NjY0Mw",
 "spotify": "https://open.spotify.com/episode/3t5COoU8YAWQsxAwteNEVT",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=lYzntDSR_wc"
 },
 "time469": {
 "name": "The KK Show - #121 運動歸運動 政治歸政治？ 人渣文本",
@@ -2141,11 +2160,14 @@ const playlist = {
 "學者",
 "運動"
 ],
-"extra": {},
+"extra": {
+"黃郁婷選手的行為是誰的錯 #人渣文本 | KK Show Clips": "https://www.youtube.com/watch?v=COgFneMc7rU",
+"谷愛凌的話術要怎麽破解 #人渣文本 | KK Show Clips": "https://www.youtube.com/watch?v=LtGn_luHsv8"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-121-%E9%81%8B%E5%8B%95%E6%AD%B8%E9%81%8B%E5%8B%95-%E6%94%BF%E6%B2%BB%E6%AD%B8%E6%94%BF%E6%B2%BB-%E4%BA%BA%E6%B8%A3%E6%96%87%E6%9C%AC/id1106847606?i=1000551879921",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyMDI3NDM1OA",
 "spotify": "https://open.spotify.com/episode/1JCFoN8l3pewJWEebri6Zc",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=REdynLwcZ2U"
 },
 "time468": {
 "name": "Tough Bobas 首映會 Live Podcast：幕後故事分享、Ken大爆料 ft. @歐馬克",
@@ -2209,7 +2231,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-120-%E6%99%82%E4%BB%A3%E9%9D%A9%E5%91%BD%E5%B0%8E%E6%BC%94-%E5%91%A8%E5%86%A0%E5%A8%81/id1106847606?i=1000551223119",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIxNjI2NDQ0MQ",
 "spotify": "https://open.spotify.com/episode/4pNQ4FSVloFo5bm4TNhrbo",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Bi4oWH8v3qs&t=684s"
 },
 "time464": {
 "name": "0213 首映會218活動資訊、史上金額最高竊犯被捕、馬克宏擔心DNA被偷、監獄錢包在哪裏？",
@@ -2254,7 +2276,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-119-%E9%BB%83%E5%A4%A7%E8%AC%99/id1106847606?i=1000550439466",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIxMjA1Nzk3Mw",
 "spotify": "https://open.spotify.com/episode/7vfgu7is4uLiVhLIBTCsiS",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=GgCzbOCj_28&t=2597s"
 },
 "time461": {
 "name": "0206 #谷愛凌 是超級間諜？ 紐西蘭爲什麽要開放旅游了？ 閒聊Joe Rogan 後續 推薦電影:偶然與想像",
@@ -2268,7 +2290,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0206-%E8%B0%B7%E6%84%9B%E5%87%8C-%E6%98%AF%E8%B6%85%E7%B4%9A%E9%96%93%E8%AB%9C-%E7%B4%90%E8%A5%BF%E8%98%AD%E7%88%B2%E4%BB%80%E9%BA%BD%E8%A6%81%E9%96%8B%E6%94%BE%E6%97%85%E6%B8%B8%E4%BA%86-%E9%96%92%E8%81%8Ajoe-rogan-%E5%BE%8C%E7%BA%8C-%E6%8E%A8%E8%96%A6%E9%9B%BB%E5%BD%B1-%E5%81%B6%E7%84%B6%E8%88%87%E6%83%B3%E5%83%8F/id1106847606?i=1000550250619",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIxMTA3Mzc1NA",
 "spotify": "https://open.spotify.com/episode/3LhXENmdJXGiXnkD9EhMXr",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=VdAi52hm4MQ&t=1s"
 },
 "time460": {
 "name": "『新春特別企劃』百靈果之友 - 葉耀元教授",
@@ -2332,7 +2354,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%9E%97%E7%8D%BB%E5%A0%82%E7%9A%84%E5%85%92%E5%AD%90%E5%80%91%E6%80%8E%E9%BA%BD%E6%9C%89%E8%BE%A6%E6%B3%95%E8%B7%9F%E8%80%81%E7%88%B8%E6%97%85%E6%B8%B8%E9%80%99%E9%BA%BD%E4%B9%85%E4%B8%8D%E7%99%BC%E7%98%8B-%E8%AE%80%E6%9B%B8%E6%9C%83-%E6%9E%97%E7%8D%BB%E5%A0%82%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98-end/id1106847606?i=1000549167360",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIwNDA1MzA4NQ",
 "spotify": "https://open.spotify.com/episode/6nLTqo3biF358SA0VkwmgL",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=B4GT7Ty049c"
 },
 "time456": {
 "name": "The KK Show - #117 呱吉",
@@ -2351,7 +2373,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-117-%E5%91%B1%E5%90%89/id1106847606?i=1000548940677",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIwMzIxNzAwMA",
 "spotify": "https://open.spotify.com/episode/7AOd1ZpbDN5Y4NCgdR20bh",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=yD83H7ryaws&t=479s"
 },
 "time455": {
 "name": "0123 哥倫比亞總統候選人曾經被綁架6年、大麻抗Covid、推薦書：WIll 威爾史密斯回憶錄",
@@ -2441,7 +2463,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-115-%E8%88%87%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%B6%E5%92%8C%E8%A7%A3-%E6%B3%A5%E6%B3%A5%E5%AD%B8%E5%A7%90/id1106847606?i=1000547551523",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE5NDE0NjI4Nw",
 "spotify": "https://open.spotify.com/episode/2q5OjVaEsvWB5fFddBP32Z",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=MInVRrpHZz4&t=1623s"
 },
 "time449": {
 "name": "0109 凱莉是真五迷、哈薩克暴動 俄國支援、教宗譴責不生小孩的人、推薦書：疫年記西藏",
@@ -2455,7 +2477,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0109-%E5%87%B1%E8%8E%89%E6%98%AF%E7%9C%9F%E4%BA%94%E8%BF%B7-%E5%93%88%E8%96%A9%E5%85%8B%E6%9A%B4%E5%8B%95-%E4%BF%84%E5%9C%8B%E6%94%AF%E6%8F%B4-%E6%95%99%E5%AE%97%E8%AD%B4%E8%B2%AC%E4%B8%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%E7%9A%84%E4%BA%BA-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E7%96%AB%E5%B9%B4%E8%A8%98%E8%A5%BF%E8%97%8F/id1106847606?i=1000547328469",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE5MjY1Njg5NQ",
 "spotify": "https://open.spotify.com/episode/3fuGcMHpqFKwldXIK669Wa",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=NqNnTZDW6Tc&t=2655s"
 },
 "time448": {
 "name": "【百靈果】找律師 vs #五月天？打工仔如何捍衛自身權益",
@@ -2504,7 +2526,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-%E7%9B%B4%E6%8E%A5%E6%A7%93%E4%B8%8A%E4%BA%94%E6%9C%88%E5%A4%A9-%E8%87%AA%E5%AE%B6%E5%B0%8F%E7%B7%A8%E6%89%93%E5%B7%A5%E7%AB%9F%E7%84%B6%E8%A2%AB%E7%BF%BB%E6%89%8B%E6%A9%9F/id1106847606?i=1000546782604",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE4OTM3NzA4Mg",
 "spotify": "https://open.spotify.com/episode/1IxQP2yrabjT0cP6rXpYvr",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=R1jpqkFZTUs&t=171s"
 },
 "time445": {
 "name": "0102 中國炫富的新高度、世界第一帥哥被緬甸軍政府抓了、#北京冬奧 真是令人期待、 推薦Podcast： Korea 24 by KBS",
@@ -2630,7 +2652,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=NI5vfSIMZrw&t=2s"
 },
 "time437": {
-"name": "1212 教練帶辣妹來大學教球員人生道理、中國公務員被砍薪 連獎金都要交回去、蘋果跟中國的秘密協議、推薦： Youtube 頻道 @Colin and Samir",
+"name": "1212 教練帶辣妹去教人生道理、中國公務員被砍薪 連獎金都要交回去、蘋果跟中國的秘密協議、推薦： Youtube 頻道 @Colin and Samir",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530678-1212-youtube-colin-and-samir.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2641,7 +2663,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1212-%E6%95%99%E7%B7%B4%E5%B8%B6%E8%BE%A3%E5%A6%B9%E4%BE%86%E5%A4%A7%E5%AD%B8%E6%95%99%E7%90%83%E5%93%A1%E4%BA%BA%E7%94%9F%E9%81%93%E7%90%86-%E4%B8%AD%E5%9C%8B%E5%85%AC%E5%8B%99%E5%93%A1%E8%A2%AB%E7%A0%8D%E8%96%AA-%E9%80%A3%E7%8D%8E%E9%87%91%E9%83%BD%E8%A6%81%E4%BA%A4%E5%9B%9E%E5%8E%BB-%E8%98%8B%E6%9E%9C%E8%B7%9F%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%A7%98%E5%AF%86%E5%8D%94%E8%AD%B0-%E6%8E%A8%E8%96%A6/id1106847606?i=1000544711564",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE3NjA3NzE5MQ",
 "spotify": "https://open.spotify.com/episode/5DjKYMNwronmuOdAGMlaC4",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=ssrLldd8loc&t=3572s"
 },
 "time436": {
 "name": "八角籠直播 Ep.3 《新疆怎麼樣》",
@@ -2687,7 +2709,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1205-airbnb%E5%9C%A8%E6%96%B0%E7%96%86%E6%9C%89%E6%88%BF%E5%AD%90%E6%98%AF%E8%A7%A3%E6%94%BE%E8%BB%8D-%E7%9A%84-%E9%9D%A0%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%88%90%E7%88%B2%E6%9C%80%E5%AF%8C%E6%9C%89%E8%8F%AF%E4%BA%BA-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1%E6%89%B9%E8%A9%95%E5%B7%A6%E6%B4%BE/id1106847606?i=1000543995913",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE3MTgyNjc4NQ",
 "spotify": "https://open.spotify.com/episode/5ZpRjndQV9scdrTZHMMt4v",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=GvzwcGPOUaQ"
 },
 "time433": {
 "name": "社子島夕陽超美、林獻堂花千萬環遊世界找自己 讀書會：環球遊記 序",
@@ -2792,7 +2814,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%80%A7%E6%95%99%E8%82%B2-%E5%8F%AA%E8%A6%81%E6%88%91%E4%B8%8D%E5%B0%B7%E5%B0%AC-%E5%B0%B7%E5%B0%AC%E7%9A%84%E5%B0%B1%E6%98%AF%E5%88%A5%E4%BA%BA-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%83%E4%BD%9B-eat-the-buddha-07-ch22-23-end/id1106847606?i=1000542338978",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE2MTkzNTMxNw",
 "spotify": "https://open.spotify.com/episode/2EzKDAZuxoEv6aWPvgVBx9",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=nmlKOIrQVnk&t=1340s"
 },
 "time426": {
 "name": "The KK Show - #107 台美關係101 - 美國台灣觀測站",
@@ -2837,7 +2859,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%BE%8E%E5%9C%8B%E6%BC%94%E5%94%B1%E6%9C%83%E6%84%8F%E5%A4%968%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%8A%E5%AD%97%E5%B9%95%E4%B8%8A%E5%88%B0%E5%A4%A7%E5%93%AD-%E8%97%8F%E4%BA%BA%E5%96%87%E5%98%9B%E7%94%A8%E8%87%AA%E7%84%9A%E8%AA%AC%E5%87%BA%E4%BB%96%E5%80%91%E8%AA%AC%E4%B8%8D%E5%87%BA%E7%9A%84%E8%A9%B1-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%83%E4%BD%9B-eat-the/id1106847606?i=1000541490027",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE1Nzg3MjY0Mg",
 "spotify": "https://open.spotify.com/episode/7fVSseHhJ6Lm3AwAVy3qcd",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=l_O9AUDCCY0&t=68s"
 },
 "time423": {
 "name": "The KK Show - # 106 收起你的玻璃心 - Kimberley 陳芳語",
@@ -2853,7 +2875,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-106-%E6%94%B6%E8%B5%B7%E4%BD%A0%E7%9A%84%E7%8E%BB%E7%92%83%E5%BF%83-kimberley-%E9%99%B3%E8%8A%B3%E8%AA%9E/id1106847606?i=1000541231786",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE1NjgwNjIwOA",
 "spotify": "https://open.spotify.com/episode/4J24soqpSRFdfsC3QwFLH4",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=_jUV9x5nffo"
 },
 "time422": {
 "name": "1107 吵架誰先道歉、Covid口服藥要來咯、美國 #民主黨 選舉失利還在怪 #川普",
@@ -2870,7 +2892,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=mAHkrb_fC_0"
 },
 "time421": {
-"name": "#彭帥 事件、英國女生夜店被下藥事件、 #西藏314事件、不過年就是搞分裂 讀書會：吃佛 05 Ch 15-17",
+"name": "彭帥事件、英國女生夜店被下藥事件、西藏314事件、不過年就是搞分裂 讀書會：吃佛 #05 Ch 15-17",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530694-314-05-ch-15-17.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2882,7 +2904,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%BD%AD%E5%B8%A5-%E4%BA%8B%E4%BB%B6-%E8%8B%B1%E5%9C%8B%E5%A5%B3%E7%94%9F%E5%A4%9C%E5%BA%97%E8%A2%AB%E4%B8%8B%E8%97%A5%E4%BA%8B%E4%BB%B6-%E8%A5%BF%E8%97%8F314%E4%BA%8B%E4%BB%B6-%E4%B8%8D%E9%81%8E%E5%B9%B4%E5%B0%B1%E6%98%AF%E6%90%9E%E5%88%86%E8%A3%82-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%83%E4%BD%9B-05-ch-15-17/id1106847606?i=1000540747557",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE1MzI0MTg1NA",
 "spotify": "https://open.spotify.com/episode/49DZSfG38Q539LZxltjqBk",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=m3rj1Pd2VvY"
 },
 "time420": {
 "name": "The KK Show - #105 OnlyFans 男男片創作者- 社畜",
@@ -2898,7 +2920,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-105-onlyfans-%E7%94%B7%E7%94%B7%E7%89%87%E5%89%B5%E4%BD%9C%E8%80%85-%E7%A4%BE%E7%95%9C/id1106847606?i=1000540508851",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE1MjM0OTE5Mg",
 "spotify": "https://open.spotify.com/episode/5bgms44vvWMAjuP6B7nRyv",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=YdUFfPCkc6Y&t=751s"
 },
 "time419": {
 "name": "1031 喜劇圈又怎麼了、臉書宇宙有毒、拜登川普比一比",
@@ -2927,7 +2949,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/john-oliver-%E8%A7%80%E5%BE%8C%E6%84%9F-%E5%8E%9F%E6%9C%AC%E8%A6%81%E5%8E%BB%E6%85%88%E6%B9%96%E5%8F%AF%E6%98%AF%E4%BC%91%E6%81%AF%E6%89%80%E4%BB%A5%E5%8E%BB%E9%BE%8D%E6%BD%AD/id1106847606?i=1000540002691",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE0ODk0Mjg5Ng",
 "spotify": "https://open.spotify.com/episode/1X90ygzxnEl9HXi8LBkLB0",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=p6k-1jxUj9w"
 },
 "time417": {
 "name": "The KK Show -#104 國際橋牌社 - 汪怡昕",
@@ -2947,7 +2969,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=0P4sNCDUmhY"
 },
 "time416": {
-"name": "1024 NBA球星聲援西藏、台灣的朋友要民主化我們要支持嗎？、推薦劇：House of Secrets",
+"name": "1024 NBA球星聲援西藏、台灣的朋友要民主化我們要支持嗎、推薦劇：House of Secrets",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530699-1024-nba-house-of-secrets.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2958,7 +2980,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1024-nba%E7%90%83%E6%98%9F%E8%81%B2%E6%8F%B4%E8%A5%BF%E8%97%8F-%E5%8F%B0%E7%81%A3%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%A6%81%E6%B0%91%E4%B8%BB%E5%8C%96%E6%88%91%E5%80%91%E8%A6%81%E6%94%AF%E6%8C%81%E5%97%8E-%E6%8E%A8%E8%96%A6%E5%8A%87-house-of-secrets/id1106847606?i=1000539535539",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE0NjYxMjE3NQ",
 "spotify": "https://open.spotify.com/episode/4CfwJHLMGMGpiixJgznMmg",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=6UkurZKS3hc&t=90s"
 },
 "time415": {
 "name": "CPTPP喝咖啡後續、迪士尼去韓國搶劇、西藏女性很Open？ 讀書會：吃佛 Eat the Buddha #04",
@@ -2989,7 +3011,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-103-%E5%8D%9A%E6%81%A9%E6%96%AC%E9%A6%AC%E8%AC%96-%E8%80%81k/id1106847606?i=1000539059201",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE0NDEwOTgyNw",
 "spotify": "https://open.spotify.com/episode/6vgM0rujWuwx4DsZV50h3b",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=swlpXxqPuYU"
 },
 "time413": {
 "name": "1017 普丁叫習近平要老實一點、隨時會爆炸的油輪、推薦Podcast: Arirang Radio",
@@ -3003,7 +3025,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1017-%E6%99%AE%E4%B8%81%E5%8F%AB%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A6%81%E8%80%81%E5%AF%A6%E4%B8%80%E9%BB%9E-%E9%9A%A8%E6%99%82%E6%9C%83%E7%88%86%E7%82%B8%E7%9A%84%E6%B2%B9%E8%BC%AA-%E6%8E%A8%E8%96%A6podcast-arirang-radio/id1106847606?i=1000538827423",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE0MjkxMjg3Mg",
 "spotify": "https://open.spotify.com/episode/2GYwlddbZ0kYbyFaoXMnP3",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=8Zr1U-UaLE4&t=2782s"
 },
 "time412": {
 "name": "油價暴漲、韓國總統候選人希望人人有錢拿、理查吉爾不受全中共歡迎、 讀書會： 吃佛 Eat The Buddha 03",
@@ -3018,7 +3040,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%B2%B9%E5%83%B9%E6%9A%B4%E6%BC%B2-%E9%9F%93%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E5%B8%8C%E6%9C%9B%E4%BA%BA%E4%BA%BA%E6%9C%89%E9%8C%A2%E6%8B%BF-%E7%90%86%E6%9F%A5%E5%90%89%E7%88%BE%E4%B8%8D%E5%8F%97%E5%85%A8%E4%B8%AD%E5%85%B1%E6%AD%A1%E8%BF%8E-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%83%E4%BD%9B-eat-the-buddha-03/id1106847606?i=1000538577913",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE0MTU2NTYxNA",
 "spotify": "https://open.spotify.com/episode/6dQLxjI7K8ui669dOsKG5v",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=l-w04cu-jqE"
 },
 "time411": {
 "name": "The KK Show - #102 黃秋生",
@@ -3031,7 +3053,9 @@ const playlist = {
 "文藝",
 "演員"
 ],
-"extra": {},
+"extra": {
+"KK Show #預告片 黃秋生": "https://www.youtube.com/watch?v=Yj5MB7TpYLk"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-102-%E9%BB%83%E7%A7%8B%E7%94%9F/id1106847606?i=1000538337707",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE0MDM0MzkwMA",
 "spotify": "https://open.spotify.com/episode/2YKtlgRXbE6hD5afdsfF3X",
@@ -3098,10 +3122,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1003-%E5%87%B1%E8%8E%89%E5%B4%A9%E6%BD%B0-%E5%93%AD%E8%A8%B4%E5%A4%A5%E4%BC%B4%E9%9C%B8%E5%87%8C-%E7%B2%89%E7%B5%B2%E5%BF%83%E7%96%BC-ken-%E8%A9%B2%E9%81%93%E6%AD%89-%E6%B3%B0%E5%9C%8B%E6%80%A7%E7%94%A2%E6%A5%AD%E8%A2%AB%E7%96%AB%E6%83%85%E8%A1%9D%E6%93%8A/id1106847606?i=1000537382209",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEzNTM0ODg3OQ",
 "spotify": "https://open.spotify.com/episode/7i2Dx0YRtXzqHk8PbE9d4z",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=JVF4rcnSj7M&t=945s"
 },
 "time406": {
-"name": "魷魚游戲概念股帶韓國股市一起飛、共產黨弄了一個傀儡喇嘛、讀書會：吃佛 Eat The Buddha #01",
+"name": "魷魚遊戲概念股帶韓國股市一起飛、共產黨弄了一個傀儡喇嘛、讀書會：吃佛 Eat The Buddha #01",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530709-eat-the-buddha-01.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3113,7 +3137,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%AD%B7%E9%AD%9A%E6%B8%B8%E6%88%B2%E6%A6%82%E5%BF%B5%E8%82%A1%E5%B8%B6%E9%9F%93%E5%9C%8B%E8%82%A1%E5%B8%82%E4%B8%80%E8%B5%B7%E9%A3%9B-%E5%85%B1%E7%94%A2%E9%BB%A8%E5%BC%84%E4%BA%86%E4%B8%80%E5%80%8B%E5%82%80%E5%84%A1%E5%96%87%E5%98%9B-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%83%E4%BD%9B-eat-the-buddha-01/id1106847606?i=1000537110134",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEzMzQxMTg5MA",
 "spotify": "https://open.spotify.com/episode/1d2STlVcI1jPW2PjyaZN3K",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=RJkHamDBb5s"
 },
 "time405": {
 "name": "The KK Show - #100 寶島神很大-龍哥",
@@ -3130,7 +3154,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-100-%E5%AF%B6%E5%B3%B6%E7%A5%9E%E5%BE%88%E5%A4%A7-%E9%BE%8D%E5%93%A5/id1106847606?i=1000536869693",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEzMjQyMzg3OQ",
 "spotify": "https://open.spotify.com/episode/2FFLcCtMa4omYyzrppoGER",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=soPLUYHdXMA&t=2022s"
 },
 "time404": {
 "name": "0926 海地的苦難從法國殖民開始、中國戰狼要澳洲付出代價、讀書心得：Peril by Bob Woodward",
@@ -3189,22 +3213,22 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0919-%E4%B8%96%E7%95%8C%E9%8A%80%E8%A1%8C-%E9%80%83%E4%B8%8D%E5%87%BA%E4%B8%AD%E5%9C%8B%E9%AD%94%E7%88%AA-%E5%B7%9D%E6%99%AE%E5%8F%83%E8%AC%80%E9%95%B7%E8%B6%85%E6%80%95%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0-%E7%8E%A9%E9%81%8A%E6%88%B2%E8%B3%BA%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-%E5%8F%B0%E5%8D%97%E8%B7%9F%E6%BE%8E%E6%B9%96%E6%97%85%E6%B8%B8/id1106847606?i=1000535907621",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEyNjk0NjAzOA",
 "spotify": "https://open.spotify.com/episode/0VfP1BD7k77D1Yo6nnhajE",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=oGicg_hvJig&t=351s"
 },
 "time400": {
-"name": "百靈果去新竹： 中國透過維基百科更改歷史、老闆去新竹向員工道歉、文科畢業生的重要性",
+"name": "中國透過維基百科更改歷史、老闆去新竹向員工道歉、文科畢業生的重要性",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530715-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2021",
-"暫代讀書會",
-"百靈果到處跑"
+"百靈果到處跑",
+"暫代讀書會"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E5%8E%BB%E6%96%B0%E7%AB%B9-%E4%B8%AD%E5%9C%8B%E9%80%8F%E9%81%8E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9B%B4%E6%94%B9%E6%AD%B7%E5%8F%B2-%E8%80%81%E9%97%86%E5%8E%BB%E6%96%B0%E7%AB%B9%E5%90%91%E5%93%A1%E5%B7%A5%E9%81%93%E6%AD%89-%E6%96%87%E7%A7%91%E7%95%A2%E6%A5%AD%E7%94%9F%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/id1106847606?i=1000535533057",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEyNTQ0Mzc2MQ",
 "spotify": "https://open.spotify.com/episode/1WFZqeWxmeI5jCm233UAoj",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=1QZzG08Recs"
 },
 "time399": {
 "name": "The KK Show - #98 儀式傳承者 - 東冬侯溫",
@@ -3223,7 +3247,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=JJKq8dY6lqU&t=3082s"
 },
 "time398": {
-"name": "0912 美國的强制疫苗令會引起内戰吧？中國對塔利班的雪中送碳是真情誼、孟晚舟在加拿大過得很爽 推薦：喜劇攻略、#勇者動畫系列 、#尚氣",
+"name": "0912 美國的強制疫苗令會引起内戰吧？中國對塔利班是真心的、孟晚舟在加拿大過很爽 推薦：喜劇攻略、#勇者動畫系列 、#尚氣",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530717-0912.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3234,7 +3258,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0912-%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%BC%BA%E5%88%B6%E7%96%AB%E8%8B%97%E4%BB%A4%E6%9C%83%E5%BC%95%E8%B5%B7%E5%86%85%E6%88%B0%E5%90%A7-%E4%B8%AD%E5%9C%8B%E5%B0%8D%E5%A1%94%E5%88%A9%E7%8F%AD%E7%9A%84%E9%9B%AA%E4%B8%AD%E9%80%81%E7%A2%B3%E6%98%AF%E7%9C%9F%E6%83%85%E8%AA%BC-%E5%AD%9F%E6%99%9A%E8%88%9F%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%81%8E%E5%BE%97%E5%BE%88%E7%88%BD-%E6%8E%A8%E8%96%A6/id1106847606?i=1000535066384",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEyMjg0MjgxOA",
 "spotify": "https://open.spotify.com/episode/3VmOD5mpWvmPsy2F4gE8Tm",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=gBuw7coI-z8"
 },
 "time397": {
 "name": "日本打疫苗更新、#華爲 小公主的狡辯、為台灣做事反而被 #李登輝 懷疑意圖 、 讀書會 宮前町九十番地 （完）",
@@ -3280,7 +3304,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0904-%E5%B0%81%E6%AE%BA%E5%A8%98%E7%82%AE%E6%96%87%E5%8C%96-%E4%B8%AD%E5%9C%8B%E8%A6%81%E6%8A%B5%E5%88%B6%E7%9A%84%E6%88%91%E5%80%91-%E5%8F%B0%E7%81%A3-%E9%83%BD%E6%AD%A1%E8%BF%8E-%E6%AD%90%E7%9B%9F%E6%9C%89-%E5%B7%9D%E6%99%AE%E5%89%B5%E5%82%B7%E7%97%87%E5%80%99%E7%BE%A4/id1106847606?i=1000534355803",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExODczNjMzNw",
 "spotify": "https://open.spotify.com/episode/6skpYs95gaMo6t6awl7pTO",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=94xCcr72i-U"
 },
 "time394": {
 "name": "日本有東京變種新冠肺炎、#顔千鶴 女士是現代女性的好榜樣 、 員工比老闆早去看 #心理咨商 讀書會： 宮前町九十番地 05",
@@ -3295,7 +3319,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%97%A5%E6%9C%AC%E6%9C%89%E6%9D%B1%E4%BA%AC%E8%AE%8A%E7%A8%AE%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-%E9%A1%94%E5%8D%83%E9%B6%B4-%E5%A5%B3%E5%A3%AB%E6%98%AF%E7%8F%BE%E4%BB%A3%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A5%BD%E6%A6%9C%E6%A8%A3-%E5%93%A1%E5%B7%A5%E6%AF%94%E8%80%81%E9%97%86%E6%97%A9%E5%8E%BB%E7%9C%8B-%E5%BF%83%E7%90%86%E5%92%A8%E5%95%86-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%AE%AE%E5%89%8D%E7%94%BA%E4%B9%9D%E5%8D%81%E7%95%AA%E5%9C%B0-05/id1106847606?i=1000534105620",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExNzQ4MDE2OA",
 "spotify": "https://open.spotify.com/episode/57ku5eGEuLSgH9igfTslxd",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=pid1x9FTs5M"
 },
 "time393": {
 "name": "The KK Show - #96 出版斯卡羅漫畫的熱血大叔 - Neil",
@@ -3325,7 +3349,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0829-%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%BC%8F%E6%85%A2%E6%85%A2%E4%B8%BB%E6%B5%81%E5%8C%96-%E8%80%81%E9%97%86%E5%80%91%E8%A6%81%E8%AA%BF%E6%95%B4-%E9%98%BF%E5%AF%8C%E6%B1%97%E9%A3%9F%E7%89%A9%E7%9F%AD%E7%BC%BA%E5%95%8F%E9%A1%8C-%E6%8E%A8%E8%96%A6%E6%9B%B8-project-hail-mary/id1106847606?i=1000533448518",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExNDg1MjMwOQ",
 "spotify": "https://open.spotify.com/episode/75IFjEDMlqfKR8krYd8iDf",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=hD-y5k4IS9U"
 },
 "time391": {
 "name": "塔利班拿跟習近平 合照給大家看、公務員要兼差養活自己？ 宮前町九十番地 04",
@@ -3340,7 +3364,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%A1%94%E5%88%A9%E7%8F%AD%E6%8B%BF%E8%B7%9F%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%90%88%E7%85%A7%E7%B5%A6%E5%A4%A7%E5%AE%B6%E7%9C%8B-%E5%85%AC%E5%8B%99%E5%93%A1%E8%A6%81%E5%85%BC%E5%B7%AE%E9%A4%8A%E6%B4%BB%E8%87%AA%E5%B7%B1-%E5%AE%AE%E5%89%8D%E7%94%BA%E4%B9%9D%E5%8D%81%E7%95%AA%E5%9C%B0-04/id1106847606?i=1000533199074",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExMzEzODEwNg",
 "spotify": "https://open.spotify.com/episode/1ENBw316NSyMWduBcp639K",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=O0E16PvIIZE"
 },
 "time390": {
 "name": "The KK Show - #95 馬來西亞自由的聲音-盧卡斯 @BBK Network",
@@ -3356,7 +3380,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-95-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%87%AA%E7%94%B1%E7%9A%84%E8%81%B2%E9%9F%B3-%E7%9B%A7%E5%8D%A1%E6%96%AF-bbk-network/id1106847606?i=1000532976065",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExMTc3MTI2NA",
 "spotify": "https://open.spotify.com/episode/363S553abjsQ3SzvyWd6kg",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=pTwAdgbM5es&t=2560s"
 },
 "time389": {
 "name": "0822 OnlyFans 洗白性工作者 怎麽辦？拜登這次很難看 Feat. 敏迪選讀",
@@ -3373,7 +3397,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0822-onlyfans-%E6%B4%97%E7%99%BD%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85-%E6%80%8E%E9%BA%BD%E8%BE%A6-%E6%8B%9C%E7%99%BB%E9%80%99%E6%AC%A1%E5%BE%88%E9%9B%A3%E7%9C%8B-feat-%E6%95%8F%E8%BF%AA%E9%81%B8%E8%AE%80/id1106847606?i=1000532718385",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExMDQ4Njg4OQ",
 "spotify": "https://open.spotify.com/episode/0gAyuWSxnevabqablGkn0b",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=7wZlAOz7ZPs"
 },
 "time388": {
 "name": "阿富汗塔利班新聞更新、 刺殺蔣經國的人還在台灣、海上暈船吹風之旅",
@@ -3387,7 +3411,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%E6%96%B0%E8%81%9E%E6%9B%B4%E6%96%B0-%E5%88%BA%E6%AE%BA%E8%94%A3%E7%B6%93%E5%9C%8B%E7%9A%84%E4%BA%BA%E9%82%84%E5%9C%A8%E5%8F%B0%E7%81%A3-%E6%B5%B7%E4%B8%8A%E6%9A%88%E8%88%B9%E5%90%B9%E9%A2%A8%E4%B9%8B%E6%97%85/id1106847606?i=1000532490077",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEwODU4MTI2NQ",
 "spotify": "https://open.spotify.com/episode/2bsgJJF01lwbvv004iA8QV",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=_crS0T4m_1w"
 },
 "time387": {
 "name": "The KK Show - #94 運動經濟學 - Jack",
@@ -3494,7 +3518,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-92-%E8%A2%AB%E6%8E%92%E6%93%A0%E7%9A%84%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%B0%87%E8%BB%8D-%E4%BA%8E%E5%8C%97%E8%BE%B0%E5%B0%87%E8%BB%8D/id1106847606?i=1000530868081",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5OTIzOTE1MQ",
 "spotify": "https://open.spotify.com/episode/3tBhSx9lDXTMXi1Yf0hslR",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=bZx__bXYf6k"
 },
 "time380": {
 "name": "0801 閒聊奧運第一周、難民選手救全船、美國國會山莊聽證會開始啦",
@@ -3508,7 +3532,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0801-%E9%96%92%E8%81%8A%E5%A5%A7%E9%81%8B%E7%AC%AC%E4%B8%80%E5%91%A8-%E9%9B%A3%E6%B0%91%E9%81%B8%E6%89%8B%E6%95%91%E5%85%A8%E8%88%B9-%E7%BE%8E%E5%9C%8B%E5%9C%8B%E6%9C%83%E5%B1%B1%E8%8E%8A%E8%81%BD%E8%AD%89%E6%9C%83%E9%96%8B%E5%A7%8B%E5%95%A6/id1106847606?i=1000530652657",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5ODAwMDgzOA",
 "spotify": "https://open.spotify.com/episode/5lGMPbQxnb7re4mcCFvFlM",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=4BqPudMdn5A&t=2s"
 },
 "time379": {
 "name": "#讀書會 又要重啓了，宮前町九十番地 序",
@@ -3523,7 +3547,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%8F%88%E8%A6%81%E9%87%8D%E5%95%93%E4%BA%86-%E5%AE%AE%E5%89%8D%E7%94%BA%E4%B9%9D%E5%8D%81%E7%95%AA%E5%9C%B0-%E5%BA%8F/id1106847606?i=1000530399120",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5NjAyMjg3NQ",
 "spotify": "https://open.spotify.com/episode/1gKAh6csMNxofGqArWriKI",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=2xWAnZjqdPk"
 },
 "time378": {
 "name": "The KK Show - #90 葉耀元教授又來啦",
@@ -3540,10 +3564,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-90-%E8%91%89%E8%80%80%E5%85%83%E6%95%99%E6%8E%88%E5%8F%88%E4%BE%86%E5%95%A6/id1106847606?i=1000530164950",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5NDkzMjM1NA",
 "spotify": "https://open.spotify.com/episode/5TDHN5ismOCER6Rxyl7Qee",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=TrY2vYFIEeU&t=17s"
 },
 "time377": {
-"name": "0725 手機被監控的總理們、 被詛咒的 #東京奧運 、 推薦劇： 漫才梅索太太 (The Marvelous Mrs. Maisel)",
+"name": "0725 手機被監控的總理們、 被詛咒的 #東京奧運 、 推薦劇： 漫才梅索太太（The Marvelous Mrs. Maisel）",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530738-0725-the-marvelous-mrs-maisel.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3554,7 +3578,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0725-%E6%89%8B%E6%A9%9F%E8%A2%AB%E7%9B%A3%E6%8E%A7%E7%9A%84%E7%B8%BD%E7%90%86%E5%80%91-%E8%A2%AB%E8%A9%9B%E5%92%92%E7%9A%84-%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B-%E6%8E%A8%E8%96%A6%E5%8A%87-%E6%BC%AB%E6%89%8D%E6%A2%85%E7%B4%A2%E5%A4%AA%E5%A4%AA-the-marvelous-mrs/id1106847606?i=1000529948849",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5MzM1ODQ1OA",
 "spotify": "https://open.spotify.com/episode/50VSefimRhohejlIp4XSTZ",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=H37o9sB4E9I"
 },
 "time376": {
 "name": "百靈果之友: 004 報導者 致昕",
@@ -3572,7 +3596,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E4%B9%8B%E5%8F%8B-004-%E5%A0%B1%E5%B0%8E%E8%80%85-%E8%87%B4%E6%98%95/id1106847606?i=1000529709689",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5MjE2NjExNA",
 "spotify": "https://open.spotify.com/episode/3SoEQr2FTm9ZgcLKaoytwM",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=oEIBXYo2mBg&t=13s"
 },
 "time375": {
 "name": "The KK Show - #90 馬來西亞的聲音 - 秉昀 Byun",
@@ -3589,7 +3613,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-90-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E7%9A%84%E8%81%B2%E9%9F%B3-%E7%A7%89%E6%98%80-byun/id1106847606?i=1000529478460",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA5MDg3OTc4MA",
 "spotify": "https://open.spotify.com/episode/54Wt6pRunWdeuvZz64cjC8",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=_9QMP46awhg&t=3s"
 },
 "time374": {
 "name": "0718 看好了世界我要退貨疫苗，小賈斯丁有韓國老闆、推薦書：VAXXERS",
@@ -3622,7 +3646,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=m-1Z6PawdPs&t=1094s"
 },
 "time372": {
-"name": "聲音修正 百靈果之友: 003@ 無國界醫生 劉董",
+"name": "百靈果之友: 003@ 無國界醫生 劉董",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530743-003.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3638,7 +3662,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%81%B2%E9%9F%B3%E4%BF%AE%E6%AD%A3-%E7%99%BE%E9%9D%88%E6%9E%9C%E4%B9%8B%E5%8F%8B-003-%E7%84%A1%E5%9C%8B%E7%95%8C%E9%86%AB%E7%94%9F-%E5%8A%89%E8%91%A3/id1106847606?i=1000529036559",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4ODM4MTE2Nw",
 "spotify": "https://open.spotify.com/episode/3Sk9Hv41IlFZOkNwJK555i",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=GrnvpxvweVo&t=474s"
 },
 "time371": {
 "name": "The KK Show - #89 回台加入國民黨 - 李有宜",
@@ -3671,7 +3695,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=iyzI8eUxPEI"
 },
 "time369": {
-"name": "八角籠直播 #001 警告來賓網路不穩 《熱愛祖國的中國人》",
+"name": "八角籠直播 EP1《熱愛祖國的中國人》",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530746-001.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3684,7 +3708,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%85%AB%E8%A7%92%E7%B1%A0%E7%9B%B4%E6%92%AD-001-%E8%AD%A6%E5%91%8A%E4%BE%86%E8%B3%93%E7%B6%B2%E8%B7%AF%E4%B8%8D%E7%A9%A9-%E7%86%B1%E6%84%9B%E7%A5%96%E5%9C%8B%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%BA%BA/id1106847606?i=1000528461463",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4NTE5NTQwMQ",
 "spotify": "https://open.spotify.com/episode/2iNL66Mvwce4nzIPYVqMkO",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Tx8Tnk_E6xM&t=9s"
 },
 "time368": {
 "name": "百靈果之友: 002 呱吉 議員說他沒上班",
@@ -3704,7 +3728,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E4%B9%8B%E5%8F%8B-002-%E5%91%B1%E5%90%89-%E8%AD%B0%E5%93%A1%E8%AA%AA%E4%BB%96%E6%B2%92%E4%B8%8A%E7%8F%AD/id1106847606?i=1000528191708",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4MzU5NTI4OA",
 "spotify": "https://open.spotify.com/episode/5KpwsK6VpqowATZJLXXCok",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=AIA21lcH0A0&t=13s"
 },
 "time367": {
 "name": "The KK Show - #88 台越混血的和平黑音人 - 桃子A1J",
@@ -3720,7 +3744,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-88-%E5%8F%B0%E8%B6%8A%E6%B7%B7%E8%A1%80%E7%9A%84%E5%92%8C%E5%B9%B3%E9%BB%91%E9%9F%B3%E4%BA%BA-%E6%A1%83%E5%AD%90a1j/id1106847606?i=1000527990861",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4MjM3MTE1OQ",
 "spotify": "https://open.spotify.com/episode/0OI4c00ctVe2XNodRAAkpC",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=zX-K8I_9u-Y"
 },
 "time366": {
 "name": "0704 普丁心中最軟的那一塊、歐洲杯煉蠱大賽、Pew 說在座的各位都是白海豚、推薦 Chasing Cosby 、 The Morning Show",
@@ -3752,7 +3776,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E4%B9%8B%E5%8F%8B-001-%E9%98%BF%E6%BB%B4-s-is-for-sister/id1106847606?i=1000527519676",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA3OTU3ODk0NQ",
 "spotify": "https://open.spotify.com/episode/5jFxAPOtbuZBTxKV0yHPXa",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=RAD6tSnn3AE"
 },
 "time364": {
 "name": "The KK Show - #87 消防到災害管理 - 張賢龢博士",
@@ -3820,7 +3844,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=BzEV3s5ZCrk"
 },
 "time360": {
-"name": "0620 以色列變天了、打疫苗還是會染疫 尤其是科興、推薦：Inside by Bo Burnham、推薦：Inside by Bo Burnham",
+"name": "0620 以色列變天了、打疫苗還是會染疫 尤其是科興、推薦：Inside by Bo Burnham",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530755-0620-inside-by-bo-burnham-inside-by-bo-burnham.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3831,7 +3855,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0620-%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%8A%E5%A4%A9%E4%BA%86-%E6%89%93%E7%96%AB%E8%8B%97%E9%82%84%E6%98%AF%E6%9C%83%E6%9F%93%E7%96%AB-%E5%B0%A4%E5%85%B6%E6%98%AF%E7%A7%91%E8%88%88-%E6%8E%A8%E8%96%A6-inside-by-bo-burnham/id1106847606?i=1000526170514",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA3MjE2MTk2NA",
 "spotify": "https://open.spotify.com/episode/4LKDIwJzOFsUTcYa1w1GYE",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=5xAnZzxfPFE"
 },
 "time359": {
 "name": "任務失敗的勇氣、會殺人的小叮噹 讀書會：CIA洗腦計劃 （完）",
@@ -3880,7 +3904,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=enYBHX5XPVw"
 },
 "time356": {
-"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5，6",
+"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5、6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3892,7 +3916,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E4%BB%A5%E5%89%8D%E7%9A%84%E9%96%93%E8%AB%9C%E8%A8%93%E7%B7%B4%E8%A6%81%E5%B8%B6sm%E9%9D%A2%E5%85%B7-%E9%80%A3%E7%BA%8C%E6%AE%BA%E4%BA%BA%E9%AD%94%E6%9C%89%E5%8F%83%E8%88%87cia%E7%9A%84%E5%AF%A6%E9%A9%97%E8%A8%88%E5%8A%83-%E8%AE%80%E6%9B%B8%E6%9C%83-cia%E7%9A%84%E6%B4%97%E8%85%A6%E8%A8%88%E5%8A%83-ch-5-6/id1106847606?i=1000524949585",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA2NTUwMTcxNQ",
 "spotify": "https://open.spotify.com/episode/37mWZ5jjyPtXu55jxuUglD",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=rudbw1Rb53k"
 },
 "time355": {
 "name": "The KK Show - #81 怎麼教小孩 - 葉丙成",
@@ -3938,10 +3962,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%86%AB%E8%AD%B7%E4%BA%BA%E5%93%A1we-love-you-%E8%A2%AB%E8%87%AA%E5%B7%B1%E5%9C%8B%E5%AE%B6%E4%B8%8B%E6%AF%92%E9%82%84%E7%84%A1%E6%B3%95%E4%BC%B8%E5%86%A4-%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%98%AF%E7%B4%8D%E7%B2%B9%E5%A4%A9%E5%A0%82-%E8%AE%80%E6%9B%B8%E6%9C%83-cia-%E6%B4%97%E8%85%A6%E8%A8%88%E5%8A%83-ch-3-4/id1106847606?i=1000524087891",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA2MDk5ODA5MQ",
 "spotify": "https://open.spotify.com/episode/5X6HMMXEKwb95Ntt4mFF3S",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=e6NraUmmymM"
 },
 "time352": {
-"name": "The KK Show - #83 疫情下的美國小兒科醫生 - Dr. Leanne Wu",
+"name": "The KK Show - #83 美國小兒科醫生 - Dr. Leanne Wu",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530763-the-kk-show-83-dr-leanne-wu.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3956,7 +3980,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-83-%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E7%BE%8E%E5%9C%8B%E5%B0%8F%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F-dr-leanne-wu/id1106847606?i=1000523781526",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA1OTY0MTQ3Ng",
 "spotify": "https://open.spotify.com/episode/1Nos1q5QohJK1xuIRiGpfw",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Kd0ByUwQya8"
 },
 "time351": {
 "name": "0530 拜登想帶武漢肺炎回娘家、趙立堅真的很忙、緬甸不ban中國手游、推薦劇：#火神的眼淚",
@@ -3985,7 +4009,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%82%9B%E9%96%80%E8%A3%A1%E9%9D%A2%E7%9A%84%E9%80%83%E7%94%9F%E6%89%8B%E6%AE%B5-%E7%BE%8E%E5%9C%8B%E5%B0%B1%E6%98%AF%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6%E5%81%9A%E7%9A%84%E5%A5%BD-%E8%AE%80%E6%9B%B8%E6%9C%83-cia%E6%B4%97%E8%85%A6%E8%A8%88%E5%8A%83-pt-1/id1106847606?i=1000523283042",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA1NjUzMTU5Mg",
 "spotify": "https://open.spotify.com/episode/3h7nzPQVk6dFjNQlGjyeXK",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=qaRVxmFNreY"
 },
 "time349": {
 "name": "The KK Show - #82 跟醫師聊美國疫情經驗 - Dr. Justin Yang",
@@ -4063,7 +4087,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0516-%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B%E7%9A%84%E4%BF%9D%E9%9A%AA%E5%A5%97%E5%9C%A8%E5%B9%B9%E5%98%9B-%E7%94%A8%E9%BA%B5%E5%8C%85%E5%BA%97%E7%9A%84ai%E4%BE%86%E6%89%BE%E7%99%8C%E7%B4%B0%E8%83%9E-%E5%91%B1%E5%90%89%E5%90%83droppings/id1106847606?i=1000521903219",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA0OTYxNTU1MQ",
 "spotify": "https://open.spotify.com/episode/35q6wEQiGmR5aVnMs1GS3J",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=wbJP78WezBE"
 },
 "time344": {
 "name": "台東取消、台北線上繞境上線拉 讀書會：蚵仔煎的身世 （完）",
@@ -4096,7 +4120,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-79-%E5%82%80%E5%84%A1%E8%8A%B1%E4%BD%9C%E8%80%85-%E9%99%B3%E8%80%80%E6%98%8C%E9%86%AB%E5%B8%AB/id1106847606?i=1000521309216",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA0NjY5OTAwNQ",
 "spotify": "https://open.spotify.com/episode/02rTkT1YKTybMFOPxrMR4o",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=zdZYhnBXinA&t=14s"
 },
 "time342": {
 "name": "0509 黎巴嫩的女生超正 就是Mia Khalifa，哥倫比亞人民上街、凱莉去澎湖脫皮",
@@ -4156,7 +4180,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0502-%E6%B3%95%E5%9C%8B%E9%80%80%E5%B0%87%E5%8F%AB%E7%B8%BD%E7%B5%B1%E7%A1%AC%E8%B5%B7%E4%BE%86-%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA%E6%8A%8A%E5%85%A8%E5%8F%B0%E7%81%A3%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%E6%83%85%E6%94%BE%E5%B0%81%E9%9D%A2-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E9%BB%91%E6%A3%AE%E6%9E%97%E7%9A%84%E7%99%BD%E7%8E%AB%E7%91%B0-%E7%88%B5%E5%A3%AB%E9%82%8A%E7%B7%A3%E4%BA%BA/id1106847606?i=1000519715353",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA0MDYxNTE3OQ",
 "spotify": "https://open.spotify.com/episode/0z4bnjQiUHhQ036k2Zn311",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=nr4RPWmC4p0&t=8s"
 },
 "time338": {
 "name": "回台灣一定要吃的滷肉飯 讀書會：蚵仔煎的身世 Part 1",
@@ -4171,7 +4195,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%9B%9E%E5%8F%B0%E7%81%A3%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E7%9A%84%E6%BB%B7%E8%82%89%E9%A3%AF-%E8%AE%80%E6%9B%B8%E6%9C%83-%E8%9A%B5%E4%BB%94%E7%85%8E%E7%9A%84%E8%BA%AB%E4%B8%96-part-1/id1106847606?i=1000519242064",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAzODkzMzkwNw",
 "spotify": "https://open.spotify.com/episode/1l7PA0kFkEZq7BGpLfDc9u",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=KMQbAxwcPAQ"
 },
 "time337": {
 "name": "The KK Show - #77 台灣AV男優 - 石巴朝",
@@ -4201,7 +4225,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0425-%E6%BE%B3%E6%B4%B2%E5%AE%B3%E4%B8%AD%E5%9C%8B%E7%94%9F%E6%B0%A3%E6%B0%A3-%E5%8C%97%E7%BE%8E%E7%8F%8D%E5%A5%B6%E5%A5%B6%E8%A6%81%E6%96%B7%E8%B2%A8-%E5%87%B1%E8%8E%89%E6%84%9B%E6%9B%A1%E5%AD%97-%E6%8E%A8%E8%96%A6podcast-%E6%95%8F%E8%BF%AA%E6%95%A3%E6%AD%A5-%E8%AA%AA%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA/id1106847606?i=1000518536147",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAzNjE4MDk1Nw",
 "spotify": "https://open.spotify.com/episode/4rwaXosCuyruppgYUoov9U",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=dRl8dP-NCmU"
 },
 "time335": {
 "name": "自肥的讀書會，Literally！！！ 讀書會：蚵仔煎的身世 序",
@@ -4246,7 +4270,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0418-%E8%A2%AB%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%88%BA%E6%AE%BA%E7%9A%84%E9%9D%9E%E6%B4%B2%E9%A0%98%E8%A2%96-%E4%B8%AD%E5%9C%8B%E6%97%85%E6%B8%B8%E9%A9%9A%E5%96%9C%E5%8C%85-%E8%9B%87%E7%B7%A8%E8%B7%9F%E6%88%91%E5%80%91%E8%AC%9B%E8%A7%A3%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E9%80%B2%E9%A6%99/id1106847606?i=1000517617587",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAzMTM3NzAwNg",
 "spotify": "https://open.spotify.com/episode/7iaazOKhPyeWdklR3CcPvw",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=uq2Bt6eixQc"
 },
 "time332": {
 "name": "白人射後不理、傀儡花這本書你會給幾分？讀書會：傀儡花 第八部 第九部 第十部",
@@ -4264,7 +4288,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=jLC5sk8Q7i4"
 },
 "time331": {
-"name": "The KK Show - #75 - 范雲",
+"name": "The KK Show - #75 范雲",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530784-the-kk-show-75.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4277,10 +4301,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-75-%E8%8C%83%E9%9B%B2/id1106847606?i=1000516955974",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyODM0MTcwMg",
 "spotify": "https://open.spotify.com/episode/0hNfboIo5rhsmbrYg8At2N",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=WVw7MD54Kc0&t=3s"
 },
 "time330": {
-"name": "0411 Dora We Love You, 六千九百萬美金 WTF is NFT ? 被抛棄的北愛爾蘭保皇派、推薦書：The Giver",
+"name": "0411 Dora We Love You、六千九百萬美金 WTF is NFT ? 被抛棄的北愛爾蘭保皇派、推薦書：The Giver",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530785-0411-dora-we-love-you-wtf-is-nft-the-giver.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4291,7 +4315,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0411-dora-we-love-you-%E5%85%AD%E5%8D%83%E4%B9%9D%E7%99%BE%E8%90%AC%E7%BE%8E%E9%87%91-wtf-is-nft-%E8%A2%AB%E6%8A%9B%E6%A3%84%E7%9A%84%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E4%BF%9D%E7%9A%87%E6%B4%BE/id1106847606?i=1000516656416",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyNjQ3NDg4MA",
 "spotify": "https://open.spotify.com/episode/0tcmfJTlK0pwoQc90Vonam",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=yyrNWsXt4rU"
 },
 "time329": {
 "name": "天地會=法輪功？ 金瓶梅到底露骨不露骨？ 讀書會：傀儡花 第七部 第八部 56章",
@@ -4306,7 +4330,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%A4%A9%E5%9C%B0%E6%9C%83-%E6%B3%95%E8%BC%AA%E5%8A%9F-%E9%87%91%E7%93%B6%E6%A2%85%E5%88%B0%E5%BA%95%E9%9C%B2%E9%AA%A8%E4%B8%8D%E9%9C%B2%E9%AA%A8-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%82%80%E5%84%A1%E8%8A%B1-%E7%AC%AC%E4%B8%83%E9%83%A8-%E7%AC%AC%E5%85%AB%E9%83%A8-56%E7%AB%A0/id1106847606?i=1000516288811",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyNDg5MTgwNw",
 "spotify": "https://open.spotify.com/episode/6p7os9UTZE9mRKs5ckuiK7",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=eoH_3NJm3uw"
 },
 "time328": {
 "name": "The KK Show - #74 用科學打名嘴臉-IORG",
@@ -4323,10 +4347,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-74-%E7%94%A8%E7%A7%91%E5%AD%B8%E6%89%93%E5%90%8D%E5%98%B4%E8%87%89-iorg/id1106847606?i=1000515978760",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyMzE2MjQ1Nw",
 "spotify": "https://open.spotify.com/episode/7HHiu15FXnVUXWLB2Fvtgy",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=jsUrqemDqA0"
 },
 "time327": {
-"name": "0404 中國要美國學學中國的氣度、 愛煮飯的Youtuber原來是黑手黨、推薦書：Eat The Buddha 噬佛",
+"name": "0404 中國要美國學學中國的氣度、愛煮飯的Youtuber原來是黑手黨、推薦書：Eat The Buddha 噬佛",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530788-0404-youtuber-eat-the-buddha.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4337,7 +4361,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0404-%E4%B8%AD%E5%9C%8B%E8%A6%81%E7%BE%8E%E5%9C%8B%E5%AD%B8%E5%AD%B8%E4%B8%AD%E5%9C%8B%E7%9A%84%E6%B0%A3%E5%BA%A6-%E6%84%9B%E7%85%AE%E9%A3%AF%E7%9A%84youtuber%E5%8E%9F%E4%BE%86%E6%98%AF%E9%BB%91%E6%89%8B%E9%BB%A8-%E6%8E%A8%E8%96%A6%E6%9B%B8-eat-the/id1106847606?i=1000515699499",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyMTQwNjkxNA",
 "spotify": "https://open.spotify.com/episode/26fuhVOV86bB6w6O6Hmyfb",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=s4cYhtIrXPk&t=348s"
 },
 "time326": {
 "name": "以前的高雄真的在發大財、一帶一路以前大家都在做 讀書會：傀儡花 第五部 第六部",
@@ -4397,7 +4421,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%96%AF%E5%8D%A1%E7%BE%85%E7%9C%9F%E7%9A%84%E6%AF%94%E8%BC%83%E5%B8%A5-%E6%88%91%E5%80%91%E9%81%93%E6%AD%89-%E5%8F%B0%E5%8D%97%E6%B8%85%E6%9C%9D%E5%B0%B1%E6%9C%89%E8%9D%A6%E4%BB%81%E8%82%89%E5%9C%93%E8%B7%9F%E7%82%92%E9%B1%94%E9%AD%9A%E6%84%8F%E9%9D%A2-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%82%80%E5%84%A1%E8%8A%B1-%E7%AC%AC%E4%B8%89%E9%83%A8-%E7%AC%AC%E5%9B%9B%E9%83%A8/id1106847606?i=1000514367555",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAxNTgzNDAwMw",
 "spotify": "https://open.spotify.com/episode/55hucyyGjdHZeihOEF6Iqe",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=fLuga-M9O0Y"
 },
 "time322": {
 "name": "The KK Show - #72 阿爆與阿拉斯 (内有醉漢）",
@@ -4477,7 +4501,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%B9%BF%E6%B8%AF%E7%B9%9E%E5%A2%83-0314-%E5%8D%97%E9%9F%93%E9%A1%98%E6%84%8F%E6%8F%90%E9%AB%98%E4%BF%9D%E8%AD%B7%E8%B2%BB-peace-%E6%B5%B7%E5%BA%95%E9%9B%BB%E7%BA%9C%E6%98%AF%E8%8F%AF%E7%88%B2%E7%9A%84%E5%93%A6/id1106847606?i=1000512917414",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAwNjE3NDY0Mg",
 "spotify": "https://open.spotify.com/episode/58ynOq653GuYxhTh3ZhXYg",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=y_NNHL6NnMk"
 },
 "time317": {
 "name": "要政治正確還是要收視率？ 傀儡花 vs 斯卡羅 讀書會：傀儡花 序",
@@ -4583,7 +4607,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%97%9C%E6%96%BC%E8%97%BB%E7%A4%81-los-zetas%E9%BB%91%E5%B9%AB%E8%93%8B%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1-%E8%AE%80%E6%9B%B8%E6%9C%83-%E6%AF%92%E5%AE%B6%E4%BC%81%E6%A5%AD-ch-6-7/id1106847606?i=1000510614281",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTkyNzEzMTI2",
 "spotify": "https://open.spotify.com/episode/0BNIrj7oyZRNTBAd87UiKn",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=y2_2KIjvx9k"
 },
 "time310": {
 "name": "The KK Show - #68 一起閒聊俄羅斯 - Vasilisa",
@@ -4644,7 +4668,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-67-ait%E7%BE%8E%E5%9C%8B%E5%9C%A8%E5%8F%B0%E5%8D%94%E6%9C%83%E6%96%87%E5%8C%96%E5%AE%98-luke-martin/id1106847606?i=1000509350510",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTg2NTAyNjI4",
 "spotify": "https://open.spotify.com/episode/4qzvNg3t2SvDzbsxY0wT6U",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=-aNJ8XQ2YAw"
 },
 "time306": {
 "name": "0214 川普的辯護律師在搞什麽、美國對亞裔的暴力事件越來越多、孤味 vs 陽光普照",
@@ -4689,10 +4713,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-66-%E6%8B%89%E4%B8%81%E7%BE%8E%E6%B4%B2%E5%B0%88%E5%AE%B6-%E9%99%B3%E5%B0%8F%E9%9B%80%E6%95%99%E6%8E%88/id1106847606?i=1000508325715",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTgxOTQwMjkx",
 "spotify": "https://open.spotify.com/episode/2k855tlHksrnjCzAS5yGuA",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=EjXGWOygqqI"
 },
 "time303": {
-"name": "0207 膝擊緬甸的蛋蛋、蓋亞納玩弄了台灣的蛋蛋、推薦Podcast：The Passenger List",
+"name": "0207 膝擊緬甸的蛋蛋、蓋亞那玩弄了台灣的蛋蛋、推薦Podcast：The Passenger List",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530812-0207-podcast-the-passenger-list.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4703,10 +4727,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0207-%E8%86%9D%E6%93%8A%E7%B7%AC%E7%94%B8%E7%9A%84%E8%9B%8B%E8%9B%8B-%E8%93%8B%E4%BA%9E%E7%B4%8D%E7%8E%A9%E5%BC%84%E4%BA%86%E5%8F%B0%E7%81%A3%E7%9A%84%E8%9B%8B%E8%9B%8B-%E6%8E%A8%E8%96%A6podcast-the-passenger-list/id1106847606?i=1000508070006",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTgwMzczNzUx",
 "spotify": "https://open.spotify.com/episode/4FznmNt4vIZMYAJdWfNfIn",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=wlslnhhaLag"
 },
 "time302": {
-"name": "老師在毒梟領地内要怎麽教小孩？開飛機運輸發大財 讀書會：毒家企業 Narconomics Ch.1, 2, 3",
+"name": "老師在毒梟領地内要怎麽教小孩？開飛機運輸發大財 讀書會：毒家企業 Narconomics Ch1, 2, 3",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530813-narconomics-ch-1-2-3.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4718,7 +4742,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%80%81%E5%B8%AB%E5%9C%A8%E6%AF%92%E6%A2%9F%E9%A0%98%E5%9C%B0%E5%86%85%E8%A6%81%E6%80%8E%E9%BA%BD%E6%95%99%E5%B0%8F%E5%AD%A9-%E9%96%8B%E9%A3%9B%E6%A9%9F%E9%81%8B%E8%BC%B8%E7%99%BC%E5%A4%A7%E8%B2%A1-%E8%AE%80%E6%9B%B8%E6%9C%83-%E6%AF%92%E5%AE%B6%E4%BC%81%E6%A5%AD-narconomics-ch-1-2-3/id1106847606?i=1000507707812",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTc4MTU1ODAw",
 "spotify": "https://open.spotify.com/episode/1TWd8Lg0HzcXNeG6ERVe8D",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=o8HXtjDNA1s"
 },
 "time301": {
 "name": "The KK Show - #65 訪問過韓國瑜的外媒 - Samson Ellis",
@@ -4780,7 +4804,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-64-%E4%BB%8A%E5%A4%A9%E4%BE%86%E8%B3%A3%E7%A5%A8-%E5%8D%9A%E6%81%A9/id1106847606?i=1000506622243",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTcyODkyODQw",
 "spotify": "https://open.spotify.com/episode/6IJhviv3WlOjedckS85jt3",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Nr7RGw6ymNM"
 },
 "time297": {
 "name": "0124 拜登破川普簽署行政命令記錄、Google還有Facebook威脅撤出澳洲、閑聊",
@@ -4797,7 +4821,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=xgOTgWMRGa4"
 },
 "time296": {
-"name": "The KK Show - # 63 兩岸關係 - 張五岳",
+"name": "The KK Show - #63 兩岸關係 - 張五岳",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530819-the-kk-show-63.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4810,7 +4834,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-63-%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82-%E5%BC%B5%E4%BA%94%E5%B2%B3/id1106847606?i=1000505788108",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTY4MzkxODky",
 "spotify": "https://open.spotify.com/episode/43mbs9X0wwflx0gLnayKHe",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=9sEJ30JwmLQ&t=2470s"
 },
 "time295": {
 "name": "0117 臉書員工在外要小心、義大利黑手黨發肺炎財、推薦書：Red Notice、 紅色通緝令：一個俄羅斯外資大亨如何反擊普丁的國家級黑幫？",
@@ -4827,7 +4851,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=pCM04m1sKXM"
 },
 "time294": {
-"name": "遊戲裏的末日避難所都是真的 (終)： 讀書會 宋氏三姐妹 Ch 22, 23, 24",
+"name": "遊戲裏的末日避難所都是真的 (終)： 讀書會 宋氏三姐妹 Ch 22、23、24",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530821-ch-22-23-24.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4839,10 +4863,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%81%8A%E6%88%B2%E8%A3%8F%E7%9A%84%E6%9C%AB%E6%97%A5%E9%81%BF%E9%9B%A3%E6%89%80%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84-%E7%B5%82-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%AE%8B%E6%B0%8F%E4%B8%89%E5%A7%90%E5%A6%B9-ch-22-23-24/id1106847606?i=1000505323185",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTY1Mjc2MjYz",
 "spotify": "https://open.spotify.com/episode/3o7VnMoW7den2zP9NtagUW",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=FE54pDJmMYY"
 },
 "time293": {
-"name": "The KK Show - # 62 笑話背後的故事 - 大可愛",
+"name": "The KK Show - #62 笑話背後的故事 - 大可愛",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530822-the-kk-show-62.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4855,7 +4879,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-62-%E7%AC%91%E8%A9%B1%E8%83%8C%E5%BE%8C%E7%9A%84%E6%95%85%E4%BA%8B-%E5%A4%A7%E5%8F%AF%E6%84%9B/id1106847606?i=1000505088484",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTY0MTAyNTU1",
 "spotify": "https://open.spotify.com/episode/1eXmyhLRxJNPPpnfaT6kx5",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=EB_Wvx9KYz8"
 },
 "time292": {
 "name": "0110 對啦、全世界都被台灣帶壞就是了 、 喬治亞州變成宇宙的中心 、 推薦書：掠殺: 美國連環殺手追蹤調查",
@@ -4934,7 +4958,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=-9enVFmtJ3w"
 },
 "time287": {
-"name": "The KK Show - # 60 過了一年變得有韻味 - Angel",
+"name": "The KK Show - #60 過了一年變得有韻味 - Angel",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530828-the-kk-show-60-angel.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4947,7 +4971,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-60-%E9%81%8E%E4%BA%86%E4%B8%80%E5%B9%B4%E8%AE%8A%E5%BE%97%E6%9C%89%E9%9F%BB%E5%91%B3-angel/id1106847606?i=1000503795019",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTU1ODAwMTgx",
 "spotify": "https://open.spotify.com/episode/7k8iBj56vNsezlj5xdHeND",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=TNftjQZNtYw"
 },
 "time286": {
 "name": "1227 英國人再次成功掌握自己命運、南極洲也被武漢肺炎攻陷、推薦書：Deep Deep Snow",
@@ -5098,7 +5122,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-56-%E7%9B%B8%E8%81%B2%E9%82%8A%E7%B7%A3%E4%BA%BA-%E9%BB%83%E9%80%B8%E8%B1%AA/id1106847606?i=1000501720314",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTQzNDk2MDg2",
 "spotify": "https://open.spotify.com/episode/2cUgiZk4rN6IbaZgKlcgam",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=t0MlzJKSkwk&t=2s"
 },
 "time276": {
 "name": "1206 當雜交趴遇上外交豁免權、美國喬治亞州的做票疑慮、推薦書：民主的弱點",
@@ -5143,7 +5167,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-55-%E5%A5%BD%E6%83%B3%E4%B8%8A%E7%8F%AD%E7%9A%84%E7%AB%8B%E5%A7%94-%E9%99%B3%E6%9F%8F%E6%83%9F/id1106847606?i=1000500947657",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTM5MjExMDc4",
 "spotify": "https://open.spotify.com/episode/5HpFz0qeTtbwDF5TkSoXI4",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=6DPKaLo-PJA"
 },
 "time273": {
 "name": "1129 誰都阻止不了美國人要見上帝、抗爭裏的泰式幽默、歌劇魅影觀後感、#賀錦麗 自傳 The Truth We Hold 讀書心得",
@@ -5206,7 +5230,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=o0t4fZF9Dwo"
 },
 "time269": {
-"name": "孫文其實是個假abc、Charlie Soong 失敗的異國戀情 : 讀書會 宋氏三姐妹 Ch1，Ch2",
+"name": "孫文其實是個假abc、Charlie Soong 失敗的異國戀情 : 讀書會 宋氏三姐妹 Ch1、2",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530846-abc-charlie-soong-ch1-ch2.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5218,7 +5242,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%AD%AB%E6%96%87%E5%85%B6%E5%AF%A6%E6%98%AF%E5%80%8B%E5%81%87abc-charlie-soong-%E5%A4%B1%E6%95%97%E7%9A%84%E7%95%B0%E5%9C%8B%E6%88%80%E6%83%85-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%AE%8B%E6%B0%8F%E4%B8%89%E5%A7%90%E5%A6%B9-ch1-ch2/id1106847606?i=1000499418763",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTMyMDU0NzMx",
 "spotify": "https://open.spotify.com/episode/49tbMGLc6EMB6EsV1TjVDs",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=HW6_kuZFt0s&t=16s"
 },
 "time268": {
 "name": "The KK Show - #53 黃豪平",
@@ -5238,7 +5262,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-53-%E9%BB%83%E8%B1%AA%E5%B9%B3/id1106847606?i=1000499021678",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTMwNzU5Mzcz",
 "spotify": "https://open.spotify.com/episode/3tY5KZItsOOmLixBhUTwt9",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=5pigna37j00"
 },
 "time267": {
 "name": "1115 去希臘當Youtuber是個好時機、俄羅斯變成和平使者、推薦漫畫跟推薦劇！",
@@ -5283,7 +5307,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-52-ken%E7%9A%84%E7%A7%81%E4%BA%BA%E8%A8%BA%E7%99%82%E5%AE%A4-%E5%94%90%E7%B6%BA%E9%99%BD/id1106847606?i=1000497977588",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTI2NDczOTkw",
 "spotify": "https://open.spotify.com/episode/5rpqQIhTvBMo9gK7OByzlt",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=1gc4tIPH_7s"
 },
 "time264": {
 "name": "1108 抽Rode Casterpro、 你好我是武漢製造的武肺疫苗、大麻合法化的公投票開得快速又精準、求溫泉推薦",
@@ -5407,7 +5431,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AjlSKtDId9E"
 },
 "time256": {
-"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰皇這麽爽會想要改革嗎、凱莉投票了",
+"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰王這麽爽會想要改革嗎、凱莉投票了",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5418,29 +5442,27 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1018-%E5%B0%8B%E6%B1%82%E7%88%B6%E6%84%9B%E7%9A%84%E8%B7%AF%E7%B8%BD%E6%98%AF%E8%BE%9B%E8%8B%A6%E7%9A%84-%E6%9D%AD%E7%89%B9%E6%8B%9C%E7%99%BB-%E6%B3%B0%E7%9A%87%E9%80%99%E9%BA%BD%E7%88%BD%E6%9C%83%E6%83%B3%E8%A6%81%E6%94%B9%E9%9D%A9%E5%97%8E-%E5%87%B1%E8%8E%89%E6%8A%95%E7%A5%A8%E4%BA%86/id1106847606?i=1000495164187",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTEyNTUwMjE5",
 "spotify": "https://open.spotify.com/episode/12fedXttTRrRdwQVbdqSSv",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Xn_JfBlmY2g"
 },
 "time255": {
-"name": "與范琪斐聊讀書心得，左派媒體的失控與右派媒體的可信度: Rage by Bob Woodward",
+"name": "與范琪斐聊讀書心得，左派媒體的失控與右派媒體的可信度",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530860-rage-by-bob-woodward.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2020",
-"Rage by Bob Woodward",
 "范琪斐",
 "Podcaster",
 "Youtuber",
-"時事",
-"讀書會"
+"時事"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%88%87%E8%8C%83%E7%90%AA%E6%96%90%E8%81%8A%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97-%E5%B7%A6%E6%B4%BE%E5%AA%92%E9%AB%94%E7%9A%84%E5%A4%B1%E6%8E%A7%E8%88%87%E5%8F%B3%E6%B4%BE%E5%AA%92%E9%AB%94%E7%9A%84%E5%8F%AF%E4%BF%A1%E5%BA%A6-rage-by-bob-woodward/id1106847606?i=1000494853339",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTEwOTgyNzg1",
 "spotify": "https://open.spotify.com/episode/1jORzxbRpl6obS7xH0kiSL",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=52Xhwd1cZLI&t=1341s"
 },
 "time254": {
-"name": "The KK Show - #048 國民黨的邊緣人 - 于北辰將軍",
+"name": "The KK Show - #48 國民黨的邊緣人 - 于北辰將軍",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530861-the-kk-show-048.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5453,7 +5475,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-048-%E5%9C%8B%E6%B0%91%E9%BB%A8%E7%9A%84%E9%82%8A%E7%B7%A3%E4%BA%BA-%E4%BA%8E%E5%8C%97%E8%BE%B0%E5%B0%87%E8%BB%8D/id1106847606?i=1000494583956",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTA5NjQ5MTQ0",
 "spotify": "https://open.spotify.com/episode/4lM8hTKgYTOkThVY0G0GDb",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=IjS6ZZ2GF6c&t=2s"
 },
 "time253": {
 "name": "1011 副總統辯論大會太冷靜、印尼原來資遣費這麽貴、閑聊",
@@ -5532,7 +5554,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=qlJE_VNp-D0&t=418s"
 },
 "time248": {
-"name": "The KK Show - #046 新竹市長 - 林智堅",
+"name": "The KK Show - #46 新竹市長 - 林智堅",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530867-the-kk-show-046.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5545,7 +5567,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-046-%E6%96%B0%E7%AB%B9%E5%B8%82%E9%95%B7-%E6%9E%97%E6%99%BA%E5%A0%85/id1106847606?i=1000492955402",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTAxNTA3NzI2",
 "spotify": "https://open.spotify.com/episode/3yYBzyQn0UdUIIplIO1rS5",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=14ghz2xvoRA"
 },
 "time247": {
 "name": "0927 尚比亞成爲非洲第一個因武肺倒債國家、華為跟加拿大保證不會再走後門、閑聊",
@@ -5562,7 +5584,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=T1kHMBT_PZw"
 },
 "time246": {
-"name": "The KK Show - #045 最偏激的Podcast平臺 - Firstory",
+"name": "The KK Show - #45 最偏激的Podcast平臺 - Firstory",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530869-the-kk-show-045-podcast-firstory.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5575,7 +5597,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-045-%E6%9C%80%E5%81%8F%E6%BF%80%E7%9A%84podcast%E5%B9%B3%E8%87%BA-firstory/id1106847606?i=1000492119716",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODk3NDg4NzA3",
 "spotify": "https://open.spotify.com/episode/2kFgdDxj2Oj2et8yGPLb3G",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=jmabO5IM_lA"
 },
 "time245": {
 "name": "0920 Bob Woodward 新書 Rage 心得、振華搜集你的個資不是給國家 澳洲記者可以作證、希臘難民營大火、Ken要對臺東道歉、 阿爆演唱會",
@@ -5589,7 +5611,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0920-bob-woodward-%E6%96%B0%E6%9B%B8-rage-%E5%BF%83%E5%BE%97-%E6%8C%AF%E8%8F%AF%E6%90%9C%E9%9B%86%E4%BD%A0%E7%9A%84%E5%80%8B%E8%B3%87%E4%B8%8D%E6%98%AF%E7%B5%A6%E5%9C%8B%E5%AE%B6-%E6%BE%B3%E6%B4%B2%E8%A8%98%E8%80%85%E5%8F%AF%E4%BB%A5%E4%BD%9C%E8%AD%89/id1106847606?i=1000491872829",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODk1OTk3NjA4",
 "spotify": "https://open.spotify.com/episode/46y6mGCmxYAx9ihqerOtgK",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=rRzKtcuYNKc"
 },
 "time244": {
 "name": "推倒資本主義的高牆：免費教你如何做Podcast 06 : QA",
@@ -5659,10 +5681,10 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E6%8E%A8%E5%80%92%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E7%9A%84%E9%AB%98%E7%89%86-%E5%85%8D%E8%B2%BB%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E5%81%9Apodcast-05-%E8%BB%9F%E9%AB%94%E5%BE%8C%E8%A3%BD-ft-%E5%A5%BD%E5%92%8C%E5%BC%A6/id1106847606?i=1000490787263",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODkwNzU5MjQy",
 "spotify": "https://open.spotify.com/episode/2xNQAq7cCkDACqrxL13oJ5",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=PWKBawwQAss"
 },
 "time240": {
-"name": "The KK Show - #044文化策展人 - 真蓉",
+"name": "The KK Show - #44文化策展人 - 真蓉",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530875-the-kk-show-044.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5675,7 +5697,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-044%E6%96%87%E5%8C%96%E7%AD%96%E5%B1%95%E4%BA%BA-%E7%9C%9F%E8%93%89/id1106847606?i=1000490465832",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODg5NjY2NjE4",
 "spotify": "https://open.spotify.com/episode/14tNmPj1H6WNogekDkna2X",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Oqnf8zsSp6c"
 },
 "time239": {
 "name": "0906 世界都不知道中國對蒙古人的暴行、Joe Rogan 搬去Spotify後被炎上、半推薦電影：入戲",
@@ -5706,7 +5728,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-043-%E5%A0%B1%E5%B0%8E%E8%80%85%E4%BE%86%E4%BA%86-jason/id1106847606?i=1000489776722",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODg1NTQyMTQ2",
 "spotify": "https://open.spotify.com/episode/4Am4DGmAoRy8HZ0fTcyHjy",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=-IotZeP-CFs"
 },
 "time237": {
 "name": "0830 共和黨比國民黨還想要反共、抖音是個磨人的小妖精、推薦電影：鋼鐵雨2",
@@ -5738,7 +5760,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=nDpwC0YyypA"
 },
 "time235": {
-"name": "The KK Show - #042 印度尤物 - 印度尤",
+"name": "The KK Show - #42 印度尤物 - 印度尤",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530880-the-kk-show-042.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5752,7 +5774,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-042-%E5%8D%B0%E5%BA%A6%E5%B0%A4%E7%89%A9-%E5%8D%B0%E5%BA%A6%E5%B0%A4/id1106847606?i=1000489118685",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODgxNjE0NzI2",
 "spotify": "https://open.spotify.com/episode/3DhmVSHSy3IcwynVgfXiaG",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Or0XR8M8x5M"
 },
 "time234": {
 "name": "0823 美國民主黨造勢大會基本上就是一群老人在罵另一個老人、當過小三的副總統你Ok嗎？、廣播金鐘獎揭獎感想",
@@ -5784,7 +5806,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=LNGAWlyYMQA"
 },
 "time232": {
-"name": "The KK Show - #41 逃出疫區的紐約客 - Esther Chen",
+"name": "The KK Show - #41逃出疫區的紐約客 - Esther Chen",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530883-the-kk-show-41-esther-chen.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5799,7 +5821,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-41-%E9%80%83%E5%87%BA%E7%96%AB%E5%8D%80%E7%9A%84%E7%B4%90%E7%B4%84%E5%AE%A2-esther-chen/id1106847606?i=1000488470989",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODc3NzAyOTU3",
 "spotify": "https://open.spotify.com/episode/2aC518nDrXbKaA1zQH8nHE",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=dtjJo04O3Xs"
 },
 "time231": {
 "name": "0816 美國在聯合國沒朋友了？、泰國學生上街抗議、暈船的龜山島牛奶海之旅",
@@ -5936,7 +5958,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-38-%E9%81%87%E5%88%B0%E5%87%B1%E8%8E%89%E5%B0%B1%E7%84%A1%E6%B3%95%E7%82%AB%E5%AF%8C%E7%9A%84-joeman/id1106847606?i=1000486381861",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODY1OTE1NDk4",
 "spotify": "https://open.spotify.com/episode/7qhuMEzADVhbmjNR0LEmGo",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=dtuLTbw6Bn8"
 },
 "time222": {
 "name": "0726 紐時買下Podcast復興之母 Serial、中國太空中心的科學家需要你的愛、高雄臺南行",
@@ -5968,7 +5990,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=DkDQbNZGSTY"
 },
 "time220": {
-"name": "The KK Show - #037 婦產科流言終結者－烏烏醫生",
+"name": "The KK Show - #37 婦產科流言終結者－烏烏醫生",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530895-the-kk-show-037.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5983,7 +6005,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-037-%E5%A9%A6%E7%94%A2%E7%A7%91%E6%B5%81%E8%A8%80%E7%B5%82%E7%B5%90%E8%80%85-%E7%83%8F%E7%83%8F%E9%86%AB%E7%94%9F/id1106847606?i=1000485608420",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODYxNzM5Mzk2",
 "spotify": "https://open.spotify.com/episode/7ylgM9liUuinIhaCgwUtcO",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=jUkv2Yn8uuY"
 },
 "time219": {
 "name": "0719 回覆網友:不能最嘴的台灣醫療旅遊、亞塞拜然跟亞美尼亞的世仇、凱莉去蘭嶼玩",
@@ -6015,7 +6037,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=FYf25Wz6Sk8"
 },
 "time217": {
-"name": "The KK Show - #036 熟了就會浮起來 - 3Q 陳柏惟",
+"name": "The KK Show - #36 熟了就會浮起來 - @3Q陳柏惟",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530898-the-kk-show-036-3q.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -6028,7 +6050,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-036-%E7%86%9F%E4%BA%86%E5%B0%B1%E6%9C%83%E6%B5%AE%E8%B5%B7%E4%BE%86-3q-%E9%99%B3%E6%9F%8F%E6%83%9F/id1106847606?i=1000484879987",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODU3NjIzOTMz",
 "spotify": "https://open.spotify.com/episode/6WECdla5FKPsyAIqJaVufq",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=a60mUZWvNjo"
 },
 "time216": {
 "name": "0712 馬來西亞是醫旅大國、日本爲了維尼而不知所措、推薦YT： Beau of the Fifth Column",
@@ -6060,7 +6082,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=C4-OQUwORts"
 },
 "time214": {
-"name": "The KK Show - #035 正面的攝影都驚呆了 - 黑嘉嘉",
+"name": "The KK Show - #35 正面的攝影都驚呆了 - 黑嘉嘉",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530901-the-kk-show-035.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -6073,7 +6095,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-035-%E6%AD%A3%E9%9D%A2%E7%9A%84%E6%94%9D%E5%BD%B1%E9%83%BD%E9%A9%9A%E5%91%86%E4%BA%86-%E9%BB%91%E5%98%89%E5%98%89/id1106847606?i=1000483197971",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODUzNjk4Nzk2",
 "spotify": "https://open.spotify.com/episode/382W5mU4CMWZN003dL9tDd",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=bULLEg9Z91Y"
 },
 "time213": {
 "name": "0705 西雅圖獨立失敗？ 中國一個點都不可少，除非那個點是海參崴、中國網友來信、推薦： Space Force",
@@ -6120,7 +6142,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-34-%E5%B0%8F%E7%B2%89%E7%B4%85%E6%AE%BA%E6%89%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E5%8A%A9%E7%90%86-%E6%95%99%E6%8E%88/id1106847606?i=1000480872659",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODQ5OTkyMDAy",
 "spotify": "https://open.spotify.com/episode/1OFkPhuvXyLfrISXezIYR9",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=XCBjCtCNcSQ"
 },
 "time210": {
 "name": "0628 波頓新書 The Room Where It Happened 心得、美國通過香港自治法、韓劇：雖然是精神病但沒關係",
@@ -6165,7 +6187,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-033-%E4%B8%80%E8%A8%80%E4%B8%8D%E5%90%88%E5%B0%B1docking-%E8%B6%99%E5%93%A5/id1106847606?i=1000479252427",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODQ1MTgyODA0",
 "spotify": "https://open.spotify.com/episode/4kspFjv1jnqQqTLJAlH8ej",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=JeIlMyCnz54"
 },
 "time207": {
 "name": "0621 美白產品是歧視？ Black Face 繼續討論、中印邊界衝突，巴基斯坦來陰的、推薦Podcast：Call Her Daddy、高雄美食、Earfun 耳機 抽獎",
@@ -6210,7 +6232,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-032-%E5%90%83%E8%B1%AC%E8%82%89%E7%9A%84%E5%89%8D%E7%A9%86%E6%96%AF%E6%9E%97-%E9%98%BF%E7%A7%8B/id1106847606?i=1000478176495",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODQxMDkzMTEx",
 "spotify": "https://open.spotify.com/episode/05F2ntwjkpjXQAIirBFC2y",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=f1YGZzVSYuU"
 },
 "time204": {
 "name": "0614 中國大外宣很有錢、好萊塢的自我審查、Black Face 在台灣可以嗎、凱莉轉型飯局妹、推薦劇：做工的人",
@@ -6255,7 +6277,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-31%E7%87%83%E7%87%92%E7%94%9F%E5%91%BD%E7%9A%84%E6%A3%92%E7%90%83%E9%AD%82-hito%E5%A4%A7%E8%81%AF%E7%9B%9F/id1106847606?i=1000477374144",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODM3MzQ0MzA1",
 "spotify": "https://open.spotify.com/episode/2H90y6AXq1Cfi1qSMB3vmt",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=lkBpvWGUXG0"
 },
 "time201": {
 "name": "0607 美國警察是不沾鍋、停止航班一起來、台南教Podcast、床上大戰小粉紅",
@@ -6316,7 +6338,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-30-%E5%A4%AA%E9%99%BD%E8%8A%B1%E8%AA%95%E7%94%9F%E5%87%BA%E4%BE%86%E7%9A%84%E5%A4%A5%E4%BC%B4-%E6%B3%95%E5%BE%8B%E7%99%BD%E8%A9%B1%E6%96%87-%E6%B3%95%E5%AE%A2%E9%9B%BB%E5%8F%B0/id1106847606?i=1000476531939",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODMyNjYyNzI0",
 "spotify": "https://open.spotify.com/episode/3ZeKCGjCfiomlkyJKAoomW",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=l9cRGXZFNtQ"
 },
 "time197": {
 "name": "0531 香港預測、美國總統候選人有夠老、委内瑞拉汽油要漲價、推薦Podcast：台灣通勤第一品牌",
@@ -6362,7 +6384,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-29-%E5%9C%8B%E9%9A%9B%E7%B4%9A%E9%9B%BB%E8%A6%96%E8%A3%BD%E4%BD%9C%E4%BA%BA-roger/id1106847606?i=1000475817779",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODI4MTczODY5",
 "spotify": "https://open.spotify.com/episode/1QZDVzLISkV1GedgLo2apm",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=X8pvilbABG8"
 },
 "time194": {
 "name": "0524 香港國安法歐盟建議民主討論、Podcast發大財、推薦電影 末代皇帝、維吾爾族人的困境",
@@ -6407,7 +6429,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-28-%E7%AE%97%E7%9B%A1%E5%A4%A9%E6%A9%9F%E5%8F%AF%E6%98%AF%E6%89%8B%E8%A2%AB%E5%A4%BE%E5%88%B0%E7%9A%84%E7%AE%97%E5%91%BD%E5%B8%AB-%E7%B0%A1%E5%B0%91%E5%B9%B4/id1106847606?i=1000475082179",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODIzNTYyNTU0",
 "spotify": "https://open.spotify.com/episode/0raDf3u8wwCPpAeJTqRprQ",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=5G92sHuvq5o&t=77s"
 },
 "time191": {
 "name": "百靈果News Bonus：國傳司 Update",
@@ -6439,7 +6461,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=_odo78jLlBE"
 },
 "time189": {
-"name": "The KK Show - 27 斜槓破表的 邱grr （音量調整）",
+"name": "The KK Show - #27 斜槓破表的 - 邱grr",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530926-the-kk-show-27-grr.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -6455,7 +6477,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-27-%E6%96%9C%E6%A7%93%E7%A0%B4%E8%A1%A8%E7%9A%84-%E9%82%B1grr-%E9%9F%B3%E9%87%8F%E8%AA%BF%E6%95%B4/id1106847606?i=1000474408659",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODE5Mjk3NDg0",
 "spotify": "https://open.spotify.com/episode/4KV4opBYW3MnbbEBQCaKMa",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=2XKnW0NsAqc"
 },
 "time188": {
 "name": "0510 印度的恐怖分子是別人的自由鬥士、推薦書：My Life On The Road、國際傳播司",
@@ -6504,7 +6526,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-26-%E4%BA%BA%E5%A6%BB%E5%95%A6%E5%95%A6%E9%9A%8A-%E5%A6%8D%E8%A8%80/id1106847606?i=1000473648748",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODEzOTM4Nzkx",
 "spotify": "https://open.spotify.com/episode/4ZyhQEa3x1IpmKZitOhMfH",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=BB7EToxX6NI"
 },
 "time185": {
 "name": "0503 新加坡感染人數暴增、馬來西亞的羅興亞難民的處境爲難、凱莉推薦瞎劇：慾罷不能 Too Hot To Handel、公益大串聯！",
@@ -6533,11 +6555,14 @@ const playlist = {
 "政治人物",
 "老闆"
 ],
-"extra": {},
+"extra": {
+"The KK Show - #25 @呱吉": "https://www.youtube.com/watch?v=-4iwjbF0Lto",
+"The KK Show - #25.5? 與 @呱吉 直播 （2020.04.30 錄影）": "https://www.youtube.com/watch?v=YkyVfl6nh-4"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-25-%E5%91%B1%E5%90%89/id1106847606?i=1000472906427",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODA4ODAwOTM0",
 "spotify": "https://open.spotify.com/episode/3bw7Np0BZlkItDnWXEaztj",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=x_ddWW76Sb8"
 },
 "time183": {
 "name": "0426 若為自由故疫情皆可抛的美國人、肯亞嚴格執行宵禁、新企劃！",
@@ -6584,7 +6609,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-24-%E8%8C%83%E7%90%AA%E6%96%90/id1106847606?i=1000472175454",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODAzNzg0OTk3",
 "spotify": "https://open.spotify.com/episode/6DbzopgxHNJStNuUlBk5UX",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=MgzHmoaGNtM"
 },
 "time180": {
 "name": "0419 武漢肺炎是和平使者、中國對紐時記者說 Get Out、適合大外宣的Podcast",
@@ -6630,7 +6655,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-23-%E5%9C%B0%E7%8D%84%E4%BE%86%E7%9A%84%E5%96%9C%E5%8A%87%E6%BC%94%E5%93%A1-jim/id1106847606?i=1000471429757",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzk4MjI1MTI0",
 "spotify": "https://open.spotify.com/episode/4XFDs4yY9uXNHpegPP6ySW",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=98_MDRXL-5U"
 },
 "time177": {
 "name": "你知道紐約時報其實很親中嗎？",
@@ -6674,7 +6699,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-%E5%90%83%E6%92%AD%E4%B8%BBasmr-pom%E5%92%A9-%E6%AD%A3%E6%88%90%E9%9B%86%E5%9C%98%E8%B4%8A%E5%8A%A9/id1106847606?i=1000471220183",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzk2NTcwMzE4",
 "spotify": "https://open.spotify.com/episode/0egTvvlAq6DnkPhSfMG8gf",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Uz5wRa9Gh-w"
 },
 "time174": {
 "name": "讀書會：Charité at War｜戰裡的夏里特 第4集",
@@ -6706,7 +6731,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-22-eleven-sports-%E9%AB%94%E8%82%B2%E8%A8%98%E8%80%85%E8%8E%89%E5%A9%B7/id1106847606?i=1000470747408",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzkyODYyMDA5",
 "spotify": "https://open.spotify.com/episode/0UWP0xjcwr4KvHVgpfEx89",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=8OCbBiEE-G0"
 },
 "time172": {
 "name": "0405 美國的李文亮直接被免職、打敗資本主義的中國咖啡、推薦劇：Tiger King 、 中國網友來信",
@@ -6736,7 +6761,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-21-%E4%BE%86%E8%87%AA%E8%8B%97%E6%A0%97%E5%9C%8B%E7%9A%84%E5%B1%B1%E4%B8%8B%E6%99%BA%E4%B9%85-%E8%82%A1%E7%99%8C/id1106847606?i=1000470284440",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzg4ODQzNTg3",
 "spotify": "https://open.spotify.com/episode/1N2Q1XPlPOSorTVgJRFpxG",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=bB0AkFv5SuE"
 },
 "time170": {
 "name": "The KK Show - 20 豁達的女漢子-Niki",
@@ -6752,7 +6777,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-20-%E8%B1%81%E9%81%94%E7%9A%84%E5%A5%B3%E6%BC%A2%E5%AD%90-niki/id1106847606?i=1000470084497",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzg3NTkyNjky",
 "spotify": "https://open.spotify.com/episode/7aIuUHIVWz7StkFpNitYEf",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=rJTao7OClZQ"
 },
 "time169": {
 "name": "0329 這個聊天室人有點多、我給你口罩你當我朋友好嗎、凱莉爆炸 小粉紅來面對",
@@ -6799,7 +6824,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-19-%E5%AE%B3%E7%BE%9E%E7%9A%84%E9%96%8B%E5%B1%8F%E5%AD%94%E9%9B%80-%E9%85%B8%E9%85%B8/id1106847606?i=1000469333596",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzgyMDUwNTEz",
 "spotify": "https://open.spotify.com/episode/2yBWwoTyo1obgf9Vyw6aey",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=PofMKFKenAQ&t=3s"
 },
 "time166": {
 "name": "0322 美國準備給大家1000元、食物銀行庫存短缺、推薦劇：Crash Landing",
@@ -6844,7 +6869,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-18-%E5%8F%B0%E8%AA%9E%E8%AC%9B%E7%9A%84%E6%AF%94%E5%8D%B0%E5%BA%A6%E8%A9%B1%E5%A5%BD%E7%9A%84angeli/id1106847606?i=1000468659697",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzc3NDM0NzQ5",
 "spotify": "https://open.spotify.com/episode/0UBecJbZQR6wkIKugcQvcI",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=8Bk4gwKOTWk&t=457s"
 },
 "time163": {
 "name": "0315 簽完和平協議就是要開槍慶祝、如果武漢肺炎最後發現是美國開始要改名為西雅圖肺炎嗎、推薦Podcast：股癌",
@@ -6889,7 +6914,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-17-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BA%96%E5%AA%B3%E5%A9%A6-feyza/id1106847606?i=1000467974190",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzczNTc0ODEx",
 "spotify": "https://open.spotify.com/episode/2n4Jc8FnfnXU8CxCiJCYib",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=DsRbejo6Jjg&t=1038s"
 },
 "time160": {
 "name": "0308 美國民主黨初選剩下兩個老白男、閒聊、回覆中國網友 #2",
@@ -6935,7 +6960,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-16-%E8%80%B3%E8%86%9C%E7%88%86%E7%A0%B4%E4%B9%8B%E9%BE%8D%E9%BE%8D%E8%88%87%E5%87%B1%E8%8E%89%E8%81%8A%E5%A4%A9/id1106847606?i=1000467312307",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzY5ODkyMTI1",
 "spotify": "https://open.spotify.com/episode/5VuVPbrz2X9JQyB3Jg4enS",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=a5RojClnS6M&t=1305s"
 },
 "time157": {
 "name": "0301 川普去印度發大財、意大利確診人數暴增、閑聊猜測228有沒有人去參加",
@@ -6968,7 +6993,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-015-%E6%9C%83%E8%B5%B0%E8%B7%AF%E7%9A%84%E7%BF%BB%E8%AD%AF%E6%A9%9F-howard/id1106847606?i=1000466611227",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzY2MjE0MzUz",
 "spotify": "https://open.spotify.com/episode/6kE7SDx9hLhg7G5MjTAEBp",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=NqPlXu79YD0&t=2676s"
 },
 "time155": {
 "name": "0223 中國驅逐美國記者、德國極右派槍擊案、回應中國聽衆留言",
@@ -6998,7 +7023,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-014-%E8%88%87%E7%9A%87%E6%B0%91%E7%B6%A0%E7%9A%84%E5%B0%8D%E8%A9%B1-ivan/id1106847606?i=1000465928559",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzYyNTc0MTg5",
 "spotify": "https://open.spotify.com/episode/6HdYxkqOCCNGMmMUGOAVpN",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=iSouEeE1BoA&t=1507s"
 },
 "time153": {
 "name": "0216 死後的精子要怎麼拿、解放軍對美國人個資下手、Pimp",
@@ -7028,7 +7053,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-013-%E8%88%87%E7%9F%A5%E8%AD%98%E8%97%8D%E7%9A%84%E5%B0%8D%E8%A9%B1-wolf/id1106847606?i=1000465257950",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzU4NjM1NTQ5",
 "spotify": "https://open.spotify.com/episode/3mLztcG1osj6QN8rNqE9mo",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=vQow14MhRCc&t=3134s"
 },
 "time151": {
 "name": "0210 一個app毀掉一個美國初選、你不知道中國人怎麽看武漢肺炎、推薦劇：流感來襲",
@@ -7059,7 +7084,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-012-%E8%84%AB%E5%8F%A3%E7%A7%80%E7%95%8C%E7%9A%84%E5%B0%8F%E9%9A%BB%E9%A6%AC-%E4%B9%88%E4%B9%88%E8%B7%9F%E6%80%A1%E5%B2%91/id1106847606?i=1000464563924",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzU0NzgyMzY3",
 "spotify": "https://open.spotify.com/episode/58xiIe5whF2rOOptKU8QS9",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=ksx6-XqDNnA"
 },
 "time149": {
 "name": "0202 WHO 關心您、這次蝗災不在香港、百靈果要斂財、凱莉訪問疑似肺炎的被隔離病人",
@@ -7102,11 +7127,13 @@ const playlist = {
 "朋友",
 "音樂"
 ],
-"extra": {},
+"extra": {
+"The KK Show - 011 阿爆 - Bonus Clip: 部落的同婚議題": "https://www.youtube.com/watch?v=Z2VlrXL_ECo"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-011-%E6%8E%92%E7%81%A3%E7%9A%84rihanna-%E8%87%AA%E7%A8%B1-%E9%98%BF%E7%88%86-%E9%98%BF%E4%BB%8D%E4%BB%8D/id1106847606?i=1000463891684",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzUwODgwMTY1",
 "spotify": "https://open.spotify.com/episode/5XOUbFJcqvSF0R1FYrOv9u",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=mRv51nXWuqU&t=318s"
 },
 "time146": {
 "name": "0126 武漢肺炎是人性大考驗、希拉蕊又跑出來開炮、凱莉去滑雪",
@@ -7151,7 +7178,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-010-%E5%B7%B4%E5%A1%9E%E9%9A%86%E7%B4%8D%E7%9A%84%E5%82%B3%E6%95%99%E5%A3%AB-angel/id1106847606?i=1000463234659",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzQ2OTA1NzA4",
 "spotify": "https://open.spotify.com/episode/24bjXyzUTRwp9fgD1BwhrU",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=hoYoMSylmUk"
 },
 "time143": {
 "name": "0119 澳洲大火燒出全世界的同情心、日本政客中國錢收到手軟",
@@ -7181,7 +7208,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-009-%E9%80%99%E9%BA%BD%E5%B8%A5%E4%B8%8D%E5%8E%BB%E9%81%B8%E7%AB%8B%E5%A7%94%E5%8F%AF%E6%83%9C-%E9%A1%A7%E7%AB%8B%E6%A5%B7/id1106847606?i=1000462451585",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzQzMTEzNzk4",
 "spotify": "https://open.spotify.com/episode/0TLeJz9Ja4qP861FU7b6cH",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=f83Zs_zg-yI"
 },
 "time141": {
 "name": "0112 2020台灣選舉後感想、伊朗擊毀民航機、溝通的重要性",
@@ -7213,7 +7240,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-008-%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E6%89%9B%E9%9C%B8%E5%AD%90-%E8%8C%83%E7%90%AA%E6%96%90/id1106847606?i=1000461999331",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzQwNTkyODAy",
 "spotify": "https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=dB_zEfRjSkQ&t=3s"
 },
 "time139": {
 "name": "0105 浴火重生的百靈果News與神秘嘉賓、跟政治立場不同的長輩溝通、Podcast Ideas",
@@ -7259,7 +7286,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-007-%E5%8D%9A%E6%81%A9%E5%A4%9C%E5%A4%9C%E7%A7%80%E7%9C%9F%E4%B8%BB%E8%A7%92-%E8%B3%80%E7%93%8F/id1106847606?i=1000461202081",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzM2MTkxMjgw",
 "spotify": "https://open.spotify.com/episode/2ncVvglpTxZvDfChZMW25z",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=DFmuh4HQbbc&t=5s"
 },
 "time136": {
 "name": "1229 市長對總統開嗆不是台灣的專利、中國的引蛇出洞、寵物通靈師",
@@ -7322,7 +7349,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-006-%E5%B9%B9%E8%A9%B1%E8%B6%85%E5%A4%9A%E7%9A%84%E5%81%A5%E8%BA%AB%E6%95%99%E7%B7%B4-shao-yong/id1106847606?i=1000460644050",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzMzMjIyMDM2",
 "spotify": "https://open.spotify.com/episode/4G654y51mDc2fZdTWNSqKL",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=kKj6GEZFJlQ&t=3368s"
 },
 "time132": {
 "name": "1222 印度新移民法引發暴動、說Greta Thunberg 像韓國瑜的人過來 讓我們跟你談談、戰裡的夏里特 Charité at War",
@@ -7383,7 +7410,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-005-%E5%BB%A3%E6%92%AD%E6%95%99%E4%B8%BB-%E6%AD%90%E9%A6%AC%E5%85%8B/id1106847606?i=1000459846929",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzI5MTA0Nzcw",
 "spotify": "https://open.spotify.com/episode/1wmtMwv1BsfFKa04b1pLxT",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=Xupk3mA-vfQ"
 },
 "time128": {
 "name": "1215（正成集團贊助播出）愛用國貨，從政府做起、當DNA都是別人的時候，你還是你嗎？、慈禧：開啟現代中國的皇太后",
@@ -7428,7 +7455,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-004-%E5%A4%96%E5%95%86%E8%97%A5%E9%A0%AD%E5%96%9C%E5%8A%87%E4%BA%BA-%E8%89%BE%E8%91%A3/id1106847606?i=1000459177470",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzI1NjcwNTY1",
 "spotify": "https://open.spotify.com/episode/2ZeRPc3B6qIscpbyOX4EuN",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=6JsB1pZ710c"
 },
 "time125": {
 "name": "1208 （正成集團贊助播出）讓你幻滅的英國王子、一個只有30%的人交年費的團體、推薦 Podcast: Jungle Prince",
@@ -7477,7 +7504,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-003-2020%E7%9A%84%E8%B2%BB%E7%8E%89%E6%B8%85-%E9%BB%83%E8%B1%AA%E5%B9%B3/id1106847606?i=1000458527221",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzIxOTM3OTc3",
 "spotify": "https://open.spotify.com/episode/7lxzAF6gQ5mF2YjcjD9t2x",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=UKvmx4t_rxI&t=3088s"
 },
 "time122": {
 "name": "1201 Uber害我戒不了酒、抖音抖不掉北京的包袱、推薦歌手 Billie Eilish",
@@ -7509,7 +7536,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=JgWDsV8eXBo"
 },
 "time120": {
-"name": "The KK Show - #00 一切的起源 - Podcast的馬力歐",
+"name": "The KK Show - 000 一切的起源，Podcast的馬力歐",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530995-the-kk-show-000-podcast.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7539,7 +7566,7 @@ const playlist = {
 "youtube": ""
 },
 "time118": {
-"name": "The KK Show - #02 香港脫口秀演員 - Tim Chen",
+"name": "The KK Show - 002 香港脫口秀演員 Tim Chen",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530997-the-kk-show-002-tim-chen.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7613,7 +7640,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=A7CmB19Bg74"
 },
 "time113": {
-"name": "The KK Show - #01 國合會技術團 - Mario",
+"name": "The KK Show - 001 國合會技術團的Mario",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531002-the-kk-show-001-mario.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -8497,7 +8524,7 @@ const playlist = {
 "youtube": ""
 },
 "time052": {
-"name": "0328 Born a crime 以母之名 第十八章（完）",
+"name": "Born a crime 以母之名 第十八章（完）",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531063-0328-born-a-crime.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -8509,7 +8536,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0328-born-a-crime-%E4%BB%A5%E6%AF%8D%E4%B9%8B%E5%90%8D-%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0-%E5%AE%8C/id1106847606?i=1000433628243",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTk3MTM0MTMw",
 "spotify": "https://open.spotify.com/episode/38Z0qi0NX30Ux2eyamWzPX",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=IhhdlPeoy9k"
 },
 "time051": {
 "name": "0324 3.好書推薦 Bad Blood",
@@ -8554,7 +8581,7 @@ const playlist = {
 "youtube": ""
 },
 "time048": {
-"name": "0320 Born a crime 以母之名 第十七章",
+"name": "Born a crime 以母之名 第十七章",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531067-0320-born-a-crime.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -8566,7 +8593,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0320-born-a-crime-%E4%BB%A5%E6%AF%8D%E4%B9%8B%E5%90%8D-%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0/id1106847606?i=1000432614191",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkzMzIzNjI5",
 "spotify": "https://open.spotify.com/episode/6vo4OixrVc2iMU17wxieCh",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=IDVE4gDH304"
 },
 "time047": {
 "name": "0319 1.有錢人跟你想的不一樣 美國名校招生醜聞",
@@ -8623,7 +8650,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0314-born-a-crime-%E4%BB%A5%E6%AF%8D%E4%B9%8B%E5%90%8D-%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0/id1106847606?i=1000431729236",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTg5NzY3Nzky",
 "spotify": "https://open.spotify.com/episode/56hPMGbTJp8V5r9P2iQIv5",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=DhBSjLt3Zxc"
 },
 "time043": {
 "name": "03101 1. 俄國高官女兒入侵歐盟議會，但是她是正妹、所以沒關係",
@@ -8668,7 +8695,7 @@ const playlist = {
 "youtube": ""
 },
 "time040": {
-"name": "0306 讀書會 - Born a crime 以母之名 第十五章 Go Hitler!",
+"name": "百靈果讀書會 - Born a crime 以母之名 第十五章 Go Hitler!",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531075-0306-born-a-crime-go-hitler.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -8680,7 +8707,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0306-%E8%AE%80%E6%9B%B8%E6%9C%83-born-a-crime-%E4%BB%A5%E6%AF%8D%E4%B9%8B%E5%90%8D-%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0-go-hitler/id1106847606?i=1000431216218",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTg1ODA2Mjc3",
 "spotify": "https://open.spotify.com/episode/5LiSmfFxmnw6l0xgAxd9JD",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=LxKnQndNXAY"
 },
 "time039": {
 "name": "百靈果NEWS 2019-03-03 1. 鄰居吵架會引發世界大戰，巴基斯坦跟印度拜託把核武鎖好好嗎？",
@@ -9332,6 +9359,7 @@ const tag_class = {
 "阿爆": ['音樂', '原住民', '朋友'],
 "阿拉斯": ['Youtuber', '音樂', '原住民'],
 "巴大雄 @東南美娛樂": ['Youtuber', '音樂', '原住民'],
+"小澤瑪莉雅": ['色色'],
 "社畜": ['色色'],
 "娃娃": ['色色'],
 "石巴朝": ['色色'],
@@ -9519,7 +9547,7 @@ const class_tag = {
 "音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', 'Musa 明馬丁', '桃子 A1J', '珂拉琪 Collage', '林昶佐'],
 "原住民": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '黃京葦醫師', '陳念琴', '東冬侯溫'],
 "朋友": ['阿爆', 'Howard', 'Ivan', 'Shao Yong', '趙哥', '陳沂', 'Pom 咩'],
-"色色": ['社畜', '娃娃', '石巴朝', 'Niki'],
+"色色": ['小澤瑪莉雅', '社畜', '娃娃', '石巴朝', 'Niki'],
 "劇場": ['台南人劇團', '蕭東意'],
 "舞蹈": ['布拉瑞揚 @布拉瑞揚舞團'],
 "律師": ['劉珞亦 @法律白話文', '楊貴智 @法律白話文'],

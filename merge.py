@@ -57,7 +57,7 @@ for podcast_str, podcast_dict in result_doc.items():
             name_list.append(adjust(title_str))
             names_list = sorted(list(set(name_list)), key=lambda x:len(x))
             title_episode_dict["names"] = names_list
-            title_episode_dict["name"] = names_list[-1]
+            title_episode_dict["name"] = names_list[0]
             title_episode_dict[podcast_str] = link_str
         title_dict[time_str] = title_episode_dict
 print("    ----")

@@ -439,6 +439,11 @@ inclusive = ["巴大雄"]
 exclusive = []
 category = ["Youtuber", "音樂", "原住民"]
 
+["小澤瑪莉雅"]
+inclusive = ["小澤瑪莉雅"]
+exclusive = []
+category = ["色色"]
+
 ["社畜"]
 inclusive = ["社畜"]
 exclusive = []

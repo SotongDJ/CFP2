@@ -235,14 +235,11 @@ Start annotation
     time318
     time597
     time593
-  Excluded: (8)
+  Excluded: (5)
     time093
     time091
     time077
-    time052
-    time048
     time044
-    time040
     time191
 [百靈果 Bonus]
   found in: (8)
@@ -711,9 +708,8 @@ Start annotation
   Excluded: (0)
     
 [Rage by Bob Woodward]
-  found in: (3)
+  found in: (2)
     time258
-    time255
     time252
   Excluded: (0)
     
@@ -796,7 +792,7 @@ Start annotation
   Excluded: (0)
     
 [暫代讀書會]
-  found in: (15)
+  found in: (14)
     time093
     time305
     time547
@@ -805,7 +801,6 @@ Start annotation
     time444
     time454
     time418
-    time400
     time261
     time249
     time199
@@ -877,9 +872,8 @@ Start annotation
   Excluded: (0)
     
 [裴洛西訪台事件]
-  found in: (4)
+  found in: (3)
     time544
-    time545
     time547
     time548
   Excluded: (0)
@@ -1054,6 +1048,12 @@ Start annotation
   found in: (2)
     time120
     time077
+  Excluded: (0)
+    
+[龍哥（影視）]
+  found in: (2)
+    time594
+    time405
   Excluded: (0)
     
 [小潘]

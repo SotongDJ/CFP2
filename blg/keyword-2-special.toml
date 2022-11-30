@@ -20,8 +20,8 @@ inclusive = ["八角籠"]
 exclusive = []
 category = ["#節目系列","暫代讀書會"]
 
-["Clubhouse 企劃"]
-inclusive = ["海外連線","『Clubhouse特別企劃』"]
+["Clubhouse 直播"]
+inclusive = ["八角籠直播","海外連線","『Clubhouse特別企劃』","直播聊這幾天在中國"]
 exclusive = []
 category = ["#節目系列","暫代讀書會"]
 

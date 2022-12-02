@@ -1136,7 +1136,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=b-9XJFMmSEk"
 },
 "time535": {
-"name": "越戰美國大兵有嚴重的用藥問題、讀書會：同情者 CH 2",
+"name": "讀書會：同情者 CH 2 越戰美國大兵有嚴重的用藥問題",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10876702-ch-2.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -1181,7 +1181,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=jMLLKm_VFeA"
 },
 "time532": {
-"name": "0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷葉邊的威力",
+"name": "0626 拜登想跟中國和好？ 澳洲新政府想跟中國破冰、荷花邊的威力",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10853099-0626.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2357,7 +2357,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=f3-tbslhXtw&t=60s"
 },
 "time457": {
-"name": "林獻堂的兒子們怎麽有辦法跟老爸旅遊這麽久不發瘋？ 讀書會：林獻堂環球遊記 End",
+"name": "林獻堂的兒子們怎麽有辦法跟老爸旅游這麽久不發瘋？ 讀書會：林獻堂環球遊記 End",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530658-end.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3536,7 +3536,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=bZx__bXYf6k"
 },
 "time380": {
-"name": "0801 閒聊奧運第一周、難民選手救全船、美國國會山莊聽證會開始啦",
+"name": "0801 閒聊奧運第一週、難民選手救全船、美國國會山莊聽證會開始啦",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530735-0801.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4333,12 +4333,13 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=yyrNWsXt4rU"
 },
 "time329": {
-"name": "天地會=法輪功？ 金瓶梅到底露骨不露骨？ 讀書會 傀儡花：第七部 第八部 56章",
+"name": "天地會=法輪功？ 金瓶梅到底露骨不露骨？ 讀書會：傀儡花 第七部 第八部 56章",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530786-56.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2021",
-"讀書會"
+"讀書會",
+"傀儡花"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E5%A4%A9%E5%9C%B0%E6%9C%83-%E6%B3%95%E8%BC%AA%E5%8A%9F-%E9%87%91%E7%93%B6%E6%A2%85%E5%88%B0%E5%BA%95%E9%9C%B2%E9%AA%A8%E4%B8%8D%E9%9C%B2%E9%AA%A8-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%82%80%E5%84%A1%E8%8A%B1-%E7%AC%AC%E4%B8%83%E9%83%A8-%E7%AC%AC%E5%85%AB%E9%83%A8-56%E7%AB%A0/id1106847606?i=1000516288811",
@@ -4423,7 +4424,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=oZCklUMoX6k&t=793s"
 },
 "time323": {
-"name": "斯卡羅真的比較帥 我們道歉、台南清朝就有蝦仁肉圓跟炒鱔魚意麵？ 讀書會：傀儡花 第三部 第四部",
+"name": "斯卡羅真的比較帥 我們道歉、台南清朝就有蝦仁肉圓跟炒鱔魚意面？ 讀書會：傀儡花 第三部 第四部",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530792-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -6188,7 +6189,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=gYGS0AGSXAk"
 },
 "time208": {
-"name": "The KK Show - 033 一言不合就Docking - 趙哥",
+"name": "The KK Show - #33 一言不合就Docking - 趙哥",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530907-the-kk-show-033-docking.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -6991,7 +6992,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=kYeUhgOMBF0"
 },
 "time156": {
-"name": "The KK Show - #15 會走路的翻譯機 - Howard",
+"name": "The KK Show - 015 會走路的翻譯機 - Howard",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530959-the-kk-show-015-howard.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7054,7 +7055,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=UV6q37Cke1I"
 },
 "time152": {
-"name": "The KK Show - #13 與知識藍的對話 - Wolf",
+"name": "The KK Show - 013 與知識藍的對話 - Wolf",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530963-the-kk-show-013-wolf.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7209,7 +7210,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=x87FnOchEHU"
 },
 "time142": {
-"name": "The KK Show - #09 這麽帥不去選立委可惜 - 顧立楷",
+"name": "The KK Show - 009 這麽帥不去選立委可惜 - 顧立楷",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7239,7 +7240,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=1N8q-iKrq1Q&t=2232s"
 },
 "time140": {
-"name": "The KK Show - #08 國際新聞扛霸子 - 范琪斐",
+"name": "The KK Show - 008 國際新聞扛霸子 - 范琪斐",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530975-the-kk-show-008.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [

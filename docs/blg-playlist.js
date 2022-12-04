@@ -1150,7 +1150,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=b-9XJFMmSEk"
 },
 "time535": {
-"name": "越戰美國大兵有嚴重的用藥問題、讀書會：同情者 CH 2",
+"name": "讀書會：同情者 CH 2 越戰美國大兵有嚴重的用藥問題",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10876702-ch-2.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -1819,7 +1819,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=IRLvzHUkTTY"
 },
 "time492": {
-"name": "『Clubhouse特別企劃』歡迎被封城的聽眾來聊天",
+"name": "『Clubhouse特別企劃』與在中國封城的聽眾聊天",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3154,7 +3154,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=JVF4rcnSj7M&t=945s"
 },
 "time406": {
-"name": "魷魚遊戲概念股帶韓國股市一起飛、共產黨弄了一個傀儡喇嘛、讀書會：吃佛 Eat The Buddha #01",
+"name": "魷魚游戲概念股帶韓國股市一起飛、共產黨弄了一個傀儡喇嘛、讀書會：吃佛 Eat The Buddha #01",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530709-eat-the-buddha-01.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3336,7 +3336,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=94xCcr72i-U"
 },
 "time394": {
-"name": "日本有東京變種新冠肺炎、#顔千鶴 女士是現代女性的好榜樣 、 員工比老闆早去看 #心理諮商 讀書會： 宮前町九十番地 05",
+"name": "日本有東京變種新冠肺炎、#顔千鶴 女士是現代女性的好榜樣 、 員工比老闆早去看 #心理咨商 讀書會： 宮前町九十番地 05",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530721-05.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3579,7 +3579,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=2xWAnZjqdPk"
 },
 "time378": {
-"name": "The KK Show - #90 葉耀元教授又來啦",
+"name": "The KK Show - #91 葉耀元教授又來啦",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530737-the-kk-show-90.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3933,7 +3933,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=enYBHX5XPVw"
 },
 "time356": {
-"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5，6",
+"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5、6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3979,7 +3979,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=W1b8q1pda6w"
 },
 "time353": {
-"name": "醫護人員We Love You！被自己國家下毒還無法伸冤、阿根廷是納粹天堂？ 讀書會： CIA 洗腦計劃 Ch 3、4",
+"name": "醫護人員We Love You、被自己國家下毒還無法伸冤、阿根廷是納粹天堂？ 讀書會： CIA 洗腦計劃 Ch 3、4",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530762-we-love-you-cia-ch-3-4.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4438,7 +4438,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=oZCklUMoX6k&t=793s"
 },
 "time323": {
-"name": "斯卡羅真的比較帥 我們道歉、台南清朝就有蝦仁肉圓跟炒鱔魚意面？ 讀書會：傀儡花 第三部 第四部",
+"name": "斯卡羅真的比較帥 我們道歉、台南清朝就有蝦仁肉圓跟炒鱔魚意麵？ 讀書會：傀儡花 第三部 第四部",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530792-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -4518,13 +4518,11 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=3Ku0m1Xm2pA"
 },
 "time318": {
-"name": "鹿港繞境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦",
+"name": "鹿港遶境 0314 南韓願意提高保護費、PEACE 海底電纜是華爲的哦",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530797-0314-peace.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
-"Mar 2021",
-"百靈果 NEWS",
-"Live Podcast"
+"Mar 2021"
 ],
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/%E9%B9%BF%E6%B8%AF%E7%B9%9E%E5%A2%83-0314-%E5%8D%97%E9%9F%93%E9%A1%98%E6%84%8F%E6%8F%90%E9%AB%98%E4%BF%9D%E8%AD%B7%E8%B2%BB-peace-%E6%B5%B7%E5%BA%95%E9%9B%BB%E7%BA%9C%E6%98%AF%E8%8F%AF%E7%88%B2%E7%9A%84%E5%93%A6/id1106847606?i=1000512917414",
@@ -5460,7 +5458,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AjlSKtDId9E"
 },
 "time256": {
-"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰皇這麽爽會想要改革嗎、凱莉投票了",
+"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰王這麽爽會想要改革嗎、凱莉投票了",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7069,7 +7067,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=UV6q37Cke1I"
 },
 "time152": {
-"name": "The KK Show - #13 與知識藍的對話 - Wolf",
+"name": "The KK Show - 013 與知識藍的對話 - Wolf",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530963-the-kk-show-013-wolf.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7099,7 +7097,7 @@ const playlist = {
 "youtube": ""
 },
 "time150": {
-"name": "The KK Show - 012 脫口秀界的小隻馬 - 么么跟怡岑",
+"name": "The KK Show - #12 脫口秀界的小隻馬 - 么么跟怡岑",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530965-the-kk-show-012.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7224,7 +7222,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=x87FnOchEHU"
 },
 "time142": {
-"name": "The KK Show - #09 這麽帥不去選立委可惜 - 顧立楷",
+"name": "The KK Show - 009 這麽帥不去選立委可惜 - 顧立楷",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [

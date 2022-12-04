@@ -1,7 +1,7 @@
 ----
 Start annotation
 [百靈果 NEWS]
-  found in: (233)
+  found in: (232)
     time590
     time585
     time551
@@ -232,7 +232,6 @@ Start annotation
     time554
     time135
     time002
-    time318
     time597
     time593
   Excluded: (5)
@@ -426,11 +425,10 @@ Start annotation
   Excluded: (0)
     
 [Live Podcast]
-  found in: (5)
+  found in: (4)
     time468
     time454
     time159
-    time318
     time262
   Excluded: (0)
     
@@ -670,9 +668,8 @@ Start annotation
   Excluded: (0)
     
 [傀儡花]
-  found in: (6)
+  found in: (5)
     time332
-    time329
     time326
     time323
     time320

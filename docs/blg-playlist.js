@@ -1819,7 +1819,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=IRLvzHUkTTY"
 },
 "time492": {
-"name": "『Clubhouse特別企劃』與在中國封城的聽眾聊天",
+"name": "『Clubhouse特別企劃』歡迎被封城的聽眾來聊天",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2308,7 +2308,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=GgCzbOCj_28&t=2597s"
 },
 "time461": {
-"name": "0206 #谷愛凌 是超級間諜？ 紐西蘭爲什麽要開放旅游了？ 閒聊Joe Rogan 後續 推薦電影:偶然與想像",
+"name": "0206 #谷愛凌 是超級間諜？ 紐西蘭爲什麽要開放旅遊了？ 閒聊Joe Rogan 後續 推薦電影:偶然與想像",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530654-0206-joe-rogan.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -2371,7 +2371,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=f3-tbslhXtw&t=60s"
 },
 "time457": {
-"name": "林獻堂的兒子們怎麽有辦法跟老爸旅游這麽久不發瘋？ 讀書會：林獻堂環球遊記 End",
+"name": "林獻堂的兒子們怎麽有辦法跟老爸旅遊這麽久不發瘋？ 讀書會：林獻堂環球遊記 End",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530658-end.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3933,7 +3933,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=enYBHX5XPVw"
 },
 "time356": {
-"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5，6",
+"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5、6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5458,7 +5458,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AjlSKtDId9E"
 },
 "time256": {
-"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰皇這麽爽會想要改革嗎、凱莉投票了",
+"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰王這麽爽會想要改革嗎、凱莉投票了",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -6201,7 +6201,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=gYGS0AGSXAk"
 },
 "time208": {
-"name": "The KK Show - 033 一言不合就Docking - 趙哥",
+"name": "The KK Show - #33 一言不合就Docking - 趙哥",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530907-the-kk-show-033-docking.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7097,7 +7097,7 @@ const playlist = {
 "youtube": ""
 },
 "time150": {
-"name": "The KK Show - #12 脫口秀界的小隻馬 - 么么跟怡岑",
+"name": "The KK Show - 012 脫口秀界的小隻馬 - 么么跟怡岑",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530965-the-kk-show-012.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7192,7 +7192,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=sGXOqAX5_vo"
 },
 "time144": {
-"name": "The KK Show - #10 巴賽隆納的傳教士 - Angel",
+"name": "The KK Show - 010 巴塞隆納的傳教士 - Angel",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530971-the-kk-show-010-angel.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7222,7 +7222,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=x87FnOchEHU"
 },
 "time142": {
-"name": "The KK Show - 009 這麽帥不去選立委可惜 - 顧立楷",
+"name": "The KK Show - #09 這麽帥不去選立委可惜 - 顧立楷",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [

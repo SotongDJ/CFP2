@@ -3242,7 +3242,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/0919-%E4%B8%96%E7%95%8C%E9%8A%80%E8%A1%8C-%E9%80%83%E4%B8%8D%E5%87%BA%E4%B8%AD%E5%9C%8B%E9%AD%94%E7%88%AA-%E5%B7%9D%E6%99%AE%E5%8F%83%E8%AC%80%E9%95%B7%E8%B6%85%E6%80%95%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0-%E7%8E%A9%E9%81%8A%E6%88%B2%E8%B3%BA%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-%E5%8F%B0%E5%8D%97%E8%B7%9F%E6%BE%8E%E6%B9%96%E6%97%85%E6%B8%B8/id1106847606?i=1000535907621",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEyNjk0NjAzOA",
 "spotify": "https://open.spotify.com/episode/0VfP1BD7k77D1Yo6nnhajE",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=oGicg_hvJig&t=351s"
 },
 "time400": {
 "name": "中國透過維基百科更改歷史、老闆去新竹向員工道歉、文科畢業生的重要性",
@@ -3933,7 +3933,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=enYBHX5XPVw"
 },
 "time356": {
-"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5，6",
+"name": "以前的間諜訓練要帶SM面具？ 連續殺人魔有參與CIA的實驗計劃？ 讀書會：CIA的洗腦計劃：Ch 5、6",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530759-sm-cia-cia-ch-5-6.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3979,7 +3979,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=W1b8q1pda6w"
 },
 "time353": {
-"name": "醫護人員We Love You、被自己國家下毒還無法伸冤、阿根廷是納粹天堂？ 讀書會： CIA 洗腦計劃 Ch 3、4",
+"name": "醫護人員We Love You！被自己國家下毒還無法伸冤、阿根廷是納粹天堂？ 讀書會： CIA 洗腦計劃 Ch 3、4",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530762-we-love-you-cia-ch-3-4.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -5460,7 +5460,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AjlSKtDId9E"
 },
 "time256": {
-"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰王這麽爽會想要改革嗎、凱莉投票了",
+"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰皇這麽爽會想要改革嗎、凱莉投票了",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7156,7 +7156,9 @@ const playlist = {
 "朋友",
 "音樂"
 ],
-"extra": {},
+"extra": {
+"The KK Show - #11 阿爆 - Bonus Clip: 部落的同婚議題": "https://www.youtube.com/watch?v=Z2VlrXL_ECo"
+},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-011-%E6%8E%92%E7%81%A3%E7%9A%84rihanna-%E8%87%AA%E7%A8%B1-%E9%98%BF%E7%88%86-%E9%98%BF%E4%BB%8D%E4%BB%8D/id1106847606?i=1000463891684",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzUwODgwMTY1",
 "spotify": "https://open.spotify.com/episode/5XOUbFJcqvSF0R1FYrOv9u",
@@ -7192,7 +7194,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=sGXOqAX5_vo"
 },
 "time144": {
-"name": "The KK Show - #10 巴賽隆納的傳教士 - Angel",
+"name": "The KK Show - #10 巴塞隆納的傳教士 - Angel",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530971-the-kk-show-010-angel.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [

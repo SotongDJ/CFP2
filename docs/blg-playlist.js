@@ -812,7 +812,7 @@ const playlist = {
 "youtube": ""
 },
 "time556": {
-"name": "好萊塢十大種族歧視經典、、讀書會：同情者 Ep 5",
+"name": "好萊塢十大種族歧視經典、讀書會：同情者 Ep 5",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11196213-ep-5.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3675,7 +3675,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=m-1Z6PawdPs&t=1094s"
 },
 "time372": {
-"name": "百靈果之友: 003@ 無國界醫生 劉董",
+"name": "聲音修正 百靈果之友: 003 無國界醫生 劉董",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530743-003.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3691,7 +3691,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%81%B2%E9%9F%B3%E4%BF%AE%E6%AD%A3-%E7%99%BE%E9%9D%88%E6%9E%9C%E4%B9%8B%E5%8F%8B-003-%E7%84%A1%E5%9C%8B%E7%95%8C%E9%86%AB%E7%94%9F-%E5%8A%89%E8%91%A3/id1106847606?i=1000529036559",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4ODM4MTE2Nw",
 "spotify": "https://open.spotify.com/episode/3Sk9Hv41IlFZOkNwJK555i",
-"youtube": "https://www.youtube.com/watch?v=GrnvpxvweVo&t=474s"
+"youtube": ""
 },
 "time371": {
 "name": "The KK Show - #89 回台加入國民黨 - 李有宜",
@@ -5460,7 +5460,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=AjlSKtDId9E"
 },
 "time256": {
-"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰皇這麽爽會想要改革嗎、凱莉投票了",
+"name": "1018 尋求父愛的路總是辛苦的：杭特拜登、泰王這麽爽會想要改革嗎、凱莉投票了",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530859-1018.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -7498,7 +7498,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/1208-%E6%AD%A3%E6%88%90%E9%9B%86%E5%9C%98%E8%B4%8A%E5%8A%A9%E6%92%AD%E5%87%BA-%E8%AE%93%E4%BD%A0%E5%B9%BB%E6%BB%85%E7%9A%84%E8%8B%B1%E5%9C%8B%E7%8E%8B%E5%AD%90-%E4%B8%80%E5%80%8B%E5%8F%AA%E6%9C%8930-%E7%9A%84%E4%BA%BA%E4%BA%A4%E5%B9%B4%E8%B2%BB%E7%9A%84%E5%9C%98%E9%AB%94-%E6%8E%A8%E8%96%A6-podcast/id1106847606?i=1000458989864",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzI0MTA3MzU4",
 "spotify": "https://open.spotify.com/episode/0HCpE3XFVPDah08VkpJivn",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=r2fsj4RL1F4"
 },
 "time124": {
 "name": "讀書會：Wild Swans ｜鴻：三代中國女人 第14章",

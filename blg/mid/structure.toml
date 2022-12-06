@@ -3,6 +3,9 @@
 [time602]
 name = "The KK Show - #165 基層員警溫特斯"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11822632-the-kk-show-165.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-165-%E5%9F%BA%E5%B1%A4%E5%93%A1%E8%AD%A6%E6%BA%AB%E7%89%B9%E6%96%AF/id1106847606?i=1000589041000"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTgyMjYzMg"
+spotify = "https://open.spotify.com/episode/1EHlMh0Uwqd1soZUGk9GEV"
 youtube = "https://www.youtube.com/watch?v=e7K617yP1io"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 names = ["The KK Show - #165 基層員警溫特斯"]

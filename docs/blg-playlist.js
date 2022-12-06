@@ -8,9 +8,9 @@ const playlist = {
 "KK Show"
 ],
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-165-%E5%9F%BA%E5%B1%A4%E5%93%A1%E8%AD%A6%E6%BA%AB%E7%89%B9%E6%96%AF/id1106847606?i=1000589041000",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTgyMjYzMg",
+"spotify": "https://open.spotify.com/episode/1EHlMh0Uwqd1soZUGk9GEV",
 "youtube": "https://www.youtube.com/watch?v=e7K617yP1io"
 },
 "time601": {

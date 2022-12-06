@@ -3675,7 +3675,7 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=m-1Z6PawdPs&t=1094s"
 },
 "time372": {
-"name": "聲音修正 百靈果之友: 003 無國界醫生 劉董",
+"name": "百靈果之友: 003 無國界醫生 劉董",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530743-003.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
@@ -3691,7 +3691,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E8%81%B2%E9%9F%B3%E4%BF%AE%E6%AD%A3-%E7%99%BE%E9%9D%88%E6%9E%9C%E4%B9%8B%E5%8F%8B-003-%E7%84%A1%E5%9C%8B%E7%95%8C%E9%86%AB%E7%94%9F-%E5%8A%89%E8%91%A3/id1106847606?i=1000529036559",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4ODM4MTE2Nw",
 "spotify": "https://open.spotify.com/episode/3Sk9Hv41IlFZOkNwJK555i",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=GrnvpxvweVo&t=474s"
 },
 "time371": {
 "name": "The KK Show - #89 回台加入國民黨 - 李有宜",

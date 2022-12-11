@@ -1,4 +1,25 @@
 const playlist = {
+"time603": {
+"name": "百靈果news | 聊聊館長被罵、到波蘭看側翼的產地",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11850170-news.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Dec 2022",
+"百靈果 NEWS",
+"館長",
+"健身",
+"專業人士",
+"教練",
+"時事",
+"老闆",
+"運動"
+],
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=OHS2SX22bK4"
+},
 "time602": {
 "name": "The KK Show - #165 基層員警溫特斯",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11822632-the-kk-show-165.mp3",

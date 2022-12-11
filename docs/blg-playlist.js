@@ -15,9 +15,9 @@ const playlist = {
 "運動"
 ],
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E8%81%8A%E8%81%8A%E9%A4%A8%E9%95%B7%E8%A2%AB%E7%BD%B5-%E5%88%B0%E6%B3%A2%E8%98%AD%E7%9C%8B%E5%81%B4%E7%BF%BC%E7%9A%84%E7%94%A2%E5%9C%B0/id1106847606?i=1000589746510",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTg1MDE3MA",
+"spotify": "https://open.spotify.com/episode/2ZEnYu2HG1GUS5TMdr96dc",
 "youtube": "https://www.youtube.com/watch?v=OHS2SX22bK4"
 },
 "time602": {

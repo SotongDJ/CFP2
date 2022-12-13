@@ -8,9 +8,9 @@ const playlist = {
 "KK Show"
 ],
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-166-%E8%8F%AF%E7%88%BE%E8%A1%97%E4%B9%8B%E7%8B%BC%E6%98%AF%E7%9C%9F%E7%9A%84-aaron-episode%E9%85%92%E5%BA%97%E5%89%B5%E8%BE%A6%E4%BA%BA/id1106847606?i=1000590027712",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTg2MzEwNQ",
+"spotify": "https://open.spotify.com/episode/30qoFHXUsnCszh9whs5rOS",
 "youtube": "https://www.youtube.com/watch?v=b1reXATX12M"
 },
 "time603": {

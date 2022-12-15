@@ -1120,12 +1120,11 @@ Start annotation
   Excluded: (0)
     
 [館長]
-  found in: (3)
-    time603
+  found in: (2)
     time584
     time583
-  Excluded: (0)
-    
+  Excluded: (1)
+    time603
 [Angel]
   found in: (2)
     time287

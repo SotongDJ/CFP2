@@ -9,6 +9,7 @@ def do_job(target_str,configing):
     print("----\nStart merge")
     result_doc = rtoml.load(open(target_str+"/mid/history.toml",encoding="utf8"))
     month_doc = rtoml.load(open(target_str+"/record/feedPodcast-month.toml",encoding="utf8"))
+    dscri_doc = rtoml.load(open(target_str+"/record/description.toml",encoding="utf8"))
     name2id_dict = {}
     alias_doc = rtoml.load(open(target_str+"/alias.toml",encoding="utf8"))
     img_doc = rtoml.load(open(target_str+"/record/image.toml",encoding="utf8"))
@@ -76,13 +77,13 @@ def do_job(target_str,configing):
         title_episode_dict = title_dict.get(id_str,{})
         title_episode_dict["tag"] = [month_str]
         title_dict[id_str] = title_episode_dict
-    # annotation = rtoml.document()
-    # annotation.add(rtoml.comment("Add your own tag to each episode"))
-    # annotation.add(rtoml.nl())
-    # youtube_entities = rtoml.document()
-    # youtube_entities.add(rtoml.comment("Need to clear for act4"))
-    # youtube_entities.add(rtoml.nl())
-    # episode = rtoml.table()
+    print("    ----")
+    print("    collect podcast info from description.toml")
+    for title_str,dscri_str in dscri_doc.items():
+        id_str = correct(title_str)
+        title_episode_dict = title_dict.get(id_str,{})
+        title_episode_dict["description"] = dscri_str
+        title_dict[id_str] = title_episode_dict
     annotation = {}
     youtube_entities = {}
     print("    ----")

@@ -22,6 +22,7 @@ def do_job(target_str,configing):
     print("        Feed: convert XML and update dictionary")
     rss_feed = bs(rss_req.text,"xml")
     rss_dict = {}
+    description_dict = {}
     month_dict = {}
     name2url_dict = {}
     url_to_file_dict = {}
@@ -31,10 +32,15 @@ def do_job(target_str,configing):
         url_to_file_dict.update(img_doc["url2file"])
     channel_cover_str = rss_feed.find("image").url.contents[0]  # type: ignore
     img_size_list = [96,128,192,256,384,512]
+    if pathlib.Path(target_str+"/record/description.toml").exists():
+        description_dict.update(rtoml.load(open(target_str+"/record/description.toml",encoding="utf8")))
     for unit in rss_feed.find_all('item'):
         name = unit.title.contents[0]
         url = unit.enclosure['url']
+        description = str(unit.description.contents[0])
         rss_dict[name] = url
+        if name not in description_dict:
+            description_dict[name] = description
         original_time_str = unit.pubDate.contents[0]
         mthfmt_str = "%a, %d %b %Y %H:%M:%S %z"
         month_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %Y")
@@ -67,6 +73,7 @@ def do_job(target_str,configing):
     configing.xmlw(rss_req.text,"/record/feedPodcastRequests.xml")
     configing.toml(rss_dict,"/record/feedPodcast.toml")
     configing.toml(month_dict,"/record/feedPodcast-month.toml")
+    configing.toml(description_dict,"/record/description.toml")
     configing.toml({"name2url":name2url_dict,"url2file":url_to_file_dict},"/record/image.toml")
     print("    Finish collection: Feed")
     #

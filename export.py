@@ -33,6 +33,7 @@ def do_job(target_str):
         "feed":"",
         "image":"",
         "tag":[],
+        "description":"",
         "extra":{},
         "apple":"",
         "google":"",
@@ -55,12 +56,12 @@ def do_job(target_str):
                 deduplicate_tag_list.append(tag)
         value_inner_dict["tag"] = deduplicate_tag_list
         playlist_dict[key_str] = value_inner_dict
-    outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=False)+";\n"
+    outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=True)+";\n"
 
     # with open("docs/blg-playlist.json","w") as target_handler:
     #     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
-    # with open("docs/blg-playlist.toml","w") as target_handler:
-    #     rtoml.dump(playlist_dict,target_handler)
+    with open("docs/blg-playlist.toml","w") as target_handler:
+        rtoml.dump(playlist_dict,target_handler)
 
     print("    ----")
     print("    export docs/"+target_str+"-tag_class")

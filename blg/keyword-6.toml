@@ -30,6 +30,11 @@ inclusive = ["Feyza"]
 exclusive = []
 category = ["聽眾"]
 
+[V]
+inclusive = ["維吾爾的故事 - V"]
+exclusive = []
+category = ["聽眾"]
+
 # 其他
 
 [Howard]
@@ -51,6 +56,11 @@ category = ["朋友","專業人士","健身","教練","運動"]
 inclusive = ["趙哥"]
 exclusive = []
 category = ["朋友"]
+
+["Aaron"]
+inclusive = ["Aaron"]
+exclusive = []
+category = ["朋友","老闆","深海墨客未聽（標籤未定）"]
 
 ["陳沂"]
 inclusive = ["陳沂"]

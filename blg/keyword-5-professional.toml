@@ -82,6 +82,11 @@ inclusive = ["吳品瑜"]
 exclusive = []
 category = ["時事"]
 
+["溫特斯"]
+inclusive = ["基層員警溫特斯"]
+exclusive = []
+category = ["時事","專業人士"]
+
 ["印度尤"]
 inclusive = ["印度尤"]
 exclusive = []
@@ -208,7 +213,7 @@ category = ["運動"]
 
 ["館長"]
 inclusive = ["館長"]
-exclusive = []
+exclusive = ["聊聊館長"]
 category = ["時事","專業人士","健身","教練","運動","老闆"]
 
 ["剛哥"]

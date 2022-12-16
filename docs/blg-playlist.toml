@@ -7,7 +7,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-166-%E8%8F%AF%E7%88%B
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTg2MzEwNQ"
 spotify = "https://open.spotify.com/episode/30qoFHXUsnCszh9whs5rOS"
 youtube = "https://www.youtube.com/watch?v=b1reXATX12M"
-tag = ["Dec 2022", "KK Show", "Aaron", "朋友", "深海墨客未聽（標籤未定）", "老闆"]
+tag = ["Dec 2022", "KK Show", "Aaron", "老闆"]
 
 [time604.extra]
 
@@ -232,7 +232,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-160-%E6%96%B0%E7%AB%B
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY1MjY1Nw"
 spotify = "https://open.spotify.com/episode/0bKZnaBmvcdePWq8iqQu76"
 youtube = "https://www.youtube.com/watch?v=qeoWnFSUPP4"
-tag = ["Nov 2022", "KK Show", "2022台灣地方選舉", "周江杰", "政治人物"]
+tag = ["Nov 2022", "KK Show", "周江杰", "2022台灣地方選舉", "政治人物"]
 
 [time588.extra]
 "#Clips 新竹縣的年輕人需要什麼？ | The KK Show - #160 新竹縣長候選人 - 周江杰" = "https://www.youtube.com/watch?v=28yk6EWsHGg"
@@ -247,7 +247,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-159-%E8%81%8A%E8%81%8
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYzNzIxNw"
 spotify = "https://open.spotify.com/episode/0ylEInn0WZv7yCGs9yycyF"
 youtube = "https://www.youtube.com/watch?v=b4FX4gSNVqQ"
-tag = ["Nov 2022", "KK Show", "2022台灣地方選舉", "人渣文本", "學者", "運動"]
+tag = ["Nov 2022", "KK Show", "人渣文本", "2022台灣地方選舉", "學者", "運動"]
 
 [time587.extra]
 "#Clips 擦槍走火的論文門事件內幕 ｜The KK Show - #159 聊聊選舉 - 人渣文本" = "https://www.youtube.com/watch?v=AQRVyo2T8CQ"
@@ -797,7 +797,7 @@ apple = "https://podcasts.apple.com/tw/podcast/0807-%E5%9C%8B%E5%A4%96%E6%97%85%
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTA5MjcxMw"
 spotify = "https://open.spotify.com/episode/3oraxeh1S3w78eCrvTO9s1"
 youtube = "https://www.youtube.com/watch?v=mH07nR0gCX0&t=2204s"
-tag = ["Aug 2022", "百靈果 NEWS", "裴洛西訪台事件", "敏迪 @敏迪選讀", "Podcaster", "時事"]
+tag = ["Aug 2022", "百靈果 NEWS", "敏迪 @敏迪選讀", "裴洛西訪台事件", "Podcaster", "時事"]
 
 [time548.extra]
 
@@ -2103,7 +2103,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-%E6%8
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE5MDI1NTEwMQ"
 spotify = "https://open.spotify.com/episode/1yPZgE4HbZFUSlh2DJDuPe"
 youtube = "https://www.youtube.com/watch?v=YOj5QS8lNmk"
-tag = ["Jan 2022", "五月天事件", "楊貴智 @法律白話文", "Podcaster", "專業人士", "律師"]
+tag = ["Jan 2022", "楊貴智 @法律白話文", "五月天事件", "Podcaster", "專業人士", "律師"]
 
 [time448.extra]
 

@@ -861,35 +861,6 @@ Start annotation
     time598
   Excluded: (0)
     
-[2022台灣地方選舉]
-  found in: (4)
-    time596
-    time590
-    time588
-    time587
-  Excluded: (0)
-    
-[日本遶境]
-  found in: (4)
-    time544
-    time569
-    time572
-    time590
-  Excluded: (0)
-    
-[裴洛西訪台事件]
-  found in: (3)
-    time544
-    time547
-    time548
-  Excluded: (0)
-    
-[五月天事件]
-  found in: (2)
-    time448
-    time446
-  Excluded: (0)
-    
 [隱藏版 KK Show]
   found in: (5)
     time523
@@ -1141,6 +1112,35 @@ Start annotation
   found in: (2)
     time319
     time142
+  Excluded: (0)
+    
+[2022台灣地方選舉]
+  found in: (4)
+    time596
+    time590
+    time588
+    time587
+  Excluded: (0)
+    
+[日本遶境]
+  found in: (4)
+    time544
+    time569
+    time572
+    time590
+  Excluded: (0)
+    
+[裴洛西訪台事件]
+  found in: (3)
+    time544
+    time547
+    time548
+  Excluded: (0)
+    
+[五月天事件]
+  found in: (2)
+    time448
+    time446
   Excluded: (0)
     
     ----

@@ -7,8 +7,6 @@ const playlist = {
 "Dec 2022",
 "KK Show",
 "Aaron",
-"\u670b\u53cb",
-"\u6df1\u6d77\u58a8\u5ba2\u672a\u807d\uff08\u6a19\u7c64\u672a\u5b9a\uff09",
 "\u8001\u95c6"
 ],
 "description": "<p>\u4eca\u5929\u8ddf\u5728\u66fe\u7d93\u5728\u7d10\u7d04\u83ef\u723e\u8857\u5168\u76db\u6642\u671f\u5f85\u904e\u7684Aaron\u804a\u7576\u6642\u7684\u83ef\u723e\u8857\u7684\u6545\u4e8b\u3002\u9762\u8a66\u7684\u904e\u7a0b\u662f\u591a\u760b\u72c2\u3001Enron\u7684\u5167\u5e33\u6709\u591a\u6050\u6016\u3001\u6b21\u7d1a\u623f\u8cb8\u98a8\u66b4\u5927\u5bb6\u534a\u5e74\u524d\u5c31\u807d\u5230\u98a8\u8072\uff1f \u9084\u6709\u70ba\u4ec0\u9ebc\u73fe\u5728\u56de\u53f0\u7063\u4f86\u958b\u98ef\u5e97\uff1f<br/>=================<br/>\u9632\u7bc4\u91d1\u878d\u8a50\u9a19\u5207\u8a18\u4e94\u4e0d\uff1a\u4e0d\u63a5\u964c\u751f\u4f86\u96fb\u3001\u4e0d\u9ede\u672a\u77e5\u9023\u7d50\u3001\u4e0d\u807d\u6295\u8cc7\u660e\u724c\u3001\u4e0d\u6015\u83ab\u540d\u5a01\u8105\u3001\u4e0d\u7d66\u500b\u4eba\u8cc7\u6599<br/><br/>\u6b64\u5916\u4e5f\u80fd\u900f\u904e\u8b49\u5238\u671f\u8ca8\u53cd\u8a50\u9a19\u8aee\u8a62\u5c08\u7dda(02)2737-3434\u8aee\u8a62<br/>\u82e5\u6709\u7591\u616e\u6642\uff0c\u64a5\u901a\u96fb\u8a71\u5c31\u6709\u5c08\u4eba\u89e3\u7b54\uff01<br/>___________<br/>2022/12/31\u524d\u5230\u5168\u6c11\u4e00\u540c\u53cd\u8a50\u9a19\u6d3b\u52d5\u7db2\u7ad9\u00a0<br/>www.anti-scam.com.tw<br/>\u6295\u7a3f\u81ea\u5df1\u6536\u904e\u7684\u91d1\u878d\u8a50\u9a19\u7c21\u8a0a\u6216\u770b\u904e\u7684\u5047\u65b0\u805e\u622a\u5716\uff0c\u4e26\u5206\u4eab\u66fe(\u5dee\u9ede)\u906d\u53d7\u91d1\u878d\u8a50\u9a19\u7684\u7d93\u9a57\u5c31\u53ef\u4ee5\u62bdiPhone14 Pro\uff01<br/><br/>#\u9632\u7bc4\u91d1\u878d\u8a50\u9a19\u5207\u8a18\u4e94\u4e0d #\u4e0d\u63a5\u4e0d\u9ede\u4e0d\u807d\u4e0d\u6015\u4e0d\u7d66 #\u5168\u6c11\u4e00\u540c\u53cd\u8a50\u9a19 #\u91d1\u878d\u76e3\u7763\u7ba1\u7406\u59d4\u54e1\u6703 #\u81fa\u7063\u8b49\u5238\u4ea4\u6613\u6240 #\u4e2d\u83ef\u6c11\u570b\u6ac3\u6aaf\u8cb7\u8ce3\u4e2d\u5fc3 #\u81fa\u7063\u671f\u8ca8\u4ea4\u6613\u6240 #\u81fa\u7063\u96c6\u4e2d\u4fdd\u7ba1\u7d50\u7b97\u6240<br/><br/>#\u3010Nord VPN\u3011<br/>\u767e\u9748\u679c\u5c08\u5c6c\u9023\u7d50<br/>\u4ee5\u512a\u60e0\u50f9\u683c\u8cfc\u8cb72\u5e74\u65b9\u6848 \u518d\u984d\u5916\u8d08\u9001\u56db\u500b\u6708<br/>\u9023\u7d50\uff1ahttps://nordvpn.com/kkvpn<br/>\u5c08\u5c6c\u512a\u60e0\u5e8f\u865f\uff1akkvpn<br/><br/>#EPISODE\u00a0<br/>Hsinchu \u65b0\u7af9\u4f0a\u666e\u7d22\u51f1\u6085\u5c1a\u9078\u9152\u5e97 \u2013 \u53f0\u7063\u9996\u5bb6\u51f1\u6085\u5c1a\u9078\u9152\u5e97\uff0c2022\u5e74\u5168\u65b0\u958b\u5e55\uff0c\u5ba2\u623f\u5099\u54c1\u5927\u5347\u7d1a\uff0c\u5165\u4f4f\u518d\u4eab\u4e00\u5c0f\u6642 Happy Hour \u7d05\u767d\u9152\u3001\u5564\u9152\u66a2\u98f2\uff0c\u5168\u65e5 SOCIAL Lounge\uff0c\u4eba\u4eba\u5165\u4f4f\u90fd\u662f VIP\uff01\u60f3\u5165\u4f4f\u51f1\u8389\u3001Ken \u8b9a\u7206\u7684\u9152\u5e97\uff0c\u7acb\u5373\u9810\u8a02 https://www.hotelepisode.com/zh/hsinchu<br/><br/></p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
@@ -308,8 +306,8 @@ const playlist = {
 "tag": [
 "Nov 2022",
 "KK Show",
-"2022\u53f0\u7063\u5730\u65b9\u9078\u8209",
 "\u5468\u6c5f\u6770",
+"2022\u53f0\u7063\u5730\u65b9\u9078\u8209",
 "\u653f\u6cbb\u4eba\u7269"
 ],
 "description": "<p>\u6c11\u9032\u9ee8\u7684\u65b0\u7af9\u7e23\u9577\u5019\u9078\u4eba\u5468\u6c5f\u6770\u4f86\u8ddf\u6211\u5011\u5206\u4eab\u65b0\u7af9\u7e23\u5230\u5e95\u5728\u54ea\u88e1\uff1f\u8ad6\u6587\u662f\u4e0d\u662f\u81ea\u5df1\u5beb\u7684\uff1f\u975e\u9078\u8209\u71b1\u5340\u5230\u5e95\u8981\u600e\u9ebc\u9078\uff1f\u4ee5\u53ca\u4ed6\u7684\u653f\u7b56\u5230\u5e95\u662f\u4ec0\u9ebc\uff1f<br/><br/>=======================<br/>#\u60c5\u8da3\u8077\u4eba\u5168\u53f0\u6700\u5927\u60c5\u8da3\u7528\u54c1\u7db2\u8def\u5546\u57ce<br/>\u4ee3\u7406\u5168\u7403\u77e5\u540d\u54c1\u724c\u60c5\u8da3\u7528\u54c1 \u6210\u4eba\u73a9\u5177 \u771f\u4eba\u5a03\u5a03<br/>\u53ef\u8d85\u5546\u53d6\u8ca8\u4ed8\u6b3e\u3001\u5b85\u914d\u5230\u5e9c<br/>\u5305\u88dd\u96b1\u5bc6 \u53d6\u4ef6\u5b89\u5fc3<br/>\u6700\u61c2\u60c5\u8da3\u6700\u61c2\u4f60\u7684\u60c5\u8da3\u8077\u4eba<br/>\u5c08\u5c6c\u6298\u6263\u78bc\u3010ibelieve\u3011\u53ef\u4eab\u5168\u992885\u6298<br/>\u53e6\u6709\u5c08\u5c6c\u597d\u79ae<br/><br/>https://www.sexlife18.com/products<br/><br/>#\u7280\u725b\u76fe<br/>\u56fa\u67b6\u8cfc\u8cb7\u9023\u7d50\uff1ahttps://url.rhinoshield.tw/l6kgx8t5<br/>\u6298\u6263\u78bc\uff1aibelieve</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
@@ -329,8 +327,8 @@ const playlist = {
 "tag": [
 "Nov 2022",
 "KK Show",
-"2022\u53f0\u7063\u5730\u65b9\u9078\u8209",
 "\u4eba\u6e23\u6587\u672c",
+"2022\u53f0\u7063\u5730\u65b9\u9078\u8209",
 "\u5b78\u8005",
 "\u904b\u52d5"
 ],
@@ -1058,8 +1056,8 @@ const playlist = {
 "tag": [
 "Aug 2022",
 "\u767e\u9748\u679c NEWS",
-"\u88f4\u6d1b\u897f\u8a2a\u53f0\u4e8b\u4ef6",
 "\u654f\u8fea @\u654f\u8fea\u9078\u8b80",
+"\u88f4\u6d1b\u897f\u8a2a\u53f0\u4e8b\u4ef6",
 "Podcaster",
 "\u6642\u4e8b"
 ],
@@ -2721,8 +2719,8 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2022",
-"\u4e94\u6708\u5929\u4e8b\u4ef6",
 "\u694a\u8cb4\u667a @\u6cd5\u5f8b\u767d\u8a71\u6587",
+"\u4e94\u6708\u5929\u4e8b\u4ef6",
 "Podcaster",
 "\u5c08\u696d\u4eba\u58eb",
 "\u5f8b\u5e2b"
@@ -9989,12 +9987,6 @@ const tag_class = {
 "免費教你如何做 Podcast": ['#節目系列', '暫代讀書會'],
 "八角籠": ['#節目系列', '暫代讀書會'],
 "Clubhouse 直播": ['#節目系列', '暫代讀書會'],
-"2022台灣地方選舉": ['#事件備註（測試）'],
-"日本遶境": ['#事件備註（測試）'],
-"裴洛西訪台事件": ['#事件備註（測試）'],
-"國傳司事件": ['#事件備註（測試）'],
-"紐時集資事件": ['#事件備註（測試）'],
-"五月天事件": ['#事件備註（測試）'],
 "隱藏版 KK Show": ['#節目系列'],
 "週二夜現場": ['#節目系列', '暫代讀書會'],
 "龍哥（喜劇）": ['喜劇演員', '老闆'],
@@ -10140,7 +10132,7 @@ const tag_class = {
 "Ivan": ['朋友'],
 "Shao Yong": ['朋友', '專業人士', '健身', '教練', '運動'],
 "趙哥": ['朋友'],
-"Aaron": ['朋友', '老闆', '深海墨客未聽（標籤未定）'],
+"Aaron": ['老闆'],
 "陳沂": ['朋友', '藝人'],
 "楊杰凱": ['專業人士', '專利師'],
 "黑嘉嘉": ['專業人士'],
@@ -10159,6 +10151,12 @@ const tag_class = {
 "東冬侯溫": ['原住民'],
 "Pom 咩": ['朋友'],
 "Wolf": ['來賓'],
+"2022台灣地方選舉": ['#事件備註（測試中）'],
+"日本遶境": ['#事件備註（測試中）'],
+"裴洛西訪台事件": ['#事件備註（測試中）'],
+"國傳司事件": ['#事件備註（測試中）'],
+"紐時集資事件": ['#事件備註（測試中）'],
+"五月天事件": ['#事件備註（測試中）'],
 "Dec 2022": ['#2022'],
 "Nov 2022": ['#2022'],
 "Oct 2022": ['#2022'],
@@ -10216,7 +10214,6 @@ const class_tag = {
 "#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '週二夜現場'],
-"#事件備註（測試）": ['2022台灣地方選舉', '日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件'],
 "喜劇演員": ['龍哥（喜劇）', '喬瑟夫', '樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', '呱吉', 'Jim', '龍龍', '蕭東意'],
 "老闆": ['龍哥（喜劇）', 'Social', '呱吉', '志祺 @志祺七七', '阿滴', 'Joeman', '邱 grr', 'Chapman 杜汶澤', '葉丙成教授', '館長', 'Aaron', '曹興誠', 'Jay', '顧立楷', '林榮基'],
 "Youtuber": ['喬瑟夫', '樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', 'Jim', '龍龍', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '阿滴', 'Joeman', '黃大謙', 'China Mac', '邱 grr', '泥泥學姐', '盧卡斯 @BBK Networ', '歷史哥', '嗩吶 @好機車', '阿拉斯', '巴大雄 @東南美娛樂'],
@@ -10234,7 +10231,7 @@ const class_tag = {
 "健力": ['邱 grr'],
 "音樂": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '陳零九', 'Kimberley陳芳語', '王彩樺', '趙詠華', '林俊逸', 'Musa 明馬丁', '桃子 A1J', '珂拉琪 Collage', '林昶佐'],
 "原住民": ['阿爆', '阿拉斯', '巴大雄 @東南美娛樂', '黃京葦醫師', '陳念琴', '東冬侯溫'],
-"朋友": ['阿爆', 'Howard', 'Ivan', 'Shao Yong', '趙哥', 'Aaron', '陳沂', 'Pom 咩'],
+"朋友": ['阿爆', 'Howard', 'Ivan', 'Shao Yong', '趙哥', '陳沂', 'Pom 咩'],
 "色色": ['小澤瑪莉雅', '社畜', '娃娃', '石巴朝', 'Niki'],
 "劇場": ['台南人劇團', '蕭東意'],
 "舞蹈": ['布拉瑞揚 @布拉瑞揚舞團'],
@@ -10252,9 +10249,9 @@ const class_tag = {
 "潛水": ['剛哥'],
 "聽眾": ['Xin', 'JC', 'Vasilisa', 'Angeli', 'Angel', 'Feyza', 'V'],
 "口譯員": ['Howard'],
-"深海墨客未聽（標籤未定）": ['Aaron'],
 "專利師": ['楊杰凱'],
 "編輯": ['Neil'],
 "事實查核": ['IORG', '沈伯洋（助理）教授'],
-"來賓": ['Wolf']
+"來賓": ['Wolf'],
+"#事件備註（測試中）": ['2022台灣地方選舉', '日本遶境', '裴洛西訪台事件', '國傳司事件', '紐時集資事件', '五月天事件']
 };

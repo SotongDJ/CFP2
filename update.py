@@ -18,7 +18,7 @@ def do_job(target_str,configing):
     print("    ----")
     print("    Start collection: Feed")
     print("        Feed: grab rss feed")
-    rss_req = requests.get(configing.rss,timeout=5)
+    rss_req = requests.get(configing.rss,timeout=60)
     print("        Feed: convert XML and update dictionary")
     rss_feed = bs(rss_req.text,"xml")
     rss_dict = {}
@@ -53,7 +53,7 @@ def do_job(target_str,configing):
         safe_img_url = F"{path_name_str}-{file_name_str}"
         if safe_img_url not in url_to_file_dict:
             print(F"request: {img_url} for {name}")
-            cover_img_r = requests.get(img_url,stream=True,timeout=5)
+            cover_img_r = requests.get(img_url,stream=True,timeout=60)
             time.sleep(1)
             cover_img_r.raw.decode_content = True
             cover_img = Image.open(cover_img_r.raw)
@@ -81,7 +81,7 @@ def do_job(target_str,configing):
         print("    ----")
         print("    Start collection: Apple")
         print("        Feed: grab rss feed")
-        apple_req = requests.get(configing.apple,timeout=5)
+        apple_req = requests.get(configing.apple,timeout=60)
         print("        Feed: convert HTML and update dictionary")
         apple_track = bs(apple_req.text,"lxml").find('ol',{'class':'tracks tracks--linear-show'})
         if pathlib.Path(target_str+"/record/ApplePodcast.toml").exists():
@@ -111,7 +111,7 @@ def do_job(target_str,configing):
         print("    ----")
         print("    Start collection: Google")
         print("        Feed: grab rss feed")
-        google_req = requests.get(configing.google,timeout=5)
+        google_req = requests.get(configing.google,timeout=60)
         google_track = bs(google_req.text,"lxml").find('div',{'jsname':'quCAxd'})
         print("        Feed: convert HTML and update dictionary")
         if pathlib.Path(target_str+"/record/GooglePodcast.toml").exists():
@@ -142,11 +142,12 @@ def do_job(target_str,configing):
             print("        Feed: grab rss feed")
             secret_docs = rtoml.load(open("secret.toml",encoding="utf8"))
             spotify_auth_url = 'https://accounts.spotify.com/api/token'
-            spotify_auth_response = requests.post(spotify_auth_url,{
+            spotify_config = {
                 'grant_type': 'client_credentials',
                 'client_id': secret_docs['spotify_id'],
                 'client_secret': secret_docs['spotify_secret'],
-            },timeout=5)
+            }
+            spotify_auth_response = requests.post(spotify_auth_url,spotify_config,timeout=60)
             spotify_auth_response_dict = spotify_auth_response.json()
             spotify_access_token = spotify_auth_response_dict['access_token']
             spotify_url = configing.spotify
@@ -155,7 +156,7 @@ def do_job(target_str,configing):
             "Content-Type": "application/json",
             "Authorization": F"Bearer {spotify_access_token}",
             }
-            spotify_req = requests.get(spotify_url,headers=spotify_headers,timeout=5)
+            spotify_req = requests.get(spotify_url,headers=spotify_headers,timeout=60)
             configing.xmlw(spotify_req.text,"/record/SpotifyPodcastRequests.json")
             print("        Feed: convert JSON and update dictionary")
             spotify_req_dict = json.loads(spotify_req.text)
@@ -199,7 +200,7 @@ def do_job(target_str,configing):
         print("    ----")
         print("    Start collection: YouTube")
         print("        Feed: grab rss feed")
-        youtube_req = requests.get(configing.youtube,timeout=5)
+        youtube_req = requests.get(configing.youtube,timeout=60)
         youtube_track = bs(youtube_req.text,"xml")
         print("        Feed: convert XML and update dictionary")
         if pathlib.Path(target_str+"/record/YouTube.toml").exists():

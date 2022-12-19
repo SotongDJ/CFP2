@@ -114,11 +114,21 @@ def do_job(target_str,configing):
         google_req = requests.get(configing.google,timeout=5)
         google_track = bs(google_req.text,"lxml").find('div',{'jsname':'quCAxd'})
         print("        Feed: convert HTML and update dictionary")
+        if pathlib.Path(target_str+"/record/GooglePodcast.toml").exists():
+            google_doc = rtoml.load(open(target_str+"/record/GooglePodcast.toml",encoding="utf8"))
+            google_record = {str(x):str(y) for x,y in google_doc.items()}
+        else:
+            google_record = {}
         google_dict = {}
         for unit in google_track.find_all('a'):  # type: ignore
             url = unit['href'].split("?sa=")[0].replace("./","https://podcasts.google.com/")
             name = unit.findChildren("div", {'class': 'e3ZUqe'})[0].contents[0]
-            google_dict[name] = url
+            if name in google_record.keys():
+                if google_record[name] != url:
+                    print("ERROR: Duplicate entry no consistent, value:", url, google_record[name])
+            else:
+                google_dict[name] = url
+        google_dict.update(google_record)
         result_dict["google"] = google_dict
         configing.xmlw(google_req.text,"/record/GooglePodcastRequests.html")
         configing.toml(google_dict,"/record/GooglePodcast.toml")

@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time606]
+name = "The KK Show - #167 MATZKA"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11903555-the-kk-show-167-matzka.mp3"
+youtube = "https://www.youtube.com/watch?v=xoe2KdKcF-Y"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>今天凱莉看到MATZKA本人後就進入迷妹狀態，她整個一直問很迷妹的問題 （攤手）</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - #167 MATZKA"]
+tag = ["Dec 2022", "KK Show"]
+category = ["#節目系列"]
+
 [time605]
 name = "百靈果NEWS | 美國對抖音Tiktok下重手、德國側翼試圖恢復帝制、亞洲流行文化話語權在韓國手裡？"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11891483-news-tiktok.mp3"

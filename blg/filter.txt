@@ -456,7 +456,8 @@ Start annotation
   Excluded: (0)
     
 [讀書會]
-  found in: (130)
+  found in: (131)
+    time609
     time600
     time589
     time580
@@ -597,6 +598,12 @@ Start annotation
     time580
     time577
     time574
+  Excluded: (0)
+    
+[八尺門的辯護人]
+  found in: (2)
+    time609
+    time571
   Excluded: (0)
     
 [同情者]

@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>\u9019\u662f\u6211\u5011\u7528\u53f0\u7063\u7684\u89d2\u5ea6\u9078\u51fa\u4f86\u76842023\u5341\u5927\u570b\u969b\u65b0\u805e\uff0c\u6b61\u8fce\u7559\u8a00\u8ddf\u6211\u5011\u5206\u4eab\u4f60\u89ba\u5f97\u91cd\u8981\u4f46\u662f\u6c92\u6709\u63d0\u5230\u7684\u570b\u969b\u65b0\u805e<br/>=======================<br/><br/>#NordVPN<br/>\u767e\u9748\u679c\u5c08\u5c6c\u9023\u7d50<br/>\u4ee5\u512a\u60e0\u50f9\u683c\u8cfc\u8cb72\u5e74\u65b9\u6848 \u518d\u984d\u5916\u8d08\u9001\u56db\u500b\u6708<br/>\u9023\u7d50\uff1ahttps://nordvpn.com/kkvpn<br/>\u5c08\u5c6c\u512a\u60e0\u5e8f\u865f\uff1aKKVPN</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E-%E6%8E%A8%E8%96%A6%E6%9B%B8-straight-to-hell-by-john-lefevre/id1106847606?i=1000591818842",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTk1OTA1MA",
+"spotify": "https://open.spotify.com/episode/74wIymHilPHIE6lmRvLMlz",
 "youtube": "https://www.youtube.com/watch?v=3EgB39YtuPk"
 },
 "time609": {

@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time611]
+name = "The KK Show - #169 大霈"
+feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11974468-the-kk-show-169.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTk3NDQ2OA"
+youtube = "https://www.youtube.com/watch?v=94yF-YH7a44"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>凱莉跟她心目中的潛水女神聊潛水、小時候回台灣的文化衝擊、外景節目的秘辛、還有他為什麼現在看起來這麼白以及為什麼要出專輯</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - #169 大霈"]
+tag = ["Jan 2023"]
+category = []
+
 [time610]
 name = "百靈果NEWS | 年度十大國際新聞，推薦書：Straight to Hell by John LeFevre"
 feed = "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11959050-news-straight-to-hell-by-john-lefevre.mp3"

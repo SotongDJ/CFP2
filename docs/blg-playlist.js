@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>\u65e5\u672c\u653f\u5e9c\u6c7a\u5b9a\u7d66\u9858\u610f\u642c\u51fa\u9996\u90fd\u5708\u7684\u5bb6\u5ead\uff0c\u6bcf\u4f4d\u5152\u7ae5 100 \u842c\u65e5\u5143\uff08\u7d04 7500 \u7f8e\u5143\uff09\u7684\u88dc\u52a9\uff0c\u4ee5\u6539\u5584\u90ca\u5340\u548c\u9109\u4e0b\u4eba\u53e3\u8d8a\u4f86\u8d8a\u5c11\u7684\u8da8\u52e2\u3002<br/><br/>\u4e00\u500b\u4fee\u58eb\u548c\u4e00\u540d\u4fee\u5973\u5728\u76f8\u611b\u4e03\u5e74\u5f8c\uff0c\u6c7a\u5b9a\u5728\u82f1\u570b\u9084\u4fd7\uff0c\u5169\u4eba\u6700\u8fd1\u7d50\u5a5a\u4e86\u3002</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E6%94%BF%E5%BA%9C%E5%87%BA%E9%8C%A2%E8%AB%8B%E4%BD%A0%E6%90%AC%E5%AE%B6-%E4%BF%AE%E5%A5%B3%E7%9A%84%E7%A6%81%E5%BF%8C%E4%B9%8B%E6%88%80-%E6%8E%A8%E8%96%A6%E5%8A%87-%E5%A6%82%E5%A4%A2%E4%B9%8B%E5%A4%A2/id1106847606?i=1000593032205",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjAwMDc1Ng",
+"spotify": "https://open.spotify.com/episode/437UtTvGdSEmIppU43IZkD",
 "youtube": ""
 },
 "time612": {

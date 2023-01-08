@@ -1,4 +1,19 @@
 const playlist = {
+"time613": {
+"name": "\u767e\u9748\u679cNEWS | \u653f\u5e9c\u51fa\u9322\u8acb\u4f60\u642c\u5bb6\u3001\u4fee\u5973\u7684\u7981\u5fcc\u4e4b\u6200\u3001\u63a8\u85a6\u5287\uff1a\u5982\u5922\u4e4b\u5922",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12000756-news.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jan 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>\u65e5\u672c\u653f\u5e9c\u6c7a\u5b9a\u7d66\u9858\u610f\u642c\u51fa\u9996\u90fd\u5708\u7684\u5bb6\u5ead\uff0c\u6bcf\u4f4d\u5152\u7ae5 100 \u842c\u65e5\u5143\uff08\u7d04 7500 \u7f8e\u5143\uff09\u7684\u88dc\u52a9\uff0c\u4ee5\u6539\u5584\u90ca\u5340\u548c\u9109\u4e0b\u4eba\u53e3\u8d8a\u4f86\u8d8a\u5c11\u7684\u8da8\u52e2\u3002<br/><br/>\u4e00\u500b\u4fee\u58eb\u548c\u4e00\u540d\u4fee\u5973\u5728\u76f8\u611b\u4e03\u5e74\u5f8c\uff0c\u6c7a\u5b9a\u5728\u82f1\u570b\u9084\u4fd7\uff0c\u5169\u4eba\u6700\u8fd1\u7d50\u5a5a\u4e86\u3002</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": ""
+},
 "time612": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u653f\u5e9c\u4e82\u82b1\u7a05\u91d1\uff1f\u767e\u9748\u679c\u5c0d\u516c\u8996\u570b\u969b\u53f0TaiwanPlus\u983b\u9053\u5927\u66b4\u8d70",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11984454-taiwanplus.mp3",

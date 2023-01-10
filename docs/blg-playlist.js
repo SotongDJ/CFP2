@@ -1,4 +1,19 @@
 const playlist = {
+"time614": {
+"name": "The KK Show - #170 \u9673\u4e9e\u862d",
+"feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12014411-the-kk-show-170.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jan 2023",
+"KK Show"
+],
+"description": "<p>\u8ddf\u91d1\u9418\u5f71\u5e1d\u9673\u4e9e\u862d\u804a\u6b4c\u4ed4\u6232\u5728\u4ed6\u773c\u88e1\u7684\u5fa9\u8208\u4ee5\u53ca\u6211\u5011\u773c\u88e1\u7684\u6d88\u6563<br/>\u300a\u5609\u6176\u541b\u518d\u904a\u81fa\u7063\u300b\u96c6\u8cc7\u8a08\u756b\uff1a<a href='https://backme.tw/ref/8XTWj/'>https://backme.tw/ref/8XTWj/</a><br/>=======================<br/>#\u5b87\u6069\u79c1\u5b85\u5fa1\u5eda\u6599\u7406<br/>\u300c\u8001\u9955\u8207\u98ef\u5e97\u4e3b\u5eda\u651c\u624b\u6253\u9020\u79c1\u85cf\u6599\u7406\u7b2c\u4e00\u54c1\u724c\u3002\u300d<br/><br/>2023\u5b87\u5154\u8fce\u6625\u9957\u98df\u65b0\u5e74\u5957\u7d44\u71b1\u8ce3\u4e2d<br/>\u6bcf\u7d44\u542b\u904b\u8cbb888\u5143\u8d77\uff0c\u6700\u9ad8\u6298\u657867\u6298\u8d77\u3002<br/><br/>\u5b87\u5154\u8fce\u6625\u9957\u98df\u65b0\u5e74\u5957\u7d44\uff0c\u4e0d\u53ea\u9069\u5408\u95d4\u5bb6\u5927\u5c0f\u570d\u7210\u54c1\u5690\uff0c<br/>\u66f4\u9069\u5408\u65b0\u6625\u62dc\u5e74\u9001\u79ae\uff0c\u8b93\u4f60\u6eff\u9762\u6625\u98a8\u8aa0\u610f\u5341\u8db3\u3002<br/><br/>\u7279\u5225\u63a8\u51fa &quot;\u4e5d\u7a2e\u7d44\u5408&quot;<br/>\u6eff\u8db3\u4e0d\u540c\u9001\u79ae\u81ea\u7528\u9700\u6c42<br/><br/>\u279c\u5b98\u7db2\u8a02\u8cfc\uff1a <a href='https://yuenfood.com/'>https://yuenfood.com/</a><br/>\u279cLINE@\uff1a <a href='https://page.line.me/653pgswy'>https://page.line.me/653pgswy</a><br/>\u279cfacebook\uff1a <a href='https://www.facebook.com/yuenfoodtw'>https://www.facebook.com/yuenfoodtw</a><br/>\u279cInstagram\uff1a <a href='https://reurl.cc/AyK1DZ\u3112'>https://reurl.cc/AyK1DZ\u3112</a><br/>=========================<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a></p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=_DAei7W7tUs"
+},
 "time613": {
 "name": "\u767e\u9748\u679cNEWS | \u653f\u5e9c\u51fa\u9322\u8acb\u4f60\u642c\u5bb6\u3001\u4fee\u5973\u7684\u7981\u5fcc\u4e4b\u6200\u3001\u63a8\u85a6\u5287\uff1a\u5982\u5922\u4e4b\u5922",
 "feed": "https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12000756-news.mp3",

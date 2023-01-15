@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>\u9ec3\u8c6a\u5e73\u4f86\u8ddf\u6211\u5011\u804a\u804a\u4ed6\u5c0d\u767d\u51b0\u51b0\u5531\u521d\u6200\u7684\u770b\u6cd5<br/>\u4e2d\u570b\u627e\u5230\u600e\u9ebc\u6cbb\u7642\u8c6c\u53d7\u50b7\u5f8c\u800c\u4e0d\u8209\u7684\u554f\u984c<br/>\u7f8e\u570b\u4e00\u500b\u5b78\u6821\u628a\u5168\u6821\u6210\u7e3e\u516c\u958b\u5e0c\u671b\u5b78\u751f\u6709\u7af6\u722d\u5fc3\u800c\u88ab\u5bb6\u9577\u7f75<br/>Noma \u57282024\u8981\u95dc\u9580\uff0c\u8f49\u578b\u505a\u96fb\u5546</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E7%99%BD%E5%86%B0%E5%86%B0%E7%9A%84%E5%88%9D%E6%88%80-%E4%B8%AD%E5%9C%8B%E8%A6%81%E6%B4%97%E7%99%BD%E4%BA%86-%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A4%90%E5%BB%B3%E8%A6%81%E9%97%9C%E9%96%80/id1106847606?i=1000594491326",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjAzMDIyMw",
+"spotify": "https://open.spotify.com/episode/1y6Im8dbT0KFw8nEcelEpj",
 "youtube": "https://www.youtube.com/watch?v=DGAIxzjkWHo"
 },
 "time615": {

@@ -8,9 +8,9 @@ const playlist = {
 ],
 "description": "<p>\u5f88\u591a\u4eba\u904e\u5e74\u8981\u53bb\u65e5\u672c\u73a9\uff0c\u6211\u5011\u8d95\u5feb\u6574\u7406\u4e86\u4e00\u4e0b\u6211\u5011\u6700\u8fd1\u5e7e\u500b\u6708\u53bb\u65e5\u672c\u5403\u3001\u73a9\u7684\u5fc3\u5f97\u8ddf\u5927\u5bb6\u5206\u4eab<br/>1. \u5f88\u591a\u7f8e\u98df\u7684\u767e\u8ca8\u516c\u53f8 Ginza Six<br/>2. \u8d85\u597d\u5403\u7684\u6f22\u5821\u6392 \u633d\u8089\u3068\u7c73<br/>3. \u597d\u5403\u7684\u8fa3\u67da\u5b50\u98a8\u5473\u62c9\u9eb5 Afuri \u8f9b\u7d05<br/>4. \u8349\u8393\u5927\u798f \u8336\u6d12 \u91d1\u7530\u4e2d<br/>5. \u8349\u8393\u86cb\u7cd5 Botta Cafe<br/>6. Ken\u5c0f\u5b78\u540c\u5b78\u8001\u516c\u958b\u7684\u5e97 \u70ad\u706b\u713c \u9b5a\u30fb\u8089 \u98df\u5802 \u3053\u304c\u306d\u5c4b \u52dd\u3069\u304d \u6771\u4eac\u90fd\u4e2d\u592e\u533a\u52dd\u3069\u304d1-8-1 2F<br/>https://tabelog.com/tokyo/A1313/A131301/13156359/<br/>7. \u51f1\u8389\u9047\u5230\u597d\u5fc3\u53f0\u7063\u4eba\u7684\u5b78\u5177\u5e97 \u9752\u9054\u96ea\u5177</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E7%9A%842023%E6%9D%B1%E4%BA%AC%E7%BE%8E%E9%A3%9F-%E6%BB%91%E9%9B%AA%E5%B0%88%E8%BC%AF/id1106847606?i=1000595698893",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjA4MzI2Mw",
+"spotify": "https://open.spotify.com/episode/0vwF95f6Av20WtDPeL51YX",
 "youtube": ""
 },
 "time618": {

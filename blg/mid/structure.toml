@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time621]
+name = "The KK Show - #173 IG紅去國外 - 林倩"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12107208-the-kk-show-173-ig.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjEwNzIwOA"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>林倩的IG是Ooo_Lin_ooo，有近三十萬粉絲，她的照片都會讓人有很震撼的感覺，也會透過照片發現台灣美麗的秘境。而她最有趣的一個系列就是過年照片系列，我們這次跟她聊怎麼透過一開始拍好玩的instagram照片現在變成了一種藝術創作</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - #173 IG紅去國外 - 林倩"]
+tag = ["Jan 2023"]
+category = []
+
 [time620]
 name = "The KK Show - #172 性別顛倒又很合理 - Alma & 小妖"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12092853-the-kk-show-172-alma.mp3"

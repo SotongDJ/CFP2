@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>\ud83d\udd25\u5168\u53f0\u6700\u71d2\u7684\u81ea\u5a92\u9ad4\u7dda\u4e0a\u8ab2\ud83d\udd25<br/>\u275d \u611b\u8389\u838e\u838e\u7684\u81ea\u5a92\u9ad4\u92b7\u552e\u5b78 \u275e<br/>\u5f9e\u300c\u6d41\u91cf\u7d93\u71df\u300d\u5230\u300c\u71b1\u92b7\u71b1\u8ce3\u300d\u7684\u79d8\u5bc6 <br/>#\u7d55\u4e0d\u85cf\u79c1 \u4e00\u6b21\u544a\u8a34\u4f60\uff01<br/>\ud83d\udc49 \u9810\u8cfc\u512a\u60e0\u4e2d\uff0c\u6fc0\u77015000\u5143up<br/>\ud83d\udc49 \u8f38\u5165\u300c\u767e\u9748\u679c350\u300d\uff0c\u5373\u53ef\u518d\u6298350\u5143<br/>\ud83d\udd0e \u8ab2\u7a0b\u4ecb\u7d39<a href='https://hi.sat.cool/8tnTB'>\uff1ahttps://hi.sat.cool/8tnTB</a><br/><br/>\u654f\u8fea\u4f86\u8ddf\u6211\u5011\u804a\u5929\uff0cBenji\u7684\u8208\u8da3\u662f\u6536\u96c6\u90f5\u7968\uff1f<br/>Happy Chinese New Year or Happy Lunar New Year?<br/>120\u842c\u5e74\u524d\u7684\u9ed1\u66dc\u77f3\u624b\u65a7\u751f\u7522\u7dda\uff01</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3%E7%9A%84%E9%83%AD%E5%8F%B0%E9%8A%98-%E5%A4%A7%E5%AE%B6%E9%81%8E%E5%B9%B4%E5%9C%A8%E5%B9%B9%E5%98%9B-%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA%E7%9A%84%E6%96%B0%E5%B9%B4%E5%BF%AB%E6%A8%82/id1106847606?i=1000597043020",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjEzNDMxMQ",
+"spotify": "https://open.spotify.com/episode/3D7xvRkcunO0oukNbFExAa",
 "youtube": ""
 },
 "time621": {

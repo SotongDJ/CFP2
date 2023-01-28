@@ -1,7 +1,8 @@
 ----
 Start annotation
 [百靈果 NEWS]
-  found in: (239)
+  found in: (240)
+    time622
     time616
     time613
     time610

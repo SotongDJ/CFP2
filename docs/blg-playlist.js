@@ -11,7 +11,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-174-%E8%88%87%E8%80%81%E4%BA%BA%E6%BA%9D%E9%80%9A%E7%9A%84%E8%97%9D%E8%A1%93-%E5%B0%9A%E6%81%A9/id1106847606?i=1000598473036",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjIwMTMyMw",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3BBz8pjaDihpmUdKD5Sv1g",
 "youtube": "https://www.youtube.com/watch?v=urdUZ9RGZt0"
 },
 "time625": {

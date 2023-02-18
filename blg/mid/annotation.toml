@@ -1,15 +1,55 @@
 # Add your own tag to each episode
 
+[time629]
+name = "【週二夜現場】出來選立委？ - 呱吉"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12259159-.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F%BE%E5%A0%B4-%E5%87%BA%E4%BE%86%E9%81%B8%E7%AB%8B%E5%A7%94-%E5%91%B1%E5%90%89/id1106847606?i=1000599971531"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjI1OTE1OQ"
+spotify = "https://open.spotify.com/episode/1uHighDqR87L4Q2lhjMBnx"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>呱吉在情人節來百靈果週二夜跟大家聊天，凱莉緊追不放的一直問問題，真希望錄podcast那天她沒有喝醉能像今天一樣正常發揮</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["【週二夜現場】出來選立委？ - 呱吉"]
+tag = ["Feb 2023", "週二夜現場", "呱吉"]
+category = ["#節目系列", "暫代讀書會", "喜劇演員", "Youtuber", "政治人物", "老闆"]
+
+[time628]
+name = "The KK Show - #176 前議員 - 呱吉"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12249026-the-kk-show-176.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-176-%E5%89%8D%E8%AD%B0%E5%93%A1-%E5%91%B1%E5%90%89/id1106847606?i=1000599554613"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjI0OTAyNg"
+spotify = "https://open.spotify.com/episode/0DT5aP0bweOFnnrBdHYnNx"
+youtube = "https://www.youtube.com/watch?v=0hf0dkpMy2Y"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>呱吉要來宣傳他的脫口秀專場，可是票好像差不多賣完了。我們聊了什麼我們大家都忘記了，因為喝太醉。希望大家不要介意這麼瞎的單集介紹 Orz</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - #176 前議員 - 呱吉"]
+tag = ["Feb 2023", "KK Show", "呱吉"]
+category = ["#節目系列", "喜劇演員", "Youtuber", "政治人物", "老闆"]
+
+[time627]
+name = "The KK Show - #175 歌舞伎町案內人 - 李小牧 @Lixiaomu @leekomaki"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12234249-the-kk-show-175-lixiaomu-leekomaki.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-175-%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E6%A1%88%E5%85%A7%E4%BA%BA-%E6%9D%8E%E5%B0%8F%E7%89%A7-lixiaomu-leekomaki/id1106847606?i=1000599205030"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjIzNDI0OQ"
+spotify = "https://open.spotify.com/episode/7c3gaZnq4ENh3lUzcpT94t"
+youtube = "https://www.youtube.com/watch?v=gvOZ6phRvpc"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>案內有點像台灣俗稱的皮條客。因為神奇的理由不得不離開中國的李小牧，到了日本後為了生存做過許多不同的工作，到最後在新宿的歌舞伎町龍蛇混雜的地方跟黑白兩道交好，在灰色地帶成為了案內人之王</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - #175 歌舞伎町案內人 - 李小牧 @Lixiaomu @leekomaki"]
+tag = ["Feb 2023", "KK Show", "李小牧"]
+category = ["#節目系列", "老闆"]
+
 [time626]
 name = "The KK Show - #174 半年賣破千萬的餃子推手 - 尚恩"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12201323-the-kk-show-174.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-174-%E5%8D%8A%E5%B9%B4%E8%B3%A3%E7%A0%B4%E5%8D%83%E8%90%AC%E7%9A%84%E9%A4%83%E5%AD%90%E6%8E%A8%E6%89%8B-%E5%B0%9A%E6%81%A9/id1106847606?i=1000598473036"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjIwMTMyMw"
 spotify = "https://open.spotify.com/episode/3BBz8pjaDihpmUdKD5Sv1g"
+youtube = "https://www.youtube.com/watch?v=urdUZ9RGZt0"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>乾爹萬萬兩小老闆尚恩來跟我們分享他如何跟台灣的傳統行業老闆們溝通，做行銷，然後取得信任一起創業做品牌<br/><br/>#萬萬兩<br/><br/>☞ 手藝餃子製作所「萬萬兩」，由水餃代工大王創立，以秘製彈牙餃皮與鮮甜多汁內餡聞名，幫連鎖KTV、藝人與知名老店代工水餃，後因受疫情衝擊影響，為了想讓老饕們在家也能吃到就像現包般的手藝餃子，即創立超越所有代工品牌的「萬萬兩」水餃！讓每一顆餃子就像一道菜般，餡足多汁、Q彈帶勁，水滾8分鐘即可開吃！是每個家庭都必須吃過的好味道～<br/><br/>🛒 百靈果推薦．寵粉特殺優惠！滿999免冷凍運費、滿額再享現折優惠 ► <a href='https://lihi2.cc/kHwlL'>https://lihi2.cc/kHwlL</a><br/><br/>尚恩IG<a href=' https://instagram.com/shawnlin365?igshid=MDM4ZDc5MmU='><br/>https://instagram.com/shawnlin365?igshid=MDM4ZDc5MmU=</a><br/><br/>尚恩TikTok<a href=' https://www.tiktok.com/@shawnlin365'><br/>https://www.tiktok.com/@shawnlin365</a><br/><br/>尚恩Facebook<a href=' https://www.facebook.com/shawnlin365'><br/>https://www.facebook.com/shawnlin365<br/></a><br/>=======================<br/><br/>➤ 百靈果週二夜現場售票連結：<a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/><br/>／到 FB 看每日新聞觀點：<a href='https://www.facebook.com/bailingguonews'>https://www.facebook.com/bailingguonews</a><br/>／歡迎加入Youtube 會員支持我們、看幕後花絮：<a href=' https://www.youtube.com/channel/UCD2KoUc0f4Bv2Bz0mbOah8g/join'><br/>https://www.youtube.com/channel/UCD2KoUc0f4Bv2Bz0mbOah8g/join</a><br/><br/>【每週二、四、日晚上 9 點更新】<br/>歡迎來到百靈果News<br/>這裏是華語界最自由的雙語國際新聞<br/>Welcome to Bailingguo News<br/>The FREEst International News Podcast in the Chinese Speaking World<br/><br/>我們把高音質的檔案放在其他網路平台，歡迎大家訂閱<br/><br/>【百靈果News的Podcast】<br/>Apple：<a href='https://reurl.cc/N6V976'>https://reurl.cc/N6V976</a><br/>Spotify：<a href='https://reurl.cc/14yqRX'>https://reurl.cc/14yqRX</a><br/>Google：<a href='https://reurl.cc/Y6ypxD'>https://reurl.cc/Y6ypxD</a><br/>KKBOX：<a href='https://reurl.cc/k0D29x'>https://reurl.cc/k0D29x</a><br/>Youtube：<a href='https://reurl.cc/X4eoLR'>https://reurl.cc/X4eoLR</a><br/><br/>#TaiwanPodcast #PodcastStudio</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
-names = ["The KK Show - #174 半年賣破千萬的餃子推手 - 尚恩"]
-tag = ["Feb 2023", "KK Show"]
-category = ["#節目系列"]
+names = ["The KK Show - #174 半年賣破千萬的餃子推手 - 尚恩", "The KK Show - #174 半年賣破千萬的餃子推手 - 尚恩 @shawnlin365"]
+tag = ["Feb 2023", "KK Show", "尚恩"]
+category = ["#節目系列", "老闆"]
 
 [time625]
 name = "百靈果NEWS | 泰國浴大亨救台灣女星？"
@@ -34,8 +74,8 @@ youtube = "https://www.youtube.com/watch?v=BCkRkIhDnSI"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>邀請德國之聲台灣的台北主任鄒宗翰來跟我們聊聊德國之聲的爭議，不管是跟 #林靜儀 或是跟 #洪秀柱，他這邊的實際狀況是什麼？到底是不是共產黨的大外宣？還是他是中共同路人？</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["【週二夜現場】外媒在台灣 - 鄒宗翰"]
-tag = ["Feb 2023", "週二夜現場"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Feb 2023", "週二夜現場", "鄒宗翰 @德國之聲"]
+category = ["#節目系列", "暫代讀書會", "時事", "記者"]
 
 [time623]
 name = "The KK Show - #174 前中國央視調查記者 - 王志安"
@@ -47,8 +87,8 @@ youtube = "https://www.youtube.com/watch?v=yMcgd--dvr8"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>#情趣職人<br/>台灣最大情趣品牌代理商<br/>各種情趣用品、成人玩具、情慾提升商品等<br/>全球知名情趣商品應有盡有<br/>雙北2H急速、桃園3H快速，慾火難耐時<br/>立即 google 搜尋【情趣職人】解決你的問題<br/>最懂情趣最懂你的情趣職人<br/>🛒這裡買 : <a href='https://lihi1.com/0wD7g'>https://lihi1.com/0wD7g</a><br/>輸入專屬折扣碼【I believe】可享全館85折<br/>======================= <br/><br/>➤百靈果週二夜現場售票鏈接：<a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/> <br/>➤歡迎來到我們IG玩<br/>百靈果主賬號：<a href='https://www.instagram.com/bailingguo_news/'>https ://www.instagram.com /bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/> Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake /</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/><br/>／到FB看每日新聞觀點：<a href='https://www.facebook.com/bailingguonews'>https://www.facebook. com/百靈果新聞</a>/歡迎<br/>加入Youtube 會員支持我們、看幕後花絮：<br/><a href='https://www.youtube.com/channel/UCD2KoUc0f4Bv2Bz0mbOah8g/join'>https://www.youtube.com/channel/UCD2KoUc0f4Bv2Bz0mbOah8g/join</a><br/>【每週二、四、日晚上 9 點更新】<br/>歡迎來到百靈果News<br/>這裏是華語界最自由的雙語國際新聞<br/>Welcome to Bailingguo News<br/>The FREEst International News Podcast in the Chinese Speaking World<br/><br/>我們把高音質的檔案放在其他網路平台，歡迎大家訂閱<br/><br/>【百靈果News的Podcast】<br/>Apple：https://reurl.cc/N6V976<br/>Spotify：https://reurl.cc/14yqRX<br/>Google：https://reurl.cc/Y6ypxD<br/>KKBOX：https://reurl.cc/k0D29x<br/>Youtube：https://reurl.cc/X4eoLR<br/><br/>#TaiwanPodcast #PodcastStudio</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #174 前中國央視調查記者 - 王志安"]
-tag = ["Jan 2023", "KK Show"]
-category = ["#節目系列"]
+tag = ["Jan 2023", "KK Show", "王志安"]
+category = ["#節目系列", "時事", "記者"]
 
 [time622]
 name = "百靈果NEWS | 石器時代的郭台銘、大家過年在幹嘛、政治正確的新年快樂"
@@ -71,8 +111,8 @@ spotify = "https://open.spotify.com/episode/4pF1ynzJ1lnccEQf0Tgiel"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>林倩的IG是Ooo_Lin_ooo，有近三十萬粉絲，她的照片都會讓人有很震撼的感覺，也會透過照片發現台灣美麗的秘境。而她最有趣的一個系列就是過年照片系列，我們這次跟她聊怎麼透過一開始拍好玩的instagram照片現在變成了一種藝術創作</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #173 IG紅去國外 - 林倩"]
-tag = ["Jan 2023", "KK Show"]
-category = ["#節目系列"]
+tag = ["Jan 2023", "KK Show", "林倩"]
+category = ["#節目系列", "攝影", "Instagramer"]
 
 [time620]
 name = "The KK Show - #172 性別顛倒又很合理 - Alma & 小妖"
@@ -84,8 +124,8 @@ youtube = "https://www.youtube.com/watch?v=CGnfSz3eEaI"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>幫凱莉完成愛天使夢想的 coser Alma跟小妖，來跟我們聊聊cosplay圈為什麼常常男女顛倒、小妖跟Alma到底是同性伴侶還是異性伴侶、然後做X到底怎麼做</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #172 性別顛倒又很合理 - Alma & 小妖"]
-tag = ["Jan 2023", "KK Show"]
-category = ["#節目系列"]
+tag = ["Jan 2023", "KK Show", "Alma & 小妖"]
+category = ["#節目系列", "Youtuber"]
 
 [time619]
 name = "百靈果的2023東京美食+滑雪專輯"
@@ -109,8 +149,8 @@ youtube = "https://www.youtube.com/watch?v=IfvinWrzw74"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>中指跟隨手槍女王袁非大談日本台灣的風俗產業！<br/>====================<br/>#老子有錢<br/>過年送最大，bmw，Benz，奧迪，特斯拉大方送。現在下載《老子有錢》，即日起至1/31天天登入領紅包，至4/19前輸入百靈果專屬新用戶推薦碼「0857BLIV」，現領兩千老幣支援金！<br/><br/>現正下載<br/>https://welcometomyapp.onelink.me/HuIt/vf61x27l<br/><br/>曾國城、林美秀唯一推薦，機台種類最多，超高倍率敢開敢送，大獎天天開！24小時不打烊，快來「老子有錢」領年終，開豪車。<br/><br/>專屬推薦碼領取流程:<br/>點擊老子有錢連結下載遊戲→登入【老子有錢】→【好康活動】→【推薦好友】→輸入百靈果推薦碼「0857BLIV」→按下確定即可。<br/><br/>*詳細活動說明，請依照官網說明為主<br/>*專屬推薦碼僅限【註冊七日內】之帳號。<br/>*每一帳號僅限使用一次新手活動。<br/>*專屬推薦碼無法重複使用</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["【週二夜現場】中指通 & 手槍女王"]
-tag = ["Jan 2023", "週二夜現場"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Jan 2023", "週二夜現場", "中指通"]
+category = ["#節目系列", "暫代讀書會", "Youtuber", "色色"]
 
 [time617]
 name = "The KK Show - #171 中指通+之之"
@@ -122,8 +162,8 @@ youtube = "https://www.youtube.com/watch?v=aLWxWvCD0ks"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>人生不識中指通，看的片很平庸。今天跟中指通還有之之談他們的成長教育啟蒙的過程，還有去日本要體驗成業的注意意<br/>===============<br/><br/>#中指通日本風俗課程裏知識<br/>怎麼玩最安全 怎麼玩最好玩？<br/>購買聯結<br/>https://www.pressplay.cc/link/s/A6AA3C1E<br/><br/>別忘記使用百靈果折扣碼：IBELIEVEJIZZ<br/><br/></p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #171 中指通+之之"]
-tag = ["Jan 2023", "KK Show"]
-category = ["#節目系列"]
+tag = ["Jan 2023", "KK Show", "中指通"]
+category = ["#節目系列", "Youtuber", "色色"]
 
 [time616]
 name = "百靈果NEWS | 白冰冰的初戀、中國要洗白了、世界第一的餐廳要關門"
@@ -148,8 +188,8 @@ youtube = "https://www.youtube.com/watch?v=HMQ4tdcOAdA"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>《東海鍾離》<br/>百靈果教徒專屬七折售票連結：https://forms.gle/FhjnPuVLHq81Wgeh8<br/><br/>明華園總團 2022北藝開幕首演完售好評<br/>2023巡演首站即將來到高雄衛武營<br/>人獸戀加上白鹿大餐超乎你的想像<br/>最後還有現場油炸孫翠鳳在場觀眾都說有鹹酥雞飄香<br/>邀請大家有機會來劇場感受看看我們的魅力吧</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["【週二夜現場】歌仔戲的女兒 - 陳昭賢"]
-tag = ["Jan 2023", "週二夜現場"]
-category = ["#節目系列", "暫代讀書會"]
+tag = ["Jan 2023", "週二夜現場", "陳昭賢"]
+category = ["#節目系列", "暫代讀書會", "文藝"]
 
 [time614]
 name = "The KK Show - #170 陳亞蘭"
@@ -161,8 +201,8 @@ youtube = "https://www.youtube.com/watch?v=_DAei7W7tUs"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>跟金鐘影帝陳亞蘭聊歌仔戲在他眼裡的復興以及我們眼裡的消散<br/>《嘉慶君再遊臺灣》集資計畫：<a href='https://backme.tw/ref/8XTWj/'>https://backme.tw/ref/8XTWj/</a><br/>=======================<br/>#宇恩私宅御廚料理<br/>「老饕與飯店主廚攜手打造私藏料理第一品牌。」<br/><br/>2023宇兔迎春饗食新年套組熱賣中<br/>每組含運費888元起，最高折數67折起。<br/><br/>宇兔迎春饗食新年套組，不只適合闔家大小圍爐品嚐，<br/>更適合新春拜年送禮，讓你滿面春風誠意十足。<br/><br/>特別推出 &quot;九種組合&quot;<br/>滿足不同送禮自用需求<br/><br/>➜官網訂購： <a href='https://yuenfood.com/'>https://yuenfood.com/</a><br/>➜LINE@： <a href='https://page.line.me/653pgswy'>https://page.line.me/653pgswy</a><br/>➜facebook： <a href='https://www.facebook.com/yuenfoodtw'>https://www.facebook.com/yuenfoodtw</a><br/>➜Instagram： <a href='https://reurl.cc/AyK1DZㄒ'>https://reurl.cc/AyK1DZㄒ</a><br/>=========================<br/>➤ 百靈果週二夜現場售票連結：<a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a></p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #170 陳亞蘭"]
-tag = ["Jan 2023", "KK Show"]
-category = ["#節目系列"]
+tag = ["Jan 2023", "KK Show", "陳亞蘭"]
+category = ["#節目系列", "文藝"]
 
 [time613]
 name = "百靈果NEWS | 政府出錢請你搬家、修女的禁忌之戀、推薦劇：如夢之夢"
@@ -199,8 +239,8 @@ youtube = "https://www.youtube.com/watch?v=94yF-YH7a44"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>凱莉跟她心目中的潛水女神聊潛水、小時候回台灣的文化衝擊、外景節目的秘辛、還有他為什麼現在看起來這麼白以及為什麼要出專輯</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #169 大霈"]
-tag = ["Jan 2023", "KK Show"]
-category = ["#節目系列"]
+tag = ["Jan 2023", "KK Show", "大霈"]
+category = ["#節目系列", "藝人", "音樂"]
 
 [time610]
 name = "百靈果NEWS | 年度十大國際新聞，推薦書：Straight to Hell by John LeFevre"
@@ -238,8 +278,8 @@ youtube = "https://www.youtube.com/watch?v=R2KDpiWgNCM"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>原來是企業講師的歐耶，有一天決定不再當講師，他要做一個把快樂帶給別人的人。<br/><br/>====================== <br/><br/>防範金融詐騙切記五不：不接陌生來電、不點未知連結、不聽投資明牌、不怕莫名威脅、不給個人資料<br/><br/>此外也能透過證券期貨反詐騙諮詢專線(02)2737-3434諮詢<br/>若有疑慮時，撥通電話就有專人解答！<br/>___________<br/>2022/12/31前到全民一同反詐騙活動網站 <br/>www.anti-scam.com.tw<br/>投稿自己收過的金融詐騙簡訊或看過的假新聞截圖，並分享曾(差點)遭受金融詐騙的經驗就可以抽iPhone14 Pro！<br/><br/>#防範金融詐騙切記五不 #不接不點不聽不怕不給 #全民一同反詐騙 #金融監督管理委員會 #臺灣證券交易所 #中華民國櫃檯買賣中心 #臺灣期貨交易所 #臺灣集中保管結算所</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #168 歐耶"]
-tag = ["Dec 2022", "KK Show"]
-category = ["#節目系列"]
+tag = ["Dec 2022", "KK Show", "歐耶"]
+category = ["#節目系列", "喜劇演員", "Youtuber", "老闆"]
 
 [time607]
 name = "百靈果NEWS | 中國躺平式防疫、紐西蘭超嚴格的禁菸令、97歲納粹打字員"
@@ -264,8 +304,8 @@ youtube = "https://www.youtube.com/watch?v=xoe2KdKcF-Y"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "<p>今天凱莉看到MATZKA本人後就進入迷妹狀態，她整個一直問很迷妹的問題 （攤手）</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show - #167 MATZKA"]
-tag = ["Dec 2022", "KK Show"]
-category = ["#節目系列"]
+tag = ["Dec 2022", "KK Show", "MATZKA"]
+category = ["#節目系列", "音樂"]
 
 [time605]
 name = "百靈果NEWS | 美國對抖音Tiktok下重手、德國側翼試圖恢復帝制、亞洲流行文化話語權在韓國手裡？"
@@ -3364,7 +3404,7 @@ youtube = "https://www.youtube.com/watch?v=oEIBXYo2mBg&t=13s"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "今晚９點 #百靈果之友 我們要和 #報導者 的致昕聊他寫超好的新書《真相製造》，這本書討論 #網軍 和 #資訊戰 真的超級精彩！讀書會下禮拜開始，這週就讓致昕插隊一下啦～ #LivePodcast #直播✨追蹤 IG 看我們的ㄎㄧㄤ日常：https://instagram.com/bailingguo_news✨到 FB 看我們每天分享新聞觀點：https://m.facebook.com/puppydailynews<p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["百靈果之友: 004 報導者 致昕"]
-tag = ["Jul 2021", "百靈果之友", "Jason 劉致昕 @報導者"]
+tag = ["Jul 2021", "百靈果之友", "Jason 劉致昕"]
 category = ["#節目系列", "暫代讀書會", "時事", "記者"]
 
 [time375]
@@ -5158,7 +5198,7 @@ youtube = "https://www.youtube.com/watch?v=-IotZeP-CFs"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
 description = "Jason 來分享他身為一個調查記者如何深入組織內部挖掘真相，報導者如何在眾多新聞媒體氾濫的台灣走出自己不一樣的路「犀牛盾3D壯撞貼」官方短連結：https://url.rhinoshield.tw/podcastnew專屬折扣碼：ibelieve「軒尼詩邑往情深禮盒」各大通路隆重上市指定禮盒內含700毫升與50毫升軒尼詩干邑，送禮更大方銷售店點立即查➢ https://bit.ly/3giRckA *軒尼詩提醒您 未成年禁止飲酒*內容涉及酒類訊息，請勿以任何形式轉發予年齡未滿21歲者，也勿以任何形式轉發到法律禁止酒類宣傳國家<p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
 names = ["The KK Show #043 - 報導者來了 - Jason", "The KK Show - #43 @報導者 The Reporter 來了 - Jason （小粉紅快來 我們有聊新疆）"]
-tag = ["Sep 2020", "KK Show", "Jason 劉致昕 @報導者"]
+tag = ["Sep 2020", "KK Show", "Jason 劉致昕"]
 category = ["#節目系列", "時事", "記者"]
 
 [time237]

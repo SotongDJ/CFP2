@@ -262,7 +262,9 @@ Start annotation
   Excluded: (0)
     
 [KK Show]
-  found in: (179)
+  found in: (181)
+    time628
+    time627
     time626
     time623
     time621
@@ -894,7 +896,8 @@ Start annotation
   Excluded: (0)
     
 [週二夜現場]
-  found in: (8)
+  found in: (9)
+    time629
     time624
     time618
     time615
@@ -959,7 +962,9 @@ Start annotation
   Excluded: (0)
     
 [呱吉]
-  found in: (4)
+  found in: (6)
+    time629
+    time628
     time456
     time368
     time187
@@ -1030,6 +1035,12 @@ Start annotation
     time322
   Excluded: (0)
     
+[中指通]
+  found in: (2)
+    time618
+    time617
+  Excluded: (0)
+    
 [Kimberley陳芳語]
   found in: (2)
     time475
@@ -1086,7 +1097,7 @@ Start annotation
     time481
   Excluded: (0)
     
-[Jason 劉致昕 @報導者]
+[Jason 劉致昕]
   found in: (2)
     time238
     time376

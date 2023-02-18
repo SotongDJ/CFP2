@@ -57,7 +57,17 @@ inclusive = ["陳秋實"]
 exclusive = []
 category = ["時事","記者"]
 
-["Jason 劉致昕 @報導者"]
+["王志安"]
+inclusive = ["王志安"]
+exclusive = []
+category = ["時事","記者"]
+
+["鄒宗翰 @德國之聲"]
+inclusive = ["鄒宗翰"]
+exclusive = []
+category = ["時事","記者"]
+
+["Jason 劉致昕"]
 inclusive = ["Jason","致昕"]
 exclusive = []
 category = ["時事","記者"]

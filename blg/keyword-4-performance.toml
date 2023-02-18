@@ -140,6 +140,11 @@ inclusive = ["呱吉"]
 exclusive = ["0516"]
 category = ["喜劇演員","Youtuber","政治人物","老闆"]
 
+["歐耶"]
+inclusive = ["歐耶"]
+exclusive = []
+category = ["喜劇演員","Youtuber","老闆"]
+
 [Jim]
 inclusive = ["Jim"]
 exclusive = []
@@ -202,6 +207,11 @@ inclusive = ["泥泥學姐"]
 exclusive = []
 category = ["Youtuber"]
 
+["Alma & 小妖"]
+inclusive = ["Alma & 小妖"]
+exclusive = []
+category = ["Youtuber"]
+
 ["盧卡斯 @BBK Networ"]
 inclusive = ["盧卡斯","BBK Network"]
 exclusive = []
@@ -231,6 +241,11 @@ category = ["Youtuber","音樂","原住民"]
 inclusive = ["巴大雄"]
 exclusive = []
 category = ["Youtuber","音樂","原住民"]
+
+["中指通"]
+inclusive = ["中指通"]
+exclusive = []
+category = ["Youtuber","色色"]
 
 ["小澤瑪莉雅"]
 inclusive = ["小澤瑪莉雅"]
@@ -267,6 +282,11 @@ inclusive = ["Kimberley","陳芳語"]
 exclusive = []
 category = ["音樂"]
 
+["MATZKA"]
+inclusive = ["MATZKA"]
+exclusive = []
+category = ["音樂"]
+
 ["王彩樺"]
 inclusive = ["王彩樺"]
 exclusive = []
@@ -281,6 +301,11 @@ category = ["藝人","音樂","Podcaster"]
 inclusive = ["林俊逸"]
 exclusive = []
 category = ["藝人","音樂","Podcaster"]
+
+["大霈"]
+inclusive = ["大霈"]
+exclusive = []
+category = ["藝人","音樂"]
 
 ["Musa 明馬丁"]
 inclusive = ["Musa 明馬丁"]
@@ -307,6 +332,11 @@ inclusive = ["黃秋生"]
 exclusive = []
 category = ["演員","文藝"]
 
+["林倩"]
+inclusive = ["林倩"]
+exclusive = []
+category = ["攝影","Instagramer"]
+
 # 舞台劇/策展
 
 ["台南人劇團"]
@@ -326,6 +356,16 @@ category = ["文藝","舞蹈"]
 
 ["孫翠鳳"]
 inclusive = ["孫翠鳳"]
+exclusive = []
+category = ["文藝"]
+
+["陳昭賢"]
+inclusive = ["陳昭賢"]
+exclusive = []
+category = ["文藝"]
+
+["陳亞蘭"]
+inclusive = ["陳亞蘭"]
 exclusive = []
 category = ["文藝"]
 

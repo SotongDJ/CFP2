@@ -62,6 +62,16 @@ inclusive = ["Aaron"]
 exclusive = []
 category = ["老闆"]
 
+["尚恩"]
+inclusive = ["尚恩"]
+exclusive = []
+category = ["老闆"]
+
+["李小牧"]
+inclusive = ["李小牧"]
+exclusive = []
+category = ["老闆"]
+
 ["陳沂"]
 inclusive = ["陳沂"]
 exclusive = []

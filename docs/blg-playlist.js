@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>\u96e3\u5f97\u8ddfStephen\u5750\u4e0b\u4f86\u597d\u597d\u804a\u624d\u767c\u73fe\u4ed6\u7684\u904e\u53bb\u9019\u9ebc\u7684\u9a5a\u5929\u52d5\u5730\u3002\u53bb\u4e2d\u570b\u95d6\u8569\u904e\u3001\u5728\u7f8e\u570b\u8ddf\u5e6b\u6d3e\u547c\u9ebb\u904e\u3001\u9084\u5dee\u9ede\u88ab\u5bcc\u592a\u592a\u5e36\u56de\u5bb6\u5305\u990a\uff1f\uff01</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-177-%E7%99%BE%E9%9D%88%E6%9E%9C%E5%BE%A1%E7%94%A8%E5%89%AA%E8%BC%AF%E5%B8%AB-stephen/id1106847606?i=1000600874762",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjI5NTg0NA",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4oXwWjYmlvjwRe4g1kyOZ1",
 "youtube": "https://www.youtube.com/watch?v=LVjHowO1JLk"
 },
 "time630": {

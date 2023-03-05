@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time635]
+name = "百靈果NEWS | ChatGPT搶飯碗、丹麥為了國防預算取消國定假日、芬蘭開始蓋圍牆 、中國要當和平使者"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12375421-news-chatgpt.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjM3NTQyMQ"
+youtube = "https://www.youtube.com/watch?v=Le1tNKcXL14"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>1. 特斯拉創辦人馬斯克正在招募AI研究團隊以創造出新的程式來取代ChatGPT<br/>2. 丹麥立法院在周二投票決定廢除春季公共假期，以利用節省下來的資金來增加增加國防開支。這個動作遭到了立院反對派、工會和丹麥主教的嚴厲批評<br/>3.芬蘭開始在與俄羅斯邊界建造一個牆，這個牆124 英里長、10 英尺高、頂部裝有鐵絲網的圍欄<br/>4. 中國跟白羅斯一起發聲明可以幫助烏克蘭的和平<br/>#chatgpt #ai #中國 #烏俄戰爭 #北歐</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["百靈果NEWS | ChatGPT搶飯碗、丹麥為了國防預算取消國定假日、芬蘭開始蓋圍牆 、中國要當和平使者"]
+tag = ["Mar 2023", "百靈果 NEWS"]
+category = ["#節目系列"]
+
 [time634]
 name = "【週二夜現場】聊228、聊選舉 - 人渣文本 周偉航"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12352920-228.mp3"

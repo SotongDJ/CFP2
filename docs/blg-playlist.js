@@ -1,4 +1,19 @@
 const playlist = {
+"time635": {
+"name": "\u767e\u9748\u679cNEWS | ChatGPT\u6436\u98ef\u7897\u3001\u4e39\u9ea5\u70ba\u4e86\u570b\u9632\u9810\u7b97\u53d6\u6d88\u570b\u5b9a\u5047\u65e5\u3001\u82ac\u862d\u958b\u59cb\u84cb\u570d\u7246 \u3001\u4e2d\u570b\u8981\u7576\u548c\u5e73\u4f7f\u8005",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12375421-news-chatgpt.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>1. \u7279\u65af\u62c9\u5275\u8fa6\u4eba\u99ac\u65af\u514b\u6b63\u5728\u62db\u52dfAI\u7814\u7a76\u5718\u968a\u4ee5\u5275\u9020\u51fa\u65b0\u7684\u7a0b\u5f0f\u4f86\u53d6\u4ee3ChatGPT<br/>2. \u4e39\u9ea5\u7acb\u6cd5\u9662\u5728\u5468\u4e8c\u6295\u7968\u6c7a\u5b9a\u5ee2\u9664\u6625\u5b63\u516c\u5171\u5047\u671f\uff0c\u4ee5\u5229\u7528\u7bc0\u7701\u4e0b\u4f86\u7684\u8cc7\u91d1\u4f86\u589e\u52a0\u589e\u52a0\u570b\u9632\u958b\u652f\u3002\u9019\u500b\u52d5\u4f5c\u906d\u5230\u4e86\u7acb\u9662\u53cd\u5c0d\u6d3e\u3001\u5de5\u6703\u548c\u4e39\u9ea5\u4e3b\u6559\u7684\u56b4\u53b2\u6279\u8a55<br/>3.\u82ac\u862d\u958b\u59cb\u5728\u8207\u4fc4\u7f85\u65af\u908a\u754c\u5efa\u9020\u4e00\u500b\u7246\uff0c\u9019\u500b\u7246124 \u82f1\u91cc\u9577\u300110 \u82f1\u5c3a\u9ad8\u3001\u9802\u90e8\u88dd\u6709\u9435\u7d72\u7db2\u7684\u570d\u6b04<br/>4. \u4e2d\u570b\u8ddf\u767d\u7f85\u65af\u4e00\u8d77\u767c\u8072\u660e\u53ef\u4ee5\u5e6b\u52a9\u70cf\u514b\u862d\u7684\u548c\u5e73<br/>#chatgpt #ai #\u4e2d\u570b #\u70cf\u4fc4\u6230\u722d #\u5317\u6b50</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjM3NTQyMQ",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=Le1tNKcXL14"
+},
 "time634": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u804a228\u3001\u804a\u9078\u8209 - \u4eba\u6e23\u6587\u672c \u5468\u5049\u822a",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12352920-228.mp3",

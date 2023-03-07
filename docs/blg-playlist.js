@@ -1,4 +1,19 @@
 const playlist = {
+"time636": {
+"name": "The KK Show - \u53bb\u4e2d\u570b\u767c\u5c55\u7684\u559c\u5287\u6f14\u54e1 - Hector",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12390477-the-kk-show-hector.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2023",
+"KK Show"
+],
+"description": "<p>Hector\u4e4b\u524d\u5728\u53f0\u7063\u7576\u559c\u5287\u6f14\u54e1\uff0c\u5f8c\u4f86\u53bb\u4e2d\u570b\u5de5\u4f5c\u5f8c\u4ed6\u4e5f\u627e\u4e86\u7576\u5730\u7684\u559c\u5287\u4ff1\u6a02\u90e8\u53bb\u8b1b\u812b\u53e3\u79c0\u3002\u6211\u5011\u8ddfHector\u804a\u804a\u8fd1\u5e74\u4f86\u4e2d\u570b\u559c\u5287\u7684\u767c\u5c55\u8ddf\u63a5\u4e0b\u4f86\u7684\u8da8\u52e2<br/><br/></p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "https://open.spotify.com/episode/35D7RkXH3gLVjRmltcJ97c",
+"youtube": "https://www.youtube.com/watch?v=rZuIv44QdgA"
+},
 "time635": {
 "name": "\u767e\u9748\u679cNEWS | ChatGPT\u6436\u98ef\u7897\u3001\u4e39\u9ea5\u70ba\u4e86\u570b\u9632\u9810\u7b97\u53d6\u6d88\u570b\u5b9a\u5047\u65e5\u3001\u82ac\u862d\u958b\u59cb\u84cb\u570d\u7246 \u3001\u4e2d\u570b\u8981\u7576\u548c\u5e73\u4f7f\u8005",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12375421-news-chatgpt.mp3",

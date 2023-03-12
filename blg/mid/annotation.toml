@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time638]
+name = "百靈果NEWS | 搞失蹤造成心理創傷、Fox新聞主播私下看不起川普、烏克蘭的消耗戰、日本傑尼斯老闆喜歡小男孩是公開的秘密"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12421990-news-fox.mp3"
+youtube = "https://www.youtube.com/watch?v=zUAxcKcgieQ"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>1. Ghosting：搞失蹤的意思是因為對於另一半失去興趣但是又不想要當面和他們說清楚而做出的行為，他們就乾脆直接不回訊息<br/>2.保守派的FOX新聞主播第一次表示了他們不相信特朗普所聲稱的選舉舞弊，並且顯現出他們不支持川普的參選總統的趨勢。現在國內的保守派團結逐漸在下降。<br/>3.伊朗自去年 11 月以來，伊朗已有近 700 名女孩因有毒氣體中毒<br/>4.Predator: The Secret Scandal of J-Pop 喜多川爺爺，日本傑尼斯老闆喜歡小男孩是公開的秘密</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["百靈果NEWS | 搞失蹤造成心理創傷、Fox新聞主播私下看不起川普、烏克蘭的消耗戰、日本傑尼斯老闆喜歡小男孩是公開的秘密"]
+tag = ["Mar 2023", "百靈果 NEWS"]
+category = ["#節目系列"]
+
 [time637]
 name = "你的海鮮不是你的海鮮 | 讀書會：八尺門的辯護人 Ch3-4"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12405804-ch3-4.mp3"

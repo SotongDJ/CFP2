@@ -1,4 +1,19 @@
 const playlist = {
+"time638": {
+"name": "\u767e\u9748\u679cNEWS | \u641e\u5931\u8e64\u9020\u6210\u5fc3\u7406\u5275\u50b7\u3001Fox\u65b0\u805e\u4e3b\u64ad\u79c1\u4e0b\u770b\u4e0d\u8d77\u5ddd\u666e\u3001\u70cf\u514b\u862d\u7684\u6d88\u8017\u6230\u3001\u65e5\u672c\u5091\u5c3c\u65af\u8001\u95c6\u559c\u6b61\u5c0f\u7537\u5b69\u662f\u516c\u958b\u7684\u79d8\u5bc6",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12421990-news-fox.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>1. Ghosting\uff1a\u641e\u5931\u8e64\u7684\u610f\u601d\u662f\u56e0\u70ba\u5c0d\u65bc\u53e6\u4e00\u534a\u5931\u53bb\u8208\u8da3\u4f46\u662f\u53c8\u4e0d\u60f3\u8981\u7576\u9762\u548c\u4ed6\u5011\u8aaa\u6e05\u695a\u800c\u505a\u51fa\u7684\u884c\u70ba\uff0c\u4ed6\u5011\u5c31\u4e7e\u8106\u76f4\u63a5\u4e0d\u56de\u8a0a\u606f<br/>2.\u4fdd\u5b88\u6d3e\u7684FOX\u65b0\u805e\u4e3b\u64ad\u7b2c\u4e00\u6b21\u8868\u793a\u4e86\u4ed6\u5011\u4e0d\u76f8\u4fe1\u7279\u6717\u666e\u6240\u8072\u7a31\u7684\u9078\u8209\u821e\u5f0a\uff0c\u4e26\u4e14\u986f\u73fe\u51fa\u4ed6\u5011\u4e0d\u652f\u6301\u5ddd\u666e\u7684\u53c3\u9078\u7e3d\u7d71\u7684\u8da8\u52e2\u3002\u73fe\u5728\u570b\u5167\u7684\u4fdd\u5b88\u6d3e\u5718\u7d50\u9010\u6f38\u5728\u4e0b\u964d\u3002<br/>3.\u4f0a\u6717\u81ea\u53bb\u5e74 11 \u6708\u4ee5\u4f86\uff0c\u4f0a\u6717\u5df2\u6709\u8fd1 700 \u540d\u5973\u5b69\u56e0\u6709\u6bd2\u6c23\u9ad4\u4e2d\u6bd2<br/>4.Predator: The Secret Scandal of J-Pop \u559c\u591a\u5ddd\u723a\u723a\uff0c\u65e5\u672c\u5091\u5c3c\u65af\u8001\u95c6\u559c\u6b61\u5c0f\u7537\u5b69\u662f\u516c\u958b\u7684\u79d8\u5bc6</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=zUAxcKcgieQ"
+},
 "time637": {
 "name": "\u4f60\u7684\u6d77\u9bae\u4e0d\u662f\u4f60\u7684\u6d77\u9bae | \u8b80\u66f8\u6703\uff1a\u516b\u5c3a\u9580\u7684\u8faf\u8b77\u4eba Ch3-4",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12405804-ch3-4.mp3",

@@ -1,5 +1,18 @@
 # Add your own tag to each episode
 
+[time640]
+name = "The KK Show - 182 溫家寶的白手套 - 沈棟"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12473510-the-kk-show-182.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-182-%E6%BA%AB%E5%AE%B6%E5%AF%B6%E7%9A%84%E7%99%BD%E6%89%8B%E5%A5%97-%E6%B2%88%E6%A3%9F/id1106847606?i=1000604905287"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjQ3MjU4OA"
+spotify = "https://open.spotify.com/episode/3OiX8burVxq43WEFUGUXGj"
+youtube = "https://www.youtube.com/watch?v=TBzOZAjT3GE"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>#紅色賭盤 作者 #沈棟 Desmond Shum 來跟我們喝酒、聊聊中國紅二代的圈子、賺錢的方式、還有到底要犧牲什麼才能進去那個圈子！ #躺平文化 在習近平連任第三次後也在中國官場上開始流行，到底是為什麼呢？<br/><br/>#習近平 #中國紅二代 #溫家寶 #白手套 #redroulette </p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - 182 溫家寶的白手套 - 沈棟"]
+tag = ["Mar 2023", "KK Show"]
+category = ["#節目系列"]
+
 [time639]
 name = "The KK Show - Ep180 前參謀總長 李喜明"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12436868-the-kk-show-ep180.mp3"

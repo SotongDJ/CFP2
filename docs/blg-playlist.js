@@ -1,4 +1,19 @@
 const playlist = {
+"time640": {
+"name": "The KK Show - 182 \u6eab\u5bb6\u5bf6\u7684\u767d\u624b\u5957 - \u6c88\u68df",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12473510-the-kk-show-182.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2023",
+"KK Show"
+],
+"description": "<p>#\u7d05\u8272\u8ced\u76e4 \u4f5c\u8005 #\u6c88\u68df Desmond\u00a0Shum\u00a0\u4f86\u8ddf\u6211\u5011\u559d\u9152\u3001\u804a\u804a\u4e2d\u570b\u7d05\u4e8c\u4ee3\u7684\u5708\u5b50\u3001\u8cfa\u9322\u7684\u65b9\u5f0f\u3001\u9084\u6709\u5230\u5e95\u8981\u72a7\u7272\u4ec0\u9ebc\u624d\u80fd\u9032\u53bb\u90a3\u500b\u5708\u5b50\uff01 #\u8eba\u5e73\u6587\u5316 \u5728\u7fd2\u8fd1\u5e73\u9023\u4efb\u7b2c\u4e09\u6b21\u5f8c\u4e5f\u5728\u4e2d\u570b\u5b98\u5834\u4e0a\u958b\u59cb\u6d41\u884c\uff0c\u5230\u5e95\u662f\u70ba\u4ec0\u9ebc\u5462\uff1f<br/><br/>#\u7fd2\u8fd1\u5e73 #\u4e2d\u570b\u7d05\u4e8c\u4ee3 #\u6eab\u5bb6\u5bf6 #\u767d\u624b\u5957 #redroulette\u00a0</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-182-%E6%BA%AB%E5%AE%B6%E5%AF%B6%E7%9A%84%E7%99%BD%E6%89%8B%E5%A5%97-%E6%B2%88%E6%A3%9F/id1106847606?i=1000604905287",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjQ3MjU4OA",
+"spotify": "https://open.spotify.com/episode/3OiX8burVxq43WEFUGUXGj",
+"youtube": "https://www.youtube.com/watch?v=TBzOZAjT3GE"
+},
 "time639": {
 "name": "The KK Show - Ep180 \u524d\u53c3\u8b00\u7e3d\u9577 \u674e\u559c\u660e",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12436868-the-kk-show-ep180.mp3",

@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>Peggy\u4eca\u5929\u4f86\u8ddf\u6211\u5011\u804a\u5979\u8eab\u70ba\u60c5\u5834\u5927\u9b54\u738b\uff0c\u5979\u600e\u9ebc\u6ed1\u4ea4\u53cb\u8edf\u9ad4\u3001\u5982\u4f55\u4ea4\u5230\u73fe\u5728\u9019\u500b\u767d\u4eba\u7537\u53cb\u3001\u4ee5\u53ca\u5979\u7684\u82f1\u6587\u8154\u5230\u5e95\u8ddf\u8ab0\u5b78\u7684<br/><br/>Peggy\u7684\u82f1\u8a9e\u53e3\u8aaa\u8ab2\u7a0b\uff0c\u6559\u4f60\u9053\u5730\u7684\u4fda\u8a9e\u3001\u6d41\u884c\u7528\u8a9e\u3001\u6163\u7528\u8a9e<br/>\u8b93\u4f60\u53ef\u4ee5\u7528\u9053\u5730\u82f1\u6587\u8ddf\u5916\u570b\u670b\u53cb\u6e9d\u901a<br/>\u9806\u4fbf\u5b78\u4e00\u53e3\u5047\u63b0\u5916\u570b\u53e3\u97f3<br/><br/>\u6298\u6263\u78bc\uff1aibelieve <br/>\u8ab2\u7a0b\u9023\u7d50\uff1a<a href='https://bit.ly/3n9JRMQ'>https://bit.ly/3n9JRMQ</a></p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-182-%E8%8B%B1%E6%96%87%E5%B9%B9%E8%A8%93%E7%8F%AD-peggy/id1106847606?i=1000605168863",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjQ4MjAyMw",
+"spotify": "https://open.spotify.com/episode/6LgKpY6bUX4saFV06QjpDn",
 "youtube": ""
 },
 "time640": {

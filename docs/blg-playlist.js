@@ -9840,18 +9840,18 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=IDVE4gDH304"
 },
 "time047": {
-"name": "0319 3.\u53bb\u6c96\u7e69\u5403 \u5e78\u798f\u7684\u9b06\u9905 \uff1f WHYYYYYYY",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531070-0319-3-whyyyyyyy.mp3",
+"name": "0319 1.\u6709\u9322\u4eba\u8ddf\u4f60\u60f3\u7684\u4e0d\u4e00\u6a23 \u7f8e\u570b\u540d\u6821\u62db\u751f\u919c\u805e",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531068-0319-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u51f1\u8389\u53c8\u8dd1\u51fa\u53bb\u73a9\u3002\u9019\u6b21\u53bb\u4e86\u6c96\u7e69\u5f8c\uff0c\u767c\u73fe\u6c96\u7e69\u7adf\u7136\u8ddf\u53f0\u7063\u6709\u9019\u9ebc\u591a\u76f8\u4f3c\u4e4b\u8655\u3002Youtube \u5f71\u7247 \u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1abit.ly/25wWa2h\u6bcf\u5468\u65e5\u665a\u4e0a\u516d\u9ede\u9418 \u5168\u570b\u5ee3\u64adFM106 \u6536\u807d\u767e\u9748\u679cnews\u807d\u807dKylie\u8ddfKen \u7528\u8f15\u9b06\u7684\u89d2\u5ea6\u5206\u4eab\u570b\u969b\u65b0\u805e\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1agoo.gl/k9qXxb\u5b89\u5353\uff1a@cafreeteriaSpotify : goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1awww.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u7f8e\u570b\u77e5\u540d\u5927\u5b78\u7206\u767c\u6536\u8cc4\u919c\u805e\u3002\u6709\u9322\u5bb6\u9577\u4e0d\u60dc\u91cd\u91d1\u8cc4\u8cc2\u6821\u65b9\u8b93\u5c0f\u5b69\u64e0\u9032\u540d\u6821\u3002\u88ab\u8d77\u8a34\u7684\u5bb6\u9577\u540d\u55ae\u4e0d\u4e4f\u77e5\u540d\u597d\u840a\u5c4b\u5f71\u661f\u53ca\u4f01\u696d\u5bb6\u3002Youtube \u5f71\u7247 \u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1abit.ly/25wWa2h\u6bcf\u5468\u65e5\u665a\u4e0a\u516d\u9ede\u9418 \u5168\u570b\u5ee3\u64adFM106 \u6536\u807d\u767e\u9748\u679cnews\u807d\u807dKylie\u8ddfKen \u7528\u8f15\u9b06\u7684\u89d2\u5ea6\u5206\u4eab\u570b\u969b\u65b0\u805e\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1agoo.gl/k9qXxb\u5b89\u5353\uff1a@cafreeteriaSpotify : goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1awww.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/0319-3-%E5%8E%BB%E6%B2%96%E7%B9%A9%E5%90%83-%E5%B9%B8%E7%A6%8F%E7%9A%84%E9%AC%86%E9%A4%85-whyyyyyyy/id1106847606?i=1000432187270",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkxODYxMjI1",
-"spotify": "https://open.spotify.com/episode/7KjUjW3zEamgUm6PUBrbuR",
+"apple": "https://podcasts.apple.com/tw/podcast/0319-1-%E6%9C%89%E9%8C%A2%E4%BA%BA%E8%B7%9F%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A8%A3-%E7%BE%8E%E5%9C%8B%E5%90%8D%E6%A0%A1%E6%8B%9B%E7%94%9F%E9%86%9C%E8%81%9E/id1106847606?i=1000432187269",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkxODYxMjQ2",
+"spotify": "https://open.spotify.com/episode/6wPL0ayPabhLF8i1O7jwdF",
 "youtube": ""
 },
 "time046": {
@@ -9870,18 +9870,18 @@ const playlist = {
 "youtube": ""
 },
 "time045": {
-"name": "0319 1.\u6709\u9322\u4eba\u8ddf\u4f60\u60f3\u7684\u4e0d\u4e00\u6a23 \u7f8e\u570b\u540d\u6821\u62db\u751f\u919c\u805e",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531068-0319-1.mp3",
+"name": "0319 3.\u53bb\u6c96\u7e69\u5403 \u5e78\u798f\u7684\u9b06\u9905 \uff1f WHYYYYYYY",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531070-0319-3-whyyyyyyy.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u7f8e\u570b\u77e5\u540d\u5927\u5b78\u7206\u767c\u6536\u8cc4\u919c\u805e\u3002\u6709\u9322\u5bb6\u9577\u4e0d\u60dc\u91cd\u91d1\u8cc4\u8cc2\u6821\u65b9\u8b93\u5c0f\u5b69\u64e0\u9032\u540d\u6821\u3002\u88ab\u8d77\u8a34\u7684\u5bb6\u9577\u540d\u55ae\u4e0d\u4e4f\u77e5\u540d\u597d\u840a\u5c4b\u5f71\u661f\u53ca\u4f01\u696d\u5bb6\u3002Youtube \u5f71\u7247 \u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1abit.ly/25wWa2h\u6bcf\u5468\u65e5\u665a\u4e0a\u516d\u9ede\u9418 \u5168\u570b\u5ee3\u64adFM106 \u6536\u807d\u767e\u9748\u679cnews\u807d\u807dKylie\u8ddfKen \u7528\u8f15\u9b06\u7684\u89d2\u5ea6\u5206\u4eab\u570b\u969b\u65b0\u805e\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1agoo.gl/k9qXxb\u5b89\u5353\uff1a@cafreeteriaSpotify : goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1awww.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u51f1\u8389\u53c8\u8dd1\u51fa\u53bb\u73a9\u3002\u9019\u6b21\u53bb\u4e86\u6c96\u7e69\u5f8c\uff0c\u767c\u73fe\u6c96\u7e69\u7adf\u7136\u8ddf\u53f0\u7063\u6709\u9019\u9ebc\u591a\u76f8\u4f3c\u4e4b\u8655\u3002Youtube \u5f71\u7247 \u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1abit.ly/25wWa2h\u6bcf\u5468\u65e5\u665a\u4e0a\u516d\u9ede\u9418 \u5168\u570b\u5ee3\u64adFM106 \u6536\u807d\u767e\u9748\u679cnews\u807d\u807dKylie\u8ddfKen \u7528\u8f15\u9b06\u7684\u89d2\u5ea6\u5206\u4eab\u570b\u969b\u65b0\u805e\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1agoo.gl/k9qXxb\u5b89\u5353\uff1a@cafreeteriaSpotify : goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1awww.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/0319-1-%E6%9C%89%E9%8C%A2%E4%BA%BA%E8%B7%9F%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A8%A3-%E7%BE%8E%E5%9C%8B%E5%90%8D%E6%A0%A1%E6%8B%9B%E7%94%9F%E9%86%9C%E8%81%9E/id1106847606?i=1000432187269",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkxODYxMjQ2",
-"spotify": "https://open.spotify.com/episode/6wPL0ayPabhLF8i1O7jwdF",
+"apple": "https://podcasts.apple.com/tw/podcast/0319-3-%E5%8E%BB%E6%B2%96%E7%B9%A9%E5%90%83-%E5%B9%B8%E7%A6%8F%E7%9A%84%E9%AC%86%E9%A4%85-whyyyyyyy/id1106847606?i=1000432187270",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkxODYxMjI1",
+"spotify": "https://open.spotify.com/episode/7KjUjW3zEamgUm6PUBrbuR",
 "youtube": ""
 },
 "time044": {
@@ -10023,18 +10023,18 @@ const playlist = {
 "youtube": "https://www.youtube.com/watch?v=mZ39pgiFKVI"
 },
 "time035": {
-"name": "\u767e\u9748\u679cNEWS 2019-02-24 3.\u63a8\u85a6\u66f8\uff1a\u4e0d\u904e\u662f\u5177\u5c4d\u9ad4",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531082-news-2019-02-24-3.mp3",
+"name": "\u767e\u9748\u679cNEWS 2019-02-24 1. \u4f0a\u65af\u862d\u570b\u7684\u5c11\u5973\u60f3\u56de\u5bb6 \u4f60\u8981\u6536\u7559\u5979\u55ce\uff1f",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531080-news-2019-02-24-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u767e\u9748\u679cNEWS 2019-02-24 3.\u63a8\u85a6\u66f8\uff1a\u4e0d\u904e\u662f\u5177\u5c4d\u9ad4 by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u767e\u9748\u679cNEWS 2019-02-24 1. \u4f0a\u65af\u862d\u570b\u7684\u5c11\u5973\u60f3\u56de\u5bb6 \u4f60\u8981\u6536\u7559\u5979\u55ce\uff1f by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-24-3-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E4%B8%8D%E9%81%8E%E6%98%AF%E5%85%B7%E5%B1%8D%E9%AB%94/id1106847606?i=1000430499796",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTgwNDMyOTgw",
-"spotify": "https://open.spotify.com/episode/3fmM3V46RW4bvjVbltWO6p",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-24-1-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%9C%8B%E7%9A%84%E5%B0%91%E5%A5%B3%E6%83%B3%E5%9B%9E%E5%AE%B6-%E4%BD%A0%E8%A6%81%E6%94%B6%E7%95%99%E5%A5%B9%E5%97%8E/id1106847606?i=1000430499794",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTgwNDMyOTk1",
+"spotify": "https://open.spotify.com/episode/1GpjPQHufkGZRsoPkBUdkf",
 "youtube": ""
 },
 "time034": {
@@ -10053,18 +10053,18 @@ const playlist = {
 "youtube": ""
 },
 "time033": {
-"name": "\u767e\u9748\u679cNEWS 2019-02-24 1. \u4f0a\u65af\u862d\u570b\u7684\u5c11\u5973\u60f3\u56de\u5bb6 \u4f60\u8981\u6536\u7559\u5979\u55ce\uff1f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531080-news-2019-02-24-1.mp3",
+"name": "\u767e\u9748\u679cNEWS 2019-02-24 3.\u63a8\u85a6\u66f8\uff1a\u4e0d\u904e\u662f\u5177\u5c4d\u9ad4",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531082-news-2019-02-24-3.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u767e\u9748\u679cNEWS 2019-02-24 1. \u4f0a\u65af\u862d\u570b\u7684\u5c11\u5973\u60f3\u56de\u5bb6 \u4f60\u8981\u6536\u7559\u5979\u55ce\uff1f by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u767e\u9748\u679cNEWS 2019-02-24 3.\u63a8\u85a6\u66f8\uff1a\u4e0d\u904e\u662f\u5177\u5c4d\u9ad4 by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-24-1-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%9C%8B%E7%9A%84%E5%B0%91%E5%A5%B3%E6%83%B3%E5%9B%9E%E5%AE%B6-%E4%BD%A0%E8%A6%81%E6%94%B6%E7%95%99%E5%A5%B9%E5%97%8E/id1106847606?i=1000430499794",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTgwNDMyOTk1",
-"spotify": "https://open.spotify.com/episode/1GpjPQHufkGZRsoPkBUdkf",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-24-3-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E4%B8%8D%E9%81%8E%E6%98%AF%E5%85%B7%E5%B1%8D%E9%AB%94/id1106847606?i=1000430499796",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTgwNDMyOTgw",
+"spotify": "https://open.spotify.com/episode/3fmM3V46RW4bvjVbltWO6p",
 "youtube": ""
 },
 "time032": {
@@ -10084,21 +10084,6 @@ const playlist = {
 "youtube": ""
 },
 "time031": {
-"name": "\u767e\u9748\u679cNEWS 2019-02-17 2. \u83f2\u5f8b\u8cd3\u5831\u793e\u793e\u9577\u88ab\u675c\u7279\u8482\u8a0e\u53ad\u4e86...\u53ea\u597d\u8ddf\u5979\u8aaabye bye",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531085-news-2019-02-17-2-bye-bye.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
-"tag": [
-"Feb 2019",
-"\u767e\u9748\u679c NEWS"
-],
-"description": "\u767e\u9748\u679cNEWS 2019-02-17 2. \u83f2\u5f8b\u8cd3\u5831\u793e\u793e\u9577\u88ab\u675c\u7279\u8482\u8a0e\u53ad\u4e86...\u53ea\u597d\u8ddf\u5979\u8aaabye bye by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
-"extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-17-2-%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A0%B1%E7%A4%BE%E7%A4%BE%E9%95%B7%E8%A2%AB%E6%9D%9C%E7%89%B9%E8%92%82%E8%A8%8E%E5%8E%AD%E4%BA%86-%E5%8F%AA%E5%A5%BD%E8%B7%9F%E5%A5%B9%E8%AA%AAbye-bye/id1106847606?i=1000430031693",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc2NzQ4ODYw",
-"spotify": "https://open.spotify.com/episode/6gtkIg2fbkBs3mQd8PtQk9",
-"youtube": ""
-},
-"time030": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-17 1. \u7f8e\u570b\u9109\u6c11\u6311\u6230\u9ee8\u4e2d\u592e\uff1f\uff01",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531084-news-2019-02-17-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
@@ -10111,6 +10096,21 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-17-1-%E7%BE%8E%E5%9C%8B%E9%84%89%E6%B0%91%E6%8C%91%E6%88%B0%E9%BB%A8%E4%B8%AD%E5%A4%AE/id1106847606?i=1000430031694",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc2NzQ4ODYz",
 "spotify": "https://open.spotify.com/episode/5j8PqayM2g0SUH1Nz4Q0og",
+"youtube": ""
+},
+"time030": {
+"name": "\u767e\u9748\u679cNEWS 2019-02-17 2. \u83f2\u5f8b\u8cd3\u5831\u793e\u793e\u9577\u88ab\u675c\u7279\u8482\u8a0e\u53ad\u4e86...\u53ea\u597d\u8ddf\u5979\u8aaabye bye",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531085-news-2019-02-17-2-bye-bye.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Feb 2019",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "\u767e\u9748\u679cNEWS 2019-02-17 2. \u83f2\u5f8b\u8cd3\u5831\u793e\u793e\u9577\u88ab\u675c\u7279\u8482\u8a0e\u53ad\u4e86...\u53ea\u597d\u8ddf\u5979\u8aaabye bye by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-17-2-%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A0%B1%E7%A4%BE%E7%A4%BE%E9%95%B7%E8%A2%AB%E6%9D%9C%E7%89%B9%E8%92%82%E8%A8%8E%E5%8E%AD%E4%BA%86-%E5%8F%AA%E5%A5%BD%E8%B7%9F%E5%A5%B9%E8%AA%AAbye-bye/id1106847606?i=1000430031693",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc2NzQ4ODYw",
+"spotify": "https://open.spotify.com/episode/6gtkIg2fbkBs3mQd8PtQk9",
 "youtube": ""
 },
 "time029": {
@@ -10145,18 +10145,18 @@ const playlist = {
 "youtube": ""
 },
 "time027": {
-"name": "\u767e\u9748\u679cNEWS 2019-02-10 3. \u9592\u804a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531090-news-2019-02-10-3.mp3",
+"name": "\u767e\u9748\u679cNEWS 2019-02-10 1. \u5783\u573e\u98df\u7269\u7684\u9999\u5473\u5c0d\u8eab\u9ad4\u6709\u76ca\uff1f\uff01",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531088-news-2019-02-10-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u767e\u9748\u679cNEWS 2019-02-10 3. \u9592\u804a by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u767e\u9748\u679cNEWS 2019-02-10 1. \u5783\u573e\u98df\u7269\u7684\u9999\u5473\u5c0d\u8eab\u9ad4\u6709\u76ca\uff1f\uff01 by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-10-3-%E9%96%92%E8%81%8A/id1106847606?i=1000429761023",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc0NTkzNjYw",
-"spotify": "https://open.spotify.com/episode/2yKbulp3xZ60gQ8HpJAJ3q",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-10-1-%E5%9E%83%E5%9C%BE%E9%A3%9F%E7%89%A9%E7%9A%84%E9%A6%99%E5%91%B3%E5%B0%8D%E8%BA%AB%E9%AB%94%E6%9C%89%E7%9B%8A/id1106847606?i=1000429761024",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc0NTkzNjY5",
+"spotify": "https://open.spotify.com/episode/4EECacUl1jcDrSbZ3cAdTR",
 "youtube": ""
 },
 "time026": {
@@ -10175,18 +10175,18 @@ const playlist = {
 "youtube": ""
 },
 "time025": {
-"name": "\u767e\u9748\u679cNEWS 2019-02-10 1. \u5783\u573e\u98df\u7269\u7684\u9999\u5473\u5c0d\u8eab\u9ad4\u6709\u76ca\uff1f\uff01",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531088-news-2019-02-10-1.mp3",
+"name": "\u767e\u9748\u679cNEWS 2019-02-10 3. \u9592\u804a",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531090-news-2019-02-10-3.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u767e\u9748\u679cNEWS 2019-02-10 1. \u5783\u573e\u98df\u7269\u7684\u9999\u5473\u5c0d\u8eab\u9ad4\u6709\u76ca\uff1f\uff01 by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u767e\u9748\u679cNEWS 2019-02-10 3. \u9592\u804a by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-10-1-%E5%9E%83%E5%9C%BE%E9%A3%9F%E7%89%A9%E7%9A%84%E9%A6%99%E5%91%B3%E5%B0%8D%E8%BA%AB%E9%AB%94%E6%9C%89%E7%9B%8A/id1106847606?i=1000429761024",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc0NTkzNjY5",
-"spotify": "https://open.spotify.com/episode/4EECacUl1jcDrSbZ3cAdTR",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-10-3-%E9%96%92%E8%81%8A/id1106847606?i=1000429761023",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc0NTkzNjYw",
+"spotify": "https://open.spotify.com/episode/2yKbulp3xZ60gQ8HpJAJ3q",
 "youtube": ""
 },
 "time024": {
@@ -10282,18 +10282,18 @@ const playlist = {
 "youtube": ""
 },
 "time018": {
-"name": "\u767e\u9748\u679cNEWS 2019-01-27 3. \u6ed1\u96ea\u9592\u804a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531099-news-2019-01-27-3.mp3",
+"name": "\u767e\u9748\u679cNEWS 2019-01-27 1. \u53f0\u7063\u6148\u6fdf\u61c9\u8a72\u53bb\u5e6b\u7f8e\u570b\u806f\u90a6\u516c\u52d9\u54e1der \uff08update\uff1a \u5df2\u7d93\u958b\u59cb\u767c\u85aa\u6c34\u4e86\uff09",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531097-news-2019-01-27-1-der-update.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u767e\u9748\u679cNEWS 2019-01-27 3. \u6ed1\u96ea\u9592\u804a by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u767e\u9748\u679cNEWS 2019-01-27 1. \u53f0\u7063\u6148\u6fdf\u61c9\u8a72\u53bb\u5e6b\u7f8e\u570b\u806f\u90a6\u516c\u52d9\u54e1der \uff08update\uff1a \u5df2\u7d93\u958b\u59cb\u767c\u85aa\u6c34\u4e86\uff09 by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-01-27-3-%E6%BB%91%E9%9B%AA%E9%96%92%E8%81%8A/id1106847606?i=1000428548870",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTY1MzE3Njkw",
-"spotify": "https://open.spotify.com/episode/6PPwvEOUb15tcC20URRKhJ",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-01-27-1-%E5%8F%B0%E7%81%A3%E6%85%88%E6%BF%9F%E6%87%89%E8%A9%B2%E5%8E%BB%E5%B9%AB%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E5%85%AC%E5%8B%99%E5%93%A1der-update-%E5%B7%B2%E7%B6%93%E9%96%8B%E5%A7%8B%E7%99%BC%E8%96%AA%E6%B0%B4%E4%BA%86/id1106847606?i=1000428548871",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTY1MzE3NzAy",
+"spotify": "https://open.spotify.com/episode/79KUl79tTKkox2wIBczmFL",
 "youtube": ""
 },
 "time017": {
@@ -10312,18 +10312,18 @@ const playlist = {
 "youtube": ""
 },
 "time016": {
-"name": "\u767e\u9748\u679cNEWS 2019-01-27 1. \u53f0\u7063\u6148\u6fdf\u61c9\u8a72\u53bb\u5e6b\u7f8e\u570b\u806f\u90a6\u516c\u52d9\u54e1der \uff08update\uff1a \u5df2\u7d93\u958b\u59cb\u767c\u85aa\u6c34\u4e86\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531097-news-2019-01-27-1-der-update.mp3",
+"name": "\u767e\u9748\u679cNEWS 2019-01-27 3. \u6ed1\u96ea\u9592\u804a",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531099-news-2019-01-27-3.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "\u767e\u9748\u679cNEWS 2019-01-27 1. \u53f0\u7063\u6148\u6fdf\u61c9\u8a72\u53bb\u5e6b\u7f8e\u570b\u806f\u90a6\u516c\u52d9\u54e1der \uff08update\uff1a \u5df2\u7d93\u958b\u59cb\u767c\u85aa\u6c34\u4e86\uff09 by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"description": "\u767e\u9748\u679cNEWS 2019-01-27 3. \u6ed1\u96ea\u9592\u804a by Bailingguo News<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-01-27-1-%E5%8F%B0%E7%81%A3%E6%85%88%E6%BF%9F%E6%87%89%E8%A9%B2%E5%8E%BB%E5%B9%AB%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E5%85%AC%E5%8B%99%E5%93%A1der-update-%E5%B7%B2%E7%B6%93%E9%96%8B%E5%A7%8B%E7%99%BC%E8%96%AA%E6%B0%B4%E4%BA%86/id1106847606?i=1000428548871",
-"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTY1MzE3NzAy",
-"spotify": "https://open.spotify.com/episode/79KUl79tTKkox2wIBczmFL",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-01-27-3-%E6%BB%91%E9%9B%AA%E9%96%92%E8%81%8A/id1106847606?i=1000428548870",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTY1MzE3Njkw",
+"spotify": "https://open.spotify.com/episode/6PPwvEOUb15tcC20URRKhJ",
 "youtube": ""
 },
 "time015": {

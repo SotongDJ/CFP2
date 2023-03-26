@@ -1,4 +1,19 @@
 const playlist = {
+"time642": {
+"name": "\u767e\u9748\u679cNEWS | Ken\u8ddf\u65e5\u672c\u7f8e\u98df\u7db2\u7d05\u5408\u4f5c\u3001\u745e\u58eb\u4fe1\u8cb8\u73a9\u5f88\u5927\u3001TikTok\u5728\u7f8e\u570b\u5feb\u8981GG\u4e86\u3001\u4ee5\u8272\u5217\u8b8a\u6210\u7d0d\u7cb9\u4e3b\u7fa9\uff1f\u3001\u804a\u804a\u651d\u7406\u6559\u3001\u63a8\u85a6\u96fb\u5f71\uff1a#\u634d\u885b\u4efb\u52d94 John Wick Chapter 4",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12515505-news-ken-tiktok-gg-4-john-wick-chapter-4.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>1. Ken\u53bb\u65e5\u672c\u8ddf\u7f8e\u98df\u7db2\u7d05 <a href='https://studio.youtube.com/channel/UCl5SAITgnBlm9ndM1Z3d42A'>\u00a0@tokyobuzzfood </a>\u00a0 \u5403\u7f8e\u98df<br/>2. \u5728\u745e\u58eb\u806f\u90a6\u8ca1\u653f\u90e8\u5e72\u9810\u4ee5\u9632\u6b62\u7d93\u6fdf\u707d\u96e3\u5f8c\uff0c\u745e\u58eb\u4fe1\u8cb8\u548c\u745e\u9280\u9031\u65e5\u9054\u6210\u5408\u4f75\u5354\u8b70\u3002 \u9019\u5c0d\u50b5\u5238\u5e02\u5834\u7522\u751f\u4e86\u5de8\u5927\u5f71\u97ff<br/>3.Tiktok CEO\u53bb\u7f8e\u570b\u570b\u6703\u807d\u8b49<br/>4. \u4ee5\u8272\u5217\u570b\u6703\u5728\u4e0a\u9031\u56db\u6279\u51c6\u4e86\u4e00\u9805\u6cd5\u5f8b\uff0c\u589e\u52a0\u7f77\u514d\u7e3d\u7406\u7684\u96e3\u5ea6\uff0c\u4e0d\u9867\u5916\u754c\u8cea\u7591\u6b64\u8209\u662f\u70ba\u4e86\u4fdd\u8b77\u73fe\u4efb\u7e3d\u7406\uff08\u73ed\u5091\u660e\uff0e\u7d0d\u5766\u96c5\u80e1\uff09\u514d\u53d7\u8150\u6557\u5be9\u5224\u7684\u5f71\u97ff<br/>5. \u4e2d\u570b\u559c\u5287\u5708\u8d70\u5411\u5b8c\u5168\u5be9\u67e5<br/>6. \u8ddf\u53f0\u7063\u651d\u7406\u6559\u804a\u5929\u5fc3\u5f97<br/>7. \u63a8\u85a6\u65b0\u96fb\u5f71 \u634d\u885b\u4efb\u52d94<br/>#\u745e\u58eb\u4fe1\u8cb8 #at1\u50b5\u5238 #\u4e2d\u570b\u559c\u5287\u5708 #\u651d\u7406\u6559 #\u4ee5\u8272\u5217\u6975\u53f3\u5316</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=9xN7ZSbXSNI"
+},
 "time641": {
 "name": "The KK Show - 183 \u82f1\u6587\u5e79\u8a13\u73ed\uff1aPeggy",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12482023-the-kk-show-183-peggy.mp3",

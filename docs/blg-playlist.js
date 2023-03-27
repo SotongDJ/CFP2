@@ -2951,7 +2951,7 @@ const playlist = {
 "\u6c92\u770b\u904e\u821e\u81fa\u5287\u65b0\u624b\u8981\u600e\u9ebd\u5165\u9580\uff1f #\u856d\u6771\u610f @\u568e\u54ee\u6392\u6f14HaoxHsiaoTroupe | KK Show Clips": "https://www.youtube.com/watch?v=tCOU_J9CaqA"
 },
 "apple": "",
-"google": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyNDQ1NDQ2NQ",
 "spotify": "",
 "youtube": "https://www.youtube.com/watch?v=lTgJ31O1BOI"
 },

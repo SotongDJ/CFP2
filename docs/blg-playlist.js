@@ -2747,7 +2747,7 @@ const playlist = {
 "description": "<p>\u4eca\u5929\u8ddf\u9080\u8acb\u8a31\u6559\u6388\u4f86\u804a\u804a\u73fe\u5728\u4e16\u754c\u4e0a\u6700\u592f\u7684\u7814\u7a76\u9805\u76ee\u4e4b\u4e00\uff1a\u5982\u4f55\u6d3b\u66f4\u4e45\uff01<br/>NordVPN\u767e\u9748\u679c\u5c08\u5c6c\u9023\u7d50\u4ee5\u512a\u60e0\u50f9\u683c\u8cfc\u8cb72\u5e74\u65b9\u6848 \u518d\u984d\u5916\u8d08\u9001\u4e00\u500b\u6708\u9023\u7d50\uff1ahttps://nordvpn.com/kkvpn\u5c08\u5c6c\u512a\u60e0\u5e8f\u865f\uff1akkvpn</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
 "apple": "",
-"google": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI0MDUyODk4NA",
 "spotify": "",
 "youtube": "https://www.youtube.com/watch?v=fcmz88dHgHU"
 },

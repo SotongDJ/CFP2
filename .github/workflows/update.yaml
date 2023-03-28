@@ -54,7 +54,7 @@ jobs:
         run: |
           echo "dirty="`git status --porcelain` >> $GITHUB_OUTPUT
       - name: commit
-        if ${{ steps.check_dirty.outputs.dirty != "" }}
+        if: ${{ steps.check_dirty.outputs.dirty != "" }}
         run: |
           git add -A
           git commit -S -m "update rss feed [bot action]" && git push

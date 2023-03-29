@@ -1,9 +1,9 @@
-name: Deploy static content to Pages (WF)
+name: Deploy static content to Pages manually
+
+
+# GitHub mobile version don't let me remove blank line
 
 on:
-  push:
-    branches: ["main"]
-  workflow_call:
   workflow_dispatch:
 
 permissions:

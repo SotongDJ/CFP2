@@ -65,7 +65,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: [self-hosted, linux, x64]
     needs: build
-    if: ${{ needs.build.outputs.dirty_status != ''}}
+    if: ${{ steps.check_dirty.outputs.dirty != ''}}
     steps:
       - name: Checkout
         uses: actions/checkout@v3

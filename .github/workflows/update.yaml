@@ -65,7 +65,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: [self-hosted, linux, x64]
     needs: build
-    # if: ${{ steps.check_dirty.outputs.dirty != ''}}
+    if: ${{ needs.build.outputs.dirty_status != ''}}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -73,14 +73,14 @@ jobs:
           fetch-depth: 0
           ref: main
       - name: Setup Pages
-        if: ${{ needs.build.outputs.dirty_status != '' }}
+        # if: ${{ needs.build.outputs.dirty_status != '' }}
         uses: actions/configure-pages@v1
       - name: Upload artifact
-        if: ${{ needs.build.outputs.dirty_status != '' }}
+        # if: ${{ needs.build.outputs.dirty_status != '' }}
         uses: actions/upload-pages-artifact@v1
         with:
           path: './docs'
       - name: Deploy to GitHub Pages
         id: deployment
-        if: ${{ needs.build.outputs.dirty_status != '' }}
+        # if: ${{ needs.build.outputs.dirty_status != '' }}
         uses: actions/deploy-pages@v1

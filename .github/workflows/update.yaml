@@ -57,7 +57,7 @@ jobs:
         if: ${{ steps.check_dirty.outputs.dirty != '' }}
         run: |
           git add -A
-          git commit -S -m "\"update rss feed "`TZ='<UTC+8>-8' date +'%b%d, %Y %H:%M:%S'`" [bot action]\"" && git push
+          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b%d,_%Y_%H:%M:%S'`"_[bot action]" && git push
           # git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b%d, %Y %H:%M:%S'`" [bot action]" && git push
   deploy:
     environment:

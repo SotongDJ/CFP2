@@ -16,9 +16,10 @@ concurrency:
 
 jobs:
   build:
+    # runs-on: [self-hosted, linux, x64]
     runs-on: [linux, x64]
     outputs:
-      dirty_status: ${{ steps.check.outputs.dirty }}
+      git_status: ${{ steps.check.outputs.git_status }}
     steps:
       - name: checkout
         uses: actions/checkout@v3
@@ -50,22 +51,22 @@ jobs:
           git config user.email "$EMAIL"
           git config user.signingkey "$KEY"
       - name: check
-        id: check_dirty
+        id: check_git_status
         run: |
-          echo "dirty="`git status --porcelain` >> $GITHUB_OUTPUT
+          echo "git_status="`git status --porcelain`
+          echo "git_status="`git status --porcelain` >> $GITHUB_OUTPUT
       - name: commit
-        if: ${{ steps.check_dirty.outputs.dirty != '' }}
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
         run: |
           git add -A
-          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b%d,_%Y_%H:%M:%S'`"_[bot action]" && git push
-          # git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b%d, %Y %H:%M:%S'`" [bot action]" && git push
+          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]" && git push
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: [self-hosted, linux, x64]
     needs: build
-    if: ${{ needs.build.outputs.dirty_status != ''}}
+    if: ${{ needs.build.outputs.git_status != ''}}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -73,14 +74,11 @@ jobs:
           fetch-depth: 0
           ref: main
       - name: Setup Pages
-        # if: ${{ needs.build.outputs.dirty_status != '' }}
         uses: actions/configure-pages@v1
       - name: Upload artifact
-        # if: ${{ needs.build.outputs.dirty_status != '' }}
         uses: actions/upload-pages-artifact@v1
         with:
           path: './docs'
       - name: Deploy to GitHub Pages
         id: deployment
-        # if: ${{ needs.build.outputs.dirty_status != '' }}
         uses: actions/deploy-pages@v1

@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: [self-hosted, linux, x64]
+    runs-on: [linux, x64]
     outputs:
       dirty_status: ${{ steps.check.outputs.dirty }}
     steps:

@@ -1,4 +1,18 @@
 const playlist = {
+"time644": {
+"name": "\u4e2d\u570b\u559c\u5287\u5708\u5f8c\u7e8c\u3001\u99ac\u82f1\u4e5d\u5411\u4e2d\u570b\u9053\u6b49\u3001\u4ee5\u8272\u5217\u5167\u90e8\u5206\u88c2\u3001\u63a8\u85a6\u7d00\u9304\u7247\uff1a\u9ebb\u5dde\u6bd2\u54c1\u919c\u805e",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12566962-.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Apr 2023"
+],
+"description": "<p>#NordVPN<br/>\u9019\u6b21\u4e5f\u4f9d\u7136\u63d0\u4f9b\u6559\u5f92VPN\u512a\u60e0<br/><br/>\u641c\u5c0b <a href='http://nordvpn.com/kkvpn'>http://nordvpn.com/kkvpn</a><br/>\u6216\u8f38\u5165\u767e\u9748\u679c\u512a\u60e0\u78bc\u3010KKVPN\u3011<br/><br/>\u73fe\u5728\u6700\u65b0\u512a\u60e0\u50f9\u683c\u8cfc\u8cb72\u5e74\u65b9\u6848\u4eab\u56db\u500b\u6708\u512a\u60e0\uff0c\u5e73\u5747\u4e00\u500b\u6708\u53ea\u8981\u4e0d\u5230\u4e00\u676f\u5496\u5561\u7684\u50f9\u9322<br/>\u5c31\u80fd\u5927\u5927\u63d0\u5347\u4f60\u7684\u7db2\u8def\u9ad4\u9a57\u3002<br/>\u53e6\u670930\u5929\u8a66\u7528\u671f\uff0c\u53ef\u4ee5\u96a8\u6642\u53d6\u6d88\u5594\u3002<br/><br/>========================<br/>#EyePlus\u805a\u82f1\u5c0a\u7235\u8996\u5149\u773c\u79d1<br/><br/>SMILE\u5168\u98db\u79d2\u8fd1\u8996\u96f7\u5c04\uff0c\u5168\u7403700\u842c\u773c\u8a8d\u8b49\uff0c\u55ae\u773c23\u79d2\u5c31\u53ef\u4ee5\u5b8c\u6210\uff0c\u8fd1\u8996\u3001\u6563\u5149\u540c\u6b65\u77ef\u6b63\u3002<br/><br/>EyePlus\u662f\u9802\u5c16\u773c\u79d1\u91ab\u5e2b\u8207\u5c08\u696d\u8996\u5149\u5e2b\u5718\u968a\u806f\u624b\u6253\u9020\u7684\u6bbf\u5802\u7d1a\u7cbe\u54c1\u8996\u5149\u773c\u79d1\uff0c\u900f\u904e\u5b8c\u6574\u768424\u9805\u7cbe\u5bc6\u8853\u524d\u6aa2\u67e5\uff0c\u5168\u65b9\u4f4d\u638c\u63e1\u6e05\u6670\u8996\u754c\uff1b\u50b7\u53e3\u5c0f\uff0c\u6062\u5fa9\u5feb\uff0c\u9694\u5929\u5c31\u53ef\u4ee5\u4e0a\u73ed\uff01<br/><br/>\u8acb\u4e0a\u7db2 <a href='https://eyeplus.com.tw/'>https://eyeplus.com.tw</a><br/>\u6216\u641c\u5c0b EyePlus \u805a\u82f1\u5c0a\u7235\u8996\u5149\u773c\u79d1</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": ""
+},
 "time643": {
 "name": "The KK Show - 184 \u5916\u7701\u8001\u5175\u7684\u5973\u5152 - \u745e\u6069",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12531737-the-kk-show-184.mp3",
@@ -10808,6 +10822,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Apr 2023": ['#2023'],
 "Mar 2023": ['#2023'],
 "Feb 2023": ['#2023'],
 "Jan 2023": ['#2023'],
@@ -10861,7 +10876,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

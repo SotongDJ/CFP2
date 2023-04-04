@@ -1038,7 +1038,8 @@ Start annotation
   Excluded: (0)
     
 [阿爆]
-  found in: (3)
+  found in: (4)
+    time645
     time443
     time322
     time147
@@ -1060,6 +1061,12 @@ Start annotation
   found in: (2)
     time475
     time423
+  Excluded: (0)
+    
+[布拉瑞揚 @布拉瑞揚舞團]
+  found in: (2)
+    time645
+    time340
   Excluded: (0)
     
 [楊貴智 @法律白話文]

@@ -1,7 +1,8 @@
 ----
 Start annotation
 [百靈果 NEWS]
-  found in: (246)
+  found in: (247)
+    time644
     time642
     time638
     time635
@@ -267,7 +268,8 @@ Start annotation
   Excluded: (0)
     
 [KK Show]
-  found in: (189)
+  found in: (190)
+    time645
     time643
     time641
     time640

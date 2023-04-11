@@ -1,8 +1,5 @@
 name: Deploy static content to Pages manually
 
-
-# GitHub mobile version don't let me remove blank line
-
 on:
   workflow_dispatch:
 

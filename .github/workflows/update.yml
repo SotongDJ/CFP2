@@ -53,8 +53,8 @@ jobs:
       - name: check
         id: check_git_status
         run: |
-          echo "git_status="`git status --porcelain`
-          echo "git_status="`git status --porcelain` >> $GITHUB_OUTPUT
+          echo "git_status=\""`git status --porcelain`"\""
+          echo "git_status=\""`git status --porcelain`"\"" >> $GITHUB_OUTPUT
       - name: commit
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
         run: |
@@ -66,19 +66,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: [self-hosted, linux, x64]
     needs: build
-    if: ${{ needs.build.outputs.git_status != ''}}
     steps:
+      - name: Echo
+        run: |
+          echo ${{ needs.build.outputs.git_status }}
       - name: Checkout
+        if: ${{ needs.build.outputs.git_status != ''}}
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
       - name: Setup Pages
+        if: ${{ needs.build.outputs.git_status != ''}}
         uses: actions/configure-pages@v1
       - name: Upload artifact
+        if: ${{ needs.build.outputs.git_status != ''}}
         uses: actions/upload-pages-artifact@v1
         with:
           path: './docs'
       - name: Deploy to GitHub Pages
+        if: ${{ needs.build.outputs.git_status != ''}}
         id: deployment
         uses: actions/deploy-pages@v1

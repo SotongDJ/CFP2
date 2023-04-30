@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time655]
+name = "The KK Show - 191 開戰鬥機的男人 - Edan"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12749340-the-kk-show-191-edan.mp3"
+youtube = "https://www.youtube.com/watch?v=GnmgEO6qJCg"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>退役台灣空軍飛官Eden熱愛飛行的，他來跟我們分享戰鬥機飛行員的訓練方法、空軍體制內到底有什麼問題會一直出意外、還有他為什麼離開他最愛的飛行工作</p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - 191 開戰鬥機的男人 - Edan"]
+tag = ["Apr 2023", "KK Show"]
+category = ["#節目系列"]
+
 [time654]
 name = "The KK Show - 190 分手歌-怡岑"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12718405-the-kk-show-190.mp3"

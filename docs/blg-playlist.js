@@ -1,4 +1,19 @@
 const playlist = {
+"time655": {
+"name": "The KK Show - 191 \u958b\u6230\u9b25\u6a5f\u7684\u7537\u4eba - Edan",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12749340-the-kk-show-191-edan.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Apr 2023",
+"KK Show"
+],
+"description": "<p>\u9000\u5f79\u53f0\u7063\u7a7a\u8ecd\u98db\u5b98Eden\u71b1\u611b\u98db\u884c\u7684\uff0c\u4ed6\u4f86\u8ddf\u6211\u5011\u5206\u4eab\u6230\u9b25\u6a5f\u98db\u884c\u54e1\u7684\u8a13\u7df4\u65b9\u6cd5\u3001\u7a7a\u8ecd\u9ad4\u5236\u5167\u5230\u5e95\u6709\u4ec0\u9ebc\u554f\u984c\u6703\u4e00\u76f4\u51fa\u610f\u5916\u3001\u9084\u6709\u4ed6\u70ba\u4ec0\u9ebc\u96e2\u958b\u4ed6\u6700\u611b\u7684\u98db\u884c\u5de5\u4f5c</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=GnmgEO6qJCg"
+},
 "time654": {
 "name": "The KK Show - 190 \u5206\u624b\u6b4c-\u6021\u5c91",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12718405-the-kk-show-190.mp3",

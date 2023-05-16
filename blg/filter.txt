@@ -272,7 +272,8 @@ Start annotation
   Excluded: (0)
     
 [KK Show]
-  found in: (198)
+  found in: (199)
+    time661
     time659
     time658
     time656
@@ -1144,6 +1145,12 @@ Start annotation
   found in: (2)
     time578
     time481
+  Excluded: (0)
+    
+[鄒宗翰 @德國之聲]
+  found in: (2)
+    time661
+    time624
   Excluded: (0)
     
 [Jason 劉致昕]

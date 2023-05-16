@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time661]
+name = "The KK Show - 195 滲透外媒 - 鄒宗翰"
+feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12858129-the-kk-show-195.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjg1ODEyOQ"
+youtube = "https://www.youtube.com/watch?v=SglU8ilws-I"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>德國之聲的鄒宗翰來百靈果跟我們聊天，我們想知道最近這麼多外媒來台灣幹嘛、外媒是不是對蔡英文有意見、德國之聲到底親不親中？<br/>=====<br/>#伯立歐家園<br/><br/>【每月300元，守護身障雙老家園！】<br/>和我們一起用行動支持身心障礙者，<br/>為他們的打造無障礙的工作環境與居住空間。<br/><br/>募款連結：<a href='https://lihi3.cc/nvbxR'>https://lihi3.cc/nvbxR</a></p><p>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - 195 滲透外媒 - 鄒宗翰"]
+tag = ["May 2023"]
+category = []
+
 [time660]
 name = "百靈果NEWS | 官員爸爸力挺女兒炫富、啤酒公司與跨性別合作被抵制、中國做善事？ 推薦書：You Can’t Joke About That"
 feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12844187-news-you-can-t-joke-about-that.mp3"

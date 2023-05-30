@@ -12,9 +12,9 @@ const playlist = {
 ],
 "description": "<p>\u9019\u6b21\u627e\u4e86\u8001\u670b\u53cb\u8449\u8000\u5143\u6559\u6388\u4f86\u804a\u804a\u4ed6\u81ea\u5df1\u7684facebook \u81c9\u66f8\u7c89\u5c08\uff0c\u70ba\u4ec0\u9ebc\u8d8a\u4f86\u8d8a\u6fc0\u9032\uff1f\u751a\u81f3\u88ab\u4e00\u4e9b\u4eba\u8cbc\u4e0a\u4e86\u5074\u7ffc\u7c89\u5c08\u7684\u5c01\u865f\u3002\u00a0<br/>\u4ed6\u60f3\u8981\u9054\u5230\u7684\u76ee\u7684\u662f\u4ec0\u9ebc\uff1f\u50b3\u9054\u7684\u8a0a\u606f\u662f\u4ec0\u9ebc\uff1f\u9019\u6a23\u505a\u6709\u6c92\u6709\u7528\uff1f\u6703\u4e0d\u6703\u64d4\u5fc3\u628a\u4e2d\u9593\u9078\u6c11\u5687\u8dd1\u5462\uff1f</p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u4e16\u754c\u5de1\u8ff4\u9996\u7ad9 - \u99ac\u4f86\u897f\u4e9e_\u5409\u9686\u5761 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-197-%E8%88%87%E5%8F%B0%E6%B4%BE%E7%B2%89%E5%B0%88%E5%B0%8D%E8%A9%B1-%E8%91%89%E8%80%80%E5%85%83%E6%95%99%E6%8E%88/id1106847606?i=1000615000893",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjk0MzM5OQ",
+"spotify": "https://open.spotify.com/episode/3hlRAl1Tc6Mn9Fuo4j4pBc",
 "youtube": "https://www.youtube.com/watch?v=bXaYMtW5yLg"
 },
 "time664": {

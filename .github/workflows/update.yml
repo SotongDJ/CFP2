@@ -20,7 +20,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     # runs-on: [self-hosted, linux, x64]
-    runs-on: [linux, x64]
+    # runs-on: [linux, x64]
+    runs-on: ubuntu-latest
     outputs:
       git_status: ${{ steps.check.outputs.git_status }}
     steps:

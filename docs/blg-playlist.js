@@ -1327,7 +1327,7 @@ const playlist = {
 },
 "time593": {
 "name": "\u767e\u9748\u679cnews | \u98db\u5f48\u6253\u5230\u6ce2\u862d\u3001\u62dc\u767b\u8ddf\u7fd2\u8fd1\u5e73\u898b\u9762\u3001\u63a8\u85a6\uff1a Aziz Ansari\uff1a Nightclub Comedian",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11729414-news-aziz-ansari-nightclub-comedian.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11729414-news-aziz-ansari-nightclub-comedian.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2022",
@@ -1975,7 +1975,7 @@ const playlist = {
 },
 "time559": {
 "name": "\u6211\u4e0d\u662f\u6cf0\u570b\u4eba - \u5df4\u5927\u96c4",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11242357-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11242357-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2022",
@@ -2486,7 +2486,7 @@ const playlist = {
 },
 "time529": {
 "name": "The KK Show - #139 \u738b\u5f69\u6a3a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10829018-the-kk-show-139.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10829018-the-kk-show-139.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2022",
@@ -4458,7 +4458,7 @@ const playlist = {
 },
 "time410": {
 "name": "1010 \u4e2d\u570b\u760b\u72c2\u8655\u6c7aCIA\u5354\u529b\u8005\u3001\u6fb3\u6d32\u628a\u96e3\u6c11\u554f\u984c\u7529\u934b\u7d66\u5225\u4eba\u8655\u7406\u3001\u63a8\u85a6\uff1a The Closer by Dave Chappelle",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530705-1010-cia-the-closer-by-dave-chappelle.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530705-1010-cia-the-closer-by-dave-chappelle.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2021",

@@ -5187,7 +5187,7 @@ const playlist = {
 },
 "time366": {
 "name": "0704 \u666e\u4e01\u5fc3\u4e2d\u6700\u8edf\u7684\u90a3\u4e00\u584a\u3001\u6b50\u6d32\u676f\u7149\u8831\u5927\u8cfd\u3001Pew \u8aaa\u5728\u5ea7\u7684\u5404\u4f4d\u90fd\u662f\u767d\u6d77\u8c5a\u3001\u63a8\u85a6 Chasing Cosby \u3001 The Morning Show",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530749-0704-pew-chasing-cosby-the-morning-show.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530749-0704-pew-chasing-cosby-the-morning-show.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2021",
@@ -9072,7 +9072,7 @@ const playlist = {
 },
 "time129": {
 "name": "The KK Show - #05 \u5ee3\u64ad\u6559\u4e3b - \u6b50\u99ac\u514b",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530986-the-kk-show-005.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530986-the-kk-show-005.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2019",
@@ -10827,7 +10827,7 @@ const playlist = {
 },
 "time016": {
 "name": "\u767e\u9748\u679cNEWS 2019-01-27 1. \u53f0\u7063\u6148\u6fdf\u61c9\u8a72\u53bb\u5e6b\u7f8e\u570b\u806f\u90a6\u516c\u52d9\u54e1der \uff08update\uff1a \u5df2\u7d93\u958b\u59cb\u767c\u85aa\u6c34\u4e86\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531097-news-2019-01-27-1-der-update.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531097-news-2019-01-27-1-der-update.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",

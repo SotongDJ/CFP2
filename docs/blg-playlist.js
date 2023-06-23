@@ -545,7 +545,7 @@ const playlist = {
 },
 "time639": {
 "name": "The KK Show - 181 \u524d\u53c3\u8b00\u7e3d\u9577 \u674e\u559c\u660e",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12436868-the-kk-show-181.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12436868-the-kk-show-181.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2023",
@@ -2230,7 +2230,7 @@ const playlist = {
 },
 "time545": {
 "name": "PELOSI ARRIVES in TAIWAN, We talk to REAL People, REAL Thoughts",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066639-hot-take-what-do-taiwanese-really-think-about-nancy-pelosi-s-visit-english.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11066639-hot-take-what-do-taiwanese-really-think-about-nancy-pelosi-s-visit-english.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2022"
@@ -2344,7 +2344,7 @@ const playlist = {
 },
 "time538": {
 "name": "0710 \u5df4\u9ece\u9999\u5948\u5152\u7e3d\u5e97\u8ddf\u83dc\u5e02\u5834\u4e00\u6a23\u3001\u820a\u91d1\u5c71\u597d\u51b7\u3001\u4f5b\u7f85\u502b\u65af\u5f88\u958b\u5fc3\uff0c \u5f9e\u4eca\u4ee5\u5f8c\u8981\u653e\u5bd2\u6691\u5047",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10930324-0710.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10930324-0710.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2022",
@@ -7031,7 +7031,7 @@ const playlist = {
 },
 "time253": {
 "name": "1011 \u526f\u7e3d\u7d71\u8faf\u8ad6\u5927\u6703\u592a\u51b7\u975c\u3001\u5370\u5c3c\u539f\u4f86\u8cc7\u9063\u8cbb\u9019\u9ebd\u8cb4\u3001\u9591\u804a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530862-1011.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530862-1011.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2020",
@@ -9724,7 +9724,7 @@ const playlist = {
 },
 "time088": {
 "name": "0811 \u7d20\u8089\u5e02\u5834\u6bd4\u4f60\u60f3\u50cf\u4e2d\u9084\u5927\u3001\u4e2d\u570b\u6436\u6551\u59d4\u5167\u745e\u62c9\u77f3\u6cb9\u7522\u696d\u3001\u63a8\u85a6\u66f8\uff1a\u56de\u6b78\u7dda\u4e0a\u7684\u5019\u9ce5 \u9673\u6f84\u6ce2\u4f5c\u54c1\u7279\u5beb",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531027-0811.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531027-0811.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2019",
@@ -9754,7 +9754,7 @@ const playlist = {
 },
 "time086": {
 "name": "\u8b80\u66f8\u6703\uff1aChernobyl \u6838\u7206\u5bb6\u5712 \u7b2c\u56db\u96c6",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531029-chernobyl.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531029-chernobyl.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2019",

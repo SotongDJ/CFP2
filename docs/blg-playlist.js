@@ -1092,7 +1092,7 @@ const playlist = {
 },
 "time606": {
 "name": "The KK Show - #167 MATZKA",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11903555-the-kk-show-167-matzka.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11903555-the-kk-show-167-matzka.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2022",
@@ -5732,7 +5732,7 @@ const playlist = {
 },
 "time333": {
 "name": "0418 \u88ab\u6700\u597d\u7684\u670b\u53cb\u523a\u6bba\u7684\u975e\u6d32\u9818\u8896\u3001\u4e2d\u570b\u65c5\u904a\u9a5a\u559c\u5305\u3001\u86c7\u7de8\u8ddf\u6211\u5011\u8b1b\u89e3\u767d\u6c99\u5c6f\u5abd\u7956\u9032\u9999",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530782-0418.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530782-0418.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2021",
@@ -9520,7 +9520,7 @@ const playlist = {
 },
 "time101": {
 "name": "\u8b80\u66f8\u6703\uff1aWild Swans \uff5c\u9d3b\uff1a\u4e09\u4ee3\u4e2d\u570b\u5973\u4eba \u7b2c\u4e8c\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531014-wild-swans.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531014-wild-swans.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2019",
@@ -10018,7 +10018,7 @@ const playlist = {
 },
 "time069": {
 "name": "0609 \u7f8e\u570b\u7c3d\u8b49\u3001\u7fa9\u5927\u5229\u3001\u9577\u69ae\u7f77\u5de5",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531046-0609.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531046-0609.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2019",

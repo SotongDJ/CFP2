@@ -4850,7 +4850,7 @@ const playlist = {
 },
 "time386": {
 "name": "0815 \u65b0\u52a0\u5761\u7684\u75ab\u82d7\u4e4b\u4e82\u3001\u99ac\u4f86\u897f\u4e9e\u4e5f\u88ab\u4e2d\u570b\u5047\u65b0\u805e\u6ef2\u900f\u3001 #\u5854\u5229\u73ed \u5c31\u662f #\u8523\u4ecb\u77f3\u3001\u5967\u904b\u9078\u624b\u7684\u7d00\u9304\u7247",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530729-0815.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530729-0815.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2021",
@@ -8238,7 +8238,7 @@ const playlist = {
 },
 "time180": {
 "name": "0419 \u6b66\u6f22\u80ba\u708e\u662f\u548c\u5e73\u4f7f\u8005\u3001\u4e2d\u570b\u5c0d\u7d10\u6642\u8a18\u8005\u8aaa Get Out\u3001\u9069\u5408\u5927\u5916\u5ba3\u7684Podcast",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530935-0419-get-out-podcast.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530935-0419-get-out-podcast.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2020",
@@ -9708,7 +9708,7 @@ const playlist = {
 },
 "time089": {
 "name": "\u8b80\u66f8\u6703\uff1aChernobyl \u6838\u7206\u5bb6\u5712 \u7b2c\u4e94\u96c6 \uff08\u5b8c\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531026-chernobyl.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531026-chernobyl.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2019",
@@ -10385,7 +10385,7 @@ const playlist = {
 },
 "time045": {
 "name": "0319 1.\u6709\u9322\u4eba\u8ddf\u4f60\u60f3\u7684\u4e0d\u4e00\u6a23 \u7f8e\u570b\u540d\u6821\u62db\u751f\u919c\u805e",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531068-0319-1.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531068-0319-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2019",
@@ -10675,7 +10675,7 @@ const playlist = {
 },
 "time026": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-10 2. \u4e2d\u570b\u51fa\u5947\u62db\u5c0d\u6297\u8cf4\u5e33\u738b....wtf",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531089-news-2019-02-10-2-wtf.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531089-news-2019-02-10-2-wtf.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",

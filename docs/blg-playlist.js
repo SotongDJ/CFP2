@@ -1509,7 +1509,7 @@ const playlist = {
 },
 "time584": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u9928\u9577\u73fe\u5834QA",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11577397-qa.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2022",
@@ -4752,7 +4752,7 @@ const playlist = {
 },
 "time392": {
 "name": "0829 \u9060\u7aef\u5de5\u4f5c\u6a21\u5f0f\u6162\u6162\u4e3b\u6d41\u5316 \u8001\u95c6\u5011\u8981\u8abf\u6574\u3001\u963f\u5bcc\u6c57\u98df\u7269\u77ed\u7f3a\u554f\u984c\u3001\u63a8\u85a6\u66f8\uff1aProject Hail Mary",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530723-0829-project-hail-mary.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530723-0829-project-hail-mary.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2021",

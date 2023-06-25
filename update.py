@@ -5,6 +5,7 @@ import hashlib
 import json
 import pathlib
 import time
+from io import BytesIO
 from PIL import Image
 from bs4 import BeautifulSoup as bs
 import requests
@@ -41,7 +42,7 @@ def do_job(target_str,configing):
         rss_dict[name] = url
         if name not in description_dict:
             description_dict[name] = description
-        original_time_str = unit.pubDate.contents[0]
+        original_time_str = unit.pubDate.contents[0].replace('GMT', '+0000')
         mthfmt_str = "%a, %d %b %Y %H:%M:%S %z"
         month_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %Y")
         month_dict[name] = month_str
@@ -52,12 +53,14 @@ def do_job(target_str,configing):
         file_name_str = pathlib.Path(img_url).name
         safe_img_url = F"{path_name_str}-{file_name_str}"
         if safe_img_url not in url_to_file_dict:
-            print(F"request: {img_url} for {name}")
+            print(F"request: {img_url} for '{name}'")
             cover_img_r = requests.get(img_url,stream=True,timeout=60)
+            # content_type = cover_img_r.headers.get('Content-Type')
             time.sleep(1)
             if cover_img_r.text[:5] != "<?xml":
                 cover_img_r.raw.decode_content = True
-                cover_img = Image.open(cover_img_r.raw)
+                img_file = BytesIO(cover_img_r.content)
+                cover_img = Image.open(img_file)
                 h_name = hashlib.new('sha256')
                 h_name.update(cover_img.tobytes())
                 img_name = h_name.hexdigest()

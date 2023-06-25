@@ -1,0 +1,8 @@
+"rss" = "https://feeds.soundon.fm/podcasts/91655c08-6b38-470c-91de-3f8230d25aa3.xml"
+"apple" = "https://podcasts.apple.com/tw/podcast/%E7%9C%BC%E7%90%83%E5%9C%B0%E4%B8%8B%E9%9B%BB%E5%8F%B0/id1531519411"
+"google" = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw"
+"spotify" = "https://api.spotify.com/v1/shows/2bGgYS7N2WCJA1fhw2m27S/episodes?market=TW&limit=50"
+# "youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id="
+
+[correct]
+"\u200b" = ""

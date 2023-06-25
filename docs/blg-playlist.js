@@ -159,7 +159,7 @@ const playlist = {
 },
 "time663": {
 "name": "The KK Show - 196 \u857e\u62c9",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12901450-the-kk-show-196.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12901450-the-kk-show-196.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2023",
@@ -4607,7 +4607,7 @@ const playlist = {
 },
 "time401": {
 "name": "0919 #\u4e16\u754c\u9280\u884c \u9003\u4e0d\u51fa\u4e2d\u570b\u9b54\u722a\u3001\u5ddd\u666e\u53c3\u8b00\u9577\u8d85\u6015\u7b2c\u4e09\u6b21\u4e16\u754c\u5927\u6230\u3001\u73a9\u904a\u6232\u8cfa\u52a0\u5bc6\u8ca8\u5e63\u3001\u53f0\u5357\u8ddf\u6f8e\u6e56\u65c5\u904a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530714-0919.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530714-0919.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2021",
@@ -4962,7 +4962,7 @@ const playlist = {
 },
 "time379": {
 "name": "#\u8b80\u66f8\u6703 \u53c8\u8981\u91cd\u5553\u4e86\uff0c\u5bae\u524d\u753a\u4e5d\u5341\u756a\u5730 \u5e8f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530736-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530736-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2021",
@@ -5667,7 +5667,7 @@ const playlist = {
 },
 "time337": {
 "name": "The KK Show - #77 \u53f0\u7063AV\u7537\u512a - \u77f3\u5df4\u671d",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530778-the-kk-show-77-av.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530778-the-kk-show-77-av.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2021",
@@ -7789,7 +7789,7 @@ const playlist = {
 },
 "time207": {
 "name": "0621 \u7f8e\u767d\u7522\u54c1\u662f\u6b67\u8996\uff1f Black Face \u7e7c\u7e8c\u8a0e\u8ad6\u3001\u4e2d\u5370\u908a\u754c\u885d\u7a81\uff0c\u5df4\u57fa\u65af\u5766\u4f86\u9670\u7684\u3001\u63a8\u85a6Podcast\uff1aCall Her Daddy\u3001\u9ad8\u96c4\u7f8e\u98df\u3001Earfun \u8033\u6a5f \u62bd\u734e",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530908-0621-black-face-podcast-call-her-daddy-earfun.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530908-0621-black-face-podcast-call-her-daddy-earfun.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2020",

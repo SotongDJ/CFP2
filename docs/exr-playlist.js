@@ -10,7 +10,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/ep111-the-last-of-episode/id1531519411?i=1000605942216",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/OGIzNGI2ZTAtNmRhZS00MmVjLWFlNjktYWFhMzQwODBlYzJh",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/5T0yXrghVmBw5OA8eQyslL",
 "youtube": ""
 },
 "time114": {
@@ -24,7 +24,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/ep110-%E7%95%B6%E4%BB%A3%E6%88%80%E6%84%9B%E5%BF%85%E4%BF%AE-%E8%AA%B2/id1531519411?i=1000604826094",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MDkzNDk5ODEtMjhkMy00ZDgxLWFhNGItM2NmNzU5ZDc5ZjBm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0mcGDESMCwUq53sLJa1XWw",
 "youtube": ""
 },
 "time113": {
@@ -38,7 +38,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/ep109-%E9%80%86-%E9%A6%AC%E6%96%AF%E6%B4%9B%E9%87%91%E5%AD%97%E5%A1%94/id1531519411?i=1000601630281",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/M2U3MGVlYzctN2IxMC00MjdiLTk3MjItODg3Y2I3ZjhjZWZk",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3QyRzVbREb05sewu9gskf5",
 "youtube": ""
 },
 "time112": {
@@ -52,7 +52,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/ep108-%E7%94%A8%E6%94%BF%E5%AE%A2%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BA%A4%E5%BE%80/id1531519411?i=1000600390925",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MTNjYThkYTEtNzhjOS00YmMyLTk0NDctZDMyM2RmNTRjMGI1",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/649kmE0m4ehUrwrRmF5NXy",
 "youtube": ""
 },
 "time111": {
@@ -66,7 +66,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/ep107-%E4%B8%8D%E9%8C%84%E4%BA%86%E4%B8%8D%E9%8C%84%E4%BA%86/id1531519411?i=1000599201770",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZDQ1YzU5YmItNzNjZS00MzY3LTg2NTktNDYxYmE3Y2FlZTAw",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1Yp0TxRxJvPxVL0YfL1T5J",
 "youtube": ""
 },
 "time110": {
@@ -80,7 +80,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/ep106-%E5%8D%81%E5%A4%A9%E7%9A%84%E5%B9%B4%E5%81%87%E7%B5%90%E6%9E%9C%E5%81%9A%E4%BA%86%E4%BB%80%E9%BA%BC/id1531519411?i=1000598049868",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/OWRlMDkyNWQtZjdmOS00MzExLWI2MzUtMmY2ZmRlMzg5OGI5",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/6El3IQoCUpL9wqHbG8fCtG",
 "youtube": ""
 },
 "time109": {
@@ -94,7 +94,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NjVlZDY2YmItMzJkNS00ZTM2LWE2ODItZGYyMTBlMjE5ZTJk",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/6luQWYNs1Qx2QC6O7eJpCg",
 "youtube": ""
 },
 "time108": {
@@ -108,7 +108,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MGRiMjdhMzgtYWE5ZS00NzQyLWE2NWItNzE2OWZmZjMyOTNm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0gQ4Ol5kXF5Bxh2pWtUQzW",
 "youtube": ""
 },
 "time107": {
@@ -122,7 +122,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZTJhZjZlZWQtMmQ2OS00ZWU4LThhMDItOTVkMDFkMzdkY2U4",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0YqVk6n1HiICTpIdPd08cw",
 "youtube": ""
 },
 "time106": {
@@ -136,7 +136,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/YzUxYmIwMTEtNzdkYy00YTNmLTg4ZTMtZDFlNWY4N2RhZDYz",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/2Ykhl52x6pCnqbSbnZui2b",
 "youtube": ""
 },
 "time105": {
@@ -150,7 +150,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/OTRmZGE4ZWQtMmE5Zi00YzE1LTg1NzItNGJkOTllOTM5YTgz",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3MhqPnUXF5l4spT6lTlrjx",
 "youtube": ""
 },
 "time104": {
@@ -164,7 +164,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NjRkZmIzMzYtYjYwMi00NWIxLTg0MDYtNmRkMGU0NmZkNzQ2",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1rknaoo96sfDbe8410xMTD",
 "youtube": ""
 },
 "time103": {
@@ -178,7 +178,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NmQzYzZiYmEtMGIyZi00MTBiLThhNzUtYzVjNDI5ODM5ZGQ1",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1p5nn7007UPLkhjTUB1M0O",
 "youtube": ""
 },
 "time102": {
@@ -192,7 +192,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZGMxMmNmOGMtYmIxYi00MmZiLWFkOGUtZDQxYmE4NjA4NDkz",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/23vL3piMgibrP3NxGFKFtM",
 "youtube": ""
 },
 "time101": {
@@ -206,7 +206,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MmZjMTM2YmEtMWVjNy00Y2M1LWJlMzYtYTgyOGQyM2RjMmFm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/6yrVYlNXJfqEh17PWRjRZ4",
 "youtube": ""
 },
 "time100": {
@@ -220,7 +220,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MjI4MDQyYjgtZGNlNy00MmI2LTlhNDQtZWZiYTMzMzUzNmIx",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4i8076FpNj9wt2CDrXPzSV",
 "youtube": ""
 },
 "time099": {
@@ -234,7 +234,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NmNjZDg3OGItYzg0Ni00MGYwLThiY2EtOGE5ODZlZGM4MWM1",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4SpLqpMHaXWybqoeEt0TRc",
 "youtube": ""
 },
 "time098": {
@@ -248,7 +248,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NGQ5NTFkYTQtN2QwYy00Yzc4LTlmYzUtNzk4NWY5OWE0YmIy",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/20T7R8Cn2QQcW42poSrfOE",
 "youtube": ""
 },
 "time097": {
@@ -262,7 +262,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/YWY2ZWJjYWItMWI1Mi00MmY2LTk0NWYtNGFmMTA3MGZiOTNl",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/5bTQ0xmBLEUj5i9ZakeqHd",
 "youtube": ""
 },
 "time096": {
@@ -276,7 +276,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/OWU0NTc4NjAtMTQyNC00YjQ2LTg1OWYtZjZiOWVhMTcxZjk4",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/7qSqq0HLwl0LVYqRUcxNnd",
 "youtube": ""
 },
 "time095": {
@@ -290,7 +290,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZDQzZGZmZDItN2I4MS00ZjMwLThiODgtMzIyZWU5NzBjNjQx",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/6jzVcZv1Vmy4cNWoV90TKs",
 "youtube": ""
 },
 "time094": {
@@ -304,7 +304,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/OTcyMmI1NjYtMzRhNi00NGY4LThlOGUtMzA0NzVmMTVjMjdj",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/55t8DoOHKHPLPzv5vRqjS0",
 "youtube": ""
 },
 "time093": {
@@ -318,7 +318,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/Yjg2ZTBiZmMtNmFmMy00ZTYwLWJjYWQtZDk3MzJkOGFjNDBh",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/13NZpFBC59vM8mOdiAleB2",
 "youtube": ""
 },
 "time092": {
@@ -332,7 +332,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MWY5YTBjZjEtOWI2My00NTFlLWI2NGQtNThhOGRmODlhMzU4",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/7smWF1DBLCP2X0hsXg1TRm",
 "youtube": ""
 },
 "time091": {
@@ -346,7 +346,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZmY1MmI0ODgtZWJjZS00NjAxLWFkYjEtM2IzY2EyM2QzMjc3",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0kFIk7rAxHyGcGO891YZVM",
 "youtube": ""
 },
 "time090": {
@@ -360,7 +360,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/Y2RlZDdmZTMtNzExMy00MjVkLWE4MmItNDhiODk2N2M3NTBi",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/12N3VCu1zmrHPd55RGN2ag",
 "youtube": ""
 },
 "time089": {
@@ -374,7 +374,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MGY3ZTZiMDUtOWQ4OC00YmM5LWI2MTEtYjdkNTkzMzkyYzE2",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1ahPyg5zqSr4x7eJDZjkVe",
 "youtube": ""
 },
 "time088": {
@@ -388,7 +388,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NDY0NTExOWQtYzU4NC00ZGE0LWJhNGItNmNlMTBlMTJiMzgw",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1HVQTZAfbZSNmaL8oZ0UxI",
 "youtube": ""
 },
 "time087": {
@@ -402,7 +402,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NjNlM2YwNjktZjU5YS00YjVhLTgxZjctZmI4YmIyMThkNDNm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1YyjOjiXRcmC279x7MMGEo",
 "youtube": ""
 },
 "time086": {
@@ -416,7 +416,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZmQzYjY0YmMtMWFkNC00MjMxLTg5ZjMtMjUwYWFjZDRiNmM2",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1mKiUQzlqyL4almJSnLXtJ",
 "youtube": ""
 },
 "time085": {
@@ -430,7 +430,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MzY5ZTJiODYtZjc1ZC00NDFhLWIyMGEtYzk1Yzk2OGZkMWQx",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4wkGAkLY3OGBW4eSkrY7wX",
 "youtube": ""
 },
 "time084": {
@@ -444,7 +444,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NmE4NTNkNWUtN2JkOC00Yjk4LWE2YWQtMGVlMDA0ZTI2MTgz",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0TMQ57idDoxizzLVpGgbde",
 "youtube": ""
 },
 "time083": {
@@ -458,7 +458,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MzIyNGNhMmEtMzhhMC00ZTc5LTllZDktYjE0MjZiMWU5NjRj",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1fWXz0jGYSWaie4Dgu5YVK",
 "youtube": ""
 },
 "time082": {
@@ -472,7 +472,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/Yzk5ODI2N2YtNDI5OC00MTNlLWFjZWQtYzIxYjgxZjhmMDJl",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1sIAshbJCPYArKo2Q64CfX",
 "youtube": ""
 },
 "time081": {
@@ -486,7 +486,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/N2MzODA2MmYtOWY2NS00ZmZlLWEzZTctZjA2MzNkMmY1NjQ4",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3X5iuoVSBxrFBtatkJggIW",
 "youtube": ""
 },
 "time080": {
@@ -500,7 +500,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/Mzk4MWYzZmYtOTMzNS00ZjU5LWE1ZWUtY2QxYjY0YmE4NWJm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/24PlbsJ57tWzxqH1G2WbWk",
 "youtube": ""
 },
 "time079": {
@@ -514,7 +514,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NGM5NzEwMDctYWE2Ny00MGFiLThiNGEtNGJlZTEwM2JmZDMx",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/6DGWNzYYLpkkYwjHp4WmSz",
 "youtube": ""
 },
 "time078": {
@@ -528,7 +528,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MjU1MGQ5N2YtODY1ZC00MDBiLTgyYzQtYmM4MWJmZjEyMjhm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1HD9vkheDwXje83yqF4rgg",
 "youtube": ""
 },
 "time077": {
@@ -542,7 +542,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MzJkZTJhYmMtYTUyNi00MDNkLTg0OTctNDk5ZmVjNjZkMWY0",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/68jNBsLxNjvh7XOK0zOjKl",
 "youtube": ""
 },
 "time076": {
@@ -556,7 +556,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/YTY2MDRjMmMtODhiYi00MzBmLTgwMDQtNjQ1ZTJiYjk3MTAx",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/7ob1uTH0wW84ckM6RbGFqA",
 "youtube": ""
 },
 "time075": {
@@ -570,7 +570,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/OTIyMzk5MTItM2RjNC00MWQ2LWEyMWItMDRhZTUwMDk2MDRl",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4awTJyV1mIoxp8SsPZJnSv",
 "youtube": ""
 },
 "time074": {
@@ -584,7 +584,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MjIzZjEwM2MtNDJlYi00NDc0LWFlYjUtMTBlMGIzNzE4ZGZi",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0ZJuJoM6fmQ76burgE0vlE",
 "youtube": ""
 },
 "time073": {
@@ -598,7 +598,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NDU5NWFhM2ItMTRjNi00N2UyLWI1NDktMDEzYzBjZjQxYmE0",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0NLu0vFeDudz5PM1Ijg0mF",
 "youtube": ""
 },
 "time072": {
@@ -612,7 +612,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/YzdjZThmZjItYjYzYi00YjU1LWE0ZWUtMmE3ZGQwNTExMjM0",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4ITajRLwaJZwyumXyVKBqH",
 "youtube": ""
 },
 "time071": {
@@ -626,7 +626,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZWRhNzcxNTgtMDJhYi00MTQ2LTg3OTQtYWE4NzQxODgxODE3",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/5ltw2N8wnmJNNDmKCnlEQs",
 "youtube": ""
 },
 "time070": {
@@ -640,7 +640,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/YmJlMjIzNzktMmQ4My00MWIzLTg4NzItODRiMjI1MTk5MzQx",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1tpVYWcAhoHFRPAW8X2hjn",
 "youtube": ""
 },
 "time069": {
@@ -654,7 +654,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/NGJkNzBjN2EtZmFjMy00NTU3LTk2YmQtYTQzOGM3YjVmNzdm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/2HCuqLTRFMqujRZxiuZR0C",
 "youtube": ""
 },
 "time068": {
@@ -668,7 +668,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/MjA5YWUwYjYtZDBhNi00OTYyLWE3NzUtOTA3ZGM5MmNhMDA1",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/37bmezECgzL9S2PWve4X0S",
 "youtube": ""
 },
 "time067": {
@@ -682,7 +682,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/YTU0ODExNTQtMGViNC00ZTlhLTg2MTYtY2Y3MjYwOGRkZTFm",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1hk8nJOLAf6dJxur7pf57p",
 "youtube": ""
 },
 "time066": {
@@ -696,7 +696,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzLzkxNjU1YzA4LTZiMzgtNDcwYy05MWRlLTNmODIzMGQyNWFhMy54bWw/episode/ZmM2Zjc2MjgtMGIwMS00MDUyLWI1YTItMTE2MzIyOGE1Y2Iy",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0cICLFLZnNeI6Fc3K7m26P",
 "youtube": ""
 },
 "time065": {

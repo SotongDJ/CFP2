@@ -117,6 +117,11 @@ inclusive = ["Mario"]
 exclusive = []
 category = ["時事"]
 
+["李喜明"]
+inclusive = ["李喜明"]
+exclusive = []
+category = ["時事","學者"]
+
 # 學者
 
 ["黃京葦醫師"]
@@ -193,6 +198,16 @@ category = ["時事","學者"]
 inclusive = ["高智雄"]
 exclusive = []
 category = ["時事","醫學","學者"]
+
+["陳偉傑醫師"]
+inclusive = ["從泌尿科開始"]
+exclusive = []
+category = ["醫學","學者"]
+
+["羅詩修醫師"]
+inclusive = ["從泌尿科開始"]
+exclusive = []
+category = ["醫學","學者"]
 
 # 運動
 

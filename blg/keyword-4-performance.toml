@@ -1,5 +1,20 @@
 # Comedians/Stand Up comedy
 
+["Atsuko Okatsuka"]
+inclusive = ["Atsuko Okatsuka"]
+exclusive = []
+category = ["喜劇演員","Youtuber"]
+
+["瑞恩"]
+inclusive = ["瑞恩"]
+exclusive = []
+category = ["喜劇演員"]
+
+[Hector]
+inclusive = ["Hector"]
+exclusive = []
+category = ["喜劇演員"]
+
 ["龍哥（喜劇）"]
 inclusive = ["龍哥"]
 exclusive = ["神很大"]
@@ -157,6 +172,16 @@ category = ["喜劇演員","Youtuber"]
 
 # Youtuber/Podcaster/音樂/色色
 
+["視網膜"]
+inclusive = ["視網膜曝原因"]
+exclusive = []
+category = ["時事","Youtuber"]
+
+["動眼神經"]
+inclusive = ["視網膜曝原因"]
+exclusive = []
+category = ["時事","Youtuber"]
+
 ["范琪斐"]
 inclusive = ["范琪斐","敏迪炎上"]
 exclusive = []
@@ -177,6 +202,16 @@ inclusive = ["好和弦"]
 exclusive = []
 category = ["Youtuber","Podcaster"]
 
+["蕾拉"]
+inclusive = ["蕾拉"]
+exclusive = []
+category = ["Youtuber","Podcaster"]
+
+["Ms Puiyi"]
+inclusive = ["Ms Puiyi"]
+exclusive = []
+category = ["Youtuber","Instagramer"]
+
 ["阿滴"]
 inclusive = ["阿滴"]
 exclusive = []
@@ -186,6 +221,16 @@ category = ["Youtuber","老闆"]
 inclusive = ["Joeman"]
 exclusive = []
 category = ["Youtuber","老闆"]
+
+["Ted @35線上賞屋"]
+inclusive = ["& Ted"]
+exclusive = []
+category = ["Youtuber","老闆"]
+
+["蔡阿嘎"]
+inclusive = ["蔡阿嘎"]
+exclusive = []
+category = ["Youtuber","Podcaster"]
 
 ["黃大謙"]
 inclusive = ["黃大謙"]
@@ -212,8 +257,13 @@ inclusive = ["Alma & 小妖"]
 exclusive = []
 category = ["Youtuber"]
 
-["盧卡斯 @BBK Networ"]
-inclusive = ["盧卡斯","BBK Network"]
+["Lucas @BBK Networ"]
+inclusive = ["盧卡斯","BBK Network","馬來西亞的朋友"]
+exclusive = []
+category = ["Youtuber"]
+
+["嘉雯 @BBK Networ"]
+inclusive = ["馬來西亞的朋友"]
 exclusive = []
 category = ["Youtuber"]
 
@@ -241,6 +291,11 @@ category = ["Youtuber","音樂","原住民"]
 inclusive = ["巴大雄"]
 exclusive = []
 category = ["Youtuber","音樂","原住民"]
+
+["賈培德"]
+inclusive = ["賈培德"]
+exclusive = []
+category = ["Youtuber","文藝","廣播人"]
 
 ["中指通"]
 inclusive = ["中指通"]
@@ -322,6 +377,11 @@ inclusive = ["珂拉琪Collage"]
 exclusive = []
 category = ["音樂"]
 
+["李心潔"]
+inclusive = ["李心潔"]
+exclusive = []
+category = ["演員","文藝","音樂"]
+
 ["Chapman 杜汶澤"]
 inclusive = ["Chapman","杜汶澤"]
 exclusive = []
@@ -352,7 +412,12 @@ category = ["文藝","演員","劇場","喜劇演員"]
 ["布拉瑞揚 @布拉瑞揚舞團"]
 inclusive = ["布拉瑞揚"]
 exclusive = []
-category = ["文藝","舞蹈"]
+category = ["文藝","舞蹈","原住民"]
+
+["磊勒丹"]
+inclusive = ["磊勒丹"]
+exclusive = []
+category = ["文藝","原住民"]
 
 ["孫翠鳳"]
 inclusive = ["孫翠鳳"]
@@ -463,6 +528,12 @@ inclusive = ["Nick"]
 exclusive = []
 category = ["影視製作"]
 
+[Stephen]
+inclusive = ["Stephen"]
+exclusive = []
+category = ["影視製作","百靈果員工"]
+
+
 ["李律"]
 inclusive = ["李律"]
 exclusive = []
@@ -492,3 +563,8 @@ category = ["廣播人","媒體人","Podcaster"]
 inclusive = ["李四端"]
 exclusive = ["跟李四端道歉"]
 category = ["媒體人"]
+
+["Peggy"]
+inclusive = ["Peggy"]
+exclusive = []
+category = ["媒體人","Youtuber"]

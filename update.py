@@ -34,7 +34,8 @@ def do_job(target_str,configing):
     channel_cover_str = rss_feed.find("image").url.contents[0]  # type: ignore
     img_size_list = [96,128,192,256,384,512]
     if pathlib.Path(target_str+"/record/description.toml").exists():
-        description_dict.update(rtoml.load(open(target_str+"/record/description.toml",encoding="utf8")))
+        description_path = target_str+"/record/description.toml"
+        description_dict.update(rtoml.load(open(description_path,encoding="utf8")))
     for unit in rss_feed.find_all('item'):
         name = unit.title.contents[0]
         url = unit.enclosure['url']
@@ -73,7 +74,7 @@ def do_job(target_str,configing):
                 print(F"resize: docs/p/{img_name}")
                 for img_size in img_size_list:
                     pathlib.Path(F"docs/p/{img_name}/").mkdir(parents=True,exist_ok=True)
-                    wpercent = (img_size / float(cover_img.size[0]))
+                    wpercent = img_size / float(cover_img.size[0])
                     hsize = int((float(cover_img.size[1]) * float(wpercent)))
                     cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
                     cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")

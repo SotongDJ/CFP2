@@ -60,7 +60,7 @@ def do_job(target_str):
 
     # with open("docs/blg-playlist.json","w") as target_handler:
     #     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
-    with open("docs/"+target_str+"-playlist.toml","w", encoding="utf8") as target_handler:
+    with open("docs/"+target_str+"-playlist.toml","w",encoding="utf8") as target_handler:
         rtoml.dump(playlist_dict,target_handler)
 
     print("    ----")

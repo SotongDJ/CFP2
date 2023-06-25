@@ -37,19 +37,19 @@ jobs:
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
           python3 update.py blg
-          python3 update.py exr
+          # python3 update.py exr
       - name: merge feed source
         run: |
           python3 merge.py blg
-          python3 merge.py exr
+          # python3 merge.py exr
       - name: annotate feed with various info
         run: |
           python3 annotate.py blg > blg/filter.txt
-          python3 annotate.py exr > exr/filter.txt
+          # python3 annotate.py exr > exr/filter.txt
       - name: export feed into js file
         run: |
           python3 export.py blg
-          python3 export.py exr
+          # python3 export.py exr
       - name: setup git config
         env:
           EMAIL: ${{ secrets.email }}

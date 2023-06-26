@@ -4,7 +4,16 @@ const playlist = {
 "feed": "https://chtbl.com/track/62BGFB/rss.soundon.fm/rssf/91655c08-6b38-470c-91de-3f8230d25aa3/feedurl/8b34b6e0-6dae-42ec-ae69-aaa34080ec2a/rssFileVip.mp3?timestamp=1686244063275",
 "image": "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7",
 "tag": [
-"Mar 2023"
+"Mar 2023",
+"\u776b\u72c0\u808c",
+"\u611f\u5149\u7d30\u80de",
+"\u6069\u96c5",
+"\u4e0a\u8996\u4e18",
+"\u773c\u775b\u597d\u816b",
+"\u518a\u5c01\u5100\u5f0f",
+"\u5e55\u50da\u5718",
+"\u773c\u7403\u54e1\u5de5",
+"\u773c\u7403\u89aa\u5c6c"
 ],
 "description": "\u5feb\u6a02\u7684\u6642\u5149\u7e3d\u662f\u904e\u5f97\u7279\u5225\u5feb\n\u611f\u8b1d\u5169\u5e74\u4f86\u6bcf\u500b\u4f60\u7684\u6536\u807d\u8207\u652f\u6301\n\n\u6211\u5011\u6709\u7de3\u518d\u898b\uff1a\uff09",
 "extra": {},
@@ -18,7 +27,12 @@ const playlist = {
 "feed": "https://chtbl.com/track/62BGFB/rss.soundon.fm/rssf/91655c08-6b38-470c-91de-3f8230d25aa3/feedurl/09349981-28d3-4d81-aa4b-3cf759d79f0f/rssFileVip.mp3?timestamp=1686244063275",
 "image": "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7",
 "tag": [
-"Mar 2023"
+"Mar 2023",
+"\u773c\u8089\u82bd",
+"\u773c\u93e1",
+"\u518a\u5c01\u5100\u5f0f",
+"\u5e55\u50da\u5718",
+"\u773c\u7403\u54e1\u5de5"
 ],
 "description": "Also \u7d66\u82bd\u7c89\u5011\u7684\u6bba\u5fc5\u6b7b\n\n\u672c\u96c6\u5167\u5bb9\u5305\u542b\u6ed1 Tinder \u7684\u79d8\u8a23\uff0c\u4ea4\u53cb\u7167\u5168\u89e3\u6790\uff0c\u4e8c\u5341\u4e00\u4e16\u7d00\u7684\u6200\u611b\u5b78\uff0c\u4ee5\u53ca\u8b93\u4f60\u58d3\u529b\u6700\u5927\u7684\u524d\u4efb\u4eba\u9078\u3002\n\n\u203b\u559c\u6b61\u6211\u5011\u7684\u7bc0\u76ee\u6b61\u8fce\u7d66\u6211\u5011\u4e94\u661f\u8a55\u50f9\uff0c\u4e26\u5c07\u7bc0\u76ee\u5206\u4eab\u7d66\u4f60\u7684\u89aa\u670b\u597d\u53cb\u5594\u3002\n\u203b\u8ffd\u8e64\u773c\u7403\u5730\u4e0b\u96fb\u53f0 IG \uff1a@eyexradio",
 "extra": {},
@@ -32,7 +46,13 @@ const playlist = {
 "feed": "https://chtbl.com/track/62BGFB/rss.soundon.fm/rssf/91655c08-6b38-470c-91de-3f8230d25aa3/feedurl/3e70eec7-7b10-427b-9722-887cb7f8cefd/rssFileVip.mp3?timestamp=1686244063275",
 "image": "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7",
 "tag": [
-"Feb 2023"
+"Feb 2023",
+"\u773c\u888b",
+"\u9f8d\u9f8d\u773c",
+"\u518a\u5c01\u5100\u5f0f",
+"\u505c\u66f4\u516c\u544a",
+"\u5e55\u50da\u5718",
+"\u773c\u7403\u54e1\u5de5"
 ],
 "description": "\u99ac\u65af\u6d1b\u91d1\u5b57\u5854\u5012\u904e\u4f86\u653e\uff0c\u611f\u89ba\u6703\u53ec\u559a\u51fa\u4ec0\u9ebc\u9ed1\u6697\u4eba\u683c\uff1f\n\n\u672c\u96c6\u5167\u5bb9\u5305\u542b 2023\u5e74\u7248\u672c\u7684\u64c7\u5076\u689d\u4ef6\uff0c\u99ac\u65af\u6d1b\u91d1\u5b57\u5854\u5230\u5e95\u80fd\u4e0d\u80fd\u53cd\u8457\u770b\uff0c\u60c5\u52d2\u7684\u5b9a\u7fa9\uff0c\u300a\u661f\u671f\u4e00\u73fe\u5834\u300b\u7684\u6210\u5c31\u611f\u4f86\u6e90\uff0c\u4ee5\u53ca\u6c50\u6b62\u7684\u4e5d\u6839\u795e\u79d8\u77f3\u67f1\u3002\n\n\u203b\u559c\u6b61\u6211\u5011\u7684\u7bc0\u76ee\u6b61\u8fce\u7d66\u6211\u5011\u4e94\u661f\u8a55\u50f9\uff0c\u4e26\u5c07\u7bc0\u76ee\u5206\u4eab\u7d66\u4f60\u7684\u89aa\u670b\u597d\u53cb\u5594\u3002\n\u203b\u8ffd\u8e64\u773c\u7403\u5730\u4e0b\u96fb\u53f0 IG \uff1a@eyexradio",
 "extra": {},
@@ -46,7 +66,13 @@ const playlist = {
 "feed": "https://chtbl.com/track/62BGFB/rss.soundon.fm/rssf/91655c08-6b38-470c-91de-3f8230d25aa3/feedurl/13ca8da1-78c9-4bc2-9447-d323df54c0b5/rssFileVip.mp3?timestamp=1679522952088",
 "image": "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7",
 "tag": [
-"Feb 2023"
+"Feb 2023",
+"\u7787\u7787\u773c",
+"\u683c\u5b50\u72c0\u9000\u5316",
+"\u5075\u773c",
+"\u518a\u5c01\u5100\u5f0f",
+"\u5e55\u50da\u5718",
+"\u773c\u7403\u54e1\u5de5"
 ],
 "description": "\u4eca\u5929\u7684\u4f86\u8cd3\u6839\u672c\u662f\u4f86\u8e22\u9928\u7684\u5427\u3002\n\n\u65b0\u805e\u7de8\u8f2f\u5ba4 @\n\n\u672c\u96c6\u5167\u5bb9\u5305\u542b\u7787\u7787\u773c\u7684\u56de\u934b\u5fc3\u5f97\uff0c\u4e3b\u6301\u4eba\u5011\u6240\u5269\u4e0d\u591a\u7684Podcast\u3001\u96fb\u5f71\u3001\u5f71\u96c6\u63a8\u85a6\uff0c\u7787\u7787\u773c\u7684\u60c5\u4eba\u7bc0\u7d04\u6703\u8a08\u756b\uff0c\u4ee5\u53ca\u6de1\u5982\u59d0\u7684\u9ad8\u8d85\u96fb\u7e6a\u6280\u8853\n\n\u203b\u559c\u6b61\u6211\u5011\u7684\u7bc0\u76ee\u6b61\u8fce\u7d66\u6211\u5011\u4e94\u661f\u8a55\u50f9\uff0c\u4e26\u5c07\u7bc0\u76ee\u5206\u4eab\u7d66\u4f60\u7684\u89aa\u670b\u597d\u53cb\u5594\u3002\n\u203b\u8ffd\u8e64\u773c\u7403\u5730\u4e0b\u96fb\u53f0 IG \uff1a@eyexradio",
 "extra": {},
@@ -1586,7 +1612,9 @@ const playlist = {
 "feed": "https://chtbl.com/track/62BGFB/rss.soundon.fm/rssf/91655c08-6b38-470c-91de-3f8230d25aa3/feedurl/6f98e4ff-482b-4b05-88e6-27899e59b4e9/rssFileVip.mp3?timestamp=1684736202540",
 "image": "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7",
 "tag": [
-"Sep 2020"
+"Sep 2020",
+"\u9670\u967d\u773c",
+"\u773c\u7403\u54e1\u5de5"
 ],
 "description": "\u90a3\u500b Podcast \u771f\u7684\u4e0d\u662f\u6211\u5011\u88fd\u4f5c\u7684\u3002\n\n\u672c\u96c6\u5167\u5bb9\u5305\u542b\u7f8e\u8c6c\u7f8e\u725b\u9032\u53e3\u722d\u8b70\u3001\u6642\u529b\u6ec5\u9ee8\u5371\u6a5f\u3001\u4ee5\u53ca\u6f5b\u529b\u7121\u7aae\u7684\u7210\u6e23\u4e8b\u4ef6\u3002\n\u5982\u679c\u4f60\u89ba\u5f97\u65b0\u805e\u5167\u5bb9\u597d\u50cf\u6709\u9ede\u4e0d\u5920\u65b0\uff0c\u90a3\u662f\u56e0\u70ba\u9019\u96c6\u5f88\u65e9\u5c31\u9304\u4e86\u5566\u4e0d\u8981\u9019\u6a23\u3002",
 "extra": {},
@@ -1600,7 +1628,9 @@ const playlist = {
 "feed": "https://chtbl.com/track/62BGFB/rss.soundon.fm/rssf/91655c08-6b38-470c-91de-3f8230d25aa3/feedurl/c22ebbfe-5f52-4b47-8d5e-2b4252d0a2cc/rssFileVip.mp3?timestamp=1684736202540",
 "image": "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7",
 "tag": [
-"Sep 2020"
+"Sep 2020",
+"\u9670\u967d\u773c",
+"\u773c\u7403\u54e1\u5de5"
 ],
 "description": "\u300a\u773c\u7403\u5730\u4e0b\u96fb\u53f0\u300b\u5373\u5c07\u4e0a\u67b6\uff0c\u800c\u9996\u64ad\u96c6\uff0c\u8b93\u6211\u5011\u5148\u611f\u8b1d\u4e00\u500b\u4eba\u7684\u8ca2\u737b\u3002",
 "extra": {},
@@ -1611,6 +1641,21 @@ const playlist = {
 }
 };
 const tag_class = {
+"陰陽眼": ['眼球員工'],
+"瞇瞇眼": ['眼球員工'],
+"眼袋": ['眼球員工'],
+"眼肉芽": ['眼球員工'],
+"睫狀肌": ['眼球員工'],
+"感光細胞": ['眼球員工'],
+"恩雅": ['眼球親屬'],
+"格子狀退化": ['幕僚團'],
+"偵眼": ['幕僚團'],
+"龍龍眼": ['幕僚團'],
+"眼鏡": ['幕僚團'],
+"上視丘": ['幕僚團'],
+"眼睛好腫": ['幕僚團'],
+"冊封儀式": ['#公告'],
+"停更公告": ['#公告'],
 "Mar 2023": ['#2023'],
 "Feb 2023": ['#2023'],
 "Jan 2023": ['#2023'],
@@ -1647,5 +1692,9 @@ const class_tag = {
 "#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
-"#2020": ['Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020']
+"#2020": ['Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
+"眼球員工": ['陰陽眼', '瞇瞇眼', '眼袋', '眼肉芽', '睫狀肌', '感光細胞'],
+"眼球親屬": ['恩雅'],
+"幕僚團": ['格子狀退化', '偵眼', '龍龍眼', '眼鏡', '上視丘', '眼睛好腫'],
+"#公告": ['冊封儀式', '停更公告']
 };

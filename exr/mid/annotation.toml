@@ -9,8 +9,8 @@ spotify = "https://open.spotify.com/episode/5T0yXrghVmBw5OA8eQyslL"
 image = "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7"
 description = "快樂的時光總是過得特別快\n感謝兩年來每個你的收聽與支持\n\n我們有緣再見：）"
 names = ["EP111 The Last of Episode"]
-tag = ["Mar 2023"]
-category = []
+tag = ["Mar 2023", "睫狀肌", "感光細胞", "恩雅", "上視丘", "眼睛好腫", "冊封儀式"]
+category = ["眼球員工", "眼球員工", "眼球親屬", "幕僚團", "幕僚團", "#公告"]
 
 [time114]
 name = "EP110 當代戀愛必修（？）課"
@@ -21,8 +21,8 @@ spotify = "https://open.spotify.com/episode/0mcGDESMCwUq53sLJa1XWw"
 image = "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7"
 description = "Also 給芽粉們的殺必死\n\n本集內容包含滑 Tinder 的秘訣，交友照全解析，二十一世紀的戀愛學，以及讓你壓力最大的前任人選。\n\n※喜歡我們的節目歡迎給我們五星評價，並將節目分享給你的親朋好友喔。\n※追蹤眼球地下電台 IG ：@eyexradio"
 names = ["EP110 當代戀愛必修（？）課"]
-tag = ["Mar 2023"]
-category = []
+tag = ["Mar 2023", "眼肉芽", "眼鏡", "冊封儀式"]
+category = ["眼球員工", "幕僚團", "#公告"]
 
 [time113]
 name = "EP109 逆。馬斯洛金字塔"
@@ -33,8 +33,8 @@ spotify = "https://open.spotify.com/episode/3QyRzVbREb05sewu9gskf5"
 image = "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7"
 description = "馬斯洛金字塔倒過來放，感覺會召喚出什麼黑暗人格？\n\n本集內容包含 2023年版本的擇偶條件，馬斯洛金字塔到底能不能反著看，情勒的定義，《星期一現場》的成就感來源，以及汐止的九根神秘石柱。\n\n※喜歡我們的節目歡迎給我們五星評價，並將節目分享給你的親朋好友喔。\n※追蹤眼球地下電台 IG ：@eyexradio"
 names = ["EP109 逆。馬斯洛金字塔"]
-tag = ["Feb 2023"]
-category = []
+tag = ["Feb 2023", "眼袋", "龍龍眼", "冊封儀式", "停更公告"]
+category = ["眼球員工", "幕僚團", "#公告", "#公告"]
 
 [time112]
 name = "EP108 用政客的方式交往"
@@ -45,8 +45,8 @@ spotify = "https://open.spotify.com/episode/649kmE0m4ehUrwrRmF5NXy"
 image = "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7"
 description = "今天的來賓根本是來踢館的吧。\n\n新聞編輯室 @\n\n本集內容包含瞇瞇眼的回鍋心得，主持人們所剩不多的Podcast、電影、影集推薦，瞇瞇眼的情人節約會計畫，以及淡如姐的高超電繪技術\n\n※喜歡我們的節目歡迎給我們五星評價，並將節目分享給你的親朋好友喔。\n※追蹤眼球地下電台 IG ：@eyexradio"
 names = ["EP108 用政客的方式交往"]
-tag = ["Feb 2023"]
-category = []
+tag = ["Feb 2023", "瞇瞇眼", "格子狀退化", "偵眼", "冊封儀式"]
+category = ["眼球員工", "幕僚團", "幕僚團", "#公告"]
 
 [time111]
 name = "EP107 不錄了不錄了"
@@ -1193,8 +1193,8 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZ
 image = "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7"
 description = "那個 Podcast 真的不是我們製作的。\n\n本集內容包含美豬美牛進口爭議、時力滅黨危機、以及潛力無窮的爐渣事件。\n如果你覺得新聞內容好像有點不夠新，那是因為這集很早就錄了啦不要這樣。"
 names = ["EP0 本台全程未參與《六點半左右》的節目製作"]
-tag = ["Sep 2020"]
-category = []
+tag = ["Sep 2020", "陰陽眼"]
+category = ["眼球員工"]
 
 [time001]
 name = "Teaser｜《地下電台一分鐘》"
@@ -1203,5 +1203,5 @@ google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZ
 image = "6ec5494e8c8e1198d46e54f78b5b8332117a97e924c19f0f8cf30e19b1cb69f7"
 description = "《眼球地下電台》即將上架，而首播集，讓我們先感謝一個人的貢獻。"
 names = ["Teaser｜《地下電台一分鐘》"]
-tag = ["Sep 2020"]
-category = []
+tag = ["Sep 2020", "陰陽眼"]
+category = ["眼球員工"]

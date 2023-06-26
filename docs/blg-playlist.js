@@ -5536,7 +5536,7 @@ const playlist = {
 },
 "time349": {
 "name": "The KK Show - #82 \u8ddf\u91ab\u5e2b\u804a\u7f8e\u570b\u75ab\u60c5\u7d93\u9a57 - Dr. Justin Yang",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530766-the-kk-show-82-dr-justin-yang.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530766-the-kk-show-82-dr-justin-yang.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2021",
@@ -8082,7 +8082,7 @@ const playlist = {
 },
 "time193": {
 "name": "\u8b80\u66f8\u6703\uff1a\u6d6a\u6dd8\u6c99 - #1",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530922-01.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530922-01.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2020",
@@ -9109,7 +9109,7 @@ const playlist = {
 },
 "time131": {
 "name": "\u767e\u9748\u679cBonus\uff1a \u9592\u804aGreta Thunberg \u3002\u7576\u7db2\u8def\u4e0a\u8b3e\u7f75\u4e00\u500b\u5c0f\u5973\u751f\u7684\u4eba\u6bd4\u6279\u8a55\u7fd2\u8fd1\u5e73\u7684\u4eba\u9084\u591a\u7684\u6642\u5019...",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530984-bonus-greta-thunberg.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530984-bonus-greta-thunberg.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2019",
@@ -10271,7 +10271,7 @@ const playlist = {
 },
 "time057": {
 "name": "0421 \u8056\u6bcd\u9662\u3001\u80af\u4e9e\u79c1\u5211\u968a\u3001\u9592\u804a \uff083in1\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531058-0421-3in1.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531058-0421-3in1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2019",

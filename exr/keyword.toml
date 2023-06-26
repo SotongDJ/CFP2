@@ -1,0 +1,74 @@
+["陰陽眼"]
+inclusive = ["本台全程未參與《六點半左右》","《地下電台一分鐘》"]
+exclusive = []
+category = ["眼球員工"]
+
+["瞇瞇眼"]
+inclusive = ["用政客的方式交往"]
+exclusive = []
+category = ["眼球員工"]
+
+["眼袋"]
+inclusive = ["逆。馬斯洛金字塔"]
+exclusive = []
+category = ["眼球員工"]
+
+["眼肉芽"]
+inclusive = ["當代戀愛必修"]
+exclusive = []
+category = ["眼球員工"]
+
+["睫狀肌"]
+inclusive = ["The Last of Episode"]
+exclusive = []
+category = ["眼球員工"]
+
+["感光細胞"]
+inclusive = ["The Last of Episode"]
+exclusive = []
+category = ["眼球員工"]
+
+["恩雅"]
+inclusive = ["The Last of Episode"]
+exclusive = []
+category = ["眼球親屬"]
+
+["格子狀退化"]
+inclusive = ["用政客的方式交往"]
+exclusive = []
+category = ["幕僚團"]
+
+["偵眼"]
+inclusive = ["用政客的方式交往"]
+exclusive = []
+category = ["幕僚團"]
+
+["龍龍眼"]
+inclusive = ["逆。馬斯洛金字塔"]
+exclusive = []
+category = ["幕僚團"]
+
+["眼鏡"]
+inclusive = ["當代戀愛必修"]
+exclusive = []
+category = ["幕僚團"]
+
+["上視丘"]
+inclusive = ["The Last of Episode"]
+exclusive = []
+category = ["幕僚團"]
+
+["眼睛好腫"]
+inclusive = ["The Last of Episode"]
+exclusive = []
+category = ["幕僚團"]
+
+["冊封儀式"]
+inclusive = ["用政客的方式交往","逆。馬斯洛金字塔","當代戀愛必修","The Last of Episode"]
+exclusive = []
+category = ["幕僚團"]
+
+["停更公告"]
+inclusive = ["逆。馬斯洛金字塔"]
+exclusive = []
+category = ["#公告"]

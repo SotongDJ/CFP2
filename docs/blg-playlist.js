@@ -3284,7 +3284,7 @@ const playlist = {
 },
 "time485": {
 "name": "\u9592\u804a #\u5a01\u723e\u53f2\u5bc6\u65af \u5df4\u638c\u4e8b\u4ef6 ft. \u9178\u9178",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530630-ft.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530630-ft.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2022",
@@ -5604,7 +5604,7 @@ const playlist = {
 },
 "time345": {
 "name": "0516 \u6771\u4eac\u5967\u904b\u7684\u4fdd\u96aa\u5957\u5728\u5e79\u561b\uff1f \u7528\u9eb5\u5305\u5e97\u7684AI\u4f86\u627e\u764c\u7d30\u80de\u3001\u5471\u5409\u5403droppings",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530770-0516-ai-droppings.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530770-0516-ai-droppings.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2021",
@@ -6143,7 +6143,7 @@ const playlist = {
 },
 "time312": {
 "name": "0228 \u4e2d\u60c5\u5c40\u9577\u63d0\u540d\u8b70\u54e1\u8cea\u7591\u5176\u8207\u4e2d\u5171\u95dc\u4fc2\u3001\u7d10\u7d04\u5dde\u9577\u53bb\u5e74\u8b0a\u5831\u8ddf\u4e2d\u570b\u770b\u9f4a\u3001\u85cd\u53ef\u5152\u5931\u8e64\u6848 Netflix",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530803-0228-netflix.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530803-0228-netflix.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2021",

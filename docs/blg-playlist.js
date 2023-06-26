@@ -371,7 +371,7 @@ const playlist = {
 },
 "time652": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u804ai\u73cd\u98df\u3001\u4ee5\u524d\u600e\u9ebc\u8b93\u5730\u4e3b\u958b\u5fc3 - Joeman + Ted",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12689052-i-joeman-ted.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12689052-i-joeman-ted.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2023",
@@ -927,7 +927,7 @@ const playlist = {
 },
 "time620": {
 "name": "The KK Show - #172 \u6027\u5225\u985b\u5012\u53c8\u5f88\u5408\u7406 - Alma & \u5c0f\u5996",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12092853-the-kk-show-172-alma.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12092853-the-kk-show-172-alma.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2023",
@@ -7774,7 +7774,7 @@ const playlist = {
 },
 "time212": {
 "name": "\u767d\u5bae\u5185\u90e8\u6bd4\u5f8c\u5bae\u7504\u5b1b\u50b3\u9084\u7cbe\u5f69\u3001The Room Where It Happened by John Bolton \u8b80\u66f8\u6703 Ch. 1, 2",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530903-the-room-where-it-happened-by-john-bolton-ch-1-2.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530903-the-room-where-it-happened-by-john-bolton-ch-1-2.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2020",

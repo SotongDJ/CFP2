@@ -66,7 +66,7 @@ category = ["幕僚團"]
 ["冊封儀式"]
 inclusive = ["用政客的方式交往","逆。馬斯洛金字塔","當代戀愛必修","The Last of Episode"]
 exclusive = []
-category = ["幕僚團"]
+category = ["#公告"]
 
 ["停更公告"]
 inclusive = ["逆。馬斯洛金字塔"]

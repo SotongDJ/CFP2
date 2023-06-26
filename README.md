@@ -8,7 +8,10 @@ The dedicated player for each podcast are listed below:
   - [https://👌.深海墨客.台灣/](https://xn--xp8h.xn--2os22eixx6na.xn--kpry57d/) (Full link)
   - <https://trth.nl/?blg> (Shorten link)
   - [SotongDJ/CFP2-blg](https://github.com/SotongDJ/CFP2-blg) (Git repo)
-- eyexradio: [TBA]
+- eyexradio: 
+  - [https://👁️.深海墨客.台灣/](https://xn--mp8h.xn--2os22eixx6na.xn--kpry57d/) (Full link)
+  - <https://trth.nl/?exr> (Shorten link)
+  - [SotongDJ/CFP2-EXR](https://github.com/SotongDJ/CFP2-EXR) (Git repo)
 - fanamericantime: [TBA]
 - actoryaoshow: [TBA]
 - abnormalove: [TBA]

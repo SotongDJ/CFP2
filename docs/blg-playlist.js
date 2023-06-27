@@ -10009,7 +10009,7 @@ const playlist = {
 },
 "time075": {
 "name": "0630 \u4f0a\u65af\u5766\u5821\u91cd\u9078\u3001\u6bd4\u5229\u6642\u99d0\u5317\u4eac\u5927\u4f7f\u9928\u3001\u6838\u7206\u5bb6\u5712, 623\u53cd\u7d05\u5a92",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531040-0630-623.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531040-0630-623.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2019",
@@ -10194,7 +10194,7 @@ const playlist = {
 },
 "time063": {
 "name": "0519 \u7f85\u99ac\u5c3c\u4e9e\u5973\u5deb\u3001\u7f8e\u570b\u7e3d\u7d71\u83ef\u88d4\u5019\u9078\u4ebaAndrew Yang\u3001\u5169\u5cb8\u5a92\u9ad4\u4eba\u5317\u4eac\u5cf0\u6703",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531052-0519-andrew-yang.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531052-0519-andrew-yang.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2019",

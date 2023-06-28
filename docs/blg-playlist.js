@@ -2537,7 +2537,7 @@ const playlist = {
 },
 "time531": {
 "name": "\u8d8a\u6230\u64a4\u9000\u6642\u4e00\u5718\u6df7\u4e82\uff0c\u963f\u5bcc\u6c57\u53ea\u662f\u6b77\u53f2\u91cd\u6f14 \u8b80\u66f8\u6703\uff1a\u540c\u60c5\u8005 Ch 1",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10846457-ch-1.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10846457-ch-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2022",
@@ -4279,7 +4279,7 @@ const playlist = {
 },
 "time426": {
 "name": "The KK Show - #107 \u53f0\u7f8e\u95dc\u4fc2101 - \u7f8e\u570b\u53f0\u7063\u89c0\u6e2c\u7ad9",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530689-the-kk-show-107-101.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530689-the-kk-show-107-101.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2021",
@@ -5798,7 +5798,7 @@ const playlist = {
 },
 "time334": {
 "name": "The KK Show - #76 \u8523\u842c\u5b89",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530781-the-kk-show-76.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530781-the-kk-show-76.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2021",
@@ -6656,7 +6656,7 @@ const playlist = {
 },
 "time281": {
 "name": "The KK Show - #58 \u5927\u6cd5\u5e2b\u4f4f\u5728\u8eab\u9ad4\u88e1 - @\u73c2\u62c9\u742aCollage",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530834-the-kk-show-58-collage.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530834-the-kk-show-58-collage.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2020",
@@ -8581,7 +8581,7 @@ const playlist = {
 },
 "time164": {
 "name": "The KK Show - 18 \u53f0\u8a9e\u8b1b\u7684\u6bd4\u5370\u5ea6\u8a71\u597d\u7684Angeli",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530951-the-kk-show-18-angeli.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530951-the-kk-show-18-angeli.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2020",

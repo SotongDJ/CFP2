@@ -1988,7 +1988,7 @@ const playlist = {
 },
 "time563": {
 "name": "\u767e\u9748\u679cNews\uff5c\u97d3\u570b\u7b2c\u4e00\u592b\u4eba\u7684\u8ad6\u6587\u6284\u8972\u6848\u3001 \u4ec0\u9ebc\u90fd\u4e0d\u505a\u7684\u65e5\u672c\u4eba\u3001\u8cb7\u9bae\u5976\u6cb9\u8981\u770b\u8b49\u4ef6\u3001\u63a8\u85a6\u66f8\uff1a\u7570\u4e16\u754c\u6b78\u4f86\u7684\u8205\u8205",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11296412-news.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11296412-news.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2022",
@@ -3448,7 +3448,7 @@ const playlist = {
 },
 "time476": {
 "name": "\u8b80\u66f8\u6703\uff1a Fat Leonard \u5b8c\u7d50\uff0c\u95dc\u5fc3\u4e00\u4e0b\u9694\u96e2\u4e2d\u7684Mindy",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530639-fat-leonard-mindy.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530639-fat-leonard-mindy.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2022",
@@ -4817,7 +4817,7 @@ const playlist = {
 },
 "time393": {
 "name": "The KK Show - #96 \u51fa\u7248\u65af\u5361\u7f85\u6f2b\u756b\u7684\u71b1\u8840\u5927\u53d4 - Neil",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530722-the-kk-show-96-neil.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530722-the-kk-show-96-neil.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2021",
@@ -9495,7 +9495,7 @@ const playlist = {
 },
 "time108": {
 "name": "1020 \u66fe\u7d93NBA\u7684\u8a79\u7687\u662f\u500b\u4eba\u6b0a\u9b25\u58eb\u5462\u3001\u5eab\u5fb7\u65cf\u7684\u80cc\u4e0a\u63d2\u8457\u4e00\u628aMade in USA \u7684\u5200 \u3001Kylie\u53bb\u9732\u71df",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531007-1020-nba-made-in-usa-kylie.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531007-1020-nba-made-in-usa-kylie.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2019",

@@ -7497,7 +7497,7 @@ const playlist = {
 },
 "time230": {
 "name": "\u63a8\u5012\u8cc7\u672c\u4e3b\u7fa9\u7684\u9ad8\u7246\uff1a\u514d\u8cbb\u6559\u4f60\u5982\u4f55\u505aPodcast 02 : \u5982\u4f55\u8cfa\u9322\u3001Hosting",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530885-podcast-02-hosting.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530885-podcast-02-hosting.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2020",
@@ -8048,7 +8048,7 @@ const playlist = {
 },
 "time196": {
 "name": "\u8b80\u66f8\u6703\uff1a\u6d6a\u6dd8\u6c99 - #2",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530919-02.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530919-02.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2020",

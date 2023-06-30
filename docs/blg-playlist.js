@@ -2003,7 +2003,7 @@ const playlist = {
 },
 "time562": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u66f9\u8208\u8aa0\u73fe\u5834QA",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11276846-qa.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11276846-qa.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2022",
@@ -3553,7 +3553,7 @@ const playlist = {
 },
 "time470": {
 "name": "\u7b2c\u4e00\u6b21\u5728\u79d8\u5bc6\u57fa\u5730\u9304\u97f3\u3001\u5c0f\u770b\u5973\u4eba\u6703\u51fa\u5927\u4e8b | \u8b80\u66f8\u6703\uff1aFat Leonard #03",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530645-fat-leonard-ch-3.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2022",
@@ -5214,7 +5214,7 @@ const playlist = {
 },
 "time369": {
 "name": "\u516b\u89d2\u7c60\u76f4\u64ad EP1\u300a\u71b1\u611b\u7956\u570b\u7684\u4e2d\u570b\u4eba\u300b",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530746-001.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530746-001.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2021",
@@ -5321,7 +5321,7 @@ const playlist = {
 },
 "time363": {
 "name": "0627 \u90ed\u53f0\u9298X\u5b8c\u5ddd\u666e\u4e0b\u4e00\u500b\u662f\u8ab0\u3001\u9999\u6e2f\u7684\u860b\u679c\u65e5\u5831\u3001\u4e0d\u60f3\u6253\u75ab\u82d7\u7684\u4eba\u4e0d\u8981\u6253\uff0c\u63a8\u85a6\uff1a Unorthodox",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530752-0627-x-unorthodox.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530752-0627-x-unorthodox.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2021",
@@ -7212,7 +7212,7 @@ const playlist = {
 },
 "time247": {
 "name": "0927 \u5c1a\u6bd4\u4e9e\u6210\u7232\u975e\u6d32\u7b2c\u4e00\u500b\u56e0\u6b66\u80ba\u5012\u50b5\u570b\u5bb6\u3001\u83ef\u70ba\u8ddf\u52a0\u62ff\u5927\u4fdd\u8b49\u4e0d\u6703\u518d\u8d70\u5f8c\u9580\u3001\u9591\u804a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530868-0927.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530868-0927.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2020",

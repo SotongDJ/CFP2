@@ -550,7 +550,7 @@ const playlist = {
 },
 "time643": {
 "name": "The KK Show - 184 \u5916\u7701\u8001\u5175\u7684\u5973\u5152 - \u745e\u6069",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12531737-the-kk-show-184.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12531737-the-kk-show-184.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2023",
@@ -7709,7 +7709,7 @@ const playlist = {
 },
 "time217": {
 "name": "The KK Show - #36 \u719f\u4e86\u5c31\u6703\u6d6e\u8d77\u4f86 - @3Q\u9673\u67cf\u60df",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530898-the-kk-show-036-3q.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530898-the-kk-show-036-3q.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2020",
@@ -7855,7 +7855,7 @@ const playlist = {
 },
 "time208": {
 "name": "The KK Show - #33 \u4e00\u8a00\u4e0d\u5408\u5c31Docking - \u8d99\u54e5",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530907-the-kk-show-033-docking.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530907-the-kk-show-033-docking.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2020",
@@ -10361,7 +10361,7 @@ const playlist = {
 },
 "time052": {
 "name": "Born a crime \u4ee5\u6bcd\u4e4b\u540d \u7b2c\u5341\u516b\u7ae0\uff08\u5b8c\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531063-0328-born-a-crime.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531063-0328-born-a-crime.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2019",

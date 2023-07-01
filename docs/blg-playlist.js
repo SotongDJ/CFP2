@@ -2877,7 +2877,7 @@ const playlist = {
 },
 "time511": {
 "name": "\u6d77\u5916\u9023\u7dda\uff1a \u4e2d\u570b\u4eba\u5410\u5c01\u57ce\u5fc3\u8072\u3001\u5e0c\u671b\u53f0\u7063\u4eba\u4e0d\u8981\u5167\u9b25\uff1f\uff01",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10649832-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10649832-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2022",
@@ -3251,7 +3251,7 @@ const playlist = {
 },
 "time488": {
 "name": "The KK Show - #127 \u7dda\u4e0a\u8ced\u535a\u5167\u5e55 - Kevin",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530627-the-kk-show-127-kevin.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530627-the-kk-show-127-kevin.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2022",

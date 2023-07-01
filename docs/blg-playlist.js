@@ -4555,7 +4555,7 @@ const playlist = {
 },
 "time409": {
 "name": "\u65b0\u52a0\u5761\u75ab\u60c5Update\uff0c\u5c0d\u65bc\u897f\u85cf\u7684\u4e0d\u77ad\u89e3\u611f\u5230\u7f9e\u6127\u3001\u5929\u846c\u9020\u6210\u7684\u5152\u6642\u5275\u50b7\u3001\u8b80\u66f8\u6703\uff1a\u5403\u4f5b Eat The Buddha #02",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530706-update-eat-the-buddha-02.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530706-update-eat-the-buddha-02.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2021",
@@ -6092,7 +6092,7 @@ const playlist = {
 },
 "time316": {
 "name": "The KK Show - #70 Clubhouse \u8a8d\u8b58\u7684\u670b\u53cb - \u8449\u8000\u5143\u6559\u6388",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530799-the-kk-show-70-clubhouse.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530799-the-kk-show-70-clubhouse.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2021",
@@ -11143,7 +11143,7 @@ const playlist = {
 },
 "time001": {
 "name": "\u767e\u9748\u679c\u8b80\u66f8\u6703 - Born a crime \u4ee5\u6bcd\u4e4b\u540d \u7b2c\u4e03\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531114-born-a-crime.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531114-born-a-crime.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",

@@ -7643,7 +7643,7 @@ const playlist = {
 },
 "time221": {
 "name": "\u63e3\u6469\u4e0a\u610f\u7684\u6587\u5728\u5bc5\u4ee5\u53ca\u88ab\u62b9\u9ed1\u5c31\u54ed\u54ed\u7684\u6ce2\u9813\u3001The Room Where It Happened by John Bolton \u8b80\u66f8\u6703 Ch. 11\u300112\u300113\u300114\u300115 \uff08End\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530894-the-room-where-it-happened-by-john-bolton-ch-11-12-13-14-15-end.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530894-the-room-where-it-happened-by-john-bolton-ch-11-12-13-14-15-end.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2020",

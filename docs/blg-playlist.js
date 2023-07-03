@@ -581,7 +581,7 @@ const playlist = {
 },
 "time642": {
 "name": "\u767e\u9748\u679cNEWS | Ken\u8ddf\u65e5\u672c\u7f8e\u98df\u7db2\u7d05\u5408\u4f5c\u3001\u745e\u58eb\u4fe1\u8cb8\u73a9\u5f88\u5927\u3001TikTok\u5728\u7f8e\u570b\u5feb\u8981GG\u4e86\u3001\u4ee5\u8272\u5217\u8b8a\u6210\u7d0d\u7cb9\u4e3b\u7fa9\uff1f\u3001\u804a\u804a\u651d\u7406\u6559\u3001\u63a8\u85a6\u96fb\u5f71\uff1a#\u634d\u885b\u4efb\u52d94 John Wick Chapter 4",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12515505-news-ken-tiktok-gg-4-john-wick-chapter-4.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12515505-news-ken-tiktok-gg-4-john-wick-chapter-4.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2023",
@@ -3348,7 +3348,7 @@ const playlist = {
 },
 "time483": {
 "name": "0327 \u4fc4\u570b\u80a1\u5e02\u5927\u6f32\u4f46\u662f\u901a\u81a8\u6f32\u66f4\u591a\u3001\u6cf0\u570b\u5c07\u7981\u6b62\u7528\u865b\u64ec\u8ca8\u5e63\u652f\u4ed8\u3001\u63a8\u85a6Youtube\uff1a Will Tennyson",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530632-0327-youtube-will-tennyson.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530632-0327-youtube-will-tennyson.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2022",
@@ -3638,7 +3638,7 @@ const playlist = {
 },
 "time466": {
 "name": "NCIS\u5176\u5be6\u6c92\u6709\u90a3\u9ebd\u5a01\uff1f \u4e2d\u570b \u4fc4\u570b\u90fd\u60f3\u8981\u63a5\u8fd1 Fat Leonard\uff1f \u8b80\u66f8\u6703\uff1a Fat Leonard #02",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530649-ncis-fat-leonard-fat-leonard-02.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530649-ncis-fat-leonard-fat-leonard-02.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2022",
@@ -4099,7 +4099,7 @@ const playlist = {
 },
 "time438": {
 "name": "The KK Show - #111 \u53f0\u7063\u7ad9\u7acb\u559c\u5287\u6559\u7236\u2014Social",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530677-the-kk-show-111-social.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530677-the-kk-show-111-social.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2021",
@@ -4503,7 +4503,7 @@ const playlist = {
 },
 "time413": {
 "name": "1017 \u666e\u4e01\u53eb\u7fd2\u8fd1\u5e73\u8981\u8001\u5be6\u4e00\u9ede\u3001\u96a8\u6642\u6703\u7206\u70b8\u7684\u6cb9\u8f2a\u3001\u63a8\u85a6Podcast: Arirang Radio",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530702-1017-podcast-arirang-radio.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530702-1017-podcast-arirang-radio.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2021",
@@ -9203,7 +9203,7 @@ const playlist = {
 },
 "time127": {
 "name": "\u8b80\u66f8\u6703\uff1aWild Swans \uff5c\u9d3b\uff1a\u4e09\u4ee3\u4e2d\u570b\u5973\u4eba \u7b2c15\u300116\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530988-wild-swans-15-16.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530988-wild-swans-15-16.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2019",
@@ -9571,7 +9571,7 @@ const playlist = {
 },
 "time104": {
 "name": "1006 \u66f8\u4e2d\u81ea\u6709\u885b\u751f\u68c9\u3001\u9999\u6e2f\u65c5\u904a\u696d\u7684\u885d\u64ca\u3001\u8981\u642c\u5bb6\u4e86\uff01",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531011-1006.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531011-1006.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2019",

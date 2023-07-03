@@ -1,4 +1,18 @@
 const playlist = {
+"time676": {
+"name": "\u559c\u5287\u6f14\u54e1\u5c0d\u6297\u99ac\u4f86\u897f\u4e9e\u653f\u5e9c\uff0c\u773c\u8089\u82bd\u559d\u9189\u597d\u53ef\u611b",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13145810-.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jul 2023"
+],
+"description": "<p>\u6311\u6230\u99ac\u4f86\u897f\u4e9e\u5e95\u7dda\uff1f<br/>----<br/>#\u6d77\u6d0b\u4f9d\u73c2 x \u5c48\u81e3\u6c0f<br/>06/29-07/26 \u4efb\u9078+1\u5143\u591a\u4e00\u4ef6<br/>\u8cfc\u8cb7\u9023\u7d50\ufffd\ufffd<a href='https://bit.ly/3oPW8Ho'>https://bit.ly/3oPW8Ho</a><br/>\u5373\u65e5\u8d77\u81f32023/7/30\u6b62<br/>\u8766\u76ae\u5b98\u65b9\u65d7\u8266\u5e97\ufffd\ufffd<a href='https://shopee.tw/hiq_beauty'>https://shopee.tw/hiq_beauty</a><br/>\u7d50\u5e33\u8f38\u5165\u767e\u9748\u679c\u5c08\u5c6c\u512a\u60e0\u78bc\u300eHIQBNEWS7\u300f\u512a\u60e0\u518d\u6298$100<br/>Hi-Q beauty\u6d77\u6d0b\u4f9d\u73c2\ufffd\ufffd\u53f0\u7063\u85cd\u8272\u7f8e\u599d\u54c1\u724c<br/>\u54c1\u8cea\u901a\u904e\u5be6\u9a57\u5ba4\u6e2c\u8a66\u4fdd\u8b49<br/>\u4fdd\u8b77\u808c\u819a\u8207\u6d77\u6d0b\u5171\u5b58, \u7dbb\u653e\u5168\u65b9\u4f4d\u7f8e\u9f61<br/>\u6301\u7e8c\u5275\u9020\u5f9e\u6210\u5206\u3001\u914d\u65b9\u3001\u5305\u88dd\u5168\u6d77\u6d0b\u53cb\u5584\u4fdd\u990a\u54c1\ufffd\ufffd<br/><a href='https://www.hiq-beauty.com/'>https://www.hiq-beauty.com/</a><br/><br/></p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u4e16\u754c\u5de1\u8ff4\u9996\u7ad9 - \u99ac\u4f86\u897f\u4e9e_\u5409\u9686\u5761 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/%E5%96%9C%E5%8A%87%E6%BC%94%E5%93%A1%E5%B0%8D%E6%8A%97%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E6%94%BF%E5%BA%9C-%E7%9C%BC%E8%82%89%E8%8A%BD%E5%96%9D%E9%86%89%E5%A5%BD%E5%8F%AF%E6%84%9B/id1106847606?i=1000619032502",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzE0NTgxMA",
+"spotify": "https://open.spotify.com/episode/5TsnNuixteO7JUrkaEbJkt",
+"youtube": ""
+},
 "time675": {
 "name": "The KK Show - 202 \u58ef\u58ef",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13115496-the-kk-show-202.mp3",
@@ -1238,7 +1252,7 @@ const playlist = {
 },
 "time602": {
 "name": "The KK Show - #165 \u57fa\u5c64\u54e1\u8b66\u6eab\u7279\u65af",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11822632-the-kk-show-165.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11822632-the-kk-show-165.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2022",
@@ -2691,7 +2705,7 @@ const playlist = {
 },
 "time522": {
 "name": "Why DO TAIWANESE people love TRAVELLING? ... THE STIR EP. 7",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10757771-why-do-taiwanese-people-love-travelling-the-stir-ep-7.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10757771-why-do-taiwanese-people-love-travelling-the-stir-ep-7.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2022",
@@ -4201,7 +4215,7 @@ const playlist = {
 },
 "time431": {
 "name": "1128 \u82f1\u570b\u9762\u5c0d\u7684\u96e3\u6c11\u6f6e\u3001\u77fd\u8c37\u83c1\u82f1\u88ab\u7cde\u4fbf\u9a19\u4e86\u3001\u63a8\u85a6\u66f8\uff1a 1000 Years of Joys and Sorrows (\u5343\u5e74\u60b2\u6b61\uff09 by \u827e\u672a\u672a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530684-1128-1000-years-of-joys-and-sorrows-by.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530684-1128-1000-years-of-joys-and-sorrows-by.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2021",
@@ -4882,7 +4896,7 @@ const playlist = {
 },
 "time389": {
 "name": "0822 OnlyFans \u6d17\u767d\u6027\u5de5\u4f5c\u8005 \u600e\u9ebd\u8fa6\uff1f\u62dc\u767b\u9019\u6b21\u5f88\u96e3\u770b Feat. \u654f\u8fea\u9078\u8b80",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530726-0822-onlyfans-feat.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530726-0822-onlyfans-feat.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2021",
@@ -6110,7 +6124,7 @@ const playlist = {
 },
 "time315": {
 "name": "0307 \u4e2d\u570b\u8a2d\u8a08\u5357\u975e\u88fd\u9020\u7684\u5047\u75ab\u82d7\u3001\u7dec\u7538\u8ecd\u65b9\u6c92\u4eba\u6027\u3001\u9591\u804a\u798f\u539f\u611b",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530800-0307.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530800-0307.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2021",
@@ -6333,7 +6347,7 @@ const playlist = {
 },
 "time301": {
 "name": "The KK Show - #65 \u8a2a\u554f\u904e\u97d3\u570b\u745c\u7684\u5916\u5a92 - Samson Ellis",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530814-the-kk-show-65-samson-ellis.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530814-the-kk-show-65-samson-ellis.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2021",
@@ -7299,7 +7313,7 @@ const playlist = {
 },
 "time242": {
 "name": "0913 \u7f8e\u570b\u897f\u5cb8\u5927\u706b\u53c8\u4f86\u4e86\u3001\u5c31\u7b97\u5ddd\u666e\u8aac\u8b0a\u4f60\u9084\u662f\u6703\u652f\u6301\u4ed6\u55ce\uff1f\u3001\u66b4\u96f7 \u4e0d\u63a8\u85a6\uff1a\u4e09\u5341\u800c\u5df2",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530873-0913.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530873-0913.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2020",
@@ -10651,7 +10665,7 @@ const playlist = {
 },
 "time033": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-24 1. \u4f0a\u65af\u862d\u570b\u7684\u5c11\u5973\u60f3\u56de\u5bb6 \u4f60\u8981\u6536\u7559\u5979\u55ce\uff1f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531080-news-2019-02-24-1.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531080-news-2019-02-24-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",
@@ -10804,7 +10818,7 @@ const playlist = {
 },
 "time023": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-03 1. \u83f2\u5f8b\u8cd3\u7684\u5211\u4e8b\u8cac\u4efb\u5e74\u9f61\u4e0b\u964d\u52309\u6b72",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531092-news-2019-02-03-1-9.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531092-news-2019-02-03-1-9.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",
@@ -11396,6 +11410,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Jul 2023": ['#2023'],
 "Jun 2023": ['#2023'],
 "May 2023": ['#2023'],
 "Apr 2023": ['#2023'],
@@ -11452,7 +11467,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

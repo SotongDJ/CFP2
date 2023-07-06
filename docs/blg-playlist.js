@@ -2438,7 +2438,7 @@ const playlist = {
 },
 "time539": {
 "name": "The KK Show - #142 \u6d6a\u5b50\u56de\u982d - China Mac",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10945642-the-kk-show-142-china-mac.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10945642-the-kk-show-142-china-mac.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2022",
@@ -2582,7 +2582,7 @@ const playlist = {
 },
 "time530": {
 "name": "HOW did you get that ACCENT?... THE STIR EP 9",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10835697-how-did-you-get-that-accent-the-stir-ep-9.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10835697-how-did-you-get-that-accent-the-stir-ep-9.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2022",
@@ -2615,7 +2615,7 @@ const playlist = {
 },
 "time528": {
 "name": "0619 \u9192\u4f86\u4e86\u7684AI\u3001\u6c7d\u8eca\u4fdd\u96aa\u6709\u7406\u8ce0\u6027\u75c5\u55ce\u3001\u63a8\u85a6\u5287\uff1a\u807d\u8a71\u7684\u5b69\u5b50\uff1a\u90aa\u6559\u7684\u79b1\u544a\u8207\u670d\u5f9e",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10813153-0619-ai.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10813153-0619-ai.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2022",
@@ -4992,7 +4992,7 @@ const playlist = {
 },
 "time384": {
 "name": "The KK Show - #93 \u4f4f\u5728\u793e\u6703\u4e3b\u7fa9\u5929\u5802 - \u745e\u5178\u5289\u5148\u751f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530731-the-kk-show-93.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530731-the-kk-show-93.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2021",
@@ -5972,7 +5972,7 @@ const playlist = {
 },
 "time325": {
 "name": "The KK Show - #73 \u6700\u5f37\u8aaa\u66f8\u4eba - \u674e\u5f8b",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530790-the-kk-show-73.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530790-the-kk-show-73.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2021",
@@ -7209,7 +7209,7 @@ const playlist = {
 },
 "time249": {
 "name": "Youtube 10\u842c / IG 5 \u842c \u8a02\u95b2 QA",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530866-youtube-10-ig-5-qa.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530866-youtube-10-ig-5-qa.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2020",

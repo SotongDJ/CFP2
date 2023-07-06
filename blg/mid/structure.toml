@@ -1,5 +1,18 @@
 # Add your own tag to each episode
 
+[time677]
+name = "The KK Show - 203 深入難民營 - 可心"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13158394-the-kk-show-203.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-203-%E6%B7%B1%E5%85%A5%E9%9B%A3%E6%B0%91%E7%87%9F-%E5%8F%AF%E5%BF%83/id1106847606?i=1000619262376"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzE1ODM5NA"
+spotify = "https://open.spotify.com/episode/34L7nW9WrhTYSbCG3mNHbL"
+youtube = "https://www.youtube.com/watch?v=P1g2kYdfGl4"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>可心去年去難民營當志工,她來跟我們分享她看到的故事</p><p>=======================<br/>➤ 百靈果世界巡迴首站 - 馬來西亞_吉隆坡 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["The KK Show - 203 深入難民營 - 可心"]
+tag = ["Jul 2023"]
+category = []
+
 [time676]
 name = "喜劇演員對抗馬來西亞政府，眼肉芽喝醉好可愛"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13145810-.mp3"
@@ -116,7 +129,7 @@ category = []
 
 [time667]
 name = "百靈果NEWS | 64在香港被消失，人工智慧會騙人，LGBT判死刑，眼肉芽初登場"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12974073-news-64-lgbt.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12974073-news-64-lgbt.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-64%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%A2%AB%E6%B6%88%E5%A4%B1-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%9C%83%E9%A8%99%E4%BA%BA-lgbt%E5%88%A4%E6%AD%BB%E5%88%91-%E7%9C%BC%E8%82%89%E8%8A%BD%E5%88%9D%E7%99%BB%E5%A0%B4/id1106847606?i=1000615599600"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjk3NDA3Mw"
 spotify = "https://open.spotify.com/episode/0dOIZ8NOTTHUp82GvUrkWO"
@@ -246,7 +259,7 @@ category = []
 
 [time657]
 name = "百靈果NEWS | Ken懷孕了、蘇丹再度爆發內戰的原因是因為兩個男人要奪權、猶他州不能用Pornhub後VPN使用者增加、美國寫手罷工"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12798784-news-ken-pornhub-vpn.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12798784-news-ken-pornhub-vpn.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-ken%E6%87%B7%E5%AD%95%E4%BA%86-%E8%98%87%E4%B8%B9%E5%86%8D%E5%BA%A6%E7%88%86%E7%99%BC%E5%85%A7%E6%88%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E5%9B%A0%E7%82%BA%E5%85%A9%E5%80%8B%E7%94%B7%E4%BA%BA%E8%A6%81%E5%A5%AA%E6%AC%8A-%E7%8C%B6%E4%BB%96%E5%B7%9E%E4%B8%8D%E8%83%BD%E7%94%A8pornhub%E5%BE%8Cvpn%E4%BD%BF%E7%94%A8%E8%80%85%E5%A2%9E%E5%8A%A0/id1106847606?i=1000612049059"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjc5ODc4NA"
 spotify = "https://open.spotify.com/episode/5uicneDCpTUJ11NcP1Z5DJ"
@@ -259,7 +272,7 @@ category = []
 
 [time656]
 name = "The KK Show - 192 腦比胸大 Ms Puiyi"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12766042-the-kk-show-192-ms-puiyi.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12766042-the-kk-show-192-ms-puiyi.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-192-%E8%85%A6%E6%AF%94%E8%83%B8%E5%A4%A7-ms-puiyi/id1106847606?i=1000611452032"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjc2NjA0Mg"
 spotify = "https://open.spotify.com/episode/7pnGOrTB2DZCjcXw20EzYK"
@@ -271,7 +284,7 @@ category = []
 
 [time655]
 name = "The KK Show - 191 開戰鬥機的男人 - Edan"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12749340-the-kk-show-191-edan.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12749340-the-kk-show-191-edan.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-191-%E9%96%8B%E6%88%B0%E9%AC%A5%E6%A9%9F%E7%9A%84%E7%94%B7%E4%BA%BA-edan/id1106847606?i=1000611187519"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjc0OTM0MA"
 spotify = "https://open.spotify.com/episode/1JBlJAX71aMalGexM1bw82"
@@ -573,7 +586,7 @@ category = []
 
 [time631]
 name = "The KK Show - #178 百靈果御用剪輯師 - Stephen"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12295844-the-kk-show-178-stephen.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12295844-the-kk-show-178-stephen.mp3"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjI5NTg0NA"
 spotify = "https://open.spotify.com/episode/4oXwWjYmlvjwRe4g1kyOZ1"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
@@ -609,7 +622,7 @@ category = []
 
 [time628]
 name = "The KK Show - #177 前議員 - 呱吉"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12249026-the-kk-show-177.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12249026-the-kk-show-177.mp3"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjI0OTAyNg"
 spotify = "https://open.spotify.com/episode/0DT5aP0bweOFnnrBdHYnNx"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
@@ -1052,7 +1065,7 @@ category = []
 
 [time594]
 name = "The KK Show - #162 來福好事 - 龍哥"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11741774-the-kk-show-162.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-162-%E6%95%A3%E7%9B%A1%E5%AE%B6%E8%B2%A1%E5%81%9A%E5%96%9C%E5%8A%87-%E9%BE%8D%E5%93%A5/id1106847606?i=1000587127586"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc0MTc3NA"
 spotify = "https://open.spotify.com/episode/654gDmnYOCxczYHYBiNPl0"
@@ -1124,7 +1137,7 @@ category = []
 
 [time590]
 name = "百靈果NEWS | 網路操作翻車事件，美國期中選舉川普失利？，凱莉去日本牛郎店圓夢但是發現XX太小？"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11683271-news-xx.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11683271-news-xx.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E7%B6%B2%E8%B7%AF%E6%93%8D%E4%BD%9C%E7%BF%BB%E8%BB%8A%E4%BA%8B%E4%BB%B6-%E7%BE%8E%E5%9C%8B%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89%E5%B7%9D%E6%99%AE%E5%A4%B1%E5%88%A9-%E5%87%B1%E8%8E%89%E5%8E%BB%E6%97%A5%E6%9C%AC%E7%89%9B%E9%83%8E%E5%BA%97%E5%9C%93%E5%A4%A2%E4%BD%86%E6%98%AF%E7%99%BC%E7%8F%BExx%E5%A4%AA%E5%B0%8F/id1106847606?i=1000586003180"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY4MzI3MQ"
 spotify = "https://open.spotify.com/episode/5NYpII2m2fr3dR4f0DSMJH"
@@ -1137,7 +1150,7 @@ category = []
 
 [time589]
 name = "崔健的一塊紅布、誰來制裁習近平｜ #讀書會：王子習近平 （君王論/君主論）"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11668217-.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11668217-.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E5%B4%94%E5%81%A5%E7%9A%84%E4%B8%80%E5%A1%8A%E7%B4%85%E5%B8%83-%E8%AA%B0%E4%BE%86%E5%88%B6%E8%A3%81%E7%BF%92%E8%BF%91%E5%B9%B3-%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%8E%8B%E5%AD%90%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%90%9B%E7%8E%8B%E8%AB%96-%E5%90%9B%E4%B8%BB%E8%AB%96/id1106847606?i=1000585763606"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTY2ODIxNw"
 spotify = "https://open.spotify.com/episode/7rQniZeg9SYzOFbL0qLfoi"
@@ -1167,7 +1180,7 @@ category = []
 
 [time587]
 name = "The KK Show - #159 聊聊選舉 - 人渣文本"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11637217-the-kk-show-159.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-159-%E8%81%8A%E8%81%8A%E9%81%B8%E8%88%89-%E4%BA%BA%E6%B8%A3%E6%96%87%E6%9C%AC/id1106847606?i=1000585223383"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYzNzIxNw"
 spotify = "https://open.spotify.com/episode/0ylEInn0WZv7yCGs9yycyF"
@@ -1346,7 +1359,7 @@ category = []
 
 [time575]
 name = "百靈果News｜分享首爾“打獵”成果、中國在全世界設立警察局、跟范姐聊最近的爭議"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11467917-news.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%88%86%E4%BA%AB%E9%A6%96%E7%88%BE-%E6%89%93%E7%8D%B5-%E6%88%90%E6%9E%9C-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%AD%E7%AB%8B%E8%AD%A6%E5%AF%9F%E5%B1%80-%E8%B7%9F%E8%8C%83%E5%A7%90%E8%81%8A%E6%9C%80%E8%BF%91%E7%9A%84%E7%88%AD%E8%AD%B0/id1106847606?i=1000582052124"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTQ2NzkxNw"
 spotify = "https://open.spotify.com/episode/74LAXIwqaHDE2rqvNwnlxw"
@@ -1620,7 +1633,7 @@ category = []
 
 [time556]
 name = "好萊塢十大種族歧視經典、讀書會：同情者 Ep 5"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11196213-ep-5.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11196213-ep-5.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E8%90%8A%E5%A1%A2%E5%8D%81%E5%A4%A7%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96%E7%B6%93%E5%85%B8-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%90%8C%E6%83%85%E8%80%85-ep-5/id1106847606?i=1000577330882"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTE5NjIxMw"
 spotify = "https://open.spotify.com/episode/1Jp9rgmo4P8Cvv21uaFWQD"
@@ -2365,7 +2378,7 @@ category = []
 
 [time500]
 name = "醫護人員超辛苦、快篩富翁在這裡、讀書會：柏青哥 Pachinko #05"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530617-pachinko-05.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530617-pachinko-05.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E9%86%AB%E8%AD%B7%E4%BA%BA%E5%93%A1%E8%B6%85%E8%BE%9B%E8%8B%A6-%E5%BF%AB%E7%AF%A9%E5%AF%8C%E7%BF%81%E5%9C%A8%E9%80%99%E8%A3%A1-%E8%AE%80%E6%9B%B8%E6%9C%83-%E6%9F%8F%E9%9D%92%E5%93%A5-pachinko-05/id1106847606?i=1000558974652"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI1ODM5NDQ5Nw"
 spotify = "https://open.spotify.com/episode/65PUfwOfzawkBTse8Tjnxe"
@@ -2798,7 +2811,7 @@ category = []
 
 [time467]
 name = "0220 首映會前每個人的焦慮、加拿大卡車司機在幹嘛、墨西哥酪梨GG、喜劇演員被框列、推薦書：綠燈 Green Light by Mathew McConaughey"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530648-0220-gg-green-light-by-mathew-mcconaughey.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530648-0220-gg-green-light-by-mathew-mcconaughey.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0220-%E9%A6%96%E6%98%A0%E6%9C%83%E5%89%8D%E6%AF%8F%E5%80%8B%E4%BA%BA%E7%9A%84%E7%84%A6%E6%85%AE-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%A1%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%9C%A8%E5%B9%B9%E5%98%9B-%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%85%AA%E6%A2%A8gg-%E5%96%9C%E5%8A%87%E6%BC%94%E5%93%A1%E8%A2%AB%E6%A1%86%E5%88%97-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E7%B6%A0%E7%87%88-green/id1106847606?i=1000551667747"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIxOTE3NDA1MQ"
 spotify = "https://open.spotify.com/episode/6wDr1hwwN1y5c1CBBfyBOv"
@@ -2850,7 +2863,7 @@ category = []
 
 [time463]
 name = "讀書會：Fat Leonard #01， 美國海軍在亞洲的荒唐事跡"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530652-fat-leonard-01.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530652-fat-leonard-01.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E8%AE%80%E6%9B%B8%E6%9C%83-fat-leonard-01-%E7%BE%8E%E5%9C%8B%E6%B5%B7%E8%BB%8D%E5%9C%A8%E4%BA%9E%E6%B4%B2%E7%9A%84%E8%8D%92%E5%94%90%E4%BA%8B%E8%B7%A1/id1106847606?i=1000550677515"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIxMzEzNDA0MA"
 spotify = "https://open.spotify.com/episode/4EDAI5ccjfPlNRmgP6nf8F"
@@ -3253,7 +3266,7 @@ category = []
 
 [time432]
 name = "The KK Show - #109 閃靈立委 - 林昶佐"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530683-the-kk-show-109.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530683-the-kk-show-109.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-109-%E9%96%83%E9%9D%88%E7%AB%8B%E5%A7%94-%E6%9E%97%E6%98%B6%E4%BD%90/id1106847606?i=1000543501490"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTE2OTA0NzkzNg"
 spotify = "https://open.spotify.com/episode/2VKscuZZwaljBleGBCn0Tj"
@@ -4047,7 +4060,7 @@ category = []
 
 [time371]
 name = "The KK Show - #89 回台加入國民黨 - 李有宜"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530744-the-kk-show-89.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530744-the-kk-show-89.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-89-%E5%9B%9E%E5%8F%B0%E5%8A%A0%E5%85%A5%E5%9C%8B%E6%B0%91%E9%BB%A8-%E6%9D%8E%E6%9C%89%E5%AE%9C/id1106847606?i=1000528734166"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4NjY1MzY0Nw"
 spotify = "https://open.spotify.com/episode/4EeuoFl2MMbfALhzlxQybV"
@@ -4411,7 +4424,7 @@ category = []
 
 [time343]
 name = "The KK Show - #79 傀儡花作者 - 陳耀昌醫師"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530772-the-kk-show-79.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530772-the-kk-show-79.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-79-%E5%82%80%E5%84%A1%E8%8A%B1%E4%BD%9C%E8%80%85-%E9%99%B3%E8%80%80%E6%98%8C%E9%86%AB%E5%B8%AB/id1106847606?i=1000521309216"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA0NjY5OTAwNQ"
 spotify = "https://open.spotify.com/episode/02rTkT1YKTybMFOPxrMR4o"
@@ -4502,7 +4515,7 @@ category = []
 
 [time336]
 name = "0425 澳洲害中國生氣氣、北美珍奶奶要斷貨、凱莉愛曡字、推薦Podcast：敏迪散步、說故事的人"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530779-0425-podcast.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530779-0425-podcast.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0425-%E6%BE%B3%E6%B4%B2%E5%AE%B3%E4%B8%AD%E5%9C%8B%E7%94%9F%E6%B0%A3%E6%B0%A3-%E5%8C%97%E7%BE%8E%E7%8F%8D%E5%A5%B6%E5%A5%B6%E8%A6%81%E6%96%B7%E8%B2%A8-%E5%87%B1%E8%8E%89%E6%84%9B%E6%9B%A1%E5%AD%97-%E6%8E%A8%E8%96%A6podcast-%E6%95%8F%E8%BF%AA%E6%95%A3%E6%AD%A5-%E8%AA%AA%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA/id1106847606?i=1000518536147"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAzNjE4MDk1Nw"
 spotify = "https://open.spotify.com/episode/4rwaXosCuyruppgYUoov9U"
@@ -4606,7 +4619,7 @@ category = []
 
 [time328]
 name = "The KK Show - #74 用科學打名嘴臉-IORG"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530787-the-kk-show-74-iorg.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530787-the-kk-show-74-iorg.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-74-%E7%94%A8%E7%A7%91%E5%AD%B8%E6%89%93%E5%90%8D%E5%98%B4%E8%87%89-iorg/id1106847606?i=1000515978760"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyMzE2MjQ1Nw"
 spotify = "https://open.spotify.com/episode/7HHiu15FXnVUXWLB2Fvtgy"
@@ -4619,7 +4632,7 @@ category = []
 
 [time327]
 name = "0404 中國要美國學學中國的氣度、愛煮飯的Youtuber原來是黑手黨、推薦書：Eat The Buddha 噬佛"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530788-0404-youtuber-eat-the-buddha.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530788-0404-youtuber-eat-the-buddha.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0404-%E4%B8%AD%E5%9C%8B%E8%A6%81%E7%BE%8E%E5%9C%8B%E5%AD%B8%E5%AD%B8%E4%B8%AD%E5%9C%8B%E7%9A%84%E6%B0%A3%E5%BA%A6-%E6%84%9B%E7%85%AE%E9%A3%AF%E7%9A%84youtuber%E5%8E%9F%E4%BE%86%E6%98%AF%E9%BB%91%E6%89%8B%E9%BB%A8-%E6%8E%A8%E8%96%A6%E6%9B%B8-eat-the/id1106847606?i=1000515699499"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyMTQwNjkxNA"
 spotify = "https://open.spotify.com/episode/26fuhVOV86bB6w6O6Hmyfb"
@@ -4801,7 +4814,7 @@ category = []
 
 [time313]
 name = "The KK Show - #69 歌仔戲的優質女性 - 孫翠鳳"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530802-the-kk-show-69.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530802-the-kk-show-69.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-69-%E6%AD%8C%E4%BB%94%E6%88%B2%E7%9A%84%E5%84%AA%E8%B3%AA%E5%A5%B3%E6%80%A7-%E5%AD%AB%E7%BF%A0%E9%B3%B3/id1106847606?i=1000511273404"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTk2NTYzNTA5"
 spotify = "https://open.spotify.com/episode/1kMcPmdTfWLJ6VpdpdsbbS"
@@ -5048,7 +5061,7 @@ category = []
 
 [time294]
 name = "遊戲裏的末日避難所都是真的 (終)： 讀書會 宋氏三姐妹 Ch 22、23、24"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530821-ch-22-23-24.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530821-ch-22-23-24.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E9%81%8A%E6%88%B2%E8%A3%8F%E7%9A%84%E6%9C%AB%E6%97%A5%E9%81%BF%E9%9B%A3%E6%89%80%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84-%E7%B5%82-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%AE%8B%E6%B0%8F%E4%B8%89%E5%A7%90%E5%A6%B9-ch-22-23-24/id1106847606?i=1000505323185"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTY1Mjc2MjYz"
 spotify = "https://open.spotify.com/episode/3o7VnMoW7den2zP9NtagUW"
@@ -5074,7 +5087,7 @@ category = []
 
 [time292]
 name = "0110 對啦、全世界都被台灣帶壞就是了 、 喬治亞州變成宇宙的中心 、 推薦書：掠殺: 美國連環殺手追蹤調查"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530823-0110.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530823-0110.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0110-%E5%B0%8D%E5%95%A6-%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E8%A2%AB%E5%8F%B0%E7%81%A3%E5%B8%B6%E5%A3%9E%E5%B0%B1%E6%98%AF%E4%BA%86-%E5%96%AC%E6%B2%BB%E4%BA%9E%E5%B7%9E%E8%AE%8A%E6%88%90%E5%AE%87%E5%AE%99%E7%9A%84%E4%B8%AD%E5%BF%83-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E6%8E%A0%E6%AE%BA-%E7%BE%8E%E5%9C%8B%E9%80%A3%E7%92%B0%E6%AE%BA%E6%89%8B%E8%BF%BD%E8%B9%A4%E8%AA%BF%E6%9F%A5/id1106847606?i=1000504868619"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTYyNDg1Njgx"
 spotify = "https://open.spotify.com/episode/184YxFU2p4fhbJ524f3Tyz"
@@ -5165,7 +5178,7 @@ category = []
 
 [time285]
 name = "一路睡上去的男人們 讀書會：宋氏三姐妹"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530830-.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530830-.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E8%B7%AF%E7%9D%A1%E4%B8%8A%E5%8E%BB%E7%9A%84%E7%94%B7%E4%BA%BA%E5%80%91-%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%AE%8B%E6%B0%8F%E4%B8%89%E5%A7%90%E5%A6%B9/id1106847606?i=1000503403170"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTUzNDA1NTc1"
 spotify = "https://open.spotify.com/episode/2SzFdTX0A1AqO9Bmz7IUuS"
@@ -5282,7 +5295,7 @@ category = []
 
 [time276]
 name = "1206 當雜交趴遇上外交豁免權、美國喬治亞州的做票疑慮、推薦書：民主的弱點"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530839-1206.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530839-1206.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/1206-%E7%95%B6%E9%9B%9C%E4%BA%A4%E8%B6%B4%E9%81%87%E4%B8%8A%E5%A4%96%E4%BA%A4%E8%B1%81%E5%85%8D%E6%AC%8A-%E7%BE%8E%E5%9C%8B%E5%96%AC%E6%B2%BB%E4%BA%9E%E5%B7%9E%E7%9A%84%E5%81%9A%E7%A5%A8%E7%96%91%E6%85%AE-%E6%8E%A8%E8%96%A6%E6%9B%B8-%E6%B0%91%E4%B8%BB%E7%9A%84%E5%BC%B1%E9%BB%9E/id1106847606?i=1000501495871"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTQyMTkzOTYz"
 spotify = "https://open.spotify.com/episode/323kOXT7UupGL4STWGlbcA"
@@ -5594,7 +5607,7 @@ category = []
 
 [time252]
 name = "原來是情報單位一開始就跟川普說武漢肺炎跟流感差不多的：Rage by Bob Woodward, Chap 30-32"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530863-rage-by-bob-woodward-chap-30-32.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530863-rage-by-bob-woodward-chap-30-32.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E5%8E%9F%E4%BE%86%E6%98%AF%E6%83%85%E5%A0%B1%E5%96%AE%E4%BD%8D%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E8%B7%9F%E5%B7%9D%E6%99%AE%E8%AA%AA%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E%E8%B7%9F%E6%B5%81%E6%84%9F%E5%B7%AE%E4%B8%8D%E5%A4%9A%E7%9A%84-rage-by-bob-woodward-chap/id1106847606?i=1000494037512"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvOTA2OTMxNTE5"
 spotify = "https://open.spotify.com/episode/2IfIfie3u61YxoX8cztXst"
@@ -6101,7 +6114,7 @@ category = []
 
 [time213]
 name = "0705 西雅圖獨立失敗？ 中國一個點都不可少，除非那個點是海參崴、中國網友來信、推薦： Space Force"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530902-0705-space-force.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530902-0705-space-force.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0705-%E8%A5%BF%E9%9B%85%E5%9C%96%E7%8D%A8%E7%AB%8B%E5%A4%B1%E6%95%97-%E4%B8%AD%E5%9C%8B%E4%B8%80%E5%80%8B%E9%BB%9E%E9%83%BD%E4%B8%8D%E5%8F%AF%E5%B0%91-%E9%99%A4%E9%9D%9E%E9%82%A3%E5%80%8B%E9%BB%9E%E6%98%AF%E6%B5%B7%E5%8F%83%E5%B4%B4-%E4%B8%AD%E5%9C%8B%E7%B6%B2%E5%8F%8B%E4%BE%86%E4%BF%A1-%E6%8E%A8%E8%96%A6-space-force/id1106847606?i=1000482689581"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODUyMzY2MTI3"
 spotify = "https://open.spotify.com/episode/0vXPoKg9OwDFdcCfA1bwvf"
@@ -6281,7 +6294,7 @@ category = []
 
 [time199]
 name = "百靈果助念祈福法會 - #01 爲受到疫情影響的人們祈福"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530916-001.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530916-001.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E5%8A%A9%E5%BF%B5%E7%A5%88%E7%A6%8F%E6%B3%95%E6%9C%83-001-%E7%88%B2%E5%8F%97%E5%88%B0%E7%96%AB%E6%83%85%E5%BD%B1%E9%9F%BF%E7%9A%84%E4%BA%BA%E5%80%91%E7%A5%88%E7%A6%8F/id1106847606?i=1000476789137"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODMzNzMzMjYy"
 spotify = "https://open.spotify.com/episode/6rzIJdehc9CgcMxLougeN3"
@@ -6592,7 +6605,7 @@ category = []
 
 [time175]
 name = "The KK Show - 吃播主ASMR Pom咩 (正成集團贊助）"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530940-the-kk-show-asmr-pom.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530940-the-kk-show-asmr-pom.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-%E5%90%83%E6%92%AD%E4%B8%BBasmr-pom%E5%92%A9-%E6%AD%A3%E6%88%90%E9%9B%86%E5%9C%98%E8%B4%8A%E5%8A%A9/id1106847606?i=1000471220183"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzk2NTcwMzE4"
 spotify = "https://open.spotify.com/episode/0egTvvlAq6DnkPhSfMG8gf"
@@ -6982,7 +6995,7 @@ category = []
 
 [time145]
 name = "讀書會：Wild Swans ｜鴻：三代中國女人 第22、23、24章"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530970-wild-swans-22-23-24.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530970-wild-swans-22-23-24.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E8%AE%80%E6%9B%B8%E6%9C%83-wild-swans-%E9%B4%BB-%E4%B8%89%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%A5%B3%E4%BA%BA-%E7%AC%AC22-23-24%E7%AB%A0/id1106847606?i=1000463462066"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzQ4MTQwMDQw"
 spotify = "https://open.spotify.com/episode/7FqTiImXVdm9VXcPbSaYZg"
@@ -7086,7 +7099,7 @@ category = []
 
 [time137]
 name = "The KK Show - #07 博恩夜夜秀真主角 - 賀瓏"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530978-the-kk-show-007.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530978-the-kk-show-007.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-007-%E5%8D%9A%E6%81%A9%E5%A4%9C%E5%A4%9C%E7%A7%80%E7%9C%9F%E4%B8%BB%E8%A7%92-%E8%B3%80%E7%93%8F/id1106847606?i=1000461202081"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzM2MTkxMjgw"
 spotify = "https://open.spotify.com/episode/2ncVvglpTxZvDfChZMW25z"
@@ -7365,7 +7378,7 @@ category = []
 
 [time115]
 name = "1110 亞洲的經濟聯盟爲什麽不叫 RICE、貿易歸貿易 豬肉歸豬肉 、凱莉上電視一直翻白眼 (峴港背包抽獎出來咯）"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531000-1110-rice.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531000-1110-rice.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/1110-%E4%BA%9E%E6%B4%B2%E7%9A%84%E7%B6%93%E6%BF%9F%E8%81%AF%E7%9B%9F%E7%88%B2%E4%BB%80%E9%BA%BD%E4%B8%8D%E5%8F%AB-rice-%E8%B2%BF%E6%98%93%E6%AD%B8%E8%B2%BF%E6%98%93-%E8%B1%AC%E8%82%89%E6%AD%B8%E8%B1%AC%E8%82%89-%E5%87%B1%E8%8E%89%E4%B8%8A%E9%9B%BB%E8%A6%96%E4%B8%80%E7%9B%B4%E7%BF%BB%E7%99%BD%E7%9C%BC-%E5%B3%B4%E6%B8%AF%E8%83%8C%E5%8C%85%E6%8A%BD%E7%8D%8E%E5%87%BA%E4%BE%86%E5%92%AF/id1106847606?i=1000456368552"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNzA5MTI0NjQ3"
 spotify = "https://open.spotify.com/episode/3pl1BKbEgYzvcHVghCM5O8"
@@ -7553,7 +7566,7 @@ category = []
 
 [time100]
 name = "0922 美國跟塔利班已經交往了18年、澳洲議員被控心向中國、屏東的故事"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531015-0922-18.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531015-0922-18.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0922-%E7%BE%8E%E5%9C%8B%E8%B7%9F%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B7%B2%E7%B6%93%E4%BA%A4%E5%BE%80%E4%BA%8618%E5%B9%B4-%E6%BE%B3%E6%B4%B2%E8%AD%B0%E5%93%A1%E8%A2%AB%E6%8E%A7%E5%BF%83%E5%90%91%E4%B8%AD%E5%9C%8B-%E5%B1%8F%E6%9D%B1%E7%9A%84%E6%95%85%E4%BA%8B/id1106847606?i=1000450688770"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNjg0MDM5NDkz"
 spotify = "https://open.spotify.com/episode/20ICn0wmND8zZGqoALjEzK"
@@ -7761,7 +7774,7 @@ category = []
 
 [time083]
 name = "0721 到底有誰在譴責中國、華為投資義大利、凱莉去英國玩 (三合一）"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531032-0721.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531032-0721.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0721-%E5%88%B0%E5%BA%95%E6%9C%89%E8%AA%B0%E5%9C%A8%E8%AD%B4%E8%B2%AC%E4%B8%AD%E5%9C%8B-%E8%8F%AF%E7%82%BA%E6%8A%95%E8%B3%87%E7%BE%A9%E5%A4%A7%E5%88%A9-%E5%87%B1%E8%8E%89%E5%8E%BB%E8%8B%B1%E5%9C%8B%E7%8E%A9-%E4%B8%89%E5%90%88%E4%B8%80/id1106847606?i=1000445085646"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNjUyODY5NzI4"
 spotify = "https://open.spotify.com/episode/32yedIcyUN8RmD4tT9vSkt"
@@ -7956,7 +7969,7 @@ category = []
 
 [time067]
 name = "0602 新加坡、歐盟議會、新疆集中營"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531048-0602.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531048-0602.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0602-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%AD%90%E7%9B%9F%E8%AD%B0%E6%9C%83-%E6%96%B0%E7%96%86%E9%9B%86%E4%B8%AD%E7%87%9F/id1106847606?i=1000440566789"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNjI5NDcxNTMy"
 spotify = "https://open.spotify.com/episode/00a3TXU4cgkSu5a3XFOCX0"
@@ -8153,7 +8166,7 @@ category = []
 
 [time051]
 name = "0324 3.好書推薦 Bad Blood"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531064-0324-3-bad-blood.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531064-0324-3-bad-blood.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0324-3-%E5%A5%BD%E6%9B%B8%E6%8E%A8%E8%96%A6-bad-blood/id1106847606?i=1000433145454"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkzODk0MzMx"
 spotify = "https://open.spotify.com/episode/6sNE2OzHNjJHfxcGfcpkuo"
@@ -8165,7 +8178,7 @@ category = []
 
 [time050]
 name = "0324 2.巴西幫派搶核原料 玩命關頭原來是紀錄片啊"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531065-0324-2.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531065-0324-2.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/0324-2-%E5%B7%B4%E8%A5%BF%E5%B9%AB%E6%B4%BE%E6%90%B6%E6%A0%B8%E5%8E%9F%E6%96%99-%E7%8E%A9%E5%91%BD%E9%97%9C%E9%A0%AD%E5%8E%9F%E4%BE%86%E6%98%AF%E7%B4%80%E9%8C%84%E7%89%87%E5%95%8A/id1106847606?i=1000433145453"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTkzODkxNTc0"
 spotify = "https://open.spotify.com/episode/1gP8y966me3brWwof77zBm"
@@ -8336,7 +8349,7 @@ category = []
 
 [time036]
 name = "百靈果讀書會 - Born a crime 以母之名 第十四章"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531079-born-a-crime.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531079-born-a-crime.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C%E8%AE%80%E6%9B%B8%E6%9C%83-born-a-crime-%E4%BB%A5%E6%AF%8D%E4%B9%8B%E5%90%8D-%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0/id1106847606?i=1000430734460"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTgyMTg4ODc3"
 spotify = "https://open.spotify.com/episode/02WPFvbbqqn6I6FTfMrKFF"
@@ -8421,7 +8434,7 @@ category = []
 
 [time029]
 name = "百靈果NEWS 2019-02-17 3. 凱莉與老公的美墨行"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531086-news-2019-02-17-3.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531086-news-2019-02-17-3.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-02-17-3-%E5%87%B1%E8%8E%89%E8%88%87%E8%80%81%E5%85%AC%E7%9A%84%E7%BE%8E%E5%A2%A8%E8%A1%8C/id1106847606?i=1000430031692"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTc2NzQ4ODU3"
 spotify = "https://open.spotify.com/episode/2wqB5W5TvIAFsEnLtu2fxa"
@@ -8601,7 +8614,7 @@ category = []
 
 [time014]
 name = "百靈果NEWS 2019-01-20 1. 澳洲勇敢的向外國農產品說不 為什麼你還要帶豬肉進來"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531101-news-2019-01-20-1.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531101-news-2019-01-20-1.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-2019-01-20-1-%E6%BE%B3%E6%B4%B2%E5%8B%87%E6%95%A2%E7%9A%84%E5%90%91%E5%A4%96%E5%9C%8B%E8%BE%B2%E7%94%A2%E5%93%81%E8%AA%AA%E4%B8%8D-%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E9%82%84%E8%A6%81%E5%B8%B6%E8%B1%AC%E8%82%89%E9%80%B2%E4%BE%86/id1106847606?i=1000428027110"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTYxMjE2NDk1"
 spotify = "https://open.spotify.com/episode/5ZCJMRrFrLyV8pot1IWXse"

@@ -80,10 +80,10 @@ jobs:
           ref: main
       - name: Setup Pages
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
-        uses: actions/configure-pages@v1
+        uses: actions/configure-pages@v3
       - name: Upload artifact
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           path: './docs'
       - name: Deploy to GitHub Pages

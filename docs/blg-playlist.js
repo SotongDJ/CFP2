@@ -3215,7 +3215,7 @@ const playlist = {
 },
 "time492": {
 "name": "\u300eClubhouse\u7279\u5225\u4f01\u5283\u300f\u6b61\u8fce\u88ab\u5c01\u57ce\u7684\u807d\u773e\u4f86\u804a\u5929",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10451269-clubhouse.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2022",
@@ -7980,7 +7980,7 @@ const playlist = {
 },
 "time202": {
 "name": "The KK Show - 31\u71c3\u71d2\u751f\u547d\u7684\u68d2\u7403\u9b42 - Hito\u5927\u806f\u76df",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530913-the-kk-show-31-hito.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530913-the-kk-show-31-hito.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jun 2020",

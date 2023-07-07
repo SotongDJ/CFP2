@@ -6313,7 +6313,7 @@ const playlist = {
 },
 "time304": {
 "name": "The KK Show - #66 \u62c9\u4e01\u7f8e\u6d32\u5c08\u5bb6-\u9673\u5c0f\u96c0\u6559\u6388",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530811-the-kk-show-66.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530811-the-kk-show-66.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2021",
@@ -7770,7 +7770,7 @@ const playlist = {
 },
 "time215": {
 "name": "\u91d1\u6b63\u6069\u9019\u500b\u7da0\u8336\u5a4a\u662f\u5982\u4f55\u6210\u529f\u73a9\u5f04\u5ddd\u666e\u3001The Room Where It Happened by John Bolton \u8b80\u66f8\u6703 Ch. 3\u30014\u30015\u30016",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530900-the-room-where-it-happened-by-john-bolton-ch-3-4-5-6.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530900-the-room-where-it-happened-by-john-bolton-ch-3-4-5-6.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2020",
@@ -8480,7 +8480,7 @@ const playlist = {
 },
 "time172": {
 "name": "0405 \u7f8e\u570b\u7684\u674e\u6587\u4eae\u76f4\u63a5\u88ab\u514d\u8077\u3001\u6253\u6557\u8cc7\u672c\u4e3b\u7fa9\u7684\u4e2d\u570b\u5496\u5561\u3001\u63a8\u85a6\u5287\uff1aTiger King \u3001 \u4e2d\u570b\u7db2\u53cb\u4f86\u4fe1",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530943-0405-tiger-king.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530943-0405-tiger-king.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2020",
@@ -11157,7 +11157,7 @@ const playlist = {
 },
 "time002": {
 "name": "\u767e\u9748\u679cNews 2019-01-04 \u9592\u804a\uff1a\u6c92\u6709\u4eba\u8a18\u5f97\u767c\u751f\u4ec0\u9ebc\u4e8b\u7684\u5a5a\u79ae",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531113-news-2019-01-04.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531113-news-2019-01-04.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",

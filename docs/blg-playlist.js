@@ -6313,7 +6313,7 @@ const playlist = {
 },
 "time304": {
 "name": "The KK Show - #66 \u62c9\u4e01\u7f8e\u6d32\u5c08\u5bb6-\u9673\u5c0f\u96c0\u6559\u6388",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530811-the-kk-show-66.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530811-the-kk-show-66.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2021",
@@ -11157,7 +11157,7 @@ const playlist = {
 },
 "time002": {
 "name": "\u767e\u9748\u679cNews 2019-01-04 \u9592\u804a\uff1a\u6c92\u6709\u4eba\u8a18\u5f97\u767c\u751f\u4ec0\u9ebc\u4e8b\u7684\u5a5a\u79ae",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531113-news-2019-01-04.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531113-news-2019-01-04.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",

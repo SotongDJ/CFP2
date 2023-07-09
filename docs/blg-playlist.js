@@ -1458,7 +1458,7 @@ const playlist = {
 },
 "time592": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u6703\u8aaa\u5531\u7684\u7f8e\u570b\u53cd\u8cca - \u6a02\u6a02\u6cd5\u5229",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11712838-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11712838-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2022",
@@ -7559,7 +7559,7 @@ const playlist = {
 },
 "time228": {
 "name": "0809 \u99ac\u4f86\u897f\u4e9e\u597d\u71b1\u60c5\u3001\u6c92\u6709\u9670\u8396\u7684\u4eba\u6709\u798f\u4e86\u3001\u5fae\u4fe1\u88ab\u7981\u662f\u4e0d\u662f\u4e0d\u4eba\u9053\uff1f\u3001\u63a8\u85a6Netflix\uff1aIndian Matchmaking",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530887-0809-netflix-indian-matchmaking.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530887-0809-netflix-indian-matchmaking.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2020",
@@ -10848,7 +10848,7 @@ const playlist = {
 },
 "time022": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-03 2. \u5728\u9999\u6e2f\u8981\u597d\u597d\u5531\u570b\u6b4c \u4e0d\u7136\u6703\u88ab\u6293\u53bb\u95dc.... Seriously",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531093-news-2019-02-03-2-seriously.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531093-news-2019-02-03-2-seriously.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",

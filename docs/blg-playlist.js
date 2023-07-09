@@ -920,7 +920,7 @@ const playlist = {
 },
 "time623": {
 "name": "The KK Show - #174 \u524d\u4e2d\u570b\u592e\u8996\u8abf\u67e5\u8a18\u8005 - \u738b\u5fd7\u5b89",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12153165-the-kk-show-174.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12153165-the-kk-show-174.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2023",
@@ -1054,7 +1054,7 @@ const playlist = {
 },
 "time615": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u6b4c\u4ed4\u6232\u7684\u5973\u5152 - \u9673\u662d\u8ce2",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12029085-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12029085-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2023",
@@ -2869,7 +2869,7 @@ const playlist = {
 },
 "time513": {
 "name": "The KK Show - #135 \u804a\u804a\u65b0\u51a0\u80ba\u708e - \u9673\u96f6\u4e5d",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672453-the-kk-show-135.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672453-the-kk-show-135.mp3",
 "image": "496937873a2d81177fe98d41f48cd12d7ebc345b8a4a7471a330b95e92f5680b",
 "tag": [
 "May 2022",
@@ -2937,7 +2937,7 @@ const playlist = {
 },
 "time509": {
 "name": "The KK Show - #134 \u708e\u4e0a\u7cfbYoutuber - Joeman",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10631575-the-kk-show-134-youtuber-joeman.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10631575-the-kk-show-134-youtuber-joeman.mp3",
 "image": "db2f081285bf86477acfb68014e2e43c4a1ace8dd40dc648571bdbd65f43a218",
 "tag": [
 "May 2022",

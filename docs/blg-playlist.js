@@ -679,7 +679,7 @@ const playlist = {
 },
 "time638": {
 "name": "\u767e\u9748\u679cNEWS | \u641e\u5931\u8e64\u9020\u6210\u5fc3\u7406\u5275\u50b7\u3001Fox\u65b0\u805e\u4e3b\u64ad\u79c1\u4e0b\u770b\u4e0d\u8d77\u5ddd\u666e\u3001\u70cf\u514b\u862d\u7684\u6d88\u8017\u6230\u3001\u65e5\u672c\u5091\u5c3c\u65af\u8001\u95c6\u559c\u6b61\u5c0f\u7537\u5b69\u662f\u516c\u958b\u7684\u79d8\u5bc6",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12421990-news-fox.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12421990-news-fox.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2023",
@@ -727,7 +727,7 @@ const playlist = {
 },
 "time635": {
 "name": "\u767e\u9748\u679cNEWS | ChatGPT\u6436\u98ef\u7897\u3001\u4e39\u9ea5\u70ba\u4e86\u570b\u9632\u9810\u7b97\u53d6\u6d88\u570b\u5b9a\u5047\u65e5\u3001\u82ac\u862d\u958b\u59cb\u84cb\u570d\u7246 \u3001\u4e2d\u570b\u8981\u7576\u548c\u5e73\u4f7f\u8005",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12375421-news-chatgpt.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12375421-news-chatgpt.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2023",
@@ -968,7 +968,7 @@ const playlist = {
 },
 "time621": {
 "name": "The KK Show - #173 IG\u7d05\u53bb\u570b\u5916 - \u6797\u5029",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12107208-the-kk-show-173-ig.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12107208-the-kk-show-173-ig.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2023",
@@ -6426,7 +6426,7 @@ const playlist = {
 },
 "time298": {
 "name": "The KK Show - #64 \u4eca\u5929\u4f86\u8ce3\u7968 - \u535a\u6069",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530817-the-kk-show-64.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530817-the-kk-show-64.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2021",
@@ -7476,7 +7476,7 @@ const playlist = {
 },
 "time234": {
 "name": "0823 \u7f8e\u570b\u6c11\u4e3b\u9ee8\u9020\u52e2\u5927\u6703\u57fa\u672c\u4e0a\u5c31\u662f\u4e00\u7fa4\u8001\u4eba\u5728\u7f75\u53e6\u4e00\u500b\u8001\u4eba\u3001\u7576\u904e\u5c0f\u4e09\u7684\u526f\u7e3d\u7d71\u4f60Ok\u55ce\uff1f\u3001\u5ee3\u64ad\u91d1\u9418\u734e\u63ed\u734e\u611f\u60f3",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530881-0823-ok.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530881-0823-ok.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2020",
@@ -9101,7 +9101,7 @@ const playlist = {
 },
 "time135": {
 "name": "\u767e\u9748\u679cNews \u9592\u804a\uff1a\u5c01\u5370\u89e3\u9664\uff01\u5e74\u5e95\u524d\u7a81\u7136\u88abfire",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530980-news-fire.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530980-news-fire.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2019",
@@ -10390,7 +10390,7 @@ const playlist = {
 },
 "time053": {
 "name": "0331 \u725b\u4ea4\u53cbapp\u3001\u7fa9\u5927\u5229\u4e00\u5e36\u4e00\u8def\u3001\u7f6a\u884c \uff08\u4e09\u5408\u4e00\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531062-0331-app.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531062-0331-app.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2019",

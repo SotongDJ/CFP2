@@ -2319,7 +2319,7 @@ const playlist = {
 },
 "time547": {
 "name": "Pelosi \u4f86\u53f0\u7063\u8857\u8a2a\u5fc3\u5f97\uff0c\u518d\u6b21\u9047\u5230\u7d71\u4fc3\u9ee8",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11074788-pelosi.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11074788-pelosi.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2022",
@@ -7442,7 +7442,7 @@ const playlist = {
 },
 "time236": {
 "name": "\u63a8\u5012\u8cc7\u672c\u4e3b\u7fa9\u7684\u9ad8\u7246\uff1a\u514d\u8cbb\u6559\u4f60\u5982\u4f55\u505aPodcast 04 : \u8a2a\u7db1\u8ddf\u8089\u641c",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530879-podcast-04.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530879-podcast-04.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Aug 2020",
@@ -10726,7 +10726,7 @@ const playlist = {
 },
 "time031": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-17 2. \u83f2\u5f8b\u8cd3\u5831\u793e\u793e\u9577\u88ab\u675c\u7279\u8482\u8a0e\u53ad\u4e86...\u53ea\u597d\u8ddf\u5979\u8aaabye bye",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531085-news-2019-02-17-2-bye-bye.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531085-news-2019-02-17-2-bye-bye.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2019",

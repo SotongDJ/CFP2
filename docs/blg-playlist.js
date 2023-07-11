@@ -484,7 +484,7 @@ const playlist = {
 },
 "time649": {
 "name": "\u767e\u9748\u679cNEWS \uff5c \u7f8e\u570b\u76e3\u807d\u76df\u53cb\u5011\u3001\u5c41\u5b69\u70ba\u4e86\u70ab\u8000\u6d29\u6f0f\u570b\u5bb6\u6a5f\u5bc6\u3001\u4e16\u754c\u5973\u5b50\u7db2\u7403\u56de\u4e2d\u570b\u4e86\u3001\u51f1\u8389\u53bb\u91dc\u5c71\u3001\u9592\u804a\uff1a\u6a21\u4eff\u72af\u3001\u719f\u5973\u838a\u5712",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12657883-news.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12657883-news.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2023",
@@ -4548,7 +4548,7 @@ const playlist = {
 },
 "time412": {
 "name": "\u6cb9\u50f9\u66b4\u6f32\u3001\u97d3\u570b\u7e3d\u7d71\u5019\u9078\u4eba\u5e0c\u671b\u4eba\u4eba\u6709\u9322\u62ff\u3001\u7406\u67e5\u5409\u723e\u4e0d\u53d7\u5168\u4e2d\u5171\u6b61\u8fce\u3001 \u8b80\u66f8\u6703\uff1a \u5403\u4f5b Eat The Buddha 03",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530703-eat-the-buddha-03.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530703-eat-the-buddha-03.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2021",
@@ -6994,7 +6994,7 @@ const playlist = {
 },
 "time263": {
 "name": "The KK SHOW - #51 \u4f4e\u8abf\u7684\u5ee3\u64ad\u4eba- \u90b5\u5927\u502b",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530852-the-kk-show-51.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530852-the-kk-show-51.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2020",
@@ -8821,7 +8821,7 @@ const playlist = {
 },
 "time152": {
 "name": "The KK Show - #13 \u8207\u77e5\u8b58\u85cd\u7684\u5c0d\u8a71 - Wolf",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530963-the-kk-show-013-wolf.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530963-the-kk-show-013-wolf.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2020",
@@ -9153,7 +9153,7 @@ const playlist = {
 },
 "time132": {
 "name": "1222 \u5370\u5ea6\u65b0\u79fb\u6c11\u6cd5\u5f15\u767c\u66b4\u52d5\u3001\u8aaaGreta Thunberg \u50cf\u97d3\u570b\u745c\u7684\u4eba\u904e\u4f86 \u8b93\u6211\u5011\u8ddf\u4f60\u8ac7\u8ac7\u3001\u6230\u88e1\u7684\u590f\u91cc\u7279 Charit\u00e9 at War",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530983-1222-greta-thunberg-charite-at-war.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530983-1222-greta-thunberg-charite-at-war.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2019",

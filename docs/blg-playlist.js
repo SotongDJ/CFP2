@@ -1,4 +1,19 @@
 const playlist = {
+"time679": {
+"name": "The KK Show - 204 \u984f\u8272\u4e0d\u5206\u85cd\u7da0\u652f\u6301\u6027\u5c08\u5340\u984f\u8272\u7530\u614e\u7bc0",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13200923-the-kk-show-204.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jul 2023",
+"KK Show"
+],
+"description": "<p>Molly\u4f86\u8ddf\u6211\u5011\u804a\u804a\u70ba\u4ec0\u9ebc\u5979\u540d\u5b57\u9019\u9ebc\u9577\u3001\u9084\u6709\u5728\u5609\u7fa9\u7576\u8b70\u54e1\u9047\u5230\u7684\u6545\u4e8b</p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u4e16\u754c\u5de1\u8ff4\u9996\u7ad9 - \u99ac\u4f86\u897f\u4e9e_\u5409\u9686\u5761 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzIwMDkyMw",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=iXn1XLzeG9E"
+},
 "time678": {
 "name": "\u767e\u9748\u679cNEWS | Threads \u5c0d\u4e0a Twitter\u3001\u9999\u6e2f\u6c11\u4e3b\u88ab\u58d3\u7e2e\u3001\u6d17\u8166\u6b4cMakeba\u7684\u7531\u4f86\u3001\u8d8a\u5357\u7981\u64ad\u82ad\u6bd4",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13187216-news-threads-twitter-makeba.mp3",

@@ -2069,7 +2069,7 @@ const playlist = {
 },
 "time561": {
 "name": "The KK Show - #150 \u62ff\u51fa30\u5104\u53cd\u5171\u7684\u7537\u4eba - \u66f9\u8208\u8aa0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11262919-the-kk-show-150-30.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11262919-the-kk-show-150-30.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2022",
@@ -8642,7 +8642,7 @@ const playlist = {
 },
 "time163": {
 "name": "0315 \u7c3d\u5b8c\u548c\u5e73\u5354\u8b70\u5c31\u662f\u8981\u958b\u69cd\u6176\u795d\u3001\u5982\u679c\u6b66\u6f22\u80ba\u708e\u6700\u5f8c\u767c\u73fe\u662f\u7f8e\u570b\u958b\u59cb\u8981\u6539\u540d\u70ba\u897f\u96c5\u5716\u80ba\u708e\u55ce\u3001\u63a8\u85a6Podcast\uff1a\u80a1\u764c",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530952-0315-podcast.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530952-0315-podcast.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2020",
@@ -9052,7 +9052,7 @@ const playlist = {
 },
 "time138": {
 "name": "\u8b80\u66f8\u6703\uff1aWild Swans \uff5c\u9d3b\uff1a\u4e09\u4ee3\u4e2d\u570b\u5973\u4eba \u7b2c20\u300121\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530977-wild-swans-20-21.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530977-wild-swans-20-21.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2020",

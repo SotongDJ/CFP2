@@ -4860,7 +4860,7 @@ const playlist = {
 },
 "time394": {
 "name": "\u65e5\u672c\u6709\u6771\u4eac\u8b8a\u7a2e\u65b0\u51a0\u80ba\u708e\u3001#\u9854\u5343\u9db4 \u5973\u58eb\u662f\u73fe\u4ee3\u5973\u6027\u7684\u597d\u699c\u6a23 \u3001 \u54e1\u5de5\u6bd4\u8001\u95c6\u65e9\u53bb\u770b #\u5fc3\u7406\u8aee\u5546 \u8b80\u66f8\u6703\uff1a \u5bae\u524d\u753a\u4e5d\u5341\u756a\u5730 05",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530721-05.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530721-05.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2021",

@@ -1420,7 +1420,7 @@ const playlist = {
 },
 "time595": {
 "name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u55ac\u745f\u592b & \u535a\u6069",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11756576-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11756576-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2022",
@@ -6265,7 +6265,7 @@ const playlist = {
 },
 "time309": {
 "name": "0221 \u5fb7\u5dde\u5927\u96ea\u5f71\u97ff\u5230\u6211\u5011\u4e86\uff01 \u62dc\u767b\u4e00\u53e5\u8a71\u8b93\u5927\u5bb6\u760b\u72c2",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530806-0221.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530806-0221.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2021",
@@ -7785,7 +7785,7 @@ const playlist = {
 },
 "time216": {
 "name": "0712 \u99ac\u4f86\u897f\u4e9e\u662f\u91ab\u65c5\u5927\u570b\u3001\u65e5\u672c\u7232\u4e86\u7dad\u5c3c\u800c\u4e0d\u77e5\u6240\u63aa\u3001\u63a8\u85a6YT\uff1a Beau of the Fifth Column",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530899-0712-yt-beau-of-the-fifth-column.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530899-0712-yt-beau-of-the-fifth-column.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2020",
@@ -8789,7 +8789,7 @@ const playlist = {
 },
 "time155": {
 "name": "0223 \u4e2d\u570b\u9a45\u9010\u7f8e\u570b\u8a18\u8005\u3001\u5fb7\u570b\u6975\u53f3\u6d3e\u69cd\u64ca\u6848\u3001\u56de\u61c9\u4e2d\u570b\u807d\u8846\u7559\u8a00",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530960-0223.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530960-0223.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2020",

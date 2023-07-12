@@ -3699,7 +3699,7 @@ const playlist = {
 },
 "time465": {
 "name": "The KK Show - #120 \u6642\u4ee3\u9769\u547d\u5c0e\u6f14\uff1a\u5468\u51a0\u5a01",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530650-the-kk-show-120.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530650-the-kk-show-120.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2022",
@@ -6410,7 +6410,7 @@ const playlist = {
 },
 "time300": {
 "name": "0131 \uff0818\u7981\uff09\u7d10\u897f\u862d\u8214\u5171\u3001Belle Delphine\u8214\u5225\u7684\u3001Ken\u8cb7\u4e86\u5728\u9ad8\u9ede\u7684GME",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530815-0131-18-belle-delphine-ken-gme.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530815-0131-18-belle-delphine-ken-gme.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2021",
@@ -7042,7 +7042,7 @@ const playlist = {
 },
 "time261": {
 "name": "International Docking / \u8207\u570b\u969b\u63a5\u8ecc\u524d\u7684\u9592\u804a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530854-international-docking.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530854-international-docking.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2020",

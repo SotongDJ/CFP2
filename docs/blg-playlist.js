@@ -8542,7 +8542,7 @@ const playlist = {
 },
 "time170": {
 "name": "The KK Show - 20 \u8c41\u9054\u7684\u5973\u6f22\u5b50-Niki",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530945-the-kk-show-20-niki.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530945-the-kk-show-20-niki.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2020",
@@ -11090,7 +11090,7 @@ const playlist = {
 },
 "time008": {
 "name": "\u767e\u9748\u679c\u8b80\u66f8\u6703 - Born a crime \u4ee5\u6bcd\u4e4b\u540d \u7b2c\u516b\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531107-born-a-crime.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531107-born-a-crime.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2019",

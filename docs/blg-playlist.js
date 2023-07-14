@@ -529,7 +529,7 @@ const playlist = {
 },
 "time648": {
 "name": "The KK Show - 188 \u63a8\u5012\u767d\u8272\u5de8\u5854\u5f9e\u6ccc\u5c3f\u79d1\u958b\u59cb",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12643546-the-kk-show-188.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12643546-the-kk-show-188.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2023",

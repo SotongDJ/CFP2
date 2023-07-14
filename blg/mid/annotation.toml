@@ -410,7 +410,7 @@ category = ["#節目系列"]
 
 [time648]
 name = "The KK Show - 188 推倒白色巨塔從泌尿科開始"
-feed = "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12643546-the-kk-show-188.mp3"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12643546-the-kk-show-188.mp3"
 apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-188-%E6%8E%A8%E5%80%92%E7%99%BD%E8%89%B2%E5%B7%A8%E5%A1%94%E5%BE%9E%E6%B3%8C%E5%B0%BF%E7%A7%91%E9%96%8B%E5%A7%8B/id1106847606?i=1000608806917"
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjY0MzU0Ng"
 spotify = "https://open.spotify.com/episode/1RX81pCPYMN2UiZ9PXTuIV"

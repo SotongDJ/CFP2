@@ -57,7 +57,7 @@ jobs:
         run: |
           git config user.name "RSS Update Bot"
           git config user.email "$EMAIL"
-          git config user.signingkey "$KEY"
+          # git config user.signingkey "$KEY"
       - name: check
         id: check_git_status
         run: |
@@ -68,7 +68,8 @@ jobs:
         run: |
           echo git_status: ${{ steps.check_git_status.outputs.git_status }}
           git add -A
-          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]" && git push
+          # git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]" && git push
+          git commit -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]" && git push
       - name: Echo
         run: |
           echo ${{ needs.build.outputs.git_status }}

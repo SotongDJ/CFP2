@@ -244,7 +244,7 @@ const playlist = {
 },
 "time665": {
 "name": "The KK Show - 197 \u8207\u53f0\u6d3e\u7c89\u5c08\u5c0d\u8a71 - \u8449\u8000\u5143\u6559\u6388",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12943399-the-kk-show-197.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12943399-the-kk-show-197.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2023",
@@ -586,7 +586,7 @@ const playlist = {
 },
 "time645": {
 "name": "The KK Show - 185 \u73fe\u4ee3\u821e\u5728\u8df3\u4ec0\u9ebc\uff1a\u5e03\u62c9\u745e\u63da\u3001\u963f\u7206\u3001\u78ca\u52d2\u4e39",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12584098-the-kk-show-185.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12584098-the-kk-show-185.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2023",
@@ -3030,7 +3030,7 @@ const playlist = {
 },
 "time506": {
 "name": "The KK Show - #133 \u6b50\u99ac\u514b",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10585688-the-kk-show-133.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10585688-the-kk-show-133.mp3",
 "image": "52de10d327116959a6b37f2a7bc275955f6d97377689a792102c1ca1645fe848",
 "tag": [
 "May 2022",
@@ -6376,7 +6376,7 @@ const playlist = {
 },
 "time303": {
 "name": "0207 \u819d\u64ca\u7dec\u7538\u7684\u86cb\u86cb\u3001\u84cb\u4e9e\u90a3\u73a9\u5f04\u4e86\u53f0\u7063\u7684\u86cb\u86cb\u3001\u63a8\u85a6Podcast\uff1aThe Passenger List",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530812-0207-podcast-the-passenger-list.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530812-0207-podcast-the-passenger-list.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2021",
@@ -7239,7 +7239,7 @@ const playlist = {
 },
 "time250": {
 "name": "1004 \u7f8e\u570b\u7e3d\u7d71\u5927\u9078\u8faf\u8ad6\u5fc3\u5f97\u3001\u4e16\u4ec7\u6230\u722d\u3001\u5ddd\u666e\u4e2d\u4e86\u6b66\u6f22\u80ba\u708e\u3001\u9591\u804a",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530865-1004.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530865-1004.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Oct 2020",
@@ -8444,7 +8444,7 @@ const playlist = {
 },
 "time177": {
 "name": "\u4f60\u77e5\u9053\u7d10\u7d04\u6642\u5831\u5176\u5be6\u5f88\u89aa\u4e2d\u55ce\uff1f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530938-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530938-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2020",
@@ -10330,7 +10330,7 @@ const playlist = {
 },
 "time059": {
 "name": "0505 \u5370\u5c3c\u5927\u9078\u3001\u99ac\u4f86\u897f\u4e9e\u4e00\u5e36\u4e00\u8def\u3001\u9673\u6f84\u6ce2\u5bc6\u78bc (3\u54081\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531056-0505-3-1.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531056-0505-3-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "May 2019",

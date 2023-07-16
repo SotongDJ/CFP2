@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>1.Ken\u9053\u6b49<br/>2.\u5c71\u6cb3\u5927\u5b78\u8b49\u660e\u4e2d\u570b\u6c92\u6709\u505a\u5922\u7684\u6b0a\u529b<br/>3.\u6027\u4fb5\u72af\u5728\u76e3\u7344\u88ab\u523a<br/>4.\u5931\u8e648\u5e74\u7684\u9752\u5e74\u56de\u4f86\u4e86<br/>5.\u96fb\u5f71Sound of Freedom\u5728\u7f8e\u570b\u5f15\u8d77\u722d\u8b70<br/><br/><br/></p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u4e16\u754c\u5de1\u8ff4\u9996\u7ad9 - \u99ac\u4f86\u897f\u4e9e_\u5409\u9686\u5761 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
-"google": "",
-"spotify": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%B8%E8%AD%89%E6%98%8E%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%9C%89%E5%81%9A%E5%A4%A2%E7%9A%84%E6%AC%8A%E5%8A%9B-%E6%80%A7%E4%BE%B5%E7%8A%AF%E5%9C%A8%E7%9B%A3%E7%8D%84%E8%A2%AB%E5%88%BA-%E5%A4%B1%E8%B9%A48%E5%B9%B4%E7%9A%84%E9%9D%92%E5%B9%B4%E5%9B%9E%E4%BE%86%E4%BA%86-%E9%9B%BB%E5%BD%B1sound/id1106847606?i=1000621295731",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzIzMDM5MQ",
+"spotify": "https://open.spotify.com/episode/33Y0wPVpca8w539DDWwm3V",
 "youtube": "https://www.youtube.com/watch?v=bAVype6nfjs"
 },
 "time680": {

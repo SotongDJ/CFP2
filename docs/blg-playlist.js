@@ -1347,7 +1347,7 @@ const playlist = {
 },
 "time600": {
 "name": "\u58d3\u8feb\u65b0\u7586\u3001\u91ce\u72d7\u4e82\u5420\u7684\u5916\u4ea4\u653f\u7e3e \uff5c #\u8b80\u66f8\u6703 : \u738b\u5b50\u7fd2\u8fd1\u5e73\uff08\u541b\u738b\u8ad6/\u541b\u4e3b\u8ad6\uff0905 End",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11795246-05-end.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11795246-05-end.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2022",
@@ -3795,7 +3795,7 @@ const playlist = {
 },
 "time460": {
 "name": "\u300e\u65b0\u6625\u7279\u5225\u4f01\u5283\u300f\u767e\u9748\u679c\u4e4b\u53cb - \u8449\u8000\u5143\u6559\u6388",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530655-.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530655-.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2022",
@@ -4449,7 +4449,7 @@ const playlist = {
 },
 "time420": {
 "name": "The KK Show - #105 OnlyFans \u7537\u7537\u7247\u5275\u4f5c\u8005- \u793e\u755c",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530695-the-kk-show-105-onlyfans.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530695-the-kk-show-105-onlyfans.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2021",
@@ -4697,7 +4697,7 @@ const playlist = {
 },
 "time405": {
 "name": "The KK Show - #100 \u5bf6\u5cf6\u795e\u5f88\u5927-\u9f8d\u54e5",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530710-the-kk-show-100.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530710-the-kk-show-100.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2021",

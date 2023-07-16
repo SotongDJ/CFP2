@@ -1083,12 +1083,6 @@ Start annotation
     time243
   Excluded: (0)
     
-[Lucas @BBK Networ]
-  found in: (2)
-    time390
-    time672
-  Excluded: (0)
-    
 [阿爆]
   found in: (4)
     time645

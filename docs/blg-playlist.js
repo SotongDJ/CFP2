@@ -1,4 +1,19 @@
 const playlist = {
+"time681": {
+"name": "\u767e\u9748\u679cNEWS | \u5c71\u6cb3\u5927\u5b78\u8b49\u660e\u4e2d\u570b\u6c92\u6709\u505a\u5922\u7684\u6b0a\u529b\u3001\u6027\u4fb5\u72af\u5728\u76e3\u7344\u88ab\u523a\u3001\u5931\u8e648\u5e74\u7684\u9752\u5e74\u56de\u4f86\u4e86\u3001\u96fb\u5f71Sound of Freedom\u5728\u7f8e\u570b\u5f15\u8d77\u722d\u8b70",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13230391-news-8-sound-of-freedom.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jul 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>1.Ken\u9053\u6b49<br/>2.\u5c71\u6cb3\u5927\u5b78\u8b49\u660e\u4e2d\u570b\u6c92\u6709\u505a\u5922\u7684\u6b0a\u529b<br/>3.\u6027\u4fb5\u72af\u5728\u76e3\u7344\u88ab\u523a<br/>4.\u5931\u8e648\u5e74\u7684\u9752\u5e74\u56de\u4f86\u4e86<br/>5.\u96fb\u5f71Sound of Freedom\u5728\u7f8e\u570b\u5f15\u8d77\u722d\u8b70<br/><br/><br/></p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u4e16\u754c\u5de1\u8ff4\u9996\u7ad9 - \u99ac\u4f86\u897f\u4e9e_\u5409\u9686\u5761 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=bAVype6nfjs"
+},
 "time680": {
 "name": "\u6210\u4eba\u7522\u696d\u7684\u85cf\u93e1\u4eba\uff0dAV\u5973\u512a\u7684\u81ea\u767d\uff5c\u8b80\u66f8\u6703Hot Money : Ep1",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13215937-av-hot-money-ep1.mp3",

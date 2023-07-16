@@ -4189,7 +4189,7 @@ const playlist = {
 },
 "time437": {
 "name": "1212 \u6559\u7df4\u5e36\u8fa3\u59b9\u53bb\u6559\u4eba\u751f\u9053\u7406\u3001\u4e2d\u570b\u516c\u52d9\u54e1\u88ab\u780d\u85aa \u9023\u734e\u91d1\u90fd\u8981\u4ea4\u56de\u53bb\u3001\u860b\u679c\u8ddf\u4e2d\u570b\u7684\u79d8\u5bc6\u5354\u8b70\u3001\u63a8\u85a6\uff1a Youtube \u983b\u9053 @Colin and Samir",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530678-1212-youtube-colin-and-samir.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530678-1212-youtube-colin-and-samir.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2021",
@@ -6077,7 +6077,7 @@ const playlist = {
 },
 "time322": {
 "name": "The KK Show - #72 \u963f\u7206\u8207\u963f\u62c9\u65af (\u5185\u6709\u9189\u6f22\uff09",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530793-the-kk-show-72.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530793-the-kk-show-72.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2021",
@@ -6580,7 +6580,7 @@ const playlist = {
 },
 "time291": {
 "name": "\u5c60\u5b0c\u5b0c\u662f\u5b8b\u6176\u9f61\u7684\u990a\u5973\u3001\u5c71\u7981\u6d77\u7981\u5c31\u662f\u70ba\u4e86\u90a3\u500b\u571f\u7687\u5e1d\uff1a \u8b80\u66f8\u6703 \u5b8b\u6c0f\u4e09\u59d0\u59b9 Ch 19~21",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530824-ch-19-21.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530824-ch-19-21.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2021",
@@ -7330,7 +7330,7 @@ const playlist = {
 },
 "time245": {
 "name": "0920 Bob Woodward \u65b0\u66f8 Rage \u5fc3\u5f97\u3001\u632f\u83ef\u641c\u96c6\u4f60\u7684\u500b\u8cc7\u4e0d\u662f\u7d66\u570b\u5bb6 \u6fb3\u6d32\u8a18\u8005\u53ef\u4ee5\u4f5c\u8b49\u3001\u5e0c\u81d8\u96e3\u6c11\u71df\u5927\u706b\u3001Ken\u8981\u5c0d\u81fa\u6771\u9053\u6b49\u3001 \u963f\u7206\u6f14\u5531\u6703",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530870-0920-bob-woodward-rage-ken.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530870-0920-bob-woodward-rage-ken.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2020",

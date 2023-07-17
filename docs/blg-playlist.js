@@ -6452,7 +6452,7 @@ const playlist = {
 },
 "time299": {
 "name": "\u62c9\u4e01\u7f8e\u6d32\u7684\u6bd2\u689f\u63a7\u5236\u6574\u500b\u570b\u5bb6\u3001\u66f8\u5c55\u53d6\u6d88\u6709\u5f71\u97ff\u55ce\uff1f \u8b80\u66f8\u6703\uff1a Narconomics \u6bd2\u5bb6\u4f01\u696d \u5e8f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530816-narconomics.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530816-narconomics.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2021",
@@ -9028,7 +9028,7 @@ const playlist = {
 },
 "time142": {
 "name": "The KK Show - #09 \u9019\u9ebd\u5e25\u4e0d\u53bb\u9078\u7acb\u59d4\u53ef\u60dc - \u9867\u7acb\u6977",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530973-the-kk-show-009.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2020",
@@ -9225,7 +9225,7 @@ const playlist = {
 },
 "time130": {
 "name": "\u8b80\u66f8\u6703\uff1aWild Swans \uff5c\u9d3b\uff1a\u4e09\u4ee3\u4e2d\u570b\u5973\u4eba \u7b2c17\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530985-wild-swans-17.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530985-wild-swans-17.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2019",

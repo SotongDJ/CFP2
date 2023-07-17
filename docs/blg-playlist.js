@@ -3369,7 +3369,7 @@ const playlist = {
 },
 "time486": {
 "name": "\u8b80\u66f8\u6703\uff1a\u67cf\u9752\u54e5 Pachinko #02\uff0c\u6240\u7f85\u9580\u7fa4\u5cf6\u8ddf\u4e2d\u570b\u3001\u5973\u4eba\u5e6b\u5fd9\u8cfa\u9322\u88ab\u7537\u4eba\u5acc",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530629-pachinko-02.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530629-pachinko-02.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2022",

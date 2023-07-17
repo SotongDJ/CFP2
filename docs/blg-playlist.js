@@ -3844,7 +3844,7 @@ const playlist = {
 },
 "time458": {
 "name": "0130 #ToughBobas 218\u9996\u6620\u6703\u3001\u51b7\u51cd\u4e73\u982d Why\uff1f \u98df\u7269\u4e5f\u6709\u6587\u5316\u632a\u7528\u7684\u554f\u984c\u55ce\uff1f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530657-0130-toughbobas-218-why.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530657-0130-toughbobas-218-why.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jan 2022",

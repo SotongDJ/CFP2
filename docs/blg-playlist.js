@@ -5964,7 +5964,7 @@ const playlist = {
 },
 "time329": {
 "name": "\u5929\u5730\u6703=\u6cd5\u8f2a\u529f\uff1f \u91d1\u74f6\u6885\u5230\u5e95\u9732\u9aa8\u4e0d\u9732\u9aa8\uff1f \u8b80\u66f8\u6703\uff1a\u5080\u5121\u82b1 \u7b2c\u4e03\u90e8 \u7b2c\u516b\u90e8 56\u7ae0",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530786-56.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530786-56.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Apr 2021",
@@ -6790,7 +6790,7 @@ const playlist = {
 },
 "time278": {
 "name": "The KK Show - #57 \u505a\u7684\u597d\u5c31\u597d\u50cf\u6c92\u505a\u4e8b - Nick",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530837-the-kk-show-57-nick.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530837-the-kk-show-57-nick.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Dec 2020",
@@ -9954,7 +9954,7 @@ const playlist = {
 },
 "time084": {
 "name": "\u8b80\u66f8\u6703\uff1aChernobyl \u6838\u7206\u5bb6\u5712 \u7b2c\u4e09\u96c6",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531031-chernobyl.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531031-chernobyl.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Jul 2019",

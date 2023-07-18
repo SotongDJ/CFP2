@@ -958,7 +958,7 @@ const playlist = {
 },
 "time625": {
 "name": "\u767e\u9748\u679cNEWS | \u6cf0\u570b\u6d74\u5927\u4ea8\u6551\u53f0\u7063\u5973\u661f\uff1f",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12185918-news.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/12185918-news.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Feb 2023",
@@ -10600,7 +10600,7 @@ const playlist = {
 },
 "time043": {
 "name": "03101 1. \u4fc4\u570b\u9ad8\u5b98\u5973\u5152\u5165\u4fb5\u6b50\u76df\u8b70\u6703\uff0c\u4f46\u662f\u5979\u662f\u6b63\u59b9\u3001\u6240\u4ee5\u6c92\u95dc\u4fc2",
-"feed": "https://sw.soundon.fm/p/9U87J6/https://pdcn.co/e/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531072-03101-1.mp3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531072-03101-1.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Mar 2019",

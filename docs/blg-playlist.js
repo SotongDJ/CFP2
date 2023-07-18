@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>\u53f0\u7063\u8ff7\u56e0\u662f\u4e00\u500b\u81c9\u66f8\u7c89\u5c08\uff0c\u6bcf\u5929\u5e36\u7d66\u5927\u5bb6\u5404\u7a2e\u6b61\u6a02\u7684\u8ff7\u56e0\u3002\u9019\u500b\u7c89\u5c08\u662f\u600e\u9ebc\u958b\u59cb\u7684\u5462\uff1f\u8ddf\u592a\u967d\u82b1\u6709\u95dc\u4fc2\u55ce\uff1f\u70ba\u4ec0\u9ebc\u8981\u505a\u9019\u9ebc\u591a\u653f\u6cbb\u6897\u5716\u5462\uff1f\u73fe\u5728\u9078\u8209\u5feb\u5230\u4e86\uff0c\u5c0d\u4e0d\u540c\u5019\u9078\u4eba\u6709\u4ec0\u9ebc\u5efa\u8b70\u5462\uff1f<br/><br/></p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u4e16\u754c\u5de1\u8ff4\u9996\u7ad9 - \u99ac\u4f86\u897f\u4e9e_\u5409\u9686\u5761 : <a href='https://www.accupass.com/event/2305050606471918433679'><br/>https://www.accupass.com/event/2305050606471918433679</a><br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-205-%E5%8F%B0%E7%81%A3%E8%BF%B7%E5%9B%A0-%E5%92%AA%E5%92%AA/id1106847606?i=1000621517025",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzI0MzU3OQ",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1gEcnDghY5UYTRng6fHs9Z",
 "youtube": "https://www.youtube.com/watch?v=TDNH57Bcgj8"
 },
 "time681": {

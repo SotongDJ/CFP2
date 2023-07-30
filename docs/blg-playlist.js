@@ -1,4 +1,19 @@
 const playlist = {
+"time687": {
+"name": "\u767e\u9748\u679cNEWS | \u79e6\u525b\u7684\u79c1\u751f\u5b50\u30011975\u8a72\u89aa\u9084\u662f\u4e0d\u89aa\u3001\u82f1\u570b\u904a\u5ba2\u4e82\u5c3f\u5c3f\u3001\u96fb\u5f71\u9592\u804a\uff1a\u82ad\u6bd4\u89c0\u5f8c\u611f",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13314648-news-1975.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jul 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>=======================<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=FCSWMJuroNs"
+},
 "time686": {
 "name": "\u76dc\u7248\u767c\u5927\u8ca1\uff0d\u6210\u4eba\u7db2\u7ad9\u7684\u5d1b\u8d77\uff5c\u8b80\u66f8\u6703Hot Money : Ep2 feat. \u773c\u8089\u82bd",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13299745-hot-money-ep2-feat.mp3",

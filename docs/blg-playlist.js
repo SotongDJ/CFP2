@@ -1,4 +1,19 @@
 const playlist = {
+"time688": {
+"name": "The KK Show - 207 Cheap",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13328412-the-kk-show-207-cheap.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Aug 2023",
+"KK Show"
+],
+"description": "<p>\u4eca\u5929\u9080\u8acbCheap\u4f86\u8ddf\u6211\u5011\u804a\u5929\u9084\u6709\u63a2\u8a0e\u884c\u4eba\u8def\u6b0a\u554f\u984c<br/><br/>820\u9084\u8def\u65bc\u6c11\u5927\u904a\u884c\uff0c\u4ea4\u901a\u6539\u9769\u8feb\u4e0d\u5bb9\u7de9!<br/>\u52df\u8cc7\u9023\u7d50\uff1a<a href='https://r.zecz.ec/bDD7'>https://r.zecz.ec/bDD7</a></p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=WyKpVW65fjc"
+},
 "time687": {
 "name": "\u767e\u9748\u679cNEWS | \u79e6\u525b\u7684\u79c1\u751f\u5b50\u30011975\u8a72\u89aa\u9084\u662f\u4e0d\u89aa\u3001\u82f1\u570b\u904a\u5ba2\u4e82\u5c3f\u5c3f\u3001\u96fb\u5f71\u9592\u804a\uff1a\u82ad\u6bd4\u89c0\u5f8c\u611f",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13314648-news-1975.mp3",
@@ -11576,6 +11591,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Aug 2023": ['#2023'],
 "Jul 2023": ['#2023'],
 "Jun 2023": ['#2023'],
 "May 2023": ['#2023'],
@@ -11633,7 +11649,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

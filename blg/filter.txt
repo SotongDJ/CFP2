@@ -951,7 +951,8 @@ Start annotation
   Excluded: (0)
     
 [週二夜現場]
-  found in: (13)
+  found in: (14)
+    time689
     time683
     time666
     time652
@@ -1028,7 +1029,8 @@ Start annotation
   Excluded: (0)
     
 [呱吉]
-  found in: (6)
+  found in: (7)
+    time689
     time629
     time628
     time456

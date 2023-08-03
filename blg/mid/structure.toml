@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time689]
+name = "【週二夜現場】呱吉& Molly"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13342976-molly.mp3"
+youtube = "https://www.youtube.com/watch?v=jPKRT1cMVlE"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>=======================<br/>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["【週二夜現場】呱吉& Molly"]
+tag = ["Aug 2023"]
+category = []
+
 [time688]
 name = "The KK Show - 207 Cheap"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13328412-the-kk-show-207-cheap.mp3"

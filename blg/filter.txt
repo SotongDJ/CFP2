@@ -282,7 +282,8 @@ Start annotation
   Excluded: (0)
     
 [KK Show]
-  found in: (212)
+  found in: (213)
+    time693
     time691
     time688
     time685
@@ -1235,6 +1236,12 @@ Start annotation
   found in: (2)
     time562
     time561
+  Excluded: (0)
+    
+[Jay]
+  found in: (2)
+    time693
+    time533
   Excluded: (0)
     
 [顧立楷]

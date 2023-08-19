@@ -1,4 +1,22 @@
 const playlist = {
+"time695": {
+"name": "\u8001\u4eba\u770b\u5c71\u9053\u7334\u5b50 feat.\u8303\u742a\u6590",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13433263-feat.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Aug 2023",
+"\u8303\u742a\u6590",
+"Podcaster",
+"Youtuber",
+"\u6642\u4e8b"
+],
+"description": "<p>=======================<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzQzMzI2Mw",
+"spotify": "https://open.spotify.com/episode/3BSj2vvj7iID3ExmMrC79g",
+"youtube": "https://www.youtube.com/watch?v=nWeA_BDyWLo"
+},
 "time694": {
 "name": "The KK Show - 210 \u91d1\u624b\u6307 \u52a0\u85e4\u9df9",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13408156-the-kk-show-210.mp3",

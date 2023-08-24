@@ -1,4 +1,22 @@
 const playlist = {
+"time698": {
+"name": "\u3010\u9031\u4e8c\u591c\u73fe\u5834\u3011\u77f3\u5df4\u671d",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13463421-.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Aug 2023",
+"\u9031\u4e8c\u591c\u73fe\u5834",
+"\u77f3\u5df4\u671d",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
+"\u8272\u8272"
+],
+"description": "<p>#\u6d77\u6d0b\u4f9d\u73c2 x \u5c48\u81e3\u6c0f<br/>08/24-09/20 \u52a0\u4e00\u5143\u591a\u4e00\u4ef6<br/>\u8cfc\u8cb7\u9023\u7d50 <a href='https://bit.ly/3NbH6oG'>https://bit.ly/3NbH6oG</a><br/> <br/>\u5373\u65e5\u8d77\u81f32023/9/30\u6b62<br/>\u6d77\u6d0b\u4f9d\u73c2 \u8766\u76ae\u5b98\u65b9\u65d7\u8266\u5e97 <a href='https://shopee.tw/hiq_beauty'>https://shopee.tw/hiq_beauty</a><br/>\u7d50\u5e33\u8f38\u5165\u767e\u9748\u679c\u5c08\u5c6c\u512a\u60e0\u78bc\u300eHIQBNEWS8\u300f\u512a\u60e0\u518d\u6298$100<br/> <br/>Hi-Q beauty\u6d77\u6d0b\u4f9d\u73c2\u53f0\u7063\u85cd\u8272\u7f8e\u599d\u54c1\u724c<br/>\u54c1\u8cea\u901a\u904e\u5be6\u9a57\u5ba4\u6e2c\u8a66\u4fdd\u8b49<br/>\u4fdd\u8b77\u808c\u819a\u8207\u6d77\u6d0b\u5171\u5b58, \u7dbb\u653e\u5168\u65b9\u4f4d\u7f8e\u9f61<br/>\u6301\u7e8c\u5275\u9020\u5f9e\u6210\u5206\u3001\u914d\u65b9\u3001\u5305\u88dd\u5168\u6d77\u6d0b\u53cb\u5584\u4fdd\u990a\u54c1<br/><a href='https://www.hiq-beauty.com/\u6c38\u7e8c\u4efb\u52d9'>https://www.hiq-beauty.com/\u6c38\u7e8c\u4efb\u52d9</a><br/><br/><br/></p><p>=======================<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzQ2MzQyMQ",
+"spotify": "https://open.spotify.com/episode/3TmjvTyQP2fMZX7E3w4mBR",
+"youtube": "https://www.youtube.com/watch?v=JrbiR70KznI"
+},
 "time697": {
 "name": "The KK Show - 211 \u8ddf\u7f8e\u570b\u8cb7\u8ecd\u706b - Tony",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13449316-the-kk-show-211-tony.mp3",

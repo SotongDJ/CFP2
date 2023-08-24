@@ -958,7 +958,8 @@ Start annotation
   Excluded: (0)
     
 [週二夜現場]
-  found in: (14)
+  found in: (15)
+    time698
     time689
     time683
     time666
@@ -1118,6 +1119,12 @@ Start annotation
   found in: (2)
     time618
     time617
+  Excluded: (0)
+    
+[石巴朝]
+  found in: (2)
+    time698
+    time337
   Excluded: (0)
     
 [Kimberley陳芳語]

@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time702]
+name = "百靈果NEWS |進擊的輻射山豬、被消失的中國天才工程師、西非又有政變、變態傑尼斯爺爺的kinki kids"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13518846-news-kinki-kids.mp3"
+youtube = "https://www.youtube.com/watch?v=njGIxI5UPlA"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>=======================<br/>➤凱莉首次個人專場 卵爛 <br/>台北 11/3 20:00 11/4 <br/>15:00 20:00 Westar <br/>高雄 11/18 Backstage Live 20:00<br/>台中 12/15 台中教育大學 保成廳 20:00 <br/><br/>9/6 (三) 19:00 kktix 開賣<br/><br/>➤ 百靈果週二夜現場售票連結：<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>蛇編：<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>"
+names = ["百靈果NEWS |進擊的輻射山豬、被消失的中國天才工程師、西非又有政變、變態傑尼斯爺爺的kinki kids"]
+tag = ["Sep 2023"]
+category = []
+
 [time701]
 name = "黑龍在老家開賓士 #黑龍 #inna #生日"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13504059-inna.mp3"

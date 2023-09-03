@@ -1,4 +1,19 @@
 const playlist = {
+"time702": {
+"name": "\u767e\u9748\u679cNEWS |\u9032\u64ca\u7684\u8f3b\u5c04\u5c71\u8c6c\u3001\u88ab\u6d88\u5931\u7684\u4e2d\u570b\u5929\u624d\u5de5\u7a0b\u5e2b\u3001\u897f\u975e\u53c8\u6709\u653f\u8b8a\u3001\u8b8a\u614b\u5091\u5c3c\u65af\u723a\u723a\u7684kinki kids",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13518846-news-kinki-kids.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Sep 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>=======================<br/>\u27a4\u51f1\u8389\u9996\u6b21\u500b\u4eba\u5c08\u5834 \u5375\u721b <br/>\u53f0\u5317 11/3 20:00 11/4 <br/>15:00 20:00 Westar <br/>\u9ad8\u96c4 11/18 Backstage Live 20:00<br/>\u53f0\u4e2d 12/15 \u53f0\u4e2d\u6559\u80b2\u5927\u5b78 \u4fdd\u6210\u5ef3 20:00 <br/><br/>9/6 (\u4e09) 19:00 kktix \u958b\u8ce3<br/><br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=njGIxI5UPlA"
+},
 "time701": {
 "name": "\u9ed1\u9f8d\u5728\u8001\u5bb6\u958b\u8cd3\u58eb #\u9ed1\u9f8d #inna #\u751f\u65e5",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13504059-inna.mp3",
@@ -11803,6 +11818,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Sep 2023": ['#2023'],
 "Aug 2023": ['#2023'],
 "Jul 2023": ['#2023'],
 "Jun 2023": ['#2023'],
@@ -11861,7 +11877,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

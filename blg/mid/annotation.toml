@@ -15,6 +15,7 @@ category = ["#節目系列"]
 [time707]
 name = "百靈果NEWS |紐約打房從Airbnb下手、英國抓到中國間諜、泰勒絲扛起世界GDP、眼肉芽不穿維多利亞的秘密"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13604369-news-airbnb-gdp.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzYwNDM2OQ"
 spotify = "https://open.spotify.com/episode/5SmaUBF0jfbtfW58AyPLjp"
 youtube = "https://www.youtube.com/watch?v=iw1f9bn4X9I"
 image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"

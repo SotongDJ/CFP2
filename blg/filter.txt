@@ -967,7 +967,8 @@ Start annotation
   Excluded: (0)
     
 [週二夜現場]
-  found in: (15)
+  found in: (16)
+    time709
     time698
     time689
     time683
@@ -1156,6 +1157,12 @@ Start annotation
     time448
   Excluded: (0)
     
+[台灣通勤第一品牌]
+  found in: (2)
+    time709
+    time229
+  Excluded: (1)
+    time197
 [瑞典劉先生]
   found in: (2)
     time546

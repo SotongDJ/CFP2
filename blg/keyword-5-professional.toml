@@ -142,7 +142,12 @@ category = ["學者"]
 ["人渣文本"]
 inclusive = ["人渣文本"]
 exclusive = []
-category = ["學者","運動"]
+category = ["學者","運動","媒體人","Youtuber","Podcaster"]
+
+["周偉航"]
+inclusive = ["人渣文本"]
+exclusive = []
+category = ["學者","運動","媒體人","Youtuber","Podcaster"]
 
 ["陳耀昌醫師"]
 inclusive = ["陳耀昌"]

@@ -2240,7 +2240,7 @@ const playlist = {
 "time579": {
 "name": "The KK Show - #156 \u5433\u5ff5\u771f",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11520528-the-kk-show-156.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "0efd48e46375f2f7cb6fc08fb27955783b712f216d5ab6b574b1b2286b15b9c0",
 "tag": [
 "Oct 2022",
 "KK Show",
@@ -2298,7 +2298,7 @@ const playlist = {
 "time576": {
 "name": "The KK Show - #155 \u81ea\u7531\u7684\u7235\u58eb\u91ce\u7378 - Musa \u660e\u99ac\u4e01",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11476041-the-kk-show-155-musa.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "e549b6a0be6422646b5307ee71db77775ae19e517bb25d750812724954cd748c",
 "tag": [
 "Oct 2022",
 "KK Show",
@@ -2351,7 +2351,7 @@ const playlist = {
 "time573": {
 "name": "The KK Show - #154 \u597d\u6a5f\u8eca-\u55e9\u5436",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11433276-the-kk-show-154.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "11c39e0dc6e6cdfaebfeb1835f835be75a92eb0ea929288f9d7c31686c8791bb",
 "tag": [
 "Oct 2022",
 "KK Show",
@@ -2389,7 +2389,7 @@ const playlist = {
 "time571": {
 "name": "\u8b80\u66f8\u6703\uff1a\u516b\u5c3a\u9580\u7684\u8faf\u8b77\u4eba \u5e8f",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11400465-.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "f57422a8653980ea54fe97c7b37608d92d9e7b119ba482088e4fdf85001c9eee",
 "tag": [
 "Sep 2022",
 "\u8b80\u66f8\u6703",
@@ -2405,7 +2405,7 @@ const playlist = {
 "time570": {
 "name": "The KK Show - #153 \u9003\u51fa\u4e2d\u570b - Michael Smith",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11390794-the-kk-show-153-michael-smith.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "09b0a92eae00bf0f5929da7b0750e23a6352d39020ba03962b7216f34487631c",
 "tag": [
 "Sep 2022",
 "KK Show",
@@ -3320,7 +3320,7 @@ const playlist = {
 "time517": {
 "name": "The KK Show - #136 \u4ef2\u590f\u591c\u6c41\u5922 - \u53f0\u5357\u4eba\u5287\u5718",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10711217-the-kk-show-136.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "e4380fff90a3043b0f8ba070a3ad253f495820a6d38ddbda42043cba49114696",
 "tag": [
 "May 2022",
 "KK Show",
@@ -3391,7 +3391,7 @@ const playlist = {
 "time513": {
 "name": "The KK Show - #135 \u804a\u804a\u65b0\u51a0\u80ba\u708e - \u9673\u96f6\u4e5d",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10672453-the-kk-show-135.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "496937873a2d81177fe98d41f48cd12d7ebc345b8a4a7471a330b95e92f5680b",
 "tag": [
 "May 2022",
 "KK Show",
@@ -3444,7 +3444,7 @@ const playlist = {
 "time510": {
 "name": "When you POINT A FINGER.... THE STIR EP. 4",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10639107-when-you-point-a-finger-the-stir-ep-4.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "773a096692aa0e101a476c8aa259544b50540bff2d04eef3f2b30de512282fd4",
 "tag": [
 "May 2022",
 "THE STIR"
@@ -3507,7 +3507,7 @@ const playlist = {
 "time506": {
 "name": "The KK Show - #133 \u6b50\u99ac\u514b",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10585688-the-kk-show-133.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "52de10d327116959a6b37f2a7bc275955f6d97377689a792102c1ca1645fe848",
 "tag": [
 "May 2022",
 "KK Show",
@@ -3557,7 +3557,7 @@ const playlist = {
 "time503": {
 "name": "WHAT ARE YOU EATING???? THE STIR EP. 2",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548865-what-are-you-eating-the-stir-ep-2.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "33f9d8db270b59046d18669bd12f520073258bc502485bf5d0032239d967dd14",
 "tag": [
 "May 2022",
 "THE STIR"
@@ -3572,7 +3572,7 @@ const playlist = {
 "time502": {
 "name": "The KK Show - #132 \u8cc0\u74cf",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548494-the-kk-show-132.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "8f91a3bc5adb98889b85f60c4dc79dc3cbc564d8043a97e9e204029bd9f1fd54",
 "tag": [
 "May 2022",
 "KK Show",

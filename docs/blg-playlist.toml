@@ -358,7 +358,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzI1NjM2OQ"
 spotify = "https://open.spotify.com/episode/3UoIGoXvgMjTGKPljbNF4O"
 youtube = ""
-tag = ["Jul 2023", "週二夜現場", "人渣文本", "學者", "暫代讀書會", "運動"]
+tag = ["Jul 2023", "週二夜現場", "人渣文本", "周偉航", "Podcaster", "Youtuber", "媒體人", "學者", "暫代讀書會", "運動"]
 
 [time683.extra]
 
@@ -579,7 +579,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjk1MTA5Ng"
 spotify = "https://open.spotify.com/episode/3GRIL0mFUlVWsuviyjUhUc"
 youtube = "https://www.youtube.com/watch?v=oMGtyS5VvZo"
-tag = ["May 2023", "週二夜現場", "人渣文本", "葉耀元教授", "學者", "時事", "暫代讀書會", "運動"]
+tag = ["May 2023", "週二夜現場", "人渣文本", "周偉航", "葉耀元教授", "Podcaster", "Youtuber", "媒體人", "學者", "時事", "暫代讀書會", "運動"]
 
 [time666.extra]
 
@@ -995,7 +995,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjM1MjkyMA"
 spotify = "https://open.spotify.com/episode/28a4Nkf65vZd6l9vDu7guT"
 youtube = "https://www.youtube.com/watch?v=6caCbTH97IM"
-tag = ["Mar 2023", "週二夜現場", "人渣文本", "學者", "暫代讀書會", "運動"]
+tag = ["Mar 2023", "週二夜現場", "人渣文本", "周偉航", "Podcaster", "Youtuber", "媒體人", "學者", "暫代讀書會", "運動"]
 
 [time634.extra]
 
@@ -1625,7 +1625,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-159-%E8%81%8A%E8%81%8
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTYzNzIxNw"
 spotify = "https://open.spotify.com/episode/0ylEInn0WZv7yCGs9yycyF"
 youtube = "https://www.youtube.com/watch?v=b4FX4gSNVqQ"
-tag = ["Nov 2022", "KK Show", "人渣文本", "2022台灣地方選舉", "學者", "運動"]
+tag = ["Nov 2022", "KK Show", "人渣文本", "周偉航", "2022台灣地方選舉", "Podcaster", "Youtuber", "媒體人", "學者", "運動"]
 
 [time587.extra]
 "#Clips 擦槍走火的論文門事件內幕 ｜The KK Show - #159 聊聊選舉 - 人渣文本" = "https://www.youtube.com/watch?v=AQRVyo2T8CQ"
@@ -3206,7 +3206,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-121-%E9%81%8B%E5%8B%9
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIyMDI3NDM1OA"
 spotify = "https://open.spotify.com/episode/1JCFoN8l3pewJWEebri6Zc"
 youtube = "https://www.youtube.com/watch?v=REdynLwcZ2U"
-tag = ["Feb 2022", "KK Show", "人渣文本", "學者", "運動"]
+tag = ["Feb 2022", "KK Show", "人渣文本", "周偉航", "Podcaster", "Youtuber", "媒體人", "學者", "運動"]
 
 [time469.extra]
 "黃郁婷選手的行為是誰的錯 #人渣文本 | KK Show Clips" = "https://www.youtube.com/watch?v=COgFneMc7rU"

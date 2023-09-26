@@ -2282,7 +2282,7 @@ const playlist = {
 "time577": {
 "name": "\u7fd2\u8fd1\u5e73\u7684\u8ad6\u6587\u9580\uff1f\u8cf4\u660c\u661f \u8cc4\u8cc2\u7684\u6642\u5019\u8df3\u904e\u7fd2\u8fd1\u5e73\uff1f \uff5c \u8b80\u66f8\u6703\uff1a\u738b\u5b50\u7fd2\u8fd1\u5e73 \uff08\u541b\u738b\u8ad6/\u541b\u4e3b\u8ad6\uff09",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11485842-.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "0bf8bca6c89e851b912d2606384523bc63f3764acd821edd10e772d83764f4fe",
 "tag": [
 "Oct 2022",
 "\u8b80\u66f8\u6703",
@@ -2373,7 +2373,7 @@ const playlist = {
 "time572": {
 "name": "\u767e\u9748\u679cNews\uff5c\u65e5\u672c\u9304KKShow\uff01\u201cI Left Russia\u201d\u3001\u7f8e\u570b\u75ab\u60c5\u8a50\u9a19\u88dc\u52a9\u91d1\u3001\u52a9\u7406\u86c7\u7de8\u8981\u53bb\u9996\u723e\u201c\u6253\u7375\u201d\u884c\u7a0b",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11418606-news-kkshow-i-left-russia.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "89844e47f561964f3f2eac3cdc9cae1d73dfa0d37cf4bac6c653cc207be51364",
 "tag": [
 "Oct 2022",
 "\u767e\u9748\u679c NEWS",
@@ -2500,7 +2500,7 @@ const playlist = {
 "time565": {
 "name": "\u3010\u516b\u89d2\u7c60\u6311\u6230\u3011\u734e\u91d1$10,000 \u55c6\u7206\u767e\u9748\u679c\uff1a\u9ea5\u5ac2",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11318304-10-000.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "9be113ea6beefdb5fc47fe750fdfeaa361427c507b24d8b397d7e2ece5e958a1",
 "tag": [
 "Sep 2022",
 "\u516b\u89d2\u7c60",

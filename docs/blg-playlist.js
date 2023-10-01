@@ -1,4 +1,19 @@
 const playlist = {
+"time712": {
+"name": "\u767e\u9748\u679cNEWS | \u65e5\u672c\u4eba\u53bb\u9f8d\u5c71\u5bfa\u9ede\u5149\u660e\u71c8\u3001\u6771\u6b50\u4e0d\u633a\u70cf\u514b\u862d\uff1fAI\u4e0d\u8b93\u4f60\u7576\u6d3e\u5c0d\u52d5\u7269\u3001\u7f8e\u570b\u812b\u53e3\u79c0\u4e3b\u6301\u4eba\u611b\u63d2\u5634",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13692920-news-ai.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Oct 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>#\u7280\u725b\u76fe<br/>\u67e5\u770b\u66f4\u591aRHINOSHIELD \u7280\u725b\u76fe iPhone 15 \u7cfb\u5217\u7522\u54c1\uff1a<a href='https://url.rhinoshield.tw/bailingguo-iphone15'>https://url.rhinoshield.tw/bailingguo-iphone15</a><br/><br/>#\u6d77\u6d0b\u4f9d\u73c2<br/>\u5373\u65e5\u8d77\u81f32023/10/31\u6b62<br/>\u6d77\u6d0b\u4f9d\u73c2 \u8766\u76ae\u5b98\u65b9\u65d7\u8266\u5e97 <a href='https://shopee.tw/hiq_beauty'>https://shopee.tw/hiq_beauty</a><br/>\u7d50\u5e33\u8f38\u5165\u767e\u9748\u679c\u5c08\u5c6c\u512a\u60e0\u78bc\u300eHIQBNEWS9\u300f\u512a\u60e0\u518d\u6298$100<br/> <br/>Hi-Q beauty\u6d77\u6d0b\u4f9d\u73c2\u53f0\u7063\u85cd\u8272\u7f8e\u599d\u54c1\u724c<br/>\u54c1\u8cea\u901a\u904e\u5be6\u9a57\u5ba4\u6e2c\u8a66\u4fdd\u8b49<br/>\u4fdd\u8b77\u808c\u819a\u8207\u6d77\u6d0b\u5171\u5b58, \u7dbb\u653e\u5168\u65b9\u4f4d\u7f8e\u9f61<br/>\u6301\u7e8c\u5275\u9020\u5f9e\u6210\u5206\u3001\u914d\u65b9\u3001\u5305\u88dd\u5168\u6d77\u6d0b\u53cb\u5584\u4fdd\u990a\u54c1<br/><a href='https://www.hiq-beauty.com'>https://www.hiq-beauty.com</a>/\u6c38\u7e8c\u4efb\u52d9<br/><br/><br/></p><p>=======================<br/>\u27a4\u2b50\ufe0f\u51f1\u8389\u9996\u6b21\u500b\u4eba\u5c08\u5834 \u300a\u5375\u721b \u300b<br/><a href='https://comedyclub.kktix.cc/mobileapp/events/eggs/description'>9/6 (\u4e09) 19\uff1a00 KKTIX \u958b\u8ce3</a><br/><a href='https://reurl.cc/WvaLQ7'><b>https://reurl.cc/WvaLQ7</b></a><br/><br/>\u53f0\u5317 11/3 20\uff1a00 WESTAR<br/> 11/4 15\uff1a00 \u300120\uff1a00 WESTAR<br/>\u9ad8\u96c4 11/18 20\uff1a00 \u5f8c\u53f0Backstage Live <br/>\u53f0\u4e2d 12/15 20\uff1a00 \u53f0\u4e2d\u6559\u80b2\u5927\u5b78 \u4fdd\u6210\u5ef3<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u773c\u8089\u82bd\uff1a<a href='https://instagram.com/milia_bailingguonews'>https://instagram.com/milia_bailingguonews</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzY5MjkyMA",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=5rzdbDhwZOw"
+},
 "time711": {
 "name": "The KK Show - 216 \u5c0f\u7d05\u66f8\u6f14\u7b97\u6cd5\u5de5\u7a0b\u5e2b - Nick",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13662758-the-kk-show-216-nick.mp3",
@@ -11984,6 +11999,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Oct 2023": ['#2023'],
 "Sep 2023": ['#2023'],
 "Aug 2023": ['#2023'],
 "Jul 2023": ['#2023'],
@@ -12043,7 +12059,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

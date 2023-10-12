@@ -973,7 +973,8 @@ Start annotation
   Excluded: (0)
     
 [週二夜現場]
-  found in: (16)
+  found in: (17)
+    time716
     time709
     time698
     time689
@@ -1027,6 +1028,12 @@ Start annotation
   Excluded: (2)
     time414
     time137
+[艾董]
+  found in: (2)
+    time716
+    time126
+  Excluded: (0)
+    
 [黃豪平]
   found in: (3)
     time515
@@ -1065,6 +1072,12 @@ Start annotation
     time184
   Excluded: (1)
     time345
+[歐耶]
+  found in: (2)
+    time716
+    time608
+  Excluded: (0)
+    
 [Jim]
   found in: (2)
     time491

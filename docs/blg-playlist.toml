@@ -20,7 +20,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzgzNzA3OA"
 spotify = "https://open.spotify.com/episode/7DNqheM6sDSi4dhhFF4VFt"
 youtube = "https://www.youtube.com/watch?v=oO6TIilj5-4"
-tag = ["Oct 2023", "KK Show"]
+tag = ["Oct 2023", "KK Show", "Lesley", "專業人士"]
 
 [time720.extra]
 
@@ -33,7 +33,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzgyMTY1Mg"
 spotify = "https://open.spotify.com/episode/7elPsgSqR0DjMvMyLKSiM8"
 youtube = "https://www.youtube.com/watch?v=nZPKXhxp11A"
-tag = ["Oct 2023", "KK Show"]
+tag = ["Oct 2023", "KK Show", "劉必榮教授", "學者", "時事"]
 
 [time719.extra]
 
@@ -46,7 +46,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzc5Mjg0OA"
 spotify = "https://open.spotify.com/episode/05FToSW1lVQciTl7oB04nV"
 youtube = "https://www.youtube.com/watch?v=DlMcxIVy7ZM"
-tag = ["Oct 2023", "KK Show"]
+tag = ["Oct 2023", "KK Show", "禁藥王 & 栗子", "藝人", "音樂"]
 
 [time718.extra]
 
@@ -72,7 +72,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzc2NTA1Ng"
 spotify = "https://open.spotify.com/episode/5Mmx1B9StpSdyynLrYXJVg"
 youtube = "https://www.youtube.com/watch?v=lZPXZp207eE"
-tag = ["Oct 2023", "週二夜現場", "艾董", "歐耶", "Youtuber", "喜劇演員", "暫代讀書會", "老闆"]
+tag = ["Oct 2023", "週二夜現場", "艾董", "歐耶", "Q毛", "Youtuber", "喜劇演員", "暫代讀書會", "老闆"]
 
 [time716.extra]
 
@@ -85,7 +85,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzc0OTYyOQ"
 spotify = "https://open.spotify.com/episode/3q36Ba2XFZJJwdMQ1c8Phz"
 youtube = "https://www.youtube.com/watch?v=l806aGeQxbg"
-tag = ["Oct 2023", "KK Show"]
+tag = ["Oct 2023", "KK Show", "小澤瑪利亞", "老闆", "色色"]
 
 [time715.extra]
 
@@ -111,7 +111,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzcwNjg1MA"
 spotify = "https://open.spotify.com/episode/0higdd5Bg18AQ1lLAms488"
 youtube = "https://www.youtube.com/watch?v=EMUvDMKs87s"
-tag = ["Oct 2023", "KK Show"]
+tag = ["Oct 2023", "KK Show", "Jamie", "喜劇演員"]
 
 [time713.extra]
 
@@ -137,7 +137,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzY2Mjc1OA"
 spotify = "https://open.spotify.com/episode/0Q0nfqt0JrVRPtg3N6k27C"
 youtube = "https://www.youtube.com/watch?v=cN07i8Puqzs"
-tag = ["Sep 2023", "KK Show", "Nick", "影視製作"]
+tag = ["Sep 2023", "KK Show", "Nick（前小紅書工程師）", "專業人士", "工程師"]
 
 [time711.extra]
 
@@ -176,7 +176,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzYxNzM3Mw"
 spotify = "https://open.spotify.com/episode/5Stb80NQ8OuY3nhVaf3Ytj"
 youtube = "https://www.youtube.com/watch?v=8zjVkHvnH2M"
-tag = ["Sep 2023", "KK Show"]
+tag = ["Sep 2023", "KK Show", "小聶", "Podcaster", "影視製作", "製作人"]
 
 [time708.extra]
 
@@ -202,7 +202,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzU3NTMzNQ"
 spotify = "https://open.spotify.com/episode/0h9bnzZ9dXVXIKe9iQasyt"
 youtube = "https://www.youtube.com/watch?v=2ujm94LXm0Y"
-tag = ["Sep 2023", "KK Show"]
+tag = ["Sep 2023", "KK Show", "馮建三教授", "學者", "時事"]
 
 [time706.extra]
 
@@ -228,7 +228,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzU0NjY4NA"
 spotify = "https://open.spotify.com/episode/1LvoWV8OgpvnG4aM7LWi3d"
 youtube = "https://www.youtube.com/watch?v=wn-OgNthfR0"
-tag = ["Sep 2023", "讀書會"]
+tag = ["Sep 2023", "讀書會", "Hot Money"]
 
 [time704.extra]
 
@@ -319,7 +319,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzQ0OTMxNg"
 spotify = "https://open.spotify.com/episode/5fK2DECCXw42nuHdOht4la"
 youtube = "https://www.youtube.com/watch?v=8UjidLq-5_M"
-tag = ["Aug 2023", "KK Show"]
+tag = ["Aug 2023", "KK Show", "Tony", "來賓"]
 
 [time697.extra]
 
@@ -358,7 +358,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzQwODE1Ng"
 spotify = "https://open.spotify.com/episode/08sg45RIKPHbE48vfWNn2P"
 youtube = "https://www.youtube.com/watch?v=T0znaRCs5DQ"
-tag = ["Aug 2023", "KK Show"]
+tag = ["Aug 2023", "KK Show", "加藤鷹", "色色"]
 
 [time694.extra]
 
@@ -371,7 +371,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzM5NTg3NQ"
 spotify = "https://open.spotify.com/episode/57HWpmGsPtdCkvGgh215fQ"
 youtube = "https://www.youtube.com/watch?v=qmrF9TgnTlI"
-tag = ["Aug 2023", "KK Show", "Jay", "老闆"]
+tag = ["Aug 2023", "KK Show", "Jay哥", "老闆"]
 
 [time693.extra]
 
@@ -384,7 +384,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E4%BE%86%E8%87
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzM4MzQ1MQ"
 spotify = "https://open.spotify.com/episode/1e35Dj9N9OAMXlwk4aNNym"
 youtube = "https://www.youtube.com/watch?v=nHhf82CUETc"
-tag = ["Aug 2023", "讀書會"]
+tag = ["Aug 2023", "讀書會", "Hot Money"]
 
 [time692.extra]
 
@@ -397,7 +397,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-207-%E7%87%9F%E9%A4%8
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzM2NzU5MQ"
 spotify = "https://open.spotify.com/episode/1j8eZpbGMZ9ybmzoEK96FS"
 youtube = ""
-tag = ["Aug 2023", "KK Show"]
+tag = ["Aug 2023", "KK Show", "阿江營養師", "學者", "醫學"]
 
 [time691.extra]
 
@@ -436,7 +436,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-207-cheap/id110684760
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzMyODQxMg"
 spotify = "https://open.spotify.com/episode/0laZvTAvdW9nWkx9M4T8dV"
 youtube = "https://www.youtube.com/watch?v=WyKpVW65fjc"
-tag = ["Aug 2023", "KK Show"]
+tag = ["Aug 2023", "KK Show", "Cheap", "Youtuber"]
 
 [time688.extra]
 
@@ -462,7 +462,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E7%9B%9C%E7%89%88%E7%99%BC%E5%A4
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzI5OTc0NQ"
 spotify = "https://open.spotify.com/episode/0cmsOteFmpYtkxoaC9q9tI"
 youtube = "https://www.youtube.com/watch?v=AE9hyOW8ET0"
-tag = ["Jul 2023", "讀書會"]
+tag = ["Jul 2023", "讀書會", "Hot Money"]
 
 [time686.extra]
 
@@ -475,7 +475,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-206-%E5%88%B0%E6%97%A
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzI4NDUxNg"
 spotify = "https://open.spotify.com/episode/3Vohny2JK2nNVYy3v5Bb6a"
 youtube = "https://www.youtube.com/watch?v=SGb_VbGKiMM"
-tag = ["Jul 2023", "KK Show"]
+tag = ["Jul 2023", "KK Show", "吳桑", "老闆"]
 
 [time685.extra]
 
@@ -501,7 +501,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzI1NjM2OQ"
 spotify = "https://open.spotify.com/episode/3UoIGoXvgMjTGKPljbNF4O"
 youtube = ""
-tag = ["Jul 2023", "週二夜現場", "人渣文本", "周偉航", "Podcaster", "Youtuber", "媒體人", "學者", "暫代讀書會", "運動"]
+tag = ["Jul 2023", "週二夜現場", "人渣文本", "周偉航", "咪咪", "Podcaster", "Youtuber", "事實查核", "媒體人", "學者", "時事", "暫代讀書會", "運動"]
 
 [time683.extra]
 
@@ -514,7 +514,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-205-%E5%8F%B0%E7%81%A
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzI0MzU3OQ"
 spotify = "https://open.spotify.com/episode/1gEcnDghY5UYTRng6fHs9Z"
 youtube = "https://www.youtube.com/watch?v=TDNH57Bcgj8"
-tag = ["Jul 2023", "KK Show"]
+tag = ["Jul 2023", "KK Show", "咪咪", "事實查核", "時事"]
 
 [time682.extra]
 
@@ -540,7 +540,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E6%88%90%E4%BA%BA%E7%94%A2%E6%A5
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzIxNTkzNw"
 spotify = "https://open.spotify.com/episode/24tNcRxeBsKVZgB3aAocJW"
 youtube = "https://www.youtube.com/watch?v=Nr8KluWldpo"
-tag = ["Jul 2023", "讀書會"]
+tag = ["Jul 2023", "讀書會", "Hot Money"]
 
 [time680.extra]
 
@@ -553,7 +553,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-204-%E9%A1%8F%E8%89%B
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzIwMDkyMw"
 spotify = "https://open.spotify.com/episode/1mr5OKeJmV96NK3OiVioqQ"
 youtube = "https://www.youtube.com/watch?v=iXn1XLzeG9E"
-tag = ["Jul 2023", "KK Show"]
+tag = ["Jul 2023", "KK Show", "顏色不分藍綠支持性專區顏色田慎節", "政治人物"]
 
 [time679.extra]
 
@@ -579,7 +579,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-203-%E6%B7%B1%E5%85%A
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzE1ODM5NA"
 spotify = "https://open.spotify.com/episode/34L7nW9WrhTYSbCG3mNHbL"
 youtube = "https://www.youtube.com/watch?v=P1g2kYdfGl4"
-tag = ["Jul 2023", "KK Show"]
+tag = ["Jul 2023", "KK Show", "可心", "事實查核", "時事"]
 
 [time677.extra]
 
@@ -605,7 +605,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-202-%E5%A3%AF%E5%A3%A
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzExNTQ5Ng"
 spotify = "https://open.spotify.com/episode/78sOasPabaNzZLERr1RtQt"
 youtube = "https://www.youtube.com/watch?v=RKGDQphW5Jg"
-tag = ["Jun 2023", "KK Show"]
+tag = ["Jun 2023", "KK Show", "壯壯", "Youtuber", "喜劇演員"]
 
 [time675.extra]
 
@@ -644,7 +644,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzA3Mjc5OQ"
 spotify = "https://open.spotify.com/episode/33X3X57vkI1agz8f7HpNbW"
 youtube = ""
-tag = ["Jun 2023", "KK Show"]
+tag = ["Jun 2023", "KK Show", "Lucas @BBK Network", "嘉雯 @BBK Network", "Youtuber"]
 
 [time672.extra]
 
@@ -1346,7 +1346,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMjA3NTY1Mg"
 spotify = "https://open.spotify.com/episode/0u9rKQzLaYB77dznKf8bU3"
 youtube = "https://www.youtube.com/watch?v=IfvinWrzw74"
-tag = ["Jan 2023", "週二夜現場", "中指通", "Youtuber", "暫代讀書會", "色色"]
+tag = ["Jan 2023", "週二夜現場", "中指通", "手槍女王", "Youtuber", "暫代讀書會", "色色"]
 
 [time618.extra]
 
@@ -1424,7 +1424,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E4%BA%8C%E5%A4%9C%E7%8F
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTk4NDQ1NA"
 spotify = "https://open.spotify.com/episode/7G12mc9c5tOPmmYUGG7kNV"
 youtube = "https://www.youtube.com/watch?v=jvpGnNoY45o"
-tag = ["Jan 2023", "週二夜現場", "暫代讀書會"]
+tag = ["Jan 2023", "週二夜現場", "大霈", "暫代讀書會", "藝人", "音樂"]
 
 [time612.extra]
 
@@ -1593,7 +1593,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-163-%E5%B0%8F%E6%BE%A
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMTc3OTI1OQ"
 spotify = "https://open.spotify.com/episode/31gjmxu3Fo6i8VK5mXp74t"
 youtube = "https://www.youtube.com/watch?v=47a67nvcp4c"
-tag = ["Nov 2022", "KK Show", "小澤瑪莉雅", "色色"]
+tag = ["Nov 2022", "KK Show", "小澤瑪利亞", "老闆", "色色"]
 
 [time599.extra]
 
@@ -4379,7 +4379,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-95-%E9%A6%AC%E4%BE%86
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTExMTc3MTI2NA"
 spotify = "https://open.spotify.com/episode/363S553abjsQ3SzvyWd6kg"
 youtube = "https://www.youtube.com/watch?v=pTwAdgbM5es&t=2560s"
-tag = ["Aug 2021", "KK Show", "Lucas @BBK Networ", "Youtuber"]
+tag = ["Aug 2021", "KK Show", "Lucas @BBK Network", "Youtuber"]
 
 [time390.extra]
 
@@ -5185,7 +5185,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-74-%E7%94%A8%E7%A7%91
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTAyMzE2MjQ1Nw"
 spotify = "https://open.spotify.com/episode/7HHiu15FXnVUXWLB2Fvtgy"
 youtube = "https://www.youtube.com/watch?v=jsUrqemDqA0"
-tag = ["Apr 2021", "KK Show", "IORG", "事實查核", "時事"]
+tag = ["Apr 2021", "KK Show", "IORG", "可心", "事實查核", "時事"]
 
 [time328.extra]
 

@@ -1,5 +1,13 @@
 ----
 Start annotation
+Process: blg/keyword-0-index.toml
+Process: blg/keyword-1-reading.toml
+Process: blg/keyword-2-special.toml
+Process: blg/keyword-3-kkshow.toml
+Process: blg/keyword-4-performance.toml
+Process: blg/keyword-5-professional.toml
+Process: blg/keyword-6.toml
+Process: blg/keyword-7-event.toml
 [百靈果 NEWS]
   found in: (271)
     time721
@@ -694,6 +702,14 @@ Start annotation
     time574
   Excluded: (0)
     
+[Hot Money]
+  found in: (4)
+    time704
+    time692
+    time686
+    time680
+  Excluded: (0)
+    
 [八尺門的辯護人]
   found in: (4)
     time651
@@ -1137,6 +1153,12 @@ Start annotation
     time243
   Excluded: (0)
     
+[Lucas @BBK Network]
+  found in: (2)
+    time390
+    time672
+  Excluded: (0)
+    
 [阿爆]
   found in: (4)
     time645
@@ -1157,6 +1179,12 @@ Start annotation
     time617
   Excluded: (0)
     
+[小澤瑪利亞]
+  found in: (2)
+    time599
+    time715
+  Excluded: (0)
+    
 [石巴朝]
   found in: (2)
     time698
@@ -1167,6 +1195,12 @@ Start annotation
   found in: (2)
     time475
     time423
+  Excluded: (0)
+    
+[大霈]
+  found in: (2)
+    time611
+    time612
   Excluded: (0)
     
 [布拉瑞揚 @布拉瑞揚舞團]
@@ -1203,12 +1237,6 @@ Start annotation
   found in: (2)
     time594
     time405
-  Excluded: (0)
-    
-[Nick]
-  found in: (2)
-    time711
-    time278
   Excluded: (0)
     
 [小潘]
@@ -1306,16 +1334,22 @@ Start annotation
     time561
   Excluded: (0)
     
-[Jay]
-  found in: (2)
-    time693
-    time533
-  Excluded: (0)
-    
 [顧立楷]
   found in: (2)
     time319
     time142
+  Excluded: (0)
+    
+[可心]
+  found in: (2)
+    time677
+    time328
+  Excluded: (0)
+    
+[咪咪]
+  found in: (2)
+    time683
+    time682
   Excluded: (0)
     
 [沈伯洋（助理）教授]

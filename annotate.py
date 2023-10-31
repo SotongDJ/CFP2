@@ -11,6 +11,7 @@ def do_job(target_str):
     keyword_dict = {}
     keyword_list = []
     for keyword_path in sorted(list(pathlib.Path(target_str).glob('keyword-*.toml'))):
+        print(f"Process: {keyword_path}")
         keyword_doc = rtoml.load(open(keyword_path,encoding="utf8"))
         unique_list = [n for n in keyword_doc.keys() if n not in keyword_list]
         duplicate_list = [n for n in keyword_doc.keys() if n in keyword_list]

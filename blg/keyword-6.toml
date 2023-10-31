@@ -57,6 +57,11 @@ inclusive = ["趙哥"]
 exclusive = []
 category = ["朋友"]
 
+[Lesley]
+inclusive = ["Lesley"]
+exclusive = []
+category = ["專業人士"]
+
 ["Aaron"]
 inclusive = ["Aaron"]
 exclusive = []
@@ -93,9 +98,24 @@ exclusive = []
 category = ["老闆"]
 
 [Jay]
-inclusive = ["Jay"]
+inclusive = ["Netflix - Jay"]
 exclusive = []
 category = ["老闆"]
+
+[Jay哥]
+inclusive = ["Jay哥"]
+exclusive = []
+category = ["老闆"]
+
+["吳桑"]
+inclusive = ["吳桑"]
+exclusive = []
+category = ["老闆"]
+
+["Nick（前小紅書工程師）"]
+inclusive = ["小紅書演算法工程師 - Nick"]
+exclusive = []
+category = ["專業人士","工程師"]
 
 ["顧立楷"]
 inclusive = ["顧立楷"]
@@ -122,6 +142,16 @@ inclusive = ["IORG"]
 exclusive = []
 category = ["時事","事實查核"]
 
+[可心]
+inclusive = ["可心","IORG"]
+exclusive = []
+category = ["時事","事實查核"]
+
+["咪咪"]
+inclusive = ["咪咪"]
+exclusive = []
+category = ["時事","事實查核"]
+
 ["雕大 @IEObserve"]
 inclusive = ["IEObserve"]
 exclusive = []
@@ -136,6 +166,16 @@ category = ["時事"]
 inclusive = ["沈伯洋"]
 exclusive = []
 category = ["時事","事實查核","學者"]
+
+["劉必榮教授"]
+inclusive = ["劉必榮"]
+exclusive = []
+category = ["時事","學者"]
+
+["馮建三教授"]
+inclusive = ["馮建三"]
+exclusive = []
+category = ["時事","學者"]
 
 ["張五岳"]
 inclusive = ["張五岳"]
@@ -169,6 +209,11 @@ category = ["來賓"]
 
 ["沈棟"]
 inclusive = ["沈棟"]
+exclusive = []
+category = ["來賓"]
+
+["Tony"]
+inclusive = ["軍火 - Tony"]
 exclusive = []
 category = ["來賓"]
 

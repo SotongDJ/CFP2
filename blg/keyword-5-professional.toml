@@ -50,6 +50,11 @@ inclusive = ["周江杰"]
 exclusive = []
 category = ["政治人物"]
 
+["顏色不分藍綠支持性專區顏色田慎節"]
+inclusive = ["顏色不分藍綠支持性專區顏色田慎節"]
+exclusive = []
+category = ["政治人物"]
+
 # 時事
 
 ["陳秋實"]
@@ -211,6 +216,11 @@ category = ["醫學","學者"]
 
 ["羅詩修醫師"]
 inclusive = ["從泌尿科開始"]
+exclusive = []
+category = ["醫學","學者"]
+
+["阿江營養師"]
+inclusive = ["阿江"]
 exclusive = []
 category = ["醫學","學者"]
 

@@ -1,4 +1,18 @@
 const playlist = {
+"time723": {
+"name": "Catching up: What\u2019s the point of being on TV these days?",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13894168-catching-up-what-s-the-point-of-being-on-tv-these-days.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Nov 2023"
+],
+"description": "<p>Peggy is joining Ken and Kylie on Catching Up! Peggy is on TV a lot in Taiwan. However, no one in our social circle watches TV! What\u2019s the point of a young ambitious girl who wanna make it to be on TV these days? Are there hidden rules that she had to follow?</p><p>=======================<br/>\u27a4\u2b50\ufe0f\u51f1\u8389\u9996\u6b21\u500b\u4eba\u5c08\u5834 \u300a\u5375\u721b \u300b<br/><a href='https://comedyclub.kktix.cc/mobileapp/events/eggs/description'>9/6 (\u4e09) 19\uff1a00 KKTIX \u958b\u8ce3</a><br/><a href='https://reurl.cc/WvaLQ7'><b>https://reurl.cc/WvaLQ7</b></a><br/><br/>\u53f0\u5317 11/3 20\uff1a00 WESTAR<br/> 11/4 15\uff1a00 \u300120\uff1a00 WESTAR<br/>\u9ad8\u96c4 11/18 20\uff1a00 \u5f8c\u53f0Backstage Live <br/>\u53f0\u4e2d 12/15 20\uff1a00 \u53f0\u4e2d\u6559\u80b2\u5927\u5b78 \u4fdd\u6210\u5ef3<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u773c\u8089\u82bd\uff1a<a href='https://instagram.com/milia_bailingguonews'>https://instagram.com/milia_bailingguonews</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=1s1lEUH7_xM"
+},
 "time722": {
 "name": "The KK Show - 222 \u738b\u5fd7\u5b89\u7684\u6c11\u4e3b\u4e4b\u65c5",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13879547-the-kk-show-222.mp3",
@@ -12238,6 +12252,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Nov 2023": ['#2023'],
 "Oct 2023": ['#2023'],
 "Sep 2023": ['#2023'],
 "Aug 2023": ['#2023'],
@@ -12298,7 +12313,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

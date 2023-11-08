@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[time726]
+name = "The KK Show - 224 大麻律師 李菁琪"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13932779-the-kk-show-224.mp3"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>剛從Burning Man回來的菁琪律師，跟我們分享她參觀雜交趴及海外呼麻的經驗。她觀察到泰國大麻市場已被白人壟斷，如果台灣未來想走向合法化，台灣人要怎麼保護自己的產業。</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 224 大麻律師 李菁琪"]
+tag = ["Nov 2023", "KK Show"]
+category = ["#節目系列"]
+
 [time725]
 name = "The KK Show - 223 小酷人-路易"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13924893-the-kk-show-223.mp3"

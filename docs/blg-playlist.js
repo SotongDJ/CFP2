@@ -11,7 +11,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-225-bros-bond/id1106847606?i=1000634773317",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzk2ODA5Mg",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3qidTTqAnkUpr10GB8787u",
 "youtube": "https://www.youtube.com/watch?v=PHah4eQ8GsM"
 },
 "time728": {

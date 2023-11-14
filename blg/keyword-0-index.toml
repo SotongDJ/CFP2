@@ -24,6 +24,11 @@ inclusive = ["THE STIR"]
 exclusive = []
 category = ["#節目系列"]
 
+["Catching up"]
+inclusive = ["Catching up"]
+exclusive = []
+category = ["#節目系列"]
+
 ["讀書會"]
 inclusive = ["讀書會","宮前町九十番地 04","以前的台積電就是霧峰林家","海上暈船吹風之旅"]
 exclusive = ["不是讀書會","沒有讀書會"]

@@ -72,7 +72,7 @@ category = ["喜劇演員","Youtuber"]
 
 ["博恩"]
 inclusive = ["博恩"]
-exclusive = ["老K","賀瓏"]
+exclusive = ["老K","夜夜秀真主角","百靈果NEWS"]
 category = ["喜劇演員"]
 
 ["大可愛"]
@@ -427,6 +427,11 @@ inclusive = ["黃秋生"]
 exclusive = []
 category = ["演員","文藝"]
 
+["小酷人 路易"]
+inclusive = ["小酷人"]
+exclusive = []
+category = ["演員","文藝"]
+
 ["林倩"]
 inclusive = ["林倩"]
 exclusive = []
@@ -483,6 +488,11 @@ category = ["Podcaster","專業人士","律師"]
 
 ["楊貴智 @法律白話文"]
 inclusive = ["法律白話文","找律師"]
+exclusive = []
+category = ["Podcaster","專業人士","律師"]
+
+["大麻律師 李菁琪 @大麻煩不煩"]
+inclusive = ["李菁琪"]
 exclusive = []
 category = ["Podcaster","專業人士","律師"]
 

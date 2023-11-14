@@ -19,7 +19,8 @@ const playlist = {
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13939285-catching-up-taiwanese-youtubers-caught-in-weeeee-storm.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
-"Nov 2023"
+"Nov 2023",
+"Catching up"
 ],
 "description": "<p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -34,7 +35,11 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2023",
-"KK Show"
+"KK Show",
+"\u5927\u9ebb\u5f8b\u5e2b \u674e\u83c1\u742a @\u5927\u9ebb\u7169\u4e0d\u7169",
+"Podcaster",
+"\u5c08\u696d\u4eba\u58eb",
+"\u5f8b\u5e2b"
 ],
 "description": "<p>\u525b\u5f9eBurning Man\u56de\u4f86\u7684\u83c1\u742a\u5f8b\u5e2b\uff0c\u8ddf\u6211\u5011\u5206\u4eab\u5979\u53c3\u89c0\u96dc\u4ea4\u8db4\u53ca\u6d77\u5916\u547c\u9ebb\u7684\u7d93\u9a57\u3002\u5979\u89c0\u5bdf\u5230\u6cf0\u570b\u5927\u9ebb\u5e02\u5834\u5df2\u88ab\u767d\u4eba\u58df\u65b7\uff0c\u5982\u679c\u53f0\u7063\u672a\u4f86\u60f3\u8d70\u5411\u5408\u6cd5\u5316\uff0c\u53f0\u7063\u4eba\u8981\u600e\u9ebc\u4fdd\u8b77\u81ea\u5df1\u7684\u7522\u696d\u3002</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -49,7 +54,10 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Nov 2023",
-"KK Show"
+"KK Show",
+"\u5c0f\u9177\u4eba \u8def\u6613",
+"\u6587\u85dd",
+"\u6f14\u54e1"
 ],
 "description": "<p>\u8def\u6613\u6709\u4f8f\u5112\u75c7\uff0c\u4ed6\u5728\u53f0\u7063\u9577\u5927\u5f8c\u4f86\u53bb\u7f8e\u570b\u7684\u6f14\u85dd\u5708\u767c\u5c55\u3002\u751a\u81f3\u9084\u6709\u5728\u9031\u516d\u591c\u73fe\u5834\u6709\u5ba2\u4e32\u6f14\u51fa\u3002\u4ed6\u4f86\u8ddf\u6211\u5011\u5206\u4eab\u5728\u53f0\u7063\u8ddf\u7f8e\u570b\u6210\u9577\u9047\u5230\u7684\u72c0\u6cc1<br/><br/>\u4f86\u81ea\u65b0\u52a0\u5761\u7684\u96b1\u5f62\u7259\u5957\u54c1\u724c #Zenyum\u7dbb\u96c5<br/>\u2728\u5e02\u5834\u552f\u4e00\u5747\u4e00\u50f9\uff0c\u50f9\u683c\u6e05\u695a\uff0c\u7121\u96b1\u85cf\u6536\u8cbb<br/>\u2728\u7259\u5957\u5b8c\u5168\u900f\u660e\uff0c\u62ff\u4e0b\u53e3\u7f69\u4e5f\u80fd\u5077\u5077\u7684\u5347\u7d1a\u7b11\u5bb9\u2728\u5168\u53f0\u8d85\u904e160\u4f4d\u570b\u8003\u8a8d\u8b49\u91ab\u5e2b\u5408\u4f5c\uff0c\u88fd\u4f5c\u500b\u4eba\u5c08\u5c6c\u6cbb\u7642\u8a08\u756b<br/>\u2728\u7642\u7a0b\u7531\u91ab\u5e2b\u53ca\u4e00\u5c0d\u4e00\u5ba2\u670d\u642d\u914d App\uff0c\u6e1b\u5c11\u975e\u5fc5\u8981\u7684\u56de\u8a3a\u6b21\u6578\uff0c\u51fa\u570b\u4e5fok!<br/>\ud83d\udce2Zen\u53cb\u5718\u7d50\u796d\uff0c\u6298\u6263\u7531\u4f60\u5b9a\uff01<br/>\u5e74\u672b\u7292\u8cde\u6700\u503c\u5f97\u7292\u8cde\u81ea\u5df1! \u5b8c\u6210\u4e00\u4ef6\u4e0d\u5bb9\u6613\u7684\u5927\u4e8b.\u141f.\u141f 12/31\u524d\u900f\u904e\u4e0b\u65b9\u3010\u767e\u9748\u679cNews\u3011\u5c08\u5c6c\u9023\u7d50\u9032\u884c\u514d\u8cbb\u521d\u6b65\u8a55\u4f30 <br/>\ud83d\udd17 <a href='https://bit.ly/3u8tUtw'>https://bit.ly/3u8tUtw</a> <br/>\ud83d\udcb0\u96b1\u5f62\u7259\u5957\u7642\u7a0b\u6298\u6263\u6700\u9ad818,000\uff0c\u6d3b\u52d5\u671f\u9593\u5b8c\u6210\u7d04\u8a3a\u3001\u770b\u8a3a\u7b49\u6307\u5b9a\u4efb\u52d9\u7d2f\u7a4d\u300c\u5fae\u7b11\u7a4d\u5206\u300d\uff0c\u5408\u4f75\u7e3d\u7a4d\u5206\u9054\u734e\u91d1\u89e3\u9396\u9580\u6abb\uff0c\u6700\u9ad8\u201c\u6bcf\u4eba\u201d\u518d\u98186,000\u6d3b\u52d5\u734e\u91d1\u73fe\u91d1\u8fd4\u9084\uff0c\u7642\u7a0b\u8cbb\u7528\u6700\u4f4e\u53ea\u89816\u842c\u5143\uff01<br/><br/>#\u6b66\u500d\u5c0d\u7b56+TENGA\u771f\u7a7a\u676f \u9650\u5b9a\u53ea\u8981$1069 <br/>\u8ce3\u5834\u27a1\ufe0f <a href='https://tzk.one/\u70ba\u611b\u800c\u751f'>https://tzk.one/\u70ba\u611b\u800c\u751f</a> <br/>\u672c\u96c6\u7531 #\u8d85\u5f37\u7537\u6027\u4fdd\u5065\u54c1\u3010\u706b\u661f\u751f\u6280_\u6b66\u500d\u5c0d\u7b56\u3011\u8d0a\u52a9\ud83d\udd25 <br/>\ud83c\udf81\u4e0b\u55ae\u62bd\u25b6TESLA Model Y\u3001iPhone15 Pro <br/>11/12\u524d\u518d\u52a0\u78bc\u62bd\u25b6ROLEX\u9ed1\u6c34\u9b3c <br/>\ud83c\udf81Momo\u4e0b\u55ae\u6700\u9ad8\u4eab10%mo\u5e63 <br/>\u25b6 <a href='https://tzk.one/momo\u5c08\u5c6c\u8ce3\u5834'>https://tzk.one/momo\u5c08\u5c6c\u8ce3\u5834</a>\u00a0<br/><br/></p><p>=======================<br/>\u27a4\u2b50\ufe0f\u51f1\u8389\u9996\u6b21\u500b\u4eba\u5c08\u5834 \u300a\u5375\u721b \u300b<br/><a href='https://comedyclub.kktix.cc/mobileapp/events/eggs/description'>9/6 (\u4e09) 19\uff1a00 KKTIX \u958b\u8ce3</a><br/><a href='https://reurl.cc/WvaLQ7'><b>https://reurl.cc/WvaLQ7</b></a><br/><br/>\u53f0\u5317 11/3 20\uff1a00 WESTAR<br/> 11/4 15\uff1a00 \u300120\uff1a00 WESTAR<br/>\u9ad8\u96c4 11/18 20\uff1a00 \u5f8c\u53f0Backstage Live <br/>\u53f0\u4e2d 12/15 20\uff1a00 \u53f0\u4e2d\u6559\u80b2\u5927\u5b78 \u4fdd\u6210\u5ef3<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u773c\u8089\u82bd\uff1a<a href='https://instagram.com/milia_bailingguonews'>https://instagram.com/milia_bailingguonews</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -78,7 +86,8 @@ const playlist = {
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13894168-catching-up-what-s-the-point-of-being-on-tv-these-days.mp3",
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
-"Nov 2023"
+"Nov 2023",
+"Catching up"
 ],
 "description": "<p>Peggy is joining Ken and Kylie on Catching Up! Peggy is on TV a lot in Taiwan. However, no one in our social circle watches TV! What\u2019s the point of a young ambitious girl who wanna make it to be on TV these days? Are there hidden rules that she had to follow?</p><p>=======================<br/>\u27a4\u2b50\ufe0f\u51f1\u8389\u9996\u6b21\u500b\u4eba\u5c08\u5834 \u300a\u5375\u721b \u300b<br/><a href='https://comedyclub.kktix.cc/mobileapp/events/eggs/description'>9/6 (\u4e09) 19\uff1a00 KKTIX \u958b\u8ce3</a><br/><a href='https://reurl.cc/WvaLQ7'><b>https://reurl.cc/WvaLQ7</b></a><br/><br/>\u53f0\u5317 11/3 20\uff1a00 WESTAR<br/> 11/4 15\uff1a00 \u300120\uff1a00 WESTAR<br/>\u9ad8\u96c4 11/18 20\uff1a00 \u5f8c\u53f0Backstage Live <br/>\u53f0\u4e2d 12/15 20\uff1a00 \u53f0\u4e2d\u6559\u80b2\u5927\u5b78 \u4fdd\u6210\u5ef3<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u773c\u8089\u82bd\uff1a<a href='https://instagram.com/milia_bailingguonews'>https://instagram.com/milia_bailingguonews</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -384,9 +393,7 @@ const playlist = {
 "image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
 "tag": [
 "Sep 2023",
-"\u767e\u9748\u679c NEWS",
-"\u535a\u6069",
-"\u559c\u5287\u6f14\u54e1"
+"\u767e\u9748\u679c NEWS"
 ],
 "description": "<p>=======================<br/>\u27a4\u2b50\ufe0f\u51f1\u8389\u9996\u6b21\u500b\u4eba\u5c08\u5834 \u300a\u5375\u721b \u300b<br/><a href='https://comedyclub.kktix.cc/mobileapp/events/eggs/description'>9/6 (\u4e09) 19\uff1a00 KKTIX \u958b\u8ce3</a><br/><a href='https://reurl.cc/WvaLQ7'><b>https://reurl.cc/WvaLQ7</b></a><br/><br/>\u53f0\u5317 11/3 20\uff1a00 WESTAR<br/> 11/4 15\uff1a00 \u300120\uff1a00 WESTAR<br/>\u9ad8\u96c4 11/18 20\uff1a00 \u5f8c\u53f0Backstage Live <br/>\u53f0\u4e2d 12/15 20\uff1a00 \u53f0\u4e2d\u6559\u80b2\u5927\u5b78 \u4fdd\u6210\u5ef3<br/>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u773c\u8089\u82bd\uff1a<a href='https://instagram.com/milia_bailingguonews'>https://instagram.com/milia_bailingguonews</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -12073,6 +12080,7 @@ const tag_class = {
 "KK Show": ['#節目系列'],
 "Live Podcast": ['#節目系列'],
 "THE STIR": ['#節目系列'],
+"Catching up": ['#節目系列'],
 "讀書會": ['#節目系列'],
 "王子習近平": ['讀書會'],
 "Hot Money": ['讀書會'],
@@ -12190,6 +12198,7 @@ const tag_class = {
 "李心潔": ['演員', '文藝', '音樂'],
 "Chapman 杜汶澤": ['演員', '老闆', '文藝'],
 "黃秋生": ['演員', '文藝'],
+"小酷人 路易": ['演員', '文藝'],
 "林倩": ['攝影', 'Instagramer'],
 "台南人劇團": ['文藝', '劇場'],
 "蕭東意": ['文藝', '演員', '劇場', '喜劇演員'],
@@ -12201,6 +12210,7 @@ const tag_class = {
 "真蓉": ['文藝'],
 "劉珞亦 @法律白話文": ['Podcaster', '專業人士', '律師'],
 "楊貴智 @法律白話文": ['Podcaster', '專業人士', '律師'],
+"大麻律師 李菁琪 @大麻煩不煩": ['Podcaster', '專業人士', '律師'],
 "唐綺陽": ['Podcaster'],
 "簡少年": ['Podcaster'],
 "台灣通勤第一品牌": ['Podcaster'],
@@ -12392,18 +12402,18 @@ const class_tag = {
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
 "#2019": ['Jan 2019', 'Feb 2019', 'Mar 2019', 'Apr 2019', 'May 2019', 'Jun 2019', 'Jul 2019', 'Aug 2019', 'Sep 2019', 'Oct 2019', 'Nov 2019', 'Dec 2019'],
-"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
+"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', 'Catching up', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', 'Hot Money', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '週二夜現場'],
 "喜劇演員": ['Atsuko Okatsuka', '瑞恩', 'Hector', '龍哥（喜劇）', '喬瑟夫', '樂樂法利', '陳大天', '小歐', '老K', '妍霏', '學仁', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', 'Jamie', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', '蕭東意'],
 "Youtuber": ['Atsuko Okatsuka', '喬瑟夫', '樂樂法利', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', '視網膜', '動眼神經', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', 'Ms Puiyi', '阿滴', 'Joeman', 'Ted @35線上賞屋', '蔡阿嘎', '黃大謙', 'China Mac', 'Cheap', '邱 grr', '泥泥學姐', 'Alma & 小妖', 'Lucas @BBK Network', '嘉雯 @BBK Network', '歷史哥', '嗩吶 @好機車', '阿拉斯', '巴大雄 @東南美娛樂', '賈培德', '中指通', 'Peggy', '人渣文本', '周偉航'],
 "老闆": ['龍哥（喜劇）', 'Social', '呱吉', '歐耶', '志祺 @志祺七七', '阿滴', 'Joeman', 'Ted @35線上賞屋', '邱 grr', '小澤瑪利亞', 'Chapman 杜汶澤', '葉丙成教授', '館長', 'Aaron', '尚恩', '李小牧', '曹興誠', 'Jay', 'Jay哥', '吳桑', '顧立楷', '林榮基'],
 "藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '禁藥王 & 栗子', '大霈', '陳沂'],
-"Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', '蔡阿嘎', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '小聶', '吳淡如', '人渣文本', '周偉航', 'Howard'],
+"Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', '蔡阿嘎', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '大麻律師 李菁琪 @大麻煩不煩', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '小聶', '吳淡如', '人渣文本', '周偉航', 'Howard'],
 "廣播人": ['歐馬克', '黃豪平', '賈培德', '李律', '邵大倫', '小潘', '寶拉', '吳淡如'],
-"演員": ['權樂', '涵冷娜', 'Esther Chen', '李心潔', 'Chapman 杜汶澤', '黃秋生', '蕭東意', '吳念真'],
-"文藝": ['權樂', '涵冷娜', 'Esther Chen', '賈培德', '李心潔', 'Chapman 杜汶澤', '黃秋生', '台南人劇團', '蕭東意', '布拉瑞揚 @布拉瑞揚舞團', '磊勒丹', '孫翠鳳', '陳昭賢', '陳亞蘭', '真蓉', '周冠威', '阮鳳儀', '吳念真'],
-"專業人士": ['巴斯', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '溫特斯', '館長', '剛哥', 'Howard', 'Shao Yong', 'Lesley', '楊杰凱', '黑嘉嘉', 'Nick（前小紅書工程師）'],
+"演員": ['權樂', '涵冷娜', 'Esther Chen', '李心潔', 'Chapman 杜汶澤', '黃秋生', '小酷人 路易', '蕭東意', '吳念真'],
+"文藝": ['權樂', '涵冷娜', 'Esther Chen', '賈培德', '李心潔', 'Chapman 杜汶澤', '黃秋生', '小酷人 路易', '台南人劇團', '蕭東意', '布拉瑞揚 @布拉瑞揚舞團', '磊勒丹', '孫翠鳳', '陳昭賢', '陳亞蘭', '真蓉', '周冠威', '阮鳳儀', '吳念真'],
+"專業人士": ['巴斯', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '大麻律師 李菁琪 @大麻煩不煩', '溫特斯', '館長', '剛哥', 'Howard', 'Shao Yong', 'Lesley', '楊杰凱', '黑嘉嘉', 'Nick（前小紅書工程師）'],
 "工程師": ['巴斯', 'Nick（前小紅書工程師）'],
 "魔術師": ['巴斯', '黃豪平'],
 "政治人物": ['呱吉', '陳柏惟', '林昶佐', '吳怡農', '李有宜', '蔣萬安', '范雲', '于北辰', '林智堅', '郭書成', '周江杰', '顏色不分藍綠支持性專區顏色田慎節'],
@@ -12418,7 +12428,7 @@ const class_tag = {
 "攝影": ['林倩'],
 "劇場": ['台南人劇團', '蕭東意'],
 "舞蹈": ['布拉瑞揚 @布拉瑞揚舞團'],
-"律師": ['劉珞亦 @法律白話文', '楊貴智 @法律白話文'],
+"律師": ['劉珞亦 @法律白話文', '楊貴智 @法律白話文', '大麻律師 李菁琪 @大麻煩不煩'],
 "導演": ['周冠威', '阮鳳儀', '吳念真'],
 "影視製作": ['吳念真', '汪怡昕', '龍哥（影視）', 'Roger', '小聶', 'Mego', 'Nick', 'Stephen'],
 "製作人": ['汪怡昕', '龍哥（影視）', 'Roger', '小聶'],

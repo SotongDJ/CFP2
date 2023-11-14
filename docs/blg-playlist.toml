@@ -20,7 +20,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-taiwanese-youtubers-c
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzkzOTI4NQ"
 spotify = "https://open.spotify.com/episode/5P4fxtA3allZNu491oNTFG"
 youtube = "https://www.youtube.com/watch?v=tFNMEdXCRdc"
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "Catching up"]
 
 [time727.extra]
 
@@ -33,7 +33,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzkzMjc3OQ"
 spotify = "https://open.spotify.com/episode/1766nrskjXkwFHqG45trIP"
 youtube = ""
-tag = ["Nov 2023", "KK Show"]
+tag = ["Nov 2023", "KK Show", "大麻律師 李菁琪 @大麻煩不煩", "Podcaster", "專業人士", "律師"]
 
 [time726.extra]
 
@@ -46,7 +46,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzkyNDg5Mw"
 spotify = "https://open.spotify.com/episode/44HctlMhoWydct6ruHV6dK"
 youtube = "https://www.youtube.com/watch?v=JHpKnb50mXo"
-tag = ["Nov 2023", "KK Show"]
+tag = ["Nov 2023", "KK Show", "小酷人 路易", "文藝", "演員"]
 
 [time725.extra]
 
@@ -72,7 +72,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzg5NDE2OA"
 spotify = "https://open.spotify.com/episode/1Hc6TBOoqIjeRm9q5JHAmp"
 youtube = "https://www.youtube.com/watch?v=1s1lEUH7_xM"
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "Catching up"]
 
 [time723.extra]
 
@@ -306,7 +306,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzU2MTc2OA"
 spotify = "https://open.spotify.com/episode/0RshunTxRI90zVn7C1QzIu"
 youtube = "https://www.youtube.com/watch?v=x6cGoRV7yyU"
-tag = ["Sep 2023", "百靈果 NEWS", "博恩", "喜劇演員"]
+tag = ["Sep 2023", "百靈果 NEWS"]
 
 [time705.extra]
 

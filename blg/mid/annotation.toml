@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time730]
+name = "Catching Up：Sam, An American chasing comedy dream in Taiwan"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13983528-catching-up-sam-an-american-chasing-comedy-dream-in-taiwan.mp3"
+youtube = "https://www.youtube.com/watch?v=Q4ao7xJ0pO8"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>#眠豆腐 美國團購，第二團開跑啦！<br/>純正台灣製造，現在美國也買得到！<br/>感謝美國眠友跨海支持，大家發現不是詐騙之後，訂單如雪片般飛來，第一團破百張已達成！<br/>第二團確定無縫續開！<br/>即日起開始接單，2024年1/31收單，預計2至3月配送。<br/>請搜尋「眠豆腐美國」，或洽粉專客服了解詳情！<br/>資訊欄連結：<a href='https://us.sleepytofu.com/'>https://us.sleepytofu.com</a></p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["Catching Up：Sam, An American chasing comedy dream in Taiwan"]
+tag = ["Nov 2023"]
+category = []
+
 [time729]
 name = "The KK Show - 225 Bros Bond"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13968092-the-kk-show-225-bros-bond.mp3"

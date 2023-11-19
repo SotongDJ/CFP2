@@ -1,4 +1,19 @@
 const playlist = {
+"time731": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u62dc\u7fd2\u6703\u8b1b\u4e86\u4ec0\u9ebc\uff1f\u8cc7\u8a0a\u6230\u662f\u4ee5\u5df4\u885d\u7a81\u7684\u95dc\u9375\uff0c\u516d\u4eba\u884c\u6f14\u54e1\u99ac\u4fee\u6d3e\u745e\u81ea\u50b3",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13997188-news.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Nov 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=ptcvBsaUZ2I"
+},
 "time730": {
 "name": "Catching Up\uff1aSam, An American chasing comedy dream in Taiwan",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13983528-catching-up-sam-an-american-chasing-comedy-dream-in-taiwan.mp3",

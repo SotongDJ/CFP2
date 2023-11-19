@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time731]
+name = "百靈果NEWS｜拜習會講了什麼？資訊戰是以巴衝突的關鍵，六人行演員馬修派瑞自傳"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13997188-news.mp3"
+youtube = "https://www.youtube.com/watch?v=ptcvBsaUZ2I"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["百靈果NEWS｜拜習會講了什麼？資訊戰是以巴衝突的關鍵，六人行演員馬修派瑞自傳"]
+tag = ["Nov 2023", "百靈果 NEWS"]
+category = ["#節目系列"]
+
 [time730]
 name = "Catching Up：Sam, An American chasing comedy dream in Taiwan"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13983528-catching-up-sam-an-american-chasing-comedy-dream-in-taiwan.mp3"

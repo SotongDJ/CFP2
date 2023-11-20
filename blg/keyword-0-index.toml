@@ -25,7 +25,7 @@ exclusive = []
 category = ["#節目系列"]
 
 ["Catching up"]
-inclusive = ["Catching up"]
+inclusive = ["Catching up", "Catching Up"]
 exclusive = []
 category = ["#節目系列"]
 

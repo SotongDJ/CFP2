@@ -20,7 +20,7 @@ apple = ""
 google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xMzk4MzUyOA"
 spotify = "https://open.spotify.com/episode/3yn69TTj3vmnFDTIfTyWFj"
 youtube = "https://www.youtube.com/watch?v=Q4ao7xJ0pO8"
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "Catching up"]
 
 [time730.extra]
 

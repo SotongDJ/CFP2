@@ -1,4 +1,19 @@
 const playlist = {
+"time732": {
+"name": "The KK Show - 226 The DoDo Men",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14010349-the-kk-show-226-the-dodo-men.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Nov 2023",
+"KK Show"
+],
+"description": "<p>DoDo Men\u7684Ian\u8ddf Eric\u4f86\u8ddf\u6211\u5011\u804a\u5929\uff0c\u6211\u5011\u8cea\u7591\u4ed6\u5011\u539f\u672c\u5728\u7f8e\u570b\u7684\u5de5\u4f5c\u8cfa\u9019\u9ebc\u591a\u9322\uff0c\u5e79\u561b\u56de\u53f0\u7063\u6436\u5927\u5bb6\u7684\u98ef\u7897\uff1f<br/><br/>#\u7720\u8c46\u8150 \u7f8e\u570b\u5718\u8cfc\uff0c\u7b2c\u4e8c\u5718\u958b\u8dd1\u5566\uff01<br/>\u7d14\u6b63\u53f0\u7063\u88fd\u9020\uff0c\u73fe\u5728\u7f8e\u570b\u4e5f\u8cb7\u5f97\u5230\uff01<br/>\u611f\u8b1d\u7f8e\u570b\u7720\u53cb\u8de8\u6d77\u652f\u6301\uff0c\u5927\u5bb6\u767c\u73fe\u4e0d\u662f\u8a50\u9a19\u4e4b\u5f8c\uff0c\u8a02\u55ae\u5982\u96ea\u7247\u822c\u98db\u4f86\uff0c\u7b2c\u4e00\u5718\u7834\u767e\u5f35\u5df2\u9054\u6210\uff01<br/>\u7b2c\u4e8c\u5718\u78ba\u5b9a\u7121\u7e2b\u7e8c\u958b\uff01<br/>\u5373\u65e5\u8d77\u958b\u59cb\u63a5\u55ae\uff0c2024\u5e741/31\u6536\u55ae\uff0c\u9810\u8a082\u81f33\u6708\u914d\u9001\u3002<br/>\u8acb\u641c\u5c0b\u300c\u7720\u8c46\u8150\u7f8e\u570b\u300d\uff0c\u6216\u6d3d\u7c89\u5c08\u5ba2\u670d\u4e86\u89e3\u8a73\u60c5\uff01<br/>\u8cc7\u8a0a\u6b04\u9023\u7d50\uff1a<a href='https://us.sleepytofu.com/'>https://us.sleepytofu.com</a><br/><br/>#\u9cf3\u51f0\u96fb\u6ce2 900\u767c\u301079000\u3011<br/>\ud83c\udf81\u76ae\u79d2\u96f7\u5c042\u5802 <br/>\ud83c\udf81\u52a0\u9cf3\u51f0\u773c\u5468\u96fb\u6ce2450\u767c\u301050000\u3011<br/>\u5feb\u901f\u8a62\u554f <a href='https://lihi.cc/01wIJ/4'>lihi.cc/01wIJ/4</a><br/>\u670d\u52d9\u5c08\u7dda 0800-000-593</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=Dr2GI6byax0"
+},
 "time731": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u62dc\u7fd2\u6703\u8b1b\u4e86\u4ec0\u9ebc\uff1f\u8cc7\u8a0a\u6230\u662f\u4ee5\u5df4\u885d\u7a81\u7684\u95dc\u9375\uff0c\u516d\u4eba\u884c\u6f14\u54e1\u99ac\u4fee\u6d3e\u745e\u81ea\u50b3",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/13997188-news.mp3",

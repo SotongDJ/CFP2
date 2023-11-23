@@ -10,7 +10,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDAyMTcyMw",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/5HxgbNP65eRvmTEiHYwQTp",
 "youtube": ""
 },
 "time732": {

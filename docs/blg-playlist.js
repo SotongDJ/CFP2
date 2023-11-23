@@ -1,4 +1,18 @@
 const playlist = {
+"time733": {
+"name": "\u6843\u5712\u5b98\u5a92\u5927\u6539\u7248\uff0c\u6587\u9752\u5167\u5bb9\u53ef\u4ee5\u6253\u5230\u5e74\u8f15\u4eba\uff1f",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14021723-.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Nov 2023"
+],
+"description": "<p>\u25cf \u6843\u5712\u8a8c\u5b98\u7db2\uff1a<br/><a href='https://www.taoyuanstory.tw/'>https://www.taoyuanstory.tw/</a><br/>\u25cf \u6843\u5712\u8a8c\u7c89\u7d72\u5c08\u9801\uff1a<br/><a href='https://reurl.cc/6Qmr6O'>https://reurl.cc/6Qmr6O</a><br/>\u25cf \u6843\u5712\u8a8c\u4e3b\u984c\u6d3b\u52d5\uff5c\u8aaa\uff1a\u6843\u5712\u8a8c\u6539\u7248\u6210\u679c\u5c55<br/>\u5c55\u89bd\u6642\u9593\uff5c12/09\uff08\u516d\uff09\u201412/18\uff08\u4e00\uff09<br/>\u5c55\u89bd\u5730\u9ede\uff5c\u6843\u5712\u5e02\u7acb\u5716\u66f8\u9928\u7e3d\u9928\u65c1\u5ee3\u5834\uff08\u6843\u5712\u5e02\u6843\u5712\u5340\u5357\u5e73\u8def303\u865f\uff09<br/>\u66f4\u591a\u8cc7\u8a0a\uff5c<a href='https://reurl.cc/MyQnRK'>https://reurl.cc/MyQnRK</a></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDAyMTcyMw",
+"spotify": "",
+"youtube": ""
+},
 "time732": {
 "name": "The KK Show - 226 The DoDo Men",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14010349-the-kk-show-226-the-dodo-men.mp3",

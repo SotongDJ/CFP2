@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time735]
+name = "百靈果NEWS｜台東好熱情、川普還能選總統嗎？"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14033833-news.mp3"
+youtube = "https://www.youtube.com/watch?v=OR7z8SZ47TQ"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["百靈果NEWS｜台東好熱情、川普還能選總統嗎？"]
+tag = ["Nov 2023", "百靈果 NEWS"]
+category = ["#節目系列"]
+
 [time734]
 name = "Catching up: China needs women to make more babies, Taylor Swift theme cruise is coming!"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14027960-catching-up-china-needs-women-to-make-more-babies-taylor-swift-theme-cruise-is-coming.mp3"

@@ -1,4 +1,19 @@
 const playlist = {
+"time736": {
+"name": "The KK Show - 227 \u5433\u6177\u4ec1 & \u9673\u6fa4\u8000",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14047844-the-kk-show-227.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Nov 2023",
+"KK Show"
+],
+"description": "<p>Happy Holidays! Celebrate with #VANA<br/>VANA x \u767e\u9748\u679c \u6b61\u6176\u8056\u8a95\u7bc0\u9001\u79ae\u63d0\u6848<br/>12/31\u524d\u5b98\u7db2 <a href='https://www.vanaliving.com/'>https://www.vanaliving.com</a> \u4e0b\u55ae\u8f38\u5165\u3010ibelieve\u3011(\u5168\u5c0f\u5beb)<br/>\u7acb\u4eab\u5168\u7ad988\u6298\u6700\u4f4e\u512a\u60e0 \u8c50\u5bcc\u597d\u79ae\u9650\u6642\u512a\u60e0\u9084\u53ef\u4ee5\u6298\u4e0a\u6298<br/><br/>#\u7280\u725b\u76fe GRIP O MagSafe \u517c\u5bb9\u7cfb\u5217\u64c1\u6709\u7368\u5bb6\u5c08\u5229\u7d50\u69cb\uff0c\u80fd\u5920\u5feb\u901f\u958b\u555f\u548c\u5c55\u958b\uff0c\u66f4\u6709\u7368 \u7279\u7684\u78c1\u5438\u6280\u8853\u4f7f MagSafe \u78c1\u5438\u529b\u9054\u860b\u679c\u624b\u6a5f\u539f\u5ee0 2 \u500d\uff0c\u78ba\u4fdd\u652f\u67b6\u7262\u56fa\u5438\u9644\uff0c\u5927\u5e45\u964d \u4f4e\u624b\u6a5f\u6389\u843d\u7684\u98a8\u96aa\uff0c\u9084\u80fd\u642d\u914dGRIP O \u5c08\u5c6c\u9020\u578b SuperCard \u8d85\u7d1a\u60a0\u904a\u5361\uff0c\u96c6\u7d50\u4e86\u8f15\u5de7 \u8207\u591a\u529f\u80fd\u65bc\u4e00\u8eab\u3002 <br/><br/>\u7280\u725b\u76fe\u63d0\u4f9b\u8c50\u5bcc\u7684\u624b\u6a5f\u9632\u8b77\u5468\u908a\u53ef\u4ee5\u6311\u9078\uff0c\u73fe\u5728\u9078\u8cfc\u7280\u725b\u76fe\u624b\u6a5f\u6bbc\u53ef\u4eab\u4fdd\u8b77\u8cbc\u6700\u4f4e 3.5\u6298\u7684\u512a\u60e0\uff0c\u6b61\u8fce\u5230RHINOSHIELD\u7280\u725b\u76fe\u5b98\u65b9\u7db2\u7ad9\u901b\u901b\uff1a<a href='https://url.rhinoshield.tw/d11-bailingguonews'>https://url.rhinoshield.tw/d11-bailingguonews</a>\u00a0<br/>\uff08*GRIP O Supercard\u60a0\u904a\u5361 \u4e0d\u5efa\u8b70\u91cd\u8907\u9ecf\u8cbc\uff0c\u5982\u9700\u9000\u6b3e\u5361\u7247\u9918\u984d\u8acb\u81f3\u53f0\u5317\u5e02\u5e9c\u8f49\u904b\u7ad9-SuperCard \u8d85\u7d1a\u60a0\u904a\u5361\u670d\u52d9\u6ac3\u6aaf\u3002\uff09<br/><br/></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=T1oO2AeXhrU"
+},
 "time735": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u53f0\u6771\u597d\u71b1\u60c5\u3001\u5ddd\u666e\u9084\u80fd\u9078\u7e3d\u7d71\u55ce\uff1f",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14033833-news.mp3",

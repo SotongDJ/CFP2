@@ -1,4 +1,19 @@
 const playlist = {
+"time738": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u99ac\u65af\u514b\u53eb\u5ee0\u5546\u5477\u8cfd\uff0c\u97d3\u570b\u89e3\u6c7a\u751f\u80b2\u554f\u984c\u8981\u9760\u7d71\u4e00\uff0c\u7d10\u897f\u862d\u53d6\u6d88\u7981\u7159\u4ee4",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14077117-news.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Dec 2023",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>\u672c\u96c6\u7531 #\u8d85\u5f37\u7537\u6027\u4fdd\u5065\u54c1\u3010\u706b\u661f\u751f\u6280_\u6b66\u500d\u5c0d\u7b56\u3011\u8d0a\u52a9 <br/>\ud83c\udf84\ud83c\udf85\u6b66\u500d\u7cfb\u5217\u8056\u8a95\u5c08\u5c6c\u7d44\u5408\u53ea\u89812099\u8d77\uff01 <br/>\u5168\u9928\u4e0b\u55ae\u6eff1500 \u8f38\u5165\u6559\u5f92\u5c08\u5c6c\u6298\u6263\u78bc\uff1a\u300cibelieve1500\u300d <br/>\u518d\u9001\u71b1\u611f\u6f64\u6ed1\u6db2\ud83c\udf81 <br/>\u5c08\u5c6c\u8ce3\u5834 \u27a1\ufe0f <a href='https://tzk.one/bailingguox1500'>https://tzk.one/bailingguox1500</a> <br/>\ud83d\udd25\u6b66\u500d\u966a\u4f60\u760b\u72c212\u6708 <br/>12/31\u524d\u6191\u767c\u7968\u7acb\u5373\u62bd\uff1aiPhone15 pro\u3001TESLA Model Y \u8d85\u5927\u734e\u00a0 <br/> #\u706b\u661f\u751f\u6280 #\u6b66\u500d\u5c0d\u7b56 #BNN\u8549\u8b77\u6d3b\u6027 <br/><br/>#\u9cf3\u51f0\u96fb\u6ce2 900\u767c\u301079000\u3011<br/>\ud83c\udf81\u76ae\u79d2\u96f7\u5c042\u5802 <br/>\ud83c\udf81\u52a0\u9cf3\u51f0\u773c\u5468\u96fb\u6ce2450\u767c\u301050000\u3011<br/>\u5feb\u901f\u8a62\u554f <a href='https://lihi.cc/01wIJ/4'>lihi.cc/01wIJ/4</a><br/>\u670d\u52d9\u5c08\u7dda 0800-000-593</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=wOUaVIK6TG8"
+},
 "time737": {
 "name": "\u4f86\u81ea\u9060\u65b9\u7684\u5360\u661f\u5e2b\uff0d\u767d\u745c",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14062521-.mp3",
@@ -12469,6 +12484,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Dec 2023": ['#2023'],
 "Nov 2023": ['#2023'],
 "Oct 2023": ['#2023'],
 "Sep 2023": ['#2023'],
@@ -12530,7 +12546,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
-"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023'],
+"#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023', 'Dec 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "#2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],

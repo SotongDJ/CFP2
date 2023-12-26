@@ -1,4 +1,19 @@
 const playlist = {
+"time747": {
+"name": "The KK Show - 234 \u82d7\u535a\u96c5",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14204205-the-kk-show-234.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Dec 2023",
+"KK Show"
+],
+"description": "<p>\u963f\u82d7\u4f86\u8ddf\u6211\u5011\u804a\u804a\u70ba\u4ec0\u9ebc\u8981\u9078\u7acb\u59d4\uff0c\u5979\u7576\u8b70\u54e1\u670d\u52d9\u7684\u5730\u5340\u600e\u9ebc\u8fa6\uff1f\u5979\u7576\u9078\u5f8c\u6709\u8fa6\u6cd5\u597d\u597d\u76e3\u7763\u57f7\u653f\u9ee8\u55ce\uff1f<br/><br/>---<br/>\u9084\u64d4\u5fc3\u5fc3\u611b\u7684Apple Watch \u522e\u82b1\uff0c\u53c8\u6216\u662f\u642d\u4e0d\u4e0a\u4f60\u7684\u7a7f\u642d\u55ce\uff1f<br/>\u2728MAGEASY \u5168\u65b0 Apple Watch \u914d\u4ef6\u2728\u5e6b\u4f60\u89e3\u6c7a\u5404\u7a2e\u56f0\u64fe<br/>ODYSSEY \u9336\u6bbc\u63d0\u4f9b\u96d9\u5c64\u4fdd\u8b77\uff0c\u5b8c\u7f8e\u9084\u539f\u771f\u6a5f\u8cea\u611f\uff0c\u5411\u73a9\u5177\u624b\u9336\u8aaano<br/>\u591a\u6b3e\u4e0d\u540c\u98a8\u683c\u9336\u5e36\uff0cACTIVE \u904b\u52d5\u9336\u5e36\u3001MAESTRO \u4e0d\u93fd\u92fc\u93c8\u9336\u5e36\u7b49\uff0c\u8f15\u9b06\u5207\u63db\u5404\u7a2e\u60c5\u5883<br/>\u5feb\u5230 MAGEASY \u70ba\u4f60\u7684 Apple Watch \u63db\u65b0\u88dd\u5427\ud83d\udc47<br/>https://mgz.link/VMHg7C\u00a0<br/>\u8f38\u5165\u5c08\u5c6c\u6298\u6263\u78bc [Ibelieve] \u4eab\u5168\u7ad992\u6298\u512a\u60e0</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDIwNDIwNQ",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=07XxacB4Ncs"
+},
 "time746": {
 "name": "The KK Show - 233 \u5730\u65b9\u5abd\u5abd\u7684\u653f\u6cbb - \u5c0f\u6c11\u53c3\u653f\u6b50\u5df4\u6851\u806f\u76df",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14198708-the-kk-show-233.mp3",

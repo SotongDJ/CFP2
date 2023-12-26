@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time747]
+name = "The KK Show - 234 苗博雅"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14204205-the-kk-show-234.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDIwNDIwNQ"
+youtube = "https://www.youtube.com/watch?v=07XxacB4Ncs"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>阿苗來跟我們聊聊為什麼要選立委，她當議員服務的地區怎麼辦？她當選後有辦法好好監督執政黨嗎？<br/><br/>---<br/>還擔心心愛的Apple Watch 刮花，又或是搭不上你的穿搭嗎？<br/>✨MAGEASY 全新 Apple Watch 配件✨幫你解決各種困擾<br/>ODYSSEY 錶殼提供雙層保護，完美還原真機質感，向玩具手錶說no<br/>多款不同風格錶帶，ACTIVE 運動錶帶、MAESTRO 不鏽鋼鏈錶帶等，輕鬆切換各種情境<br/>快到 MAGEASY 為你的 Apple Watch 換新裝吧👇<br/>https://mgz.link/VMHg7C <br/>輸入專屬折扣碼 [Ibelieve] 享全站92折優惠</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 234 苗博雅"]
+tag = ["Dec 2023"]
+category = []
+
 [time746]
 name = "The KK Show - 233 地方媽媽的政治 - 小民參政歐巴桑聯盟"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14198708-the-kk-show-233.mp3"

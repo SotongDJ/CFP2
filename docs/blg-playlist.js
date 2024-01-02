@@ -1,4 +1,19 @@
 const playlist = {
+"time750": {
+"name": "The KK Show - 235 \u71b1\u8840\u8857\u982d\u6c11\u8abf-\u8857\u982d\u6709\u6d3e\u5c0d",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14233498-the-kk-show-235.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Jan 2024",
+"KK Show"
+],
+"description": "<p>\u6728\u70ad\u8ddf\u5b87\u5091\u7684\u983b\u9053 #\u8857\u982d\u6709\u6d3e\u5c0d \u662f\u5169\u4eba\u89aa\u81ea\u74b0\u5cf6\u4e0a\u8857\u554f\u8def\u4eba\u7684\u8857\u982d\u6c11\u8abf\u3002\u4ed6\u5011\u5f9e2018\u5e74\u5c31\u958b\u59cb\u505a\uff0c\u4e5f\u662f\u7b2c\u4e00\u500b\u6b63\u78ba\u9810\u6e2c\u97d3\u570b\u745c\u6703\u7576\u9078\u7684\u6c11\u8abf\u3002\u5f9e\u90a3\u6b21\u958b\u59cb\u5230\u73fe\u5728\u5df2\u591a\u6b21\u6210\u529f\u9810\u6e2c\u9078\u8209\u7d50\u679c\u3002\u6211\u5011\u5c31\u4f86\u770b\u770b\u4ed6\u5011\u9019\u6b21\u7e3d\u7d71\u5927\u9078\u5728\u8857\u982d\u4e0a\u8abf\u67e5\u51fa\u4f86\u7684\u7d50\u679c\u662f\u4ec0\u9ebc\uff1f<br/><br/><br/><br/>*\u8abf\u67e5\u55ae\u4f4d:\u8857\u982d\u6709\u6d3e\u5c0dYoutube\u983b\u9053<br/>\u4e3b\u6301\u4eba:\u8521\u5b87\u5091\u3001\u5433\u81f3\u8881<br/>\u8fa6\u7406\u6642\u9593:2023/12/9\u81f32023/12/26<br/>\u62bd\u6a23\u65b9\u5f0f:\u5168\u53f0\u5404\u7e23\u5e02\uff0c\u8857\u982d\u96a8\u6a5f\u62bd\u6a23\u8a2a\u554f<br/>\u6bcd\u9ad4\u6578:\u7d041950\u842c\u4eba(\u6709\u7e3d\u7d71\u6295\u7968\u6b0a\u4e4b\u4eba\u53e3)<br/>\u6a23\u672c\u6578:\u53f0\u7063\u672c\u5cf6\u5404\u7e23\u5e02\u8857\u982d\u5404\u8a2a100\u4f4d\uff0c\u5404\u7e23\u5e02\u52a0\u7e3d\u51711900\u4f4d<br/>\u8aa4\u5dee\u503c:\u4fbf\u5229\u6c11\u8abf\uff0c\u4e26\u7121\u7d71\u8a08\u8aa4\u5dee\u503c\u898f\u7bc4<br/>\u7d93\u8cbb\u4f86\u6e90:\u8857\u982d\u6709\u6d3e\u5c0dYoutube\u5ee3\u544a\u6536\u76ca</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=heNHCS9mbNg"
+},
 "time749": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u660e\u5e74\u65b0\u8a08\u756b\uff0c\u7121\u4eba\u8a08\u7a0b\u8eca\u6210\u70ba\u884c\u52d5\u70ae\u623f\uff0c\u4e94\u6708\u5929\u5047\u5531\u8ddf\u5047\u9ad8\u6f6e\u4e00\u6a23",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14224891-news.mp3",
@@ -12650,6 +12665,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Jan 2024": ['#2024'],
 "Dec 2023": ['#2023'],
 "Nov 2023": ['#2023'],
 "Oct 2023": ['#2023'],
@@ -12712,6 +12728,7 @@ const tag_class = {
 "Jan 2019": ['#2019']
 };
 const class_tag = {
+"#2024": ['Jan 2024'],
 "#2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023', 'Dec 2023'],
 "#2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "#2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],

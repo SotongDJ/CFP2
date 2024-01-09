@@ -1,5 +1,17 @@
 # Add your own tag to each episode
 
+[time752]
+name = "The KK Show - 236 博恩 & Social"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14277423-the-kk-show-236-social.mp3"
+google = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDI3NzQyMw"
+spotify = "https://open.spotify.com/episode/6AOIxoIwXRX3JuMsi06mRi"
+youtube = "https://www.youtube.com/watch?v=TFodqBYYUFE"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>炎上之王博恩跟卡米地老闆Social 來聊聊去年為什麼要在台灣辦喜劇節還有博恩接下來的計畫是什麼</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 236 博恩 & Social"]
+tag = ["Jan 2024", "KK Show", "Social", "博恩"]
+category = ["#節目系列", "喜劇演員", "老闆", "喜劇演員"]
+
 [time751]
 name = "百靈果NEWS｜凱莉懷孕、哈佛校長被鬥下台，霍金參加性愛趴？"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14263776-news.mp3"

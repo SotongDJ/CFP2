@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time755]
+name = "The KK Show - 237 在日本選議員 - 李小牧"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14318032-the-kk-show-237.mp3"
+youtube = "https://www.youtube.com/watch?v=oLz8Mm0cUQk"
+image = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+description = "<p>歌舞伎町案內人李小牧來台灣玩啦。這次他來台灣除了體驗台灣的夜生活外，也是來看看台灣總統大選，順便取經。他還分享了自己在日本選議員時候的競選總部跟台灣的有什麼差別<br/><br/>HOLA和樂家居《2024厚禮祭》春節新品上市<br/><br/>• 即日起至1/24，實體門市滿 $599 送點心碗<br/>• 即日起至2/8，實體門市滿 $3,600 送 $400，可累贈無上限<br/>• 即日起至2/8，官網/APP滿 $1,000現折 $100，同筆訂單現折ㄧ次，無限制使用次數，立即逛店  <a href='https://bit.ly/3SgVvSU'>https://bit.ly/3SgVvSU</a></p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 237 在日本選議員 - 李小牧"]
+tag = ["Jan 2024", "KK Show", "李小牧"]
+category = ["#節目系列", "老闆"]
+
 [time754]
 name = "百靈果NEWS｜聊聊總統大選 feat.呱吉"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14305376-news-feat.mp3"

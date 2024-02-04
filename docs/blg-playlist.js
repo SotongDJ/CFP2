@@ -11,7 +11,7 @@ const playlist = {
 "extra": {},
 "apple": "",
 "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDQzNTEzNA",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/4F5yHyx9X4sg4XGAXWwhzL",
 "youtube": "https://www.youtube.com/watch?v=b72nUmYdqH4"
 },
 "time762": {

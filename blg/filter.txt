@@ -9,7 +9,8 @@ Process: blg/keyword-5-professional.toml
 Process: blg/keyword-6.toml
 Process: blg/keyword-7-event.toml
 [百靈果 NEWS]
-  found in: (282)
+  found in: (283)
+    time766
     time763
     time757
     time754

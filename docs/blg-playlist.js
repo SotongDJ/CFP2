@@ -1,4 +1,19 @@
 const playlist = {
+"time766": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u767e\u9748\u679c\u958b\u5de5\uff0c\u65b0\u52a0\u5761\u662f\u7f8e\u98df\u6c99\u6f20\uff1f\u4e2d\u570b\u5ba2\u6a5f\u60f3\u8981\u53d6\u4ee3\u6ce2\u97f3\uff1f",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14569710-news.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Feb 2024",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>#\u7280\u725b\u76fe<br/>\u8cfc\u8cb7\u9023\u7d50\uff1ahttps://url.rhinoshield.tw/bailingguo-202402\u00a0<br/><br/>#\u570b\u6cf0<br/>- \u5065\u6aa2\u4e2d\u5fc3\uff1a\u6566\u5e73\u3001\u5bcc\u9716\u8a3a\u6240(\u53f0\u5317\u6566\u5357)\uff5c\u745e\u6210\u3001\u745e\u5065\u3001\u745e\u5b8f\u8a3a\u6240(\u53f0\u5317\u5167\u6e56)\uff5c\u6c11\u5b89\u3001\u6cf0\u5b89\u8a3a\u6240(\u65b0\u7af9)\uff5c\u570b\u6cf0\u529f\u91ab\u8a3a\u6240(\u53f0\u5357)<br/>- \u7522\u5f8c\u8b77\u7406\uff1a\u570b\u6cf0\u53f0\u5317\u6703\u9928\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6\uff5c\u570b\u6cf0\u5167\u6e56\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6\uff5c\u570b\u6cf0\u7af9\u6559\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6\uff5c\u570b\u6cf0\u53f0\u5357\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6<br/>- \u674f\u4fdd\u91ab\u7db2\uff1a\u674f\u4fdd\u91ab\u7db2\u4fe1\u5eb7\u8a3a\u6240(\u6566\u5357)\uff5c\u674f\u4fdd\u91ab\u7db2\u4fe1\u8aa0\u8a3a\u6240(\u4fe1\u7fa9)\uff5c\u674f\u4fdd\u91ab\u7db2\u4fe1\u9716\u8a3a\u6240(\u65b0\u7af9)<br/>- \u7f8e\u5bb9\u91ab\u5b78\uff1a\u6cf0\u5b89\u8a3a\u6240(\u65b0\u7af9)<br/><br/>#NordVPN<br/>\u9019\u6b21\u4e5f\u4f9d\u7136\u63d0\u4f9b\u6559\u5f92VPN\u512a\u60e0<br/>\u641c\u5c0b http://nordvpn.com/kkvpn<br/>\u6216\u8f38\u5165\u767e\u9748\u679c\u512a\u60e0\u78bc\u3010KKVPN\u3011<br/>\u53ef\u7372\u5f97\u7368\u5bb6\u512a\u60e0\u65b9\u6848\u52a0\u8d084\u500b\u6708\u597d\u79ae<br/>\u5e73\u5747\u4e00\u500b\u6708\u53ea\u8981\u4e0d\u5230\u4e00\u676f\u5496\u5561\u7684\u50f9\u9322<br/>\u5c31\u80fd\u5927\u5927\u63d0\u5347\u4f60\u7684\u7db2\u8def\u9ad4\u9a57<br/>\u53e6\u670930\u5929\u8a66\u7528\u671f\uff0c\u53ef\u4ee5\u96a8\u6642\u53d6\u6d88\u5594</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=d6maRlMiYzY"
+},
 "time765": {
 "name": "The KK Show - 242 \u563b\u54c8\u8b66\u5bdf - POPO J",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14537349-the-kk-show-242-popo-j.mp3",

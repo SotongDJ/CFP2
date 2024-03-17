@@ -9,8 +9,8 @@ const playlist = {
 "description": "<p>\u7280\u725b\u76fe #\u8cfc\u8cb7\u9023\u7d50\uff1ahttps://url.rhinoshield.tw/bailingguonews-circular\u00a0<br/><br/>#NordVPN<br/>\u9019\u6b21\u4e5f\u4f9d\u7136\u63d0\u4f9b\u6559\u5f92VPN\u512a\u60e0<br/>\u641c\u5c0b http://nordvpn.com/kkvpn<br/>\u6216\u8f38\u5165\u767e\u9748\u679c\u512a\u60e0\u78bc\u3010KKVPN\u3011<br/>\u53ef\u7372\u5f97\u7368\u5bb6\u512a\u60e0\u65b9\u6848\u52a0\u8d084\u500b\u6708\u597d\u79ae<br/>\u5e73\u5747\u4e00\u500b\u6708\u53ea\u8981\u4e0d\u5230\u4e00\u676f\u5496\u5561\u7684\u50f9\u9322<br/>\u5c31\u80fd\u5927\u5927\u63d0\u5347\u4f60\u7684\u7db2\u8def\u9ad4\u9a57<br/>\u53e6\u670930\u5929\u8a66\u7528\u671f\uff0c\u53ef\u4ee5\u96a8\u6642\u53d6\u6d88\u5594</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
 "apple": "",
-"google": "",
-"spotify": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDcwNDIxNA",
+"spotify": "https://open.spotify.com/episode/0Q7uMncrMMQnpe1Q7vaknu",
 "youtube": "https://www.youtube.com/watch?v=MM8qO4lXvTA"
 },
 "time771": {

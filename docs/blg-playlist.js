@@ -1,4 +1,19 @@
 const playlist = {
+"time776": {
+"name": "\u9810\u544a | The KK Show - 247 \u804a\u804a\u793e\u5de5 - \u5f90\u745c",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14770309-the-kk-show-247.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2024",
+"KK Show"
+],
+"description": "<p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDc3MDMwOQ",
+"spotify": "https://open.spotify.com/episode/2ZbpGw4SHwbmNuvnErgUNG",
+"youtube": "https://www.youtube.com/watch?v=GC7Q8lFlkPE"
+},
 "time775": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u611b\u99ac\u4ed5\u5f37\u5236\u914d\u8ca8\u88ab\u544a\uff0c\u51f1\u8389\u80ce\u52d5\uff0c\u7f8e\u570b\u53d6\u6d886%\u4ef2\u4ecb\u8cbb\uff0c\u5927\u8c37\u7fd4\u5e73\u597d\u5144\u5f1f\u6d89\u7c3d\u6848",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14753887-news-6.mp3",

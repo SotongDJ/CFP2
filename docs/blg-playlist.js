@@ -12,7 +12,7 @@ const playlist = {
 "apple": "",
 "google": "",
 "spotify": "https://open.spotify.com/episode/2ZbpGw4SHwbmNuvnErgUNG",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=TcbS-WQOok4"
 },
 "time775": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u611b\u99ac\u4ed5\u5f37\u5236\u914d\u8ca8\u88ab\u544a\uff0c\u51f1\u8389\u80ce\u52d5\uff0c\u7f8e\u570b\u53d6\u6d886%\u4ef2\u4ecb\u8cbb\uff0c\u5927\u8c37\u7fd4\u5e73\u597d\u5144\u5f1f\u6d89\u7c3d\u6848",

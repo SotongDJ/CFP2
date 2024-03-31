@@ -1,4 +1,19 @@
 const playlist = {
+"time777": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u5b55\u5a66\u88ab\u9ed1\u4eba\u642d\u8a15\uff0c\u5ddd\u666e\u80a1\u7968\u4e0a\u5e02\uff0c\u4fc4\u570b\u7684\u81ed\u87f2\u8cc7\u8a0a\u6230",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14797731-news.mp3",
+"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"tag": [
+"Mar 2024",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>#NordVPN<br/>\u9019\u6b21\u4e5f\u4f9d\u7136\u63d0\u4f9b\u6559\u5f92VPN\u512a\u60e0<br/><br/></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=xdquaLXBS84"
+},
 "time776": {
 "name": "The KK Show - 247 \u804a\u804a\u793e\u5de5 - \u5f90\u745c \uff08\u9673\u7da2\u5152\u5c11\u5bb6\u5712\u4ee3\u7406\u57f7\u884c\u9577\uff09",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14770309-the-kk-show-247.mp3",

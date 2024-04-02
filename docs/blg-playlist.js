@@ -10,8 +10,8 @@ const playlist = {
 "description": "<p>\u611b\u6c99\u5c3c\u4e9e\u9019\u500b\u96e2\u6211\u5011\u5f88\u9060\u7684\u570b\u5bb6\uff0c\u5c45\u7136\u6709\u6211\u5011\u7684\u807d\u773e\u3002\u9019\u6b21\u5979\u56de\u570b\u4f86\u8ddf\u6211\u5011\u804a\u5929\uff0c\u5206\u4eab\u5c0d\u9019\u500b\u570b\u5bb6\u7684\u89c0\u5bdf\u8ddf\u7576\u5730\u4eba\u5c0d\u4fc4\u570b\u7684\u614b\u5ea6</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
 "apple": "",
-"google": "",
-"spotify": "",
+"google": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz/episode/QnV6enNwcm91dC0xNDgxMTU2Ng",
+"spotify": "https://open.spotify.com/episode/1RsyKtUO0y7oeN9veTAfNP",
 "youtube": "https://www.youtube.com/watch?v=FK2T1lXbMco"
 },
 "time777": {

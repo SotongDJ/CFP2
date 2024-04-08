@@ -1,6 +1,6 @@
 "rss" = "https://feeds.buzzsprout.com/1974862.rss"
 "apple" = "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606"
-"google" = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz"
+# "google" = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMTM2MTk4MC9zb3VuZHMucnNz"
 "spotify" = "https://api.spotify.com/v1/shows/5Vv32KtHB3peVZ8TeacUty/episodes?market=TW&limit=50"
 "youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCD2KoUc0f4Bv2Bz0mbOah8g"
 

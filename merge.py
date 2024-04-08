@@ -111,7 +111,7 @@ def do_job(target_str,configing):
         lack_content = ["\""+n["name"]+"\"\n" for n in anntt_list if "youtube" not in n.keys()]
         configing.xmlw("".join(lack_content),lack_fn_str)
         only_fn_str = "/mid/list_youtube_only.toml"
-        configing.toml({n["name"]:"extra" for n in youtube_entities.values()},only_fn_str)
+        configing.toml({n["name"]:"extra" for n in youtube_entities.values() if 'name' in n.keys()},only_fn_str)
     print("    ----\nEnd merge")
 
 if __name__ == "__main__":

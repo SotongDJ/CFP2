@@ -14,10 +14,10 @@
         // }
         {
             "name": "Python: Debug with argparse",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/update.py",
-            "args": ["exr"],
+            "program": "${workspaceFolder}/merge.py",
+            "args": ["blg"],
             "console": "integratedTerminal"
         }
     ]

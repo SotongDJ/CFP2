@@ -1,0 +1,169 @@
+["本週提醒"]
+inclusive = ["本週提醒"]
+exclusive = []
+category = ["運勢"]
+
+["水星"]
+inclusive = ["水星"]
+exclusive = []
+category = ["星象"]
+
+["金星"]
+inclusive = ["金星"]
+exclusive = []
+category = ["星象"]
+
+["月亮"]
+inclusive = ["月亮"]
+exclusive = []
+category = ["星象"]
+
+["火星"]
+inclusive = ["火星"]
+exclusive = []
+category = ["星象"]
+
+["木星"]
+inclusive = ["木星"]
+exclusive = []
+category = ["星象"]
+
+["土星"]
+inclusive = ["土星"]
+exclusive = []
+category = ["星象"]
+
+["天王星"]
+inclusive = ["天王星"]
+exclusive = []
+category = ["星象"]
+
+["海王星"]
+inclusive = ["海王星"]
+exclusive = []
+category = ["星象"]
+
+["冥王星"]
+inclusive = ["冥王星"]
+exclusive = []
+category = ["星象"]
+
+["牡羊座"]
+inclusive = ["牡羊", "牡羊座"]
+exclusive = []
+category = ["星座"]
+
+["金牛座"]
+inclusive = ["金牛", "金牛座"]
+exclusive = []
+category = ["星座"]
+
+["雙子座"]
+inclusive = ["雙子", "雙子座"]
+exclusive = []
+category = ["星座"]
+
+["巨蟹座"]
+inclusive = ["巨蟹", "巨蟹座"]
+exclusive = []
+category = ["星座"]
+
+["獅子座"]
+inclusive = ["獅子", "獅子座"]
+exclusive = []
+category = ["星座"]
+
+["處女座"]
+inclusive = ["處女", "處女座"]
+exclusive = []
+category = ["星座"]
+
+["天秤座"]
+inclusive = ["天秤", "天秤座"]
+exclusive = []
+category = ["星座"]
+
+["天蠍座"]
+inclusive = ["天蠍", "天蠍座"]
+exclusive = []
+category = ["星座"]
+
+["射手座"]
+inclusive = ["射手", "射手座"]
+exclusive = []
+category = ["星座"]
+
+["魔羯座"]
+inclusive = ["魔羯", "魔羯座"]
+exclusive = []
+category = ["星座"]
+
+["水瓶座"]
+inclusive = ["水瓶", "水瓶座"]
+exclusive = []
+category = ["星座"]
+
+["雙魚座"]
+inclusive = ["雙魚", "雙魚座"]
+exclusive = []
+category = ["星座"]
+
+["一宮"]
+inclusive = ["一宮", "1宮", "1 宮"]
+exclusive = ["十一宮", "11宮", "11 宮"]
+category = ["宮位"]
+
+["二宮"]
+inclusive = ["二宮", "2宮", "2 宮"]
+exclusive = ["十二宮", "12宮", "12 宮"]
+category = ["宮位"]
+
+["三宮"]
+inclusive = ["三宮", "3宮", "3 宮"]
+exclusive = []
+category = ["宮位"]
+
+["四宮"]
+inclusive = ["四宮", "4宮", "4 宮"]
+exclusive = []
+category = ["宮位"]
+
+["五宮"]
+inclusive = ["五宮", "5宮", "5 宮"]
+exclusive = []
+category = ["宮位"]
+
+["六宮"]
+inclusive = ["六宮", "6宮", "6 宮"]
+exclusive = []
+category = ["宮位"]
+
+["七宮"]
+inclusive = ["七宮", "7宮", "7 宮"]
+exclusive = []
+category = ["宮位"]
+
+["八宮"]
+inclusive = ["八宮", "8宮", "8 宮"]
+exclusive = []
+category = ["宮位"]
+
+["九宮"]
+inclusive = ["九宮", "9宮", "9 宮"]
+exclusive = []
+category = ["宮位"]
+
+["十宮"]
+inclusive = ["十宮", "10宮", "10 宮"]
+exclusive = []
+category = ["宮位"]
+
+["十一宮"]
+inclusive = ["十一宮", "11宮", "11 宮"]
+exclusive = []
+category = ["宮位"]
+
+["十二宮"]
+inclusive = ["十二宮", "12宮", "12 宮"]
+exclusive = []
+category = ["宮位"]

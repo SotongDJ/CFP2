@@ -1,0 +1,33 @@
+----
+Start annotation
+Process: sst/keyword-0.toml
+[本週運勢]
+  found in: (24)
+    time058
+    time056
+    time054
+    time051
+    time049
+    time047
+    time044
+    time042
+    time040
+    time038
+    time036
+    time033
+    time031
+    time029
+    time027
+    time025
+    time023
+    time021
+    time019
+    time017
+    time014
+    time012
+    time010
+    time007
+  Excluded: (0)
+    
+    ----
+End annotation

@@ -1,0 +1,489 @@
+----
+Start annotation
+Process: jst/keyword-0.toml
+[本週提醒]
+  found in: (165)
+    time489
+    time487
+    time484
+    time481
+    time478
+    time475
+    time472
+    time469
+    time466
+    time463
+    time460
+    time457
+    time454
+    time451
+    time448
+    time445
+    time442
+    time439
+    time436
+    time433
+    time430
+    time427
+    time425
+    time422
+    time419
+    time416
+    time413
+    time410
+    time407
+    time404
+    time401
+    time398
+    time395
+    time392
+    time389
+    time386
+    time383
+    time380
+    time377
+    time374
+    time371
+    time369
+    time366
+    time363
+    time360
+    time357
+    time354
+    time351
+    time348
+    time345
+    time342
+    time339
+    time337
+    time334
+    time331
+    time328
+    time325
+    time322
+    time319
+    time316
+    time313
+    time310
+    time308
+    time306
+    time303
+    time300
+    time297
+    time294
+    time291
+    time288
+    time285
+    time282
+    time279
+    time276
+    time273
+    time271
+    time269
+    time267
+    time265
+    time262
+    time259
+    time257
+    time254
+    time251
+    time248
+    time245
+    time242
+    time239
+    time236
+    time233
+    time230
+    time228
+    time225
+    time222
+    time219
+    time216
+    time213
+    time210
+    time207
+    time204
+    time202
+    time199
+    time196
+    time194
+    time191
+    time188
+    time185
+    time180
+    time177
+    time174
+    time167
+    time160
+    time157
+    time154
+    time151
+    time148
+    time141
+    time138
+    time135
+    time132
+    time125
+    time122
+    time119
+    time116
+    time113
+    time110
+    time107
+    time104
+    time101
+    time098
+    time095
+    time092
+    time090
+    time087
+    time084
+    time081
+    time079
+    time076
+    time073
+    time070
+    time067
+    time065
+    time062
+    time060
+    time057
+    time054
+    time052
+    time049
+    time047
+    time045
+    time043
+    time041
+    time038
+    time036
+    time034
+    time032
+    time030
+    time028
+    time026
+    time023
+    time021
+    time018
+    time016
+    time014
+    time012
+  Excluded: (0)
+    
+[水星]
+  found in: (10)
+    time473
+    time453
+    time384
+    time367
+    time365
+    time283
+    time278
+    time229
+    time157
+    time014
+  Excluded: (0)
+    
+[金星]
+  found in: (14)
+    time488
+    time439
+    time431
+    time424
+    time323
+    time322
+    time310
+    time260
+    time258
+    time252
+    time120
+    time111
+    time100
+    time043
+  Excluded: (0)
+    
+[月亮]
+  found in: (15)
+    time479
+    time476
+    time426
+    time397
+    time394
+    time393
+    time364
+    time353
+    time352
+    time281
+    time234
+    time133
+    time055
+    time050
+    time044
+  Excluded: (0)
+    
+[火星]
+  found in: (14)
+    time456
+    time446
+    time440
+    time420
+    time399
+    time379
+    time340
+    time334
+    time305
+    time214
+    time211
+    time075
+    time068
+    time061
+  Excluded: (0)
+    
+[木星]
+  found in: (8)
+    time356
+    time302
+    time292
+    time235
+    time175
+    time172
+    time161
+    time149
+  Excluded: (0)
+    
+[土星]
+  found in: (7)
+    time474
+    time470
+    time318
+    time301
+    time296
+    time293
+    time197
+  Excluded: (0)
+    
+[天王星]
+  found in: (3)
+    time398
+    time167
+    time009
+  Excluded: (0)
+    
+[冥王星]
+  found in: (3)
+    time369
+    time348
+    time269
+  Excluded: (0)
+    
+[牡羊座]
+  found in: (4)
+    time488
+    time435
+    time323
+    time322
+  Excluded: (0)
+    
+[金牛座]
+  found in: (4)
+    time356
+    time342
+    time043
+    time009
+  Excluded: (0)
+    
+[雙子座]
+  found in: (3)
+    time361
+    time249
+    time037
+  Excluded: (0)
+    
+[巨蟹座]
+  found in: (3)
+    time382
+    time340
+    time334
+  Excluded: (0)
+    
+[處女座]
+  found in: (5)
+    time384
+    time377
+    time091
+    time035
+    time006
+  Excluded: (0)
+    
+[天秤座]
+  found in: (3)
+    time399
+    time341
+    time001
+  Excluded: (0)
+    
+[天蠍座]
+  found in: (2)
+    time420
+    time373
+  Excluded: (0)
+    
+[射手座]
+  found in: (5)
+    time443
+    time412
+    time305
+    time247
+    time027
+  Excluded: (0)
+    
+[魔羯座]
+  found in: (4)
+    time480
+    time464
+    time456
+    time042
+  Excluded: (0)
+    
+[水瓶座]
+  found in: (3)
+    time471
+    time335
+    time157
+  Excluded: (0)
+    
+[雙魚座]
+  found in: (9)
+    time473
+    time472
+    time396
+    time372
+    time327
+    time326
+    time310
+    time206
+    time035
+  Excluded: (0)
+    
+[一宮]
+  found in: (4)
+    time200
+    time192
+    time189
+    time186
+  Excluded: (5)
+    time253
+    time250
+    time243
+    time437
+    time434
+[二宮]
+  found in: (6)
+    time336
+    time093
+    time088
+    time082
+    time381
+    time376
+  Excluded: (7)
+    time274
+    time270
+    time266
+    time261
+    time461
+    time459
+    time277
+[三宮]
+  found in: (3)
+    time112
+    time106
+    time102
+  Excluded: (0)
+    
+[四宮]
+  found in: (3)
+    time170
+    time168
+    time158
+  Excluded: (0)
+    
+[五宮]
+  found in: (9)
+    time411
+    time409
+    time408
+    time330
+    time289
+    time286
+    time280
+    time072
+    time071
+  Excluded: (0)
+    
+[六宮]
+  found in: (5)
+    time131
+    time123
+    time117
+    time390
+    time387
+  Excluded: (0)
+    
+[七宮]
+  found in: (3)
+    time182
+    time181
+    time176
+  Excluded: (0)
+    
+[八宮]
+  found in: (5)
+    time218
+    time208
+    time205
+    time201
+    time198
+  Excluded: (0)
+    
+[九宮]
+  found in: (6)
+    time197
+    time155
+    time150
+    time142
+    time139
+    time143
+  Excluded: (0)
+    
+[十宮]
+  found in: (6)
+    time417
+    time415
+    time240
+    time227
+    time224
+    time221
+  Excluded: (0)
+    
+[十一宮]
+  found in: (5)
+    time253
+    time250
+    time243
+    time437
+    time434
+  Excluded: (0)
+    
+[十二宮]
+  found in: (7)
+    time274
+    time270
+    time266
+    time261
+    time461
+    time459
+    time277
+  Excluded: (0)
+    
+    ----
+End annotation

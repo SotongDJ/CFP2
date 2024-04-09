@@ -66,7 +66,7 @@ def do_job(target_str):
     print("    ----")
     print("    export docs/"+target_str+"-tag_class")
     tag_to_class_dict = {x: [str(n) for n in y["category"]] for x, y in keyword_doc.items()}
-    tag_to_class_dict.update({m: [F"#{y}"] for m,y in month_dict.items()})
+    tag_to_class_dict.update({m: [F"{y}"] for m,y in month_dict.items()})
     tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
     tag_to_class_str = "const tag_class = {\n"+",\n".join(tag_to_class_list)+"\n};\n"
 
@@ -78,7 +78,7 @@ def do_job(target_str):
     print("    ----")
     print("    export docs/"+target_str+"-class_tag")
     class_to_tag_dict = {}
-    class_to_tag_dict.update({F"#{y}":m for y,m in reverse_dict.items()})
+    class_to_tag_dict.update({F"{y}":m for y,m in reverse_dict.items()})
     for tag_name, entry_detail in keyword_doc.items():
         for category_name in entry_detail["category"]:
             category_list = class_to_tag_dict.get(str(category_name),[])

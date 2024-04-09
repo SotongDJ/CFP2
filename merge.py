@@ -75,7 +75,7 @@ def do_job(target_str,configing):
     for title_str,month_str in month_doc.items():
         id_str = correct(title_str)
         title_episode_dict = title_dict.get(id_str,{})
-        title_episode_dict["tag"] = [month_str]
+        title_episode_dict["tag"] = [month_str,month_str.split(" ")[1]]
         title_dict[id_str] = title_episode_dict
     print("    ----")
     print("    collect podcast info from description.toml")

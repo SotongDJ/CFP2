@@ -7,7 +7,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep310-%E4%BF%9D%E6%8C%81%E7%84%A6
 google = ""
 spotify = "https://open.spotify.com/episode/146nk3vQjDAAmbidXkB99P"
 youtube = ""
-tag = ["Apr 2024"]
+tag = ["Apr 2024", "2024"]
 
 [time490.extra]
 
@@ -20,7 +20,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86
 google = ""
 spotify = "https://open.spotify.com/episode/5hVA6DgUk9Nhbg4jrGhZTm"
 youtube = ""
-tag = ["Apr 2024", "本週提醒", "運勢"]
+tag = ["Apr 2024", "2024", "本週提醒", "運勢"]
 
 [time489.extra]
 
@@ -33,7 +33,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep309-%E9%87%91%E6%98%9F%E9%80%B2
 google = ""
 spotify = "https://open.spotify.com/episode/7eoIGBGecA9lGJbEhVAwlS"
 youtube = ""
-tag = ["Apr 2024", "金星", "牡羊座", "星座", "星象"]
+tag = ["Apr 2024", "2024", "金星", "牡羊座", "星座", "星象"]
 
 [time488.extra]
 
@@ -46,7 +46,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86
 google = ""
 spotify = "https://open.spotify.com/episode/1fr5xM2KypVbE73rsqdMci"
 youtube = ""
-tag = ["Mar 2024", "本週提醒", "運勢"]
+tag = ["Mar 2024", "2024", "本週提醒", "運勢"]
 
 [time487.extra]
 
@@ -59,7 +59,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep308-%E6%84%9F%E6%83%85%E4%B8%8D
 google = ""
 spotify = "https://open.spotify.com/episode/13fLQwBdcYMEzdwl1yBFSH"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time486.extra]
 
@@ -72,7 +72,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep307-12%E6%98%9F%E5%BA%A7%E7%94%
 google = ""
 spotify = "https://open.spotify.com/episode/0HKleXlWZFW6WoInhPC2mz"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time485.extra]
 
@@ -85,7 +85,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4wMxFvnUlZ8jDfyRrayDRN"
 youtube = ""
-tag = ["Mar 2024", "本週提醒", "運勢"]
+tag = ["Mar 2024", "2024", "本週提醒", "運勢"]
 
 [time484.extra]
 
@@ -98,7 +98,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4jps5Fa5MOM2GqDx4nzaRj"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time483.extra]
 
@@ -111,7 +111,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3VnKPusihXXNSKMFyFsqhC"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time482.extra]
 
@@ -124,7 +124,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7mYBAxDNpHrTY8NOE1lQqO"
 youtube = ""
-tag = ["Mar 2024", "本週提醒", "運勢"]
+tag = ["Mar 2024", "2024", "本週提醒", "運勢"]
 
 [time481.extra]
 
@@ -137,7 +137,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5QJmH24qI4GY6RmCTYL7Jr"
 youtube = ""
-tag = ["Mar 2024", "魔羯座", "星座"]
+tag = ["Mar 2024", "2024", "魔羯座", "星座"]
 
 [time480.extra]
 
@@ -150,7 +150,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/35FCCtHMzb5suxPwdWShs9"
 youtube = ""
-tag = ["Mar 2024", "月亮", "星象"]
+tag = ["Mar 2024", "2024", "月亮", "星象"]
 
 [time479.extra]
 
@@ -163,7 +163,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/57IMt6XfXUNnmr96E8CHFV"
 youtube = ""
-tag = ["Mar 2024", "本週提醒", "運勢"]
+tag = ["Mar 2024", "2024", "本週提醒", "運勢"]
 
 [time478.extra]
 
@@ -176,7 +176,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2jyXRYoCwjDopMKSEgNmaX"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time477.extra]
 
@@ -189,7 +189,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7r3bdn7z4qAFfMMOinjd7O"
 youtube = ""
-tag = ["Mar 2024", "月亮", "星象"]
+tag = ["Mar 2024", "2024", "月亮", "星象"]
 
 [time476.extra]
 
@@ -202,7 +202,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1RBaZMpHtPwuuCywXGgXsl"
 youtube = ""
-tag = ["Mar 2024", "本週提醒", "運勢"]
+tag = ["Mar 2024", "2024", "本週提醒", "運勢"]
 
 [time475.extra]
 
@@ -215,7 +215,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/39VWLFVhF0G4Klqf59wS8V"
 youtube = ""
-tag = ["Mar 2024", "土星", "星象"]
+tag = ["Mar 2024", "2024", "土星", "星象"]
 
 [time474.extra]
 
@@ -228,7 +228,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2V8rolzwK88czSjO9oYhUi"
 youtube = ""
-tag = ["Feb 2024", "水星", "雙魚座", "星座", "星象"]
+tag = ["Feb 2024", "2024", "水星", "雙魚座", "星座", "星象"]
 
 [time473.extra]
 
@@ -241,7 +241,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3BKmKox7NM2hO8zJO5AsEO"
 youtube = ""
-tag = ["Feb 2024", "本週提醒", "雙魚座", "星座", "運勢"]
+tag = ["Feb 2024", "2024", "本週提醒", "雙魚座", "星座", "運勢"]
 
 [time472.extra]
 
@@ -254,7 +254,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3kRtUvHkAA9NVChXk4dT8U"
 youtube = ""
-tag = ["Feb 2024", "水瓶座", "星座"]
+tag = ["Feb 2024", "2024", "水瓶座", "星座"]
 
 [time471.extra]
 
@@ -267,7 +267,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1stjauhgk6QZkzQ8oxnl4U"
 youtube = ""
-tag = ["Feb 2024", "土星", "星象"]
+tag = ["Feb 2024", "2024", "土星", "星象"]
 
 [time470.extra]
 
@@ -280,7 +280,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/49E72OPS9ned3uxTE3ablW"
 youtube = ""
-tag = ["Feb 2024", "本週提醒", "運勢"]
+tag = ["Feb 2024", "2024", "本週提醒", "運勢"]
 
 [time469.extra]
 
@@ -293,7 +293,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/16P2B9fbq5fINMqtkLIgjn"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time468.extra]
 
@@ -306,7 +306,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2Gug7Tly7g7Yx3jpCK2WXn"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time467.extra]
 
@@ -319,7 +319,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7MlZzFlgJ4G07lI14iDyMi"
 youtube = ""
-tag = ["Feb 2024", "本週提醒", "運勢"]
+tag = ["Feb 2024", "2024", "本週提醒", "運勢"]
 
 [time466.extra]
 
@@ -332,7 +332,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7uCasNLhJottEzHv301XHF"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time465.extra]
 
@@ -345,7 +345,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4LROOxpgCPBq2hpwCiOSTj"
 youtube = ""
-tag = ["Jan 2024", "魔羯座", "星座"]
+tag = ["Jan 2024", "2024", "魔羯座", "星座"]
 
 [time464.extra]
 
@@ -358,7 +358,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/72LqM2xdeonEP2nZNLtzX7"
 youtube = ""
-tag = ["Jan 2024", "本週提醒", "運勢"]
+tag = ["Jan 2024", "2024", "本週提醒", "運勢"]
 
 [time463.extra]
 
@@ -371,7 +371,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4a0BxOWjG8z35PtycwBbvy"
 youtube = ""
-tag = ["Jan 2024", "獅子座", "星座"]
+tag = ["Jan 2024", "2024", "獅子座", "星座"]
 
 [time462.extra]
 
@@ -384,7 +384,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/47gEShB5v3lYMpl8Hni3J0"
 youtube = ""
-tag = ["Jan 2024", "十二宮", "宮位"]
+tag = ["Jan 2024", "2024", "十二宮", "宮位"]
 
 [time461.extra]
 
@@ -397,7 +397,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4ZChaE9M2tLWsnSasrFJ1M"
 youtube = ""
-tag = ["Jan 2024", "本週提醒", "運勢"]
+tag = ["Jan 2024", "2024", "本週提醒", "運勢"]
 
 [time460.extra]
 
@@ -410,7 +410,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6J8V8TrDThO15tdk8fkvRK"
 youtube = ""
-tag = ["Jan 2024", "十二宮", "宮位"]
+tag = ["Jan 2024", "2024", "十二宮", "宮位"]
 
 [time459.extra]
 
@@ -423,7 +423,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1SRrHzaMWNs2NjLorcdgXB"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time458.extra]
 
@@ -436,7 +436,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1lWA6QBJkkyKgOWvrt0IqC"
 youtube = ""
-tag = ["Jan 2024", "本週提醒", "運勢"]
+tag = ["Jan 2024", "2024", "本週提醒", "運勢"]
 
 [time457.extra]
 
@@ -449,7 +449,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7qEgkwXyYaqV0kudZUehkr"
 youtube = ""
-tag = ["Jan 2024", "火星", "魔羯座", "星座", "星象"]
+tag = ["Jan 2024", "2024", "火星", "魔羯座", "星座", "星象"]
 
 [time456.extra]
 
@@ -462,7 +462,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6vm79pqLSrMLuEqfv6VS0P"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time455.extra]
 
@@ -475,7 +475,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3uMEPx8AN6A9bKy8YqFGu7"
 youtube = ""
-tag = ["Jan 2024", "本週提醒", "運勢"]
+tag = ["Jan 2024", "2024", "本週提醒", "運勢"]
 
 [time454.extra]
 
@@ -488,7 +488,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3lktNxxKU5oP5okAz4PJ1U"
 youtube = ""
-tag = ["Jan 2024", "水星", "星象"]
+tag = ["Jan 2024", "2024", "水星", "星象"]
 
 [time453.extra]
 
@@ -501,7 +501,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6bXIVF2tU3M4cLDVtUEiCn"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time452.extra]
 
@@ -514,7 +514,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1xMPwnkgfQR96xki8EMLdI"
 youtube = ""
-tag = ["Dec 2023", "本週提醒", "運勢"]
+tag = ["Dec 2023", "2023", "本週提醒", "運勢"]
 
 [time451.extra]
 
@@ -527,7 +527,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/09HiOv9YJZPg0O9phzB0T6"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time450.extra]
 
@@ -540,7 +540,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0dGUOdgL79s1EZ6HW2C3gZ"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time449.extra]
 
@@ -553,7 +553,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5hUntsWjEBb12wiuP1BrUT"
 youtube = ""
-tag = ["Dec 2023", "本週提醒", "運勢"]
+tag = ["Dec 2023", "2023", "本週提醒", "運勢"]
 
 [time448.extra]
 
@@ -566,7 +566,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5ydsaXlCVg3cwJ4yAXy1En"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time447.extra]
 
@@ -579,7 +579,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4nzxQnccgnOKwlknDj365Z"
 youtube = ""
-tag = ["Dec 2023", "火星", "星象"]
+tag = ["Dec 2023", "2023", "火星", "星象"]
 
 [time446.extra]
 
@@ -592,7 +592,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/61lsGPrg1QLceGgjMSHoP0"
 youtube = ""
-tag = ["Dec 2023", "本週提醒", "運勢"]
+tag = ["Dec 2023", "2023", "本週提醒", "運勢"]
 
 [time445.extra]
 
@@ -605,7 +605,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0CPnyOIqPYx4dd8FiG4zrf"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time444.extra]
 
@@ -618,7 +618,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7Hoq3VftvAdS3X3CA4ppkE"
 youtube = ""
-tag = ["Dec 2023", "射手座", "星座"]
+tag = ["Dec 2023", "2023", "射手座", "星座"]
 
 [time443.extra]
 
@@ -631,7 +631,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/06JwVIVXVbZ3JnzyyWFR6Y"
 youtube = ""
-tag = ["Dec 2023", "本週提醒", "運勢"]
+tag = ["Dec 2023", "2023", "本週提醒", "運勢"]
 
 [time442.extra]
 
@@ -644,7 +644,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7sRHujk0RDZRqIrt5wm9ZR"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time441.extra]
 
@@ -657,7 +657,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2023", "火星", "星象"]
+tag = ["Dec 2023", "2023", "火星", "星象"]
 
 [time440.extra]
 
@@ -670,7 +670,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2023", "本週提醒", "金星", "星象", "運勢"]
+tag = ["Dec 2023", "2023", "本週提醒", "金星", "星象", "運勢"]
 
 [time439.extra]
 
@@ -683,7 +683,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time438.extra]
 
@@ -696,7 +696,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "十一宮", "宮位"]
+tag = ["Nov 2023", "2023", "十一宮", "宮位"]
 
 [time437.extra]
 
@@ -709,7 +709,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "本週提醒", "運勢"]
+tag = ["Nov 2023", "2023", "本週提醒", "運勢"]
 
 [time436.extra]
 
@@ -722,7 +722,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "牡羊座", "星座"]
+tag = ["Nov 2023", "2023", "牡羊座", "星座"]
 
 [time435.extra]
 
@@ -735,7 +735,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "十一宮", "宮位"]
+tag = ["Nov 2023", "2023", "十一宮", "宮位"]
 
 [time434.extra]
 
@@ -748,7 +748,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "本週提醒", "運勢"]
+tag = ["Nov 2023", "2023", "本週提醒", "運勢"]
 
 [time433.extra]
 
@@ -761,7 +761,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time432.extra]
 
@@ -774,7 +774,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "金星", "星象"]
+tag = ["Nov 2023", "2023", "金星", "星象"]
 
 [time431.extra]
 
@@ -787,7 +787,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "本週提醒", "運勢"]
+tag = ["Nov 2023", "2023", "本週提醒", "運勢"]
 
 [time430.extra]
 
@@ -800,7 +800,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time429.extra]
 
@@ -813,7 +813,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time428.extra]
 
@@ -826,7 +826,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "本週提醒", "運勢"]
+tag = ["Nov 2023", "2023", "本週提醒", "運勢"]
 
 [time427.extra]
 
@@ -839,7 +839,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2023", "月亮", "星象"]
+tag = ["Nov 2023", "2023", "月亮", "星象"]
 
 [time426.extra]
 
@@ -852,7 +852,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "本週提醒", "運勢"]
+tag = ["Oct 2023", "2023", "本週提醒", "運勢"]
 
 [time425.extra]
 
@@ -865,7 +865,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "金星", "星象"]
+tag = ["Oct 2023", "2023", "金星", "星象"]
 
 [time424.extra]
 
@@ -878,7 +878,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time423.extra]
 
@@ -891,7 +891,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "本週提醒", "運勢"]
+tag = ["Oct 2023", "2023", "本週提醒", "運勢"]
 
 [time422.extra]
 
@@ -904,7 +904,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time421.extra]
 
@@ -917,7 +917,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "火星", "天蠍座", "星座", "星象"]
+tag = ["Oct 2023", "2023", "火星", "天蠍座", "星座", "星象"]
 
 [time420.extra]
 
@@ -930,7 +930,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "本週提醒", "運勢"]
+tag = ["Oct 2023", "2023", "本週提醒", "運勢"]
 
 [time419.extra]
 
@@ -943,7 +943,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time418.extra]
 
@@ -956,7 +956,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "十宮", "宮位"]
+tag = ["Oct 2023", "2023", "十宮", "宮位"]
 
 [time417.extra]
 
@@ -969,7 +969,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "本週提醒", "運勢"]
+tag = ["Oct 2023", "2023", "本週提醒", "運勢"]
 
 [time416.extra]
 
@@ -982,7 +982,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "十宮", "宮位"]
+tag = ["Oct 2023", "2023", "十宮", "宮位"]
 
 [time415.extra]
 
@@ -995,7 +995,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time414.extra]
 
@@ -1008,7 +1008,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2023", "本週提醒", "運勢"]
+tag = ["Oct 2023", "2023", "本週提醒", "運勢"]
 
 [time413.extra]
 
@@ -1021,7 +1021,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "射手座", "星座"]
+tag = ["Sep 2023", "2023", "射手座", "星座"]
 
 [time412.extra]
 
@@ -1034,7 +1034,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "五宮", "宮位"]
+tag = ["Sep 2023", "2023", "五宮", "宮位"]
 
 [time411.extra]
 
@@ -1047,7 +1047,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "本週提醒", "運勢"]
+tag = ["Sep 2023", "2023", "本週提醒", "運勢"]
 
 [time410.extra]
 
@@ -1060,7 +1060,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "五宮", "宮位"]
+tag = ["Sep 2023", "2023", "五宮", "宮位"]
 
 [time409.extra]
 
@@ -1073,7 +1073,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "五宮", "宮位"]
+tag = ["Sep 2023", "2023", "五宮", "宮位"]
 
 [time408.extra]
 
@@ -1086,7 +1086,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "本週提醒", "運勢"]
+tag = ["Sep 2023", "2023", "本週提醒", "運勢"]
 
 [time407.extra]
 
@@ -1099,7 +1099,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time406.extra]
 
@@ -1112,7 +1112,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time405.extra]
 
@@ -1125,7 +1125,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "本週提醒", "運勢"]
+tag = ["Sep 2023", "2023", "本週提醒", "運勢"]
 
 [time404.extra]
 
@@ -1138,7 +1138,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time403.extra]
 
@@ -1151,7 +1151,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time402.extra]
 
@@ -1164,7 +1164,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023", "本週提醒", "運勢"]
+tag = ["Sep 2023", "2023", "本週提醒", "運勢"]
 
 [time401.extra]
 
@@ -1177,7 +1177,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time400.extra]
 
@@ -1190,7 +1190,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "火星", "天秤座", "星座", "星象"]
+tag = ["Aug 2023", "2023", "火星", "天秤座", "星座", "星象"]
 
 [time399.extra]
 
@@ -1203,7 +1203,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "本週提醒", "天王星", "星象", "運勢"]
+tag = ["Aug 2023", "2023", "本週提醒", "天王星", "星象", "運勢"]
 
 [time398.extra]
 
@@ -1216,7 +1216,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "月亮", "星象"]
+tag = ["Aug 2023", "2023", "月亮", "星象"]
 
 [time397.extra]
 
@@ -1229,7 +1229,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "雙魚座", "星座"]
+tag = ["Aug 2023", "2023", "雙魚座", "星座"]
 
 [time396.extra]
 
@@ -1242,7 +1242,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "本週提醒", "運勢"]
+tag = ["Aug 2023", "2023", "本週提醒", "運勢"]
 
 [time395.extra]
 
@@ -1255,7 +1255,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "月亮", "星象"]
+tag = ["Aug 2023", "2023", "月亮", "星象"]
 
 [time394.extra]
 
@@ -1268,7 +1268,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "月亮", "星象"]
+tag = ["Aug 2023", "2023", "月亮", "星象"]
 
 [time393.extra]
 
@@ -1281,7 +1281,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "本週提醒", "運勢"]
+tag = ["Aug 2023", "2023", "本週提醒", "運勢"]
 
 [time392.extra]
 
@@ -1294,7 +1294,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023"]
+tag = ["Aug 2023", "2023"]
 
 [time391.extra]
 
@@ -1307,7 +1307,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "六宮", "宮位"]
+tag = ["Aug 2023", "2023", "六宮", "宮位"]
 
 [time390.extra]
 
@@ -1320,7 +1320,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "本週提醒", "運勢"]
+tag = ["Aug 2023", "2023", "本週提醒", "運勢"]
 
 [time389.extra]
 
@@ -1333,7 +1333,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023"]
+tag = ["Aug 2023", "2023"]
 
 [time388.extra]
 
@@ -1346,7 +1346,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2023", "六宮", "宮位"]
+tag = ["Aug 2023", "2023", "六宮", "宮位"]
 
 [time387.extra]
 
@@ -1359,7 +1359,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "本週提醒", "運勢"]
+tag = ["Jul 2023", "2023", "本週提醒", "運勢"]
 
 [time386.extra]
 
@@ -1372,7 +1372,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time385.extra]
 
@@ -1385,7 +1385,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "水星", "處女座", "星座", "星象"]
+tag = ["Jul 2023", "2023", "水星", "處女座", "星座", "星象"]
 
 [time384.extra]
 
@@ -1398,7 +1398,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "本週提醒", "運勢"]
+tag = ["Jul 2023", "2023", "本週提醒", "運勢"]
 
 [time383.extra]
 
@@ -1411,7 +1411,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "巨蟹座", "星座"]
+tag = ["Jul 2023", "2023", "巨蟹座", "星座"]
 
 [time382.extra]
 
@@ -1424,7 +1424,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "二宮", "宮位"]
+tag = ["Jul 2023", "2023", "二宮", "宮位"]
 
 [time381.extra]
 
@@ -1437,7 +1437,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "本週提醒", "運勢"]
+tag = ["Jul 2023", "2023", "本週提醒", "運勢"]
 
 [time380.extra]
 
@@ -1450,7 +1450,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "火星", "星象"]
+tag = ["Jul 2023", "2023", "火星", "星象"]
 
 [time379.extra]
 
@@ -1463,7 +1463,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time378.extra]
 
@@ -1476,7 +1476,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "本週提醒", "處女座", "星座", "運勢"]
+tag = ["Jul 2023", "2023", "本週提醒", "處女座", "星座", "運勢"]
 
 [time377.extra]
 
@@ -1489,7 +1489,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "二宮", "宮位"]
+tag = ["Jul 2023", "2023", "二宮", "宮位"]
 
 [time376.extra]
 
@@ -1502,7 +1502,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time375.extra]
 
@@ -1515,7 +1515,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2023", "本週提醒", "運勢"]
+tag = ["Jul 2023", "2023", "本週提醒", "運勢"]
 
 [time374.extra]
 
@@ -1528,7 +1528,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "天蠍座", "星座"]
+tag = ["Jun 2023", "2023", "天蠍座", "星座"]
 
 [time373.extra]
 
@@ -1541,7 +1541,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "雙魚座", "星座"]
+tag = ["Jun 2023", "2023", "雙魚座", "星座"]
 
 [time372.extra]
 
@@ -1554,7 +1554,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "本週提醒", "運勢"]
+tag = ["Jun 2023", "2023", "本週提醒", "運勢"]
 
 [time371.extra]
 
@@ -1567,7 +1567,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time370.extra]
 
@@ -1580,7 +1580,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "本週提醒", "冥王星", "星象", "運勢"]
+tag = ["Jun 2023", "2023", "本週提醒", "冥王星", "星象", "運勢"]
 
 [time369.extra]
 
@@ -1593,7 +1593,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time368.extra]
 
@@ -1606,7 +1606,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "水星", "星象"]
+tag = ["Jun 2023", "2023", "水星", "星象"]
 
 [time367.extra]
 
@@ -1619,7 +1619,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "本週提醒", "運勢"]
+tag = ["Jun 2023", "2023", "本週提醒", "運勢"]
 
 [time366.extra]
 
@@ -1632,7 +1632,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "水星", "星象"]
+tag = ["Jun 2023", "2023", "水星", "星象"]
 
 [time365.extra]
 
@@ -1645,7 +1645,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "月亮", "星象"]
+tag = ["Jun 2023", "2023", "月亮", "星象"]
 
 [time364.extra]
 
@@ -1658,7 +1658,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023", "本週提醒", "運勢"]
+tag = ["Jun 2023", "2023", "本週提醒", "運勢"]
 
 [time363.extra]
 
@@ -1671,7 +1671,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time362.extra]
 
@@ -1684,7 +1684,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "雙子座", "星座"]
+tag = ["May 2023", "2023", "雙子座", "星座"]
 
 [time361.extra]
 
@@ -1697,7 +1697,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週提醒", "運勢"]
+tag = ["May 2023", "2023", "本週提醒", "運勢"]
 
 [time360.extra]
 
@@ -1710,7 +1710,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time359.extra]
 
@@ -1723,7 +1723,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time358.extra]
 
@@ -1736,7 +1736,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週提醒", "運勢"]
+tag = ["May 2023", "2023", "本週提醒", "運勢"]
 
 [time357.extra]
 
@@ -1749,7 +1749,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "木星", "金牛座", "星座", "星象"]
+tag = ["May 2023", "2023", "木星", "金牛座", "星座", "星象"]
 
 [time356.extra]
 
@@ -1762,7 +1762,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time355.extra]
 
@@ -1775,7 +1775,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週提醒", "運勢"]
+tag = ["May 2023", "2023", "本週提醒", "運勢"]
 
 [time354.extra]
 
@@ -1788,7 +1788,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "月亮", "星象"]
+tag = ["May 2023", "2023", "月亮", "星象"]
 
 [time353.extra]
 
@@ -1801,7 +1801,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "月亮", "星象"]
+tag = ["May 2023", "2023", "月亮", "星象"]
 
 [time352.extra]
 
@@ -1814,7 +1814,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週提醒", "運勢"]
+tag = ["May 2023", "2023", "本週提醒", "運勢"]
 
 [time351.extra]
 
@@ -1827,7 +1827,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time350.extra]
 
@@ -1840,7 +1840,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time349.extra]
 
@@ -1853,7 +1853,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週提醒", "冥王星", "星象", "運勢"]
+tag = ["Apr 2023", "2023", "本週提醒", "冥王星", "星象", "運勢"]
 
 [time348.extra]
 
@@ -1866,7 +1866,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time347.extra]
 
@@ -1879,7 +1879,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time346.extra]
 
@@ -1892,7 +1892,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週提醒", "運勢"]
+tag = ["Apr 2023", "2023", "本週提醒", "運勢"]
 
 [time345.extra]
 
@@ -1905,7 +1905,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time344.extra]
 
@@ -1918,7 +1918,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time343.extra]
 
@@ -1931,7 +1931,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週提醒", "金牛座", "星座", "運勢"]
+tag = ["Apr 2023", "2023", "本週提醒", "金牛座", "星座", "運勢"]
 
 [time342.extra]
 
@@ -1944,7 +1944,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "天秤座", "星座"]
+tag = ["Apr 2023", "2023", "天秤座", "星座"]
 
 [time341.extra]
 
@@ -1957,7 +1957,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "火星", "巨蟹座", "星座", "星象"]
+tag = ["Apr 2023", "2023", "火星", "巨蟹座", "星座", "星象"]
 
 [time340.extra]
 
@@ -1970,7 +1970,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週提醒", "運勢"]
+tag = ["Apr 2023", "2023", "本週提醒", "運勢"]
 
 [time339.extra]
 
@@ -1983,7 +1983,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time338.extra]
 
@@ -1996,7 +1996,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週提醒", "運勢"]
+tag = ["Apr 2023", "2023", "本週提醒", "運勢"]
 
 [time337.extra]
 
@@ -2009,7 +2009,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "二宮", "宮位"]
+tag = ["Mar 2023", "2023", "二宮", "宮位"]
 
 [time336.extra]
 
@@ -2022,7 +2022,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "水瓶座", "星座"]
+tag = ["Mar 2023", "2023", "水瓶座", "星座"]
 
 [time335.extra]
 
@@ -2035,7 +2035,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週提醒", "火星", "巨蟹座", "星座", "星象", "運勢"]
+tag = ["Mar 2023", "2023", "本週提醒", "火星", "巨蟹座", "星座", "星象", "運勢"]
 
 [time334.extra]
 
@@ -2048,7 +2048,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time333.extra]
 
@@ -2061,7 +2061,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time332.extra]
 
@@ -2074,7 +2074,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週提醒", "運勢"]
+tag = ["Mar 2023", "2023", "本週提醒", "運勢"]
 
 [time331.extra]
 
@@ -2087,7 +2087,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "五宮", "宮位"]
+tag = ["Mar 2023", "2023", "五宮", "宮位"]
 
 [time330.extra]
 
@@ -2100,7 +2100,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time329.extra]
 
@@ -2113,7 +2113,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週提醒", "運勢"]
+tag = ["Mar 2023", "2023", "本週提醒", "運勢"]
 
 [time328.extra]
 
@@ -2126,7 +2126,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "雙魚座", "星座"]
+tag = ["Mar 2023", "2023", "雙魚座", "星座"]
 
 [time327.extra]
 
@@ -2139,7 +2139,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "雙魚座", "星座"]
+tag = ["Mar 2023", "2023", "雙魚座", "星座"]
 
 [time326.extra]
 
@@ -2152,7 +2152,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週提醒", "運勢"]
+tag = ["Mar 2023", "2023", "本週提醒", "運勢"]
 
 [time325.extra]
 
@@ -2165,7 +2165,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time324.extra]
 
@@ -2178,7 +2178,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "金星", "牡羊座", "星座", "星象"]
+tag = ["Mar 2023", "2023", "金星", "牡羊座", "星座", "星象"]
 
 [time323.extra]
 
@@ -2191,7 +2191,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週提醒", "金星", "牡羊座", "星座", "星象", "運勢"]
+tag = ["Feb 2023", "2023", "本週提醒", "金星", "牡羊座", "星座", "星象", "運勢"]
 
 [time322.extra]
 
@@ -2204,7 +2204,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time321.extra]
 
@@ -2217,7 +2217,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time320.extra]
 
@@ -2230,7 +2230,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週提醒", "運勢"]
+tag = ["Feb 2023", "2023", "本週提醒", "運勢"]
 
 [time319.extra]
 
@@ -2243,7 +2243,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "土星", "星象"]
+tag = ["Feb 2023", "2023", "土星", "星象"]
 
 [time318.extra]
 
@@ -2256,7 +2256,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time317.extra]
 
@@ -2269,7 +2269,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週提醒", "運勢"]
+tag = ["Feb 2023", "2023", "本週提醒", "運勢"]
 
 [time316.extra]
 
@@ -2282,7 +2282,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time315.extra]
 
@@ -2295,7 +2295,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time314.extra]
 
@@ -2308,7 +2308,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週提醒", "運勢"]
+tag = ["Feb 2023", "2023", "本週提醒", "運勢"]
 
 [time313.extra]
 
@@ -2321,7 +2321,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time312.extra]
 
@@ -2334,7 +2334,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time311.extra]
 
@@ -2347,7 +2347,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週提醒", "金星", "雙魚座", "星座", "星象", "運勢"]
+tag = ["Jan 2023", "2023", "本週提醒", "金星", "雙魚座", "星座", "星象", "運勢"]
 
 [time310.extra]
 
@@ -2360,7 +2360,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time309.extra]
 
@@ -2373,7 +2373,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週提醒", "運勢"]
+tag = ["Jan 2023", "2023", "本週提醒", "運勢"]
 
 [time308.extra]
 
@@ -2386,7 +2386,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time307.extra]
 
@@ -2399,7 +2399,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週提醒", "運勢"]
+tag = ["Jan 2023", "2023", "本週提醒", "運勢"]
 
 [time306.extra]
 
@@ -2412,7 +2412,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "火星", "射手座", "星座", "星象"]
+tag = ["Jan 2023", "2023", "火星", "射手座", "星座", "星象"]
 
 [time305.extra]
 
@@ -2425,7 +2425,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time304.extra]
 
@@ -2438,7 +2438,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週提醒", "運勢"]
+tag = ["Jan 2023", "2023", "本週提醒", "運勢"]
 
 [time303.extra]
 
@@ -2451,7 +2451,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "木星", "星象"]
+tag = ["Dec 2022", "2022", "木星", "星象"]
 
 [time302.extra]
 
@@ -2464,7 +2464,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "土星", "星象"]
+tag = ["Dec 2022", "2022", "土星", "星象"]
 
 [time301.extra]
 
@@ -2477,7 +2477,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "本週提醒", "運勢"]
+tag = ["Dec 2022", "2022", "本週提醒", "運勢"]
 
 [time300.extra]
 
@@ -2490,7 +2490,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time299.extra]
 
@@ -2503,7 +2503,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time298.extra]
 
@@ -2516,7 +2516,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "本週提醒", "運勢"]
+tag = ["Dec 2022", "2022", "本週提醒", "運勢"]
 
 [time297.extra]
 
@@ -2529,7 +2529,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "土星", "星象"]
+tag = ["Dec 2022", "2022", "土星", "星象"]
 
 [time296.extra]
 
@@ -2542,7 +2542,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time295.extra]
 
@@ -2555,7 +2555,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "本週提醒", "運勢"]
+tag = ["Dec 2022", "2022", "本週提醒", "運勢"]
 
 [time294.extra]
 
@@ -2568,7 +2568,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "土星", "星象"]
+tag = ["Dec 2022", "2022", "土星", "星象"]
 
 [time293.extra]
 
@@ -2581,7 +2581,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "木星", "星象"]
+tag = ["Dec 2022", "2022", "木星", "星象"]
 
 [time292.extra]
 
@@ -2594,7 +2594,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "本週提醒", "運勢"]
+tag = ["Dec 2022", "2022", "本週提醒", "運勢"]
 
 [time291.extra]
 
@@ -2607,7 +2607,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time290.extra]
 
@@ -2620,7 +2620,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "五宮", "宮位"]
+tag = ["Nov 2022", "2022", "五宮", "宮位"]
 
 [time289.extra]
 
@@ -2633,7 +2633,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "本週提醒", "運勢"]
+tag = ["Nov 2022", "2022", "本週提醒", "運勢"]
 
 [time288.extra]
 
@@ -2646,7 +2646,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022"]
+tag = ["Nov 2022", "2022"]
 
 [time287.extra]
 
@@ -2659,7 +2659,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "五宮", "宮位"]
+tag = ["Nov 2022", "2022", "五宮", "宮位"]
 
 [time286.extra]
 
@@ -2672,7 +2672,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "本週提醒", "運勢"]
+tag = ["Nov 2022", "2022", "本週提醒", "運勢"]
 
 [time285.extra]
 
@@ -2685,7 +2685,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022"]
+tag = ["Nov 2022", "2022"]
 
 [time284.extra]
 
@@ -2698,7 +2698,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "水星", "星象"]
+tag = ["Nov 2022", "2022", "水星", "星象"]
 
 [time283.extra]
 
@@ -2711,7 +2711,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "本週提醒", "運勢"]
+tag = ["Nov 2022", "2022", "本週提醒", "運勢"]
 
 [time282.extra]
 
@@ -2724,7 +2724,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "月亮", "星象"]
+tag = ["Nov 2022", "2022", "月亮", "星象"]
 
 [time281.extra]
 
@@ -2737,7 +2737,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "五宮", "宮位"]
+tag = ["Nov 2022", "2022", "五宮", "宮位"]
 
 [time280.extra]
 
@@ -2750,7 +2750,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "本週提醒", "運勢"]
+tag = ["Nov 2022", "2022", "本週提醒", "運勢"]
 
 [time279.extra]
 
@@ -2763,7 +2763,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "水星", "星象"]
+tag = ["Nov 2022", "2022", "水星", "星象"]
 
 [time278.extra]
 
@@ -2776,7 +2776,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022", "十二宮", "宮位"]
+tag = ["Nov 2022", "2022", "十二宮", "宮位"]
 
 [time277.extra]
 
@@ -2789,7 +2789,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "本週提醒", "運勢"]
+tag = ["Oct 2022", "2022", "本週提醒", "運勢"]
 
 [time276.extra]
 
@@ -2802,7 +2802,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022"]
+tag = ["Oct 2022", "2022"]
 
 [time275.extra]
 
@@ -2815,7 +2815,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "十二宮", "宮位"]
+tag = ["Oct 2022", "2022", "十二宮", "宮位"]
 
 [time274.extra]
 
@@ -2828,7 +2828,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "本週提醒", "運勢"]
+tag = ["Oct 2022", "2022", "本週提醒", "運勢"]
 
 [time273.extra]
 
@@ -2841,7 +2841,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022"]
+tag = ["Oct 2022", "2022"]
 
 [time272.extra]
 
@@ -2854,7 +2854,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "本週提醒", "運勢"]
+tag = ["Oct 2022", "2022", "本週提醒", "運勢"]
 
 [time271.extra]
 
@@ -2867,7 +2867,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "十二宮", "宮位"]
+tag = ["Oct 2022", "2022", "十二宮", "宮位"]
 
 [time270.extra]
 
@@ -2880,7 +2880,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "本週提醒", "冥王星", "星象", "運勢"]
+tag = ["Oct 2022", "2022", "本週提醒", "冥王星", "星象", "運勢"]
 
 [time269.extra]
 
@@ -2893,7 +2893,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022"]
+tag = ["Oct 2022", "2022"]
 
 [time268.extra]
 
@@ -2906,7 +2906,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2022", "本週提醒", "運勢"]
+tag = ["Oct 2022", "2022", "本週提醒", "運勢"]
 
 [time267.extra]
 
@@ -2919,7 +2919,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "十二宮", "宮位"]
+tag = ["Sep 2022", "2022", "十二宮", "宮位"]
 
 [time266.extra]
 
@@ -2932,7 +2932,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "本週提醒", "運勢"]
+tag = ["Sep 2022", "2022", "本週提醒", "運勢"]
 
 [time265.extra]
 
@@ -2945,7 +2945,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022"]
+tag = ["Sep 2022", "2022"]
 
 [time264.extra]
 
@@ -2958,7 +2958,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022"]
+tag = ["Sep 2022", "2022"]
 
 [time263.extra]
 
@@ -2971,7 +2971,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "本週提醒", "運勢"]
+tag = ["Sep 2022", "2022", "本週提醒", "運勢"]
 
 [time262.extra]
 
@@ -2984,7 +2984,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "十二宮", "宮位"]
+tag = ["Sep 2022", "2022", "十二宮", "宮位"]
 
 [time261.extra]
 
@@ -2997,7 +2997,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "金星", "星象"]
+tag = ["Sep 2022", "2022", "金星", "星象"]
 
 [time260.extra]
 
@@ -3010,7 +3010,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "本週提醒", "運勢"]
+tag = ["Sep 2022", "2022", "本週提醒", "運勢"]
 
 [time259.extra]
 
@@ -3023,7 +3023,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "金星", "星象"]
+tag = ["Sep 2022", "2022", "金星", "星象"]
 
 [time258.extra]
 
@@ -3036,7 +3036,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022", "本週提醒", "運勢"]
+tag = ["Sep 2022", "2022", "本週提醒", "運勢"]
 
 [time257.extra]
 
@@ -3049,7 +3049,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2022"]
+tag = ["Sep 2022", "2022"]
 
 [time256.extra]
 
@@ -3062,7 +3062,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022"]
+tag = ["Aug 2022", "2022"]
 
 [time255.extra]
 
@@ -3075,7 +3075,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "本週提醒", "運勢"]
+tag = ["Aug 2022", "2022", "本週提醒", "運勢"]
 
 [time254.extra]
 
@@ -3088,7 +3088,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "十一宮", "宮位"]
+tag = ["Aug 2022", "2022", "十一宮", "宮位"]
 
 [time253.extra]
 
@@ -3101,7 +3101,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "金星", "星象"]
+tag = ["Aug 2022", "2022", "金星", "星象"]
 
 [time252.extra]
 
@@ -3114,7 +3114,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "本週提醒", "運勢"]
+tag = ["Aug 2022", "2022", "本週提醒", "運勢"]
 
 [time251.extra]
 
@@ -3127,7 +3127,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "十一宮", "宮位"]
+tag = ["Aug 2022", "2022", "十一宮", "宮位"]
 
 [time250.extra]
 
@@ -3140,7 +3140,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "雙子座", "星座"]
+tag = ["Aug 2022", "2022", "雙子座", "星座"]
 
 [time249.extra]
 
@@ -3153,7 +3153,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "本週提醒", "運勢"]
+tag = ["Aug 2022", "2022", "本週提醒", "運勢"]
 
 [time248.extra]
 
@@ -3166,7 +3166,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "射手座", "星座"]
+tag = ["Aug 2022", "2022", "射手座", "星座"]
 
 [time247.extra]
 
@@ -3179,7 +3179,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022"]
+tag = ["Aug 2022", "2022"]
 
 [time246.extra]
 
@@ -3192,7 +3192,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "本週提醒", "運勢"]
+tag = ["Aug 2022", "2022", "本週提醒", "運勢"]
 
 [time245.extra]
 
@@ -3205,7 +3205,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022"]
+tag = ["Aug 2022", "2022"]
 
 [time244.extra]
 
@@ -3218,7 +3218,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2022", "十一宮", "宮位"]
+tag = ["Aug 2022", "2022", "十一宮", "宮位"]
 
 [time243.extra]
 
@@ -3231,7 +3231,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "本週提醒", "運勢"]
+tag = ["Jul 2022", "2022", "本週提醒", "運勢"]
 
 [time242.extra]
 
@@ -3244,7 +3244,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022"]
+tag = ["Jul 2022", "2022"]
 
 [time241.extra]
 
@@ -3257,7 +3257,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "十宮", "宮位"]
+tag = ["Jul 2022", "2022", "十宮", "宮位"]
 
 [time240.extra]
 
@@ -3270,7 +3270,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "本週提醒", "運勢"]
+tag = ["Jul 2022", "2022", "本週提醒", "運勢"]
 
 [time239.extra]
 
@@ -3283,7 +3283,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022"]
+tag = ["Jul 2022", "2022"]
 
 [time238.extra]
 
@@ -3296,7 +3296,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022"]
+tag = ["Jul 2022", "2022"]
 
 [time237.extra]
 
@@ -3309,7 +3309,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "本週提醒", "運勢"]
+tag = ["Jul 2022", "2022", "本週提醒", "運勢"]
 
 [time236.extra]
 
@@ -3322,7 +3322,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "木星", "星象"]
+tag = ["Jul 2022", "2022", "木星", "星象"]
 
 [time235.extra]
 
@@ -3335,7 +3335,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "月亮", "星象"]
+tag = ["Jul 2022", "2022", "月亮", "星象"]
 
 [time234.extra]
 
@@ -3348,7 +3348,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "本週提醒", "運勢"]
+tag = ["Jul 2022", "2022", "本週提醒", "運勢"]
 
 [time233.extra]
 
@@ -3361,7 +3361,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022"]
+tag = ["Jul 2022", "2022"]
 
 [time232.extra]
 
@@ -3374,7 +3374,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022"]
+tag = ["Jul 2022", "2022"]
 
 [time231.extra]
 
@@ -3387,7 +3387,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2022", "本週提醒", "運勢"]
+tag = ["Jul 2022", "2022", "本週提醒", "運勢"]
 
 [time230.extra]
 
@@ -3400,7 +3400,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "水星", "星象"]
+tag = ["Jun 2022", "2022", "水星", "星象"]
 
 [time229.extra]
 
@@ -3413,7 +3413,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "本週提醒", "運勢"]
+tag = ["Jun 2022", "2022", "本週提醒", "運勢"]
 
 [time228.extra]
 
@@ -3426,7 +3426,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "十宮", "宮位"]
+tag = ["Jun 2022", "2022", "十宮", "宮位"]
 
 [time227.extra]
 
@@ -3439,7 +3439,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022"]
+tag = ["Jun 2022", "2022"]
 
 [time226.extra]
 
@@ -3452,7 +3452,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "本週提醒", "運勢"]
+tag = ["Jun 2022", "2022", "本週提醒", "運勢"]
 
 [time225.extra]
 
@@ -3465,7 +3465,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "十宮", "宮位"]
+tag = ["Jun 2022", "2022", "十宮", "宮位"]
 
 [time224.extra]
 
@@ -3478,7 +3478,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022"]
+tag = ["Jun 2022", "2022"]
 
 [time223.extra]
 
@@ -3491,7 +3491,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "本週提醒", "運勢"]
+tag = ["Jun 2022", "2022", "本週提醒", "運勢"]
 
 [time222.extra]
 
@@ -3504,7 +3504,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "十宮", "宮位"]
+tag = ["Jun 2022", "2022", "十宮", "宮位"]
 
 [time221.extra]
 
@@ -3517,7 +3517,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022"]
+tag = ["Jun 2022", "2022"]
 
 [time220.extra]
 
@@ -3530,7 +3530,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "本週提醒", "運勢"]
+tag = ["Jun 2022", "2022", "本週提醒", "運勢"]
 
 [time219.extra]
 
@@ -3543,7 +3543,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2022", "八宮", "宮位"]
+tag = ["Jun 2022", "2022", "八宮", "宮位"]
 
 [time218.extra]
 
@@ -3556,7 +3556,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022"]
+tag = ["May 2022", "2022"]
 
 [time217.extra]
 
@@ -3569,7 +3569,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "本週提醒", "運勢"]
+tag = ["May 2022", "2022", "本週提醒", "運勢"]
 
 [time216.extra]
 
@@ -3582,7 +3582,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022"]
+tag = ["May 2022", "2022"]
 
 [time215.extra]
 
@@ -3595,7 +3595,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "火星", "星象"]
+tag = ["May 2022", "2022", "火星", "星象"]
 
 [time214.extra]
 
@@ -3608,7 +3608,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "本週提醒", "運勢"]
+tag = ["May 2022", "2022", "本週提醒", "運勢"]
 
 [time213.extra]
 
@@ -3621,7 +3621,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022"]
+tag = ["May 2022", "2022"]
 
 [time212.extra]
 
@@ -3634,7 +3634,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "火星", "星象"]
+tag = ["May 2022", "2022", "火星", "星象"]
 
 [time211.extra]
 
@@ -3647,7 +3647,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "本週提醒", "運勢"]
+tag = ["May 2022", "2022", "本週提醒", "運勢"]
 
 [time210.extra]
 
@@ -3660,7 +3660,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022"]
+tag = ["May 2022", "2022"]
 
 [time209.extra]
 
@@ -3673,7 +3673,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "八宮", "宮位"]
+tag = ["May 2022", "2022", "八宮", "宮位"]
 
 [time208.extra]
 
@@ -3686,7 +3686,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "本週提醒", "運勢"]
+tag = ["May 2022", "2022", "本週提醒", "運勢"]
 
 [time207.extra]
 
@@ -3699,7 +3699,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "雙魚座", "星座"]
+tag = ["May 2022", "2022", "雙魚座", "星座"]
 
 [time206.extra]
 
@@ -3712,7 +3712,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "八宮", "宮位"]
+tag = ["May 2022", "2022", "八宮", "宮位"]
 
 [time205.extra]
 
@@ -3725,7 +3725,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2022", "本週提醒", "運勢"]
+tag = ["May 2022", "2022", "本週提醒", "運勢"]
 
 [time204.extra]
 
@@ -3738,7 +3738,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022"]
+tag = ["Apr 2022", "2022"]
 
 [time203.extra]
 
@@ -3751,7 +3751,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "本週提醒", "運勢"]
+tag = ["Apr 2022", "2022", "本週提醒", "運勢"]
 
 [time202.extra]
 
@@ -3764,7 +3764,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "八宮", "宮位"]
+tag = ["Apr 2022", "2022", "八宮", "宮位"]
 
 [time201.extra]
 
@@ -3777,7 +3777,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "一宮", "宮位"]
+tag = ["Apr 2022", "2022", "一宮", "宮位"]
 
 [time200.extra]
 
@@ -3790,7 +3790,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "本週提醒", "運勢"]
+tag = ["Apr 2022", "2022", "本週提醒", "運勢"]
 
 [time199.extra]
 
@@ -3803,7 +3803,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "八宮", "宮位"]
+tag = ["Apr 2022", "2022", "八宮", "宮位"]
 
 [time198.extra]
 
@@ -3816,7 +3816,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "土星", "九宮", "宮位", "星象"]
+tag = ["Apr 2022", "2022", "土星", "九宮", "宮位", "星象"]
 
 [time197.extra]
 
@@ -3829,7 +3829,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "本週提醒", "運勢"]
+tag = ["Apr 2022", "2022", "本週提醒", "運勢"]
 
 [time196.extra]
 
@@ -3842,7 +3842,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022"]
+tag = ["Apr 2022", "2022"]
 
 [time195.extra]
 
@@ -3855,7 +3855,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022", "本週提醒", "運勢"]
+tag = ["Apr 2022", "2022", "本週提醒", "運勢"]
 
 [time194.extra]
 
@@ -3868,7 +3868,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2022"]
+tag = ["Apr 2022", "2022"]
 
 [time193.extra]
 
@@ -3881,7 +3881,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "一宮", "宮位"]
+tag = ["Mar 2022", "2022", "一宮", "宮位"]
 
 [time192.extra]
 
@@ -3894,7 +3894,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "本週提醒", "運勢"]
+tag = ["Mar 2022", "2022", "本週提醒", "運勢"]
 
 [time191.extra]
 
@@ -3907,7 +3907,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022"]
+tag = ["Mar 2022", "2022"]
 
 [time190.extra]
 
@@ -3920,7 +3920,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "一宮", "宮位"]
+tag = ["Mar 2022", "2022", "一宮", "宮位"]
 
 [time189.extra]
 
@@ -3933,7 +3933,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "本週提醒", "運勢"]
+tag = ["Mar 2022", "2022", "本週提醒", "運勢"]
 
 [time188.extra]
 
@@ -3946,7 +3946,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022"]
+tag = ["Mar 2022", "2022"]
 
 [time187.extra]
 
@@ -3959,7 +3959,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "一宮", "宮位"]
+tag = ["Mar 2022", "2022", "一宮", "宮位"]
 
 [time186.extra]
 
@@ -3972,7 +3972,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "本週提醒", "運勢"]
+tag = ["Mar 2022", "2022", "本週提醒", "運勢"]
 
 [time185.extra]
 
@@ -3985,7 +3985,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022"]
+tag = ["Mar 2022", "2022"]
 
 [time184.extra]
 
@@ -3998,7 +3998,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022"]
+tag = ["Mar 2022", "2022"]
 
 [time183.extra]
 
@@ -4011,7 +4011,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "七宮", "宮位"]
+tag = ["Mar 2022", "2022", "七宮", "宮位"]
 
 [time182.extra]
 
@@ -4024,7 +4024,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2022", "七宮", "宮位"]
+tag = ["Mar 2022", "2022", "七宮", "宮位"]
 
 [time181.extra]
 
@@ -4037,7 +4037,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022", "本週提醒", "運勢"]
+tag = ["Feb 2022", "2022", "本週提醒", "運勢"]
 
 [time180.extra]
 
@@ -4050,7 +4050,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022"]
+tag = ["Feb 2022", "2022"]
 
 [time179.extra]
 
@@ -4063,7 +4063,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022"]
+tag = ["Feb 2022", "2022"]
 
 [time178.extra]
 
@@ -4076,7 +4076,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022", "本週提醒", "運勢"]
+tag = ["Feb 2022", "2022", "本週提醒", "運勢"]
 
 [time177.extra]
 
@@ -4089,7 +4089,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022", "七宮", "宮位"]
+tag = ["Feb 2022", "2022", "七宮", "宮位"]
 
 [time176.extra]
 
@@ -4102,7 +4102,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022", "木星", "星象"]
+tag = ["Feb 2022", "2022", "木星", "星象"]
 
 [time175.extra]
 
@@ -4115,7 +4115,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022", "本週提醒", "運勢"]
+tag = ["Feb 2022", "2022", "本週提醒", "運勢"]
 
 [time174.extra]
 
@@ -4128,7 +4128,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022"]
+tag = ["Feb 2022", "2022"]
 
 [time173.extra]
 
@@ -4141,7 +4141,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2022", "木星", "星象"]
+tag = ["Feb 2022", "2022", "木星", "星象"]
 
 [time172.extra]
 
@@ -4154,7 +4154,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time171.extra]
 
@@ -4167,7 +4167,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "四宮", "宮位"]
+tag = ["Jan 2022", "2022", "四宮", "宮位"]
 
 [time170.extra]
 
@@ -4180,7 +4180,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time169.extra]
 
@@ -4193,7 +4193,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "四宮", "宮位"]
+tag = ["Jan 2022", "2022", "四宮", "宮位"]
 
 [time168.extra]
 
@@ -4206,7 +4206,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "本週提醒", "天王星", "星象", "運勢"]
+tag = ["Jan 2022", "2022", "本週提醒", "天王星", "星象", "運勢"]
 
 [time167.extra]
 
@@ -4219,7 +4219,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time166.extra]
 
@@ -4232,7 +4232,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time165.extra]
 
@@ -4245,7 +4245,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time164.extra]
 
@@ -4258,7 +4258,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time163.extra]
 
@@ -4271,7 +4271,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time162.extra]
 
@@ -4284,7 +4284,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "木星", "星象"]
+tag = ["Jan 2022", "2022", "木星", "星象"]
 
 [time161.extra]
 
@@ -4297,7 +4297,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "本週提醒", "運勢"]
+tag = ["Jan 2022", "2022", "本週提醒", "運勢"]
 
 [time160.extra]
 
@@ -4310,7 +4310,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022"]
+tag = ["Jan 2022", "2022"]
 
 [time159.extra]
 
@@ -4323,7 +4323,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "四宮", "宮位"]
+tag = ["Jan 2022", "2022", "四宮", "宮位"]
 
 [time158.extra]
 
@@ -4336,7 +4336,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2022", "本週提醒", "水星", "水瓶座", "星座", "星象", "運勢"]
+tag = ["Jan 2022", "2022", "本週提醒", "水星", "水瓶座", "星座", "星象", "運勢"]
 
 [time157.extra]
 
@@ -4349,7 +4349,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time156.extra]
 
@@ -4362,7 +4362,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "九宮", "宮位"]
+tag = ["Dec 2021", "2021", "九宮", "宮位"]
 
 [time155.extra]
 
@@ -4375,7 +4375,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "本週提醒", "運勢"]
+tag = ["Dec 2021", "2021", "本週提醒", "運勢"]
 
 [time154.extra]
 
@@ -4388,7 +4388,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time153.extra]
 
@@ -4401,7 +4401,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time152.extra]
 
@@ -4414,7 +4414,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "本週提醒", "運勢"]
+tag = ["Dec 2021", "2021", "本週提醒", "運勢"]
 
 [time151.extra]
 
@@ -4427,7 +4427,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "九宮", "宮位"]
+tag = ["Dec 2021", "2021", "九宮", "宮位"]
 
 [time150.extra]
 
@@ -4440,7 +4440,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "木星", "星象"]
+tag = ["Dec 2021", "2021", "木星", "星象"]
 
 [time149.extra]
 
@@ -4453,7 +4453,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "本週提醒", "運勢"]
+tag = ["Dec 2021", "2021", "本週提醒", "運勢"]
 
 [time148.extra]
 
@@ -4466,7 +4466,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time147.extra]
 
@@ -4479,7 +4479,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time146.extra]
 
@@ -4492,7 +4492,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time145.extra]
 
@@ -4505,7 +4505,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time144.extra]
 
@@ -4518,7 +4518,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "九宮", "宮位"]
+tag = ["Dec 2021", "2021", "九宮", "宮位"]
 
 [time143.extra]
 
@@ -4531,7 +4531,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "九宮", "宮位"]
+tag = ["Dec 2021", "2021", "九宮", "宮位"]
 
 [time142.extra]
 
@@ -4544,7 +4544,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021", "本週提醒", "運勢"]
+tag = ["Dec 2021", "2021", "本週提醒", "運勢"]
 
 [time141.extra]
 
@@ -4557,7 +4557,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2021"]
+tag = ["Dec 2021", "2021"]
 
 [time140.extra]
 
@@ -4570,7 +4570,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "九宮", "宮位"]
+tag = ["Nov 2021", "2021", "九宮", "宮位"]
 
 [time139.extra]
 
@@ -4583,7 +4583,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "本週提醒", "運勢"]
+tag = ["Nov 2021", "2021", "本週提醒", "運勢"]
 
 [time138.extra]
 
@@ -4596,7 +4596,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time137.extra]
 
@@ -4609,7 +4609,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time136.extra]
 
@@ -4622,7 +4622,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "本週提醒", "運勢"]
+tag = ["Nov 2021", "2021", "本週提醒", "運勢"]
 
 [time135.extra]
 
@@ -4635,7 +4635,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time134.extra]
 
@@ -4648,7 +4648,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "月亮", "星象"]
+tag = ["Nov 2021", "2021", "月亮", "星象"]
 
 [time133.extra]
 
@@ -4661,7 +4661,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "本週提醒", "運勢"]
+tag = ["Nov 2021", "2021", "本週提醒", "運勢"]
 
 [time132.extra]
 
@@ -4674,7 +4674,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "六宮", "宮位"]
+tag = ["Nov 2021", "2021", "六宮", "宮位"]
 
 [time131.extra]
 
@@ -4687,7 +4687,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time130.extra]
 
@@ -4700,7 +4700,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time129.extra]
 
@@ -4713,7 +4713,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time128.extra]
 
@@ -4726,7 +4726,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time127.extra]
 
@@ -4739,7 +4739,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time126.extra]
 
@@ -4752,7 +4752,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "本週提醒", "運勢"]
+tag = ["Nov 2021", "2021", "本週提醒", "運勢"]
 
 [time125.extra]
 
@@ -4765,7 +4765,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021"]
+tag = ["Nov 2021", "2021"]
 
 [time124.extra]
 
@@ -4778,7 +4778,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2021", "六宮", "宮位"]
+tag = ["Nov 2021", "2021", "六宮", "宮位"]
 
 [time123.extra]
 
@@ -4791,7 +4791,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "本週提醒", "運勢"]
+tag = ["Oct 2021", "2021", "本週提醒", "運勢"]
 
 [time122.extra]
 
@@ -4804,7 +4804,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021"]
+tag = ["Oct 2021", "2021"]
 
 [time121.extra]
 
@@ -4817,7 +4817,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "金星", "星象"]
+tag = ["Oct 2021", "2021", "金星", "星象"]
 
 [time120.extra]
 
@@ -4830,7 +4830,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "本週提醒", "運勢"]
+tag = ["Oct 2021", "2021", "本週提醒", "運勢"]
 
 [time119.extra]
 
@@ -4843,7 +4843,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021"]
+tag = ["Oct 2021", "2021"]
 
 [time118.extra]
 
@@ -4856,7 +4856,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "六宮", "宮位"]
+tag = ["Oct 2021", "2021", "六宮", "宮位"]
 
 [time117.extra]
 
@@ -4869,7 +4869,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "本週提醒", "運勢"]
+tag = ["Oct 2021", "2021", "本週提醒", "運勢"]
 
 [time116.extra]
 
@@ -4882,7 +4882,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021"]
+tag = ["Oct 2021", "2021"]
 
 [time115.extra]
 
@@ -4895,7 +4895,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021"]
+tag = ["Oct 2021", "2021"]
 
 [time114.extra]
 
@@ -4908,7 +4908,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "本週提醒", "運勢"]
+tag = ["Oct 2021", "2021", "本週提醒", "運勢"]
 
 [time113.extra]
 
@@ -4921,7 +4921,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "三宮", "宮位"]
+tag = ["Oct 2021", "2021", "三宮", "宮位"]
 
 [time112.extra]
 
@@ -4934,7 +4934,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "金星", "星象"]
+tag = ["Oct 2021", "2021", "金星", "星象"]
 
 [time111.extra]
 
@@ -4947,7 +4947,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021", "本週提醒", "運勢"]
+tag = ["Oct 2021", "2021", "本週提醒", "運勢"]
 
 [time110.extra]
 
@@ -4960,7 +4960,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2021"]
+tag = ["Oct 2021", "2021"]
 
 [time109.extra]
 
@@ -4973,7 +4973,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021"]
+tag = ["Sep 2021", "2021"]
 
 [time108.extra]
 
@@ -4986,7 +4986,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "本週提醒", "運勢"]
+tag = ["Sep 2021", "2021", "本週提醒", "運勢"]
 
 [time107.extra]
 
@@ -4999,7 +4999,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "三宮", "宮位"]
+tag = ["Sep 2021", "2021", "三宮", "宮位"]
 
 [time106.extra]
 
@@ -5012,7 +5012,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021"]
+tag = ["Sep 2021", "2021"]
 
 [time105.extra]
 
@@ -5025,7 +5025,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "本週提醒", "運勢"]
+tag = ["Sep 2021", "2021", "本週提醒", "運勢"]
 
 [time104.extra]
 
@@ -5038,7 +5038,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021"]
+tag = ["Sep 2021", "2021"]
 
 [time103.extra]
 
@@ -5051,7 +5051,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "三宮", "宮位"]
+tag = ["Sep 2021", "2021", "三宮", "宮位"]
 
 [time102.extra]
 
@@ -5064,7 +5064,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "本週提醒", "運勢"]
+tag = ["Sep 2021", "2021", "本週提醒", "運勢"]
 
 [time101.extra]
 
@@ -5077,7 +5077,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "金星", "星象"]
+tag = ["Sep 2021", "2021", "金星", "星象"]
 
 [time100.extra]
 
@@ -5090,7 +5090,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021"]
+tag = ["Sep 2021", "2021"]
 
 [time099.extra]
 
@@ -5103,7 +5103,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021", "本週提醒", "運勢"]
+tag = ["Sep 2021", "2021", "本週提醒", "運勢"]
 
 [time098.extra]
 
@@ -5116,7 +5116,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Sep 2021"]
+tag = ["Sep 2021", "2021"]
 
 [time097.extra]
 
@@ -5129,7 +5129,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021"]
+tag = ["Aug 2021", "2021"]
 
 [time096.extra]
 
@@ -5142,7 +5142,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "本週提醒", "運勢"]
+tag = ["Aug 2021", "2021", "本週提醒", "運勢"]
 
 [time095.extra]
 
@@ -5155,7 +5155,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021"]
+tag = ["Aug 2021", "2021"]
 
 [time094.extra]
 
@@ -5168,7 +5168,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "二宮", "宮位"]
+tag = ["Aug 2021", "2021", "二宮", "宮位"]
 
 [time093.extra]
 
@@ -5181,7 +5181,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "本週提醒", "運勢"]
+tag = ["Aug 2021", "2021", "本週提醒", "運勢"]
 
 [time092.extra]
 
@@ -5194,7 +5194,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "處女座", "星座"]
+tag = ["Aug 2021", "2021", "處女座", "星座"]
 
 [time091.extra]
 
@@ -5207,7 +5207,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "本週提醒", "運勢"]
+tag = ["Aug 2021", "2021", "本週提醒", "運勢"]
 
 [time090.extra]
 
@@ -5220,7 +5220,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021"]
+tag = ["Aug 2021", "2021"]
 
 [time089.extra]
 
@@ -5233,7 +5233,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "二宮", "宮位"]
+tag = ["Aug 2021", "2021", "二宮", "宮位"]
 
 [time088.extra]
 
@@ -5246,7 +5246,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "本週提醒", "運勢"]
+tag = ["Aug 2021", "2021", "本週提醒", "運勢"]
 
 [time087.extra]
 
@@ -5259,7 +5259,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021"]
+tag = ["Aug 2021", "2021"]
 
 [time086.extra]
 
@@ -5272,7 +5272,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021"]
+tag = ["Aug 2021", "2021"]
 
 [time085.extra]
 
@@ -5285,7 +5285,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Aug 2021", "本週提醒", "運勢"]
+tag = ["Aug 2021", "2021", "本週提醒", "運勢"]
 
 [time084.extra]
 
@@ -5298,7 +5298,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021"]
+tag = ["Jul 2021", "2021"]
 
 [time083.extra]
 
@@ -5311,7 +5311,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "二宮", "宮位"]
+tag = ["Jul 2021", "2021", "二宮", "宮位"]
 
 [time082.extra]
 
@@ -5324,7 +5324,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "本週提醒", "運勢"]
+tag = ["Jul 2021", "2021", "本週提醒", "運勢"]
 
 [time081.extra]
 
@@ -5337,7 +5337,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021"]
+tag = ["Jul 2021", "2021"]
 
 [time080.extra]
 
@@ -5350,7 +5350,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "本週提醒", "運勢"]
+tag = ["Jul 2021", "2021", "本週提醒", "運勢"]
 
 [time079.extra]
 
@@ -5363,7 +5363,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021"]
+tag = ["Jul 2021", "2021"]
 
 [time078.extra]
 
@@ -5376,7 +5376,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021"]
+tag = ["Jul 2021", "2021"]
 
 [time077.extra]
 
@@ -5389,7 +5389,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "本週提醒", "運勢"]
+tag = ["Jul 2021", "2021", "本週提醒", "運勢"]
 
 [time076.extra]
 
@@ -5402,7 +5402,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "火星", "星象"]
+tag = ["Jul 2021", "2021", "火星", "星象"]
 
 [time075.extra]
 
@@ -5415,7 +5415,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021"]
+tag = ["Jul 2021", "2021"]
 
 [time074.extra]
 
@@ -5428,7 +5428,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "本週提醒", "運勢"]
+tag = ["Jul 2021", "2021", "本週提醒", "運勢"]
 
 [time073.extra]
 
@@ -5441,7 +5441,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jul 2021", "五宮", "宮位"]
+tag = ["Jul 2021", "2021", "五宮", "宮位"]
 
 [time072.extra]
 
@@ -5454,7 +5454,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "五宮", "宮位"]
+tag = ["Jun 2021", "2021", "五宮", "宮位"]
 
 [time071.extra]
 
@@ -5467,7 +5467,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "本週提醒", "運勢"]
+tag = ["Jun 2021", "2021", "本週提醒", "運勢"]
 
 [time070.extra]
 
@@ -5480,7 +5480,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021"]
+tag = ["Jun 2021", "2021"]
 
 [time069.extra]
 
@@ -5493,7 +5493,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "火星", "星象"]
+tag = ["Jun 2021", "2021", "火星", "星象"]
 
 [time068.extra]
 
@@ -5506,7 +5506,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "本週提醒", "運勢"]
+tag = ["Jun 2021", "2021", "本週提醒", "運勢"]
 
 [time067.extra]
 
@@ -5519,7 +5519,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021"]
+tag = ["Jun 2021", "2021"]
 
 [time066.extra]
 
@@ -5532,7 +5532,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "本週提醒", "運勢"]
+tag = ["Jun 2021", "2021", "本週提醒", "運勢"]
 
 [time065.extra]
 
@@ -5545,7 +5545,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021"]
+tag = ["Jun 2021", "2021"]
 
 [time064.extra]
 
@@ -5558,7 +5558,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021"]
+tag = ["Jun 2021", "2021"]
 
 [time063.extra]
 
@@ -5571,7 +5571,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "本週提醒", "運勢"]
+tag = ["Jun 2021", "2021", "本週提醒", "運勢"]
 
 [time062.extra]
 
@@ -5584,7 +5584,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jun 2021", "火星", "星象"]
+tag = ["Jun 2021", "2021", "火星", "星象"]
 
 [time061.extra]
 
@@ -5597,7 +5597,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "本週提醒", "運勢"]
+tag = ["May 2021", "2021", "本週提醒", "運勢"]
 
 [time060.extra]
 
@@ -5610,7 +5610,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021"]
+tag = ["May 2021", "2021"]
 
 [time059.extra]
 
@@ -5623,7 +5623,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021"]
+tag = ["May 2021", "2021"]
 
 [time058.extra]
 
@@ -5636,7 +5636,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "本週提醒", "運勢"]
+tag = ["May 2021", "2021", "本週提醒", "運勢"]
 
 [time057.extra]
 
@@ -5649,7 +5649,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021"]
+tag = ["May 2021", "2021"]
 
 [time056.extra]
 
@@ -5662,7 +5662,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "月亮", "星象"]
+tag = ["May 2021", "2021", "月亮", "星象"]
 
 [time055.extra]
 
@@ -5675,7 +5675,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "本週提醒", "運勢"]
+tag = ["May 2021", "2021", "本週提醒", "運勢"]
 
 [time054.extra]
 
@@ -5688,7 +5688,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021"]
+tag = ["May 2021", "2021"]
 
 [time053.extra]
 
@@ -5701,7 +5701,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "本週提醒", "運勢"]
+tag = ["May 2021", "2021", "本週提醒", "運勢"]
 
 [time052.extra]
 
@@ -5714,7 +5714,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021"]
+tag = ["May 2021", "2021"]
 
 [time051.extra]
 
@@ -5727,7 +5727,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "月亮", "星象"]
+tag = ["May 2021", "2021", "月亮", "星象"]
 
 [time050.extra]
 
@@ -5740,7 +5740,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2021", "本週提醒", "運勢"]
+tag = ["May 2021", "2021", "本週提醒", "運勢"]
 
 [time049.extra]
 
@@ -5753,7 +5753,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021"]
+tag = ["Apr 2021", "2021"]
 
 [time048.extra]
 
@@ -5766,7 +5766,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021", "本週提醒", "運勢"]
+tag = ["Apr 2021", "2021", "本週提醒", "運勢"]
 
 [time047.extra]
 
@@ -5779,7 +5779,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021"]
+tag = ["Apr 2021", "2021"]
 
 [time046.extra]
 
@@ -5792,7 +5792,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021", "本週提醒", "運勢"]
+tag = ["Apr 2021", "2021", "本週提醒", "運勢"]
 
 [time045.extra]
 
@@ -5805,7 +5805,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021", "月亮", "星象"]
+tag = ["Apr 2021", "2021", "月亮", "星象"]
 
 [time044.extra]
 
@@ -5818,7 +5818,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021", "本週提醒", "金星", "金牛座", "星座", "星象", "運勢"]
+tag = ["Apr 2021", "2021", "本週提醒", "金星", "金牛座", "星座", "星象", "運勢"]
 
 [time043.extra]
 
@@ -5831,7 +5831,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021", "魔羯座", "星座"]
+tag = ["Apr 2021", "2021", "魔羯座", "星座"]
 
 [time042.extra]
 
@@ -5844,7 +5844,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021", "本週提醒", "運勢"]
+tag = ["Apr 2021", "2021", "本週提醒", "運勢"]
 
 [time041.extra]
 
@@ -5857,7 +5857,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2021"]
+tag = ["Apr 2021", "2021"]
 
 [time040.extra]
 
@@ -5870,7 +5870,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021"]
+tag = ["Mar 2021", "2021"]
 
 [time039.extra]
 
@@ -5883,7 +5883,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021", "本週提醒", "運勢"]
+tag = ["Mar 2021", "2021", "本週提醒", "運勢"]
 
 [time038.extra]
 
@@ -5896,7 +5896,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021", "雙子座", "星座"]
+tag = ["Mar 2021", "2021", "雙子座", "星座"]
 
 [time037.extra]
 
@@ -5909,7 +5909,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021", "本週提醒", "運勢"]
+tag = ["Mar 2021", "2021", "本週提醒", "運勢"]
 
 [time036.extra]
 
@@ -5922,7 +5922,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021", "處女座", "雙魚座", "星座"]
+tag = ["Mar 2021", "2021", "處女座", "雙魚座", "星座"]
 
 [time035.extra]
 
@@ -5935,7 +5935,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021", "本週提醒", "運勢"]
+tag = ["Mar 2021", "2021", "本週提醒", "運勢"]
 
 [time034.extra]
 
@@ -5948,7 +5948,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021"]
+tag = ["Mar 2021", "2021"]
 
 [time033.extra]
 
@@ -5961,7 +5961,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021", "本週提醒", "運勢"]
+tag = ["Mar 2021", "2021", "本週提醒", "運勢"]
 
 [time032.extra]
 
@@ -5974,7 +5974,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2021"]
+tag = ["Mar 2021", "2021"]
 
 [time031.extra]
 
@@ -5987,7 +5987,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021", "本週提醒", "運勢"]
+tag = ["Feb 2021", "2021", "本週提醒", "運勢"]
 
 [time030.extra]
 
@@ -6000,7 +6000,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021"]
+tag = ["Feb 2021", "2021"]
 
 [time029.extra]
 
@@ -6013,7 +6013,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021", "本週提醒", "運勢"]
+tag = ["Feb 2021", "2021", "本週提醒", "運勢"]
 
 [time028.extra]
 
@@ -6026,7 +6026,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021", "射手座", "星座"]
+tag = ["Feb 2021", "2021", "射手座", "星座"]
 
 [time027.extra]
 
@@ -6039,7 +6039,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021", "本週提醒", "運勢"]
+tag = ["Feb 2021", "2021", "本週提醒", "運勢"]
 
 [time026.extra]
 
@@ -6052,7 +6052,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021"]
+tag = ["Feb 2021", "2021"]
 
 [time025.extra]
 
@@ -6065,7 +6065,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021"]
+tag = ["Feb 2021", "2021"]
 
 [time024.extra]
 
@@ -6078,7 +6078,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021", "本週提醒", "運勢"]
+tag = ["Feb 2021", "2021", "本週提醒", "運勢"]
 
 [time023.extra]
 
@@ -6091,7 +6091,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2021"]
+tag = ["Feb 2021", "2021"]
 
 [time022.extra]
 
@@ -6104,7 +6104,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021", "本週提醒", "運勢"]
+tag = ["Jan 2021", "2021", "本週提醒", "運勢"]
 
 [time021.extra]
 
@@ -6117,7 +6117,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021"]
+tag = ["Jan 2021", "2021"]
 
 [time020.extra]
 
@@ -6130,7 +6130,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021"]
+tag = ["Jan 2021", "2021"]
 
 [time019.extra]
 
@@ -6143,7 +6143,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021", "本週提醒", "運勢"]
+tag = ["Jan 2021", "2021", "本週提醒", "運勢"]
 
 [time018.extra]
 
@@ -6156,7 +6156,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021"]
+tag = ["Jan 2021", "2021"]
 
 [time017.extra]
 
@@ -6169,7 +6169,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021", "本週提醒", "運勢"]
+tag = ["Jan 2021", "2021", "本週提醒", "運勢"]
 
 [time016.extra]
 
@@ -6182,7 +6182,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021"]
+tag = ["Jan 2021", "2021"]
 
 [time015.extra]
 
@@ -6195,7 +6195,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021", "本週提醒", "水星", "星象", "運勢"]
+tag = ["Jan 2021", "2021", "本週提醒", "水星", "星象", "運勢"]
 
 [time014.extra]
 
@@ -6208,7 +6208,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021"]
+tag = ["Jan 2021", "2021"]
 
 [time013.extra]
 
@@ -6221,7 +6221,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2021", "本週提醒", "運勢"]
+tag = ["Jan 2021", "2021", "本週提醒", "運勢"]
 
 [time012.extra]
 
@@ -6234,7 +6234,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2020"]
+tag = ["Dec 2020", "2020"]
 
 [time011.extra]
 
@@ -6247,7 +6247,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2020"]
+tag = ["Dec 2020", "2020"]
 
 [time010.extra]
 
@@ -6260,7 +6260,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2020", "天王星", "金牛座", "星座", "星象"]
+tag = ["Dec 2020", "2020", "天王星", "金牛座", "星座", "星象"]
 
 [time009.extra]
 
@@ -6273,7 +6273,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2020"]
+tag = ["Dec 2020", "2020"]
 
 [time008.extra]
 
@@ -6286,7 +6286,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2020"]
+tag = ["Dec 2020", "2020"]
 
 [time007.extra]
 
@@ -6299,7 +6299,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2020", "處女座", "星座"]
+tag = ["Nov 2020", "2020", "處女座", "星座"]
 
 [time006.extra]
 
@@ -6312,7 +6312,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2020"]
+tag = ["Nov 2020", "2020"]
 
 [time005.extra]
 
@@ -6325,7 +6325,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2020"]
+tag = ["Nov 2020", "2020"]
 
 [time004.extra]
 
@@ -6338,7 +6338,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2020"]
+tag = ["Nov 2020", "2020"]
 
 [time003.extra]
 
@@ -6351,7 +6351,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2020"]
+tag = ["Oct 2020", "2020"]
 
 [time002.extra]
 
@@ -6364,6 +6364,6 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Oct 2020", "天秤座", "星座"]
+tag = ["Oct 2020", "2020", "天秤座", "星座"]
 
 [time001.extra]

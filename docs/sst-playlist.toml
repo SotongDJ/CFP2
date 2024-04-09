@@ -7,7 +7,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep73-%E9%96%92%E8%81%8A%E9%9B%9E%
 google = ""
 spotify = "https://open.spotify.com/episode/5UTY6jprGilr0ceDFxMFPk"
 youtube = ""
-tag = ["Apr 2024"]
+tag = ["Apr 2024", "2024"]
 
 [time102.extra]
 
@@ -20,7 +20,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep72-%E8%B2%A1%E7%A5%9E%E7%BA%8C%
 google = ""
 spotify = "https://open.spotify.com/episode/7pClMuB3hHfTf3A6dBNwkC"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time101.extra]
 
@@ -33,7 +33,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep71-%E5%A7%BB%E7%B7%A3%E9%82%84%
 google = ""
 spotify = "https://open.spotify.com/episode/5xgtg1mlfEsZNaM0pkqb3A"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time100.extra]
 
@@ -46,7 +46,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep70-%E5%91%BD%E9%81%8B%E8%A8%AD%
 google = ""
 spotify = "https://open.spotify.com/episode/6DlXCPEUtx5FBqIuVJWvMC"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time099.extra]
 
@@ -59,7 +59,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep69-%E6%88%91%E5%80%91%E5%8E%BB%
 google = ""
 spotify = "https://open.spotify.com/episode/3WRd8AbMLur459Fu3TZmbP"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time098.extra]
 
@@ -72,7 +72,7 @@ apple = "https://podcasts.apple.com/tw/podcast/ep68-%E9%9D%88%E9%AD%82%E8%A1%A8%
 google = ""
 spotify = "https://open.spotify.com/episode/6Fmw4FILBNE3F9Bn9f82Wh"
 youtube = ""
-tag = ["Mar 2024"]
+tag = ["Mar 2024", "2024"]
 
 [time097.extra]
 
@@ -85,7 +85,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4xgeFhAIj2Ivt0oxihtSQt"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time096.extra]
 
@@ -98,7 +98,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7HaUzpSJldQGbCEd31VX5w"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time095.extra]
 
@@ -111,7 +111,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/52kTj0iUdRZ9FvPMRjduDD"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time094.extra]
 
@@ -124,7 +124,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5IvlYXySYhrUOTg3BvIibr"
 youtube = ""
-tag = ["Feb 2024"]
+tag = ["Feb 2024", "2024"]
 
 [time093.extra]
 
@@ -137,7 +137,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3U7sCh1Ka9zVOCwmRTBV7B"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time092.extra]
 
@@ -150,7 +150,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5QUxWXYFv3mqmpBRtOblWu"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time091.extra]
 
@@ -163,7 +163,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2kkhqJadJiVdzZNl285aOU"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time090.extra]
 
@@ -176,7 +176,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3Qi3TpL1VGj19z235GZWPG"
 youtube = ""
-tag = ["Jan 2024"]
+tag = ["Jan 2024", "2024"]
 
 [time089.extra]
 
@@ -189,7 +189,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2DPwGfUTVEWCiZ2rDUSoFB"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time088.extra]
 
@@ -202,7 +202,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2mB79dipI0lws9z85mNKFj"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time087.extra]
 
@@ -215,7 +215,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5FqaSyZiLOIVFUCvLCvLDK"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time086.extra]
 
@@ -228,7 +228,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6oxzmBiazmbtg3TH3PpOIc"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time085.extra]
 
@@ -241,7 +241,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0qDCQW9SiWoQziFDYblCjc"
 youtube = ""
-tag = ["Dec 2023"]
+tag = ["Dec 2023", "2023"]
 
 [time084.extra]
 
@@ -254,7 +254,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/65c4iOyJFWbMXN3W4P78gu"
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time083.extra]
 
@@ -267,7 +267,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1fwx86z8QOWNBrTis7Wmrk"
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time082.extra]
 
@@ -280,7 +280,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4QV7DjEx6VtPZejQRhYSZD"
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time081.extra]
 
@@ -293,7 +293,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/526ftJr4d6C3UuWK3fqj1I"
 youtube = ""
-tag = ["Nov 2023"]
+tag = ["Nov 2023", "2023"]
 
 [time080.extra]
 
@@ -306,7 +306,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7zuW62A3izYnklS2XPLKRu"
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time079.extra]
 
@@ -319,7 +319,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7tkFn2TImaZJyF4yh4Ga5d"
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time078.extra]
 
@@ -332,7 +332,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0O5UbjMNrpCFwPkS5yLe5V"
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time077.extra]
 
@@ -345,7 +345,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3YOs3MjpownSkeJVM1A3yf"
 youtube = ""
-tag = ["Oct 2023"]
+tag = ["Oct 2023", "2023"]
 
 [time076.extra]
 
@@ -358,7 +358,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/60cYCzYiW2PRCtNbnfb5Fy"
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time075.extra]
 
@@ -371,7 +371,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0iINl2lIghRYt0AN9jS6ut"
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time074.extra]
 
@@ -384,7 +384,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2ITjroLLFxdIW6fxC8lozn"
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time073.extra]
 
@@ -397,7 +397,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0hvZTTSFDwUoHNr8DN577K"
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time072.extra]
 
@@ -410,7 +410,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6f1VNeOiLjJyGVEfMllNbR"
 youtube = ""
-tag = ["Sep 2023"]
+tag = ["Sep 2023", "2023"]
 
 [time071.extra]
 
@@ -423,7 +423,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5qEB6RyBx0e1jsGAupXaHa"
 youtube = ""
-tag = ["Aug 2023"]
+tag = ["Aug 2023", "2023"]
 
 [time070.extra]
 
@@ -436,7 +436,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1iKkrMtuf8WjpXk1H6w7tS"
 youtube = ""
-tag = ["Aug 2023"]
+tag = ["Aug 2023", "2023"]
 
 [time069.extra]
 
@@ -449,7 +449,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3JZbvWZR8wBuAbC9fV0eUo"
 youtube = ""
-tag = ["Aug 2023"]
+tag = ["Aug 2023", "2023"]
 
 [time068.extra]
 
@@ -462,7 +462,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7fwQ3G1L5GAwiXCUCoyfq6"
 youtube = ""
-tag = ["Aug 2023"]
+tag = ["Aug 2023", "2023"]
 
 [time067.extra]
 
@@ -475,7 +475,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7bjH8S4eqrdkgrNi2NOU7i"
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time066.extra]
 
@@ -488,7 +488,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/2gxjgMsTRBq1YLt4rFmTIz"
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time065.extra]
 
@@ -501,7 +501,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7g5tS8zgfBVdAsxcZPU0x3"
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time064.extra]
 
@@ -514,7 +514,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3xUF3pM1Rt4MRsoKIZdBtH"
 youtube = ""
-tag = ["Jul 2023"]
+tag = ["Jul 2023", "2023"]
 
 [time063.extra]
 
@@ -527,7 +527,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5QB60mhAyP9uStDrI89dKf"
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time062.extra]
 
@@ -540,7 +540,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1dBoNARjvSa2imCQwwy21v"
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time061.extra]
 
@@ -553,7 +553,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/65YM7WitH7SPorYPMTdYF4"
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time060.extra]
 
@@ -566,7 +566,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/54It4UHF387WmH4Xt6YqF6"
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time059.extra]
 
@@ -579,7 +579,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/05usGeaAycfoRdr4PdvRDV"
 youtube = ""
-tag = ["Jun 2023", "本週運勢", "運勢"]
+tag = ["Jun 2023", "2023", "本週運勢", "運勢"]
 
 [time058.extra]
 
@@ -592,7 +592,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1fbUwknT4HCGHocJkNMY5w"
 youtube = ""
-tag = ["Jun 2023"]
+tag = ["Jun 2023", "2023"]
 
 [time057.extra]
 
@@ -605,7 +605,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/7nRUZEwGNxPvwGDa3d0Zu4"
 youtube = ""
-tag = ["May 2023", "本週運勢", "運勢"]
+tag = ["May 2023", "2023", "本週運勢", "運勢"]
 
 [time056.extra]
 
@@ -618,7 +618,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0JRCUtfg2CUdiBnKJcqDmo"
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time055.extra]
 
@@ -631,7 +631,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/0cXI3pySAcjlH0SHbNHYfb"
 youtube = ""
-tag = ["May 2023", "本週運勢", "運勢"]
+tag = ["May 2023", "2023", "本週運勢", "運勢"]
 
 [time054.extra]
 
@@ -644,7 +644,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5Tv8lCtWSwVQxenB8tATqo"
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time053.extra]
 
@@ -657,7 +657,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time052.extra]
 
@@ -670,7 +670,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週運勢", "運勢"]
+tag = ["May 2023", "2023", "本週運勢", "運勢"]
 
 [time051.extra]
 
@@ -683,7 +683,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time050.extra]
 
@@ -696,7 +696,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週運勢", "運勢"]
+tag = ["May 2023", "2023", "本週運勢", "運勢"]
 
 [time049.extra]
 
@@ -709,7 +709,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023"]
+tag = ["May 2023", "2023"]
 
 [time048.extra]
 
@@ -722,7 +722,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["May 2023", "本週運勢", "運勢"]
+tag = ["May 2023", "2023", "本週運勢", "運勢"]
 
 [time047.extra]
 
@@ -735,7 +735,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time046.extra]
 
@@ -748,7 +748,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time045.extra]
 
@@ -761,7 +761,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週運勢", "運勢"]
+tag = ["Apr 2023", "2023", "本週運勢", "運勢"]
 
 [time044.extra]
 
@@ -774,7 +774,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time043.extra]
 
@@ -787,7 +787,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週運勢", "運勢"]
+tag = ["Apr 2023", "2023", "本週運勢", "運勢"]
 
 [time042.extra]
 
@@ -800,7 +800,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time041.extra]
 
@@ -813,7 +813,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週運勢", "運勢"]
+tag = ["Apr 2023", "2023", "本週運勢", "運勢"]
 
 [time040.extra]
 
@@ -826,7 +826,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023"]
+tag = ["Apr 2023", "2023"]
 
 [time039.extra]
 
@@ -839,7 +839,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Apr 2023", "本週運勢", "運勢"]
+tag = ["Apr 2023", "2023", "本週運勢", "運勢"]
 
 [time038.extra]
 
@@ -852,7 +852,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time037.extra]
 
@@ -865,7 +865,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週運勢", "運勢"]
+tag = ["Mar 2023", "2023", "本週運勢", "運勢"]
 
 [time036.extra]
 
@@ -878,7 +878,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time035.extra]
 
@@ -891,7 +891,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time034.extra]
 
@@ -904,7 +904,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週運勢", "運勢"]
+tag = ["Mar 2023", "2023", "本週運勢", "運勢"]
 
 [time033.extra]
 
@@ -917,7 +917,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time032.extra]
 
@@ -930,7 +930,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週運勢", "運勢"]
+tag = ["Mar 2023", "2023", "本週運勢", "運勢"]
 
 [time031.extra]
 
@@ -943,7 +943,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time030.extra]
 
@@ -956,7 +956,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023", "本週運勢", "運勢"]
+tag = ["Mar 2023", "2023", "本週運勢", "運勢"]
 
 [time029.extra]
 
@@ -969,7 +969,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Mar 2023"]
+tag = ["Mar 2023", "2023"]
 
 [time028.extra]
 
@@ -982,7 +982,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週運勢", "運勢"]
+tag = ["Feb 2023", "2023", "本週運勢", "運勢"]
 
 [time027.extra]
 
@@ -995,7 +995,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time026.extra]
 
@@ -1008,7 +1008,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週運勢", "運勢"]
+tag = ["Feb 2023", "2023", "本週運勢", "運勢"]
 
 [time025.extra]
 
@@ -1021,7 +1021,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time024.extra]
 
@@ -1034,7 +1034,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週運勢", "運勢"]
+tag = ["Feb 2023", "2023", "本週運勢", "運勢"]
 
 [time023.extra]
 
@@ -1047,7 +1047,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time022.extra]
 
@@ -1060,7 +1060,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023", "本週運勢", "運勢"]
+tag = ["Feb 2023", "2023", "本週運勢", "運勢"]
 
 [time021.extra]
 
@@ -1073,7 +1073,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Feb 2023"]
+tag = ["Feb 2023", "2023"]
 
 [time020.extra]
 
@@ -1086,7 +1086,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週運勢", "運勢"]
+tag = ["Jan 2023", "2023", "本週運勢", "運勢"]
 
 [time019.extra]
 
@@ -1099,7 +1099,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time018.extra]
 
@@ -1112,7 +1112,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週運勢", "運勢"]
+tag = ["Jan 2023", "2023", "本週運勢", "運勢"]
 
 [time017.extra]
 
@@ -1125,7 +1125,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time016.extra]
 
@@ -1138,7 +1138,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time015.extra]
 
@@ -1151,7 +1151,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週運勢", "運勢"]
+tag = ["Jan 2023", "2023", "本週運勢", "運勢"]
 
 [time014.extra]
 
@@ -1164,7 +1164,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time013.extra]
 
@@ -1177,7 +1177,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週運勢", "運勢"]
+tag = ["Jan 2023", "2023", "本週運勢", "運勢"]
 
 [time012.extra]
 
@@ -1190,7 +1190,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time011.extra]
 
@@ -1203,7 +1203,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023", "本週運勢", "運勢"]
+tag = ["Jan 2023", "2023", "本週運勢", "運勢"]
 
 [time010.extra]
 
@@ -1216,7 +1216,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Jan 2023"]
+tag = ["Jan 2023", "2023"]
 
 [time009.extra]
 
@@ -1229,7 +1229,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time008.extra]
 
@@ -1242,7 +1242,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022", "本週運勢", "運勢"]
+tag = ["Dec 2022", "2022", "本週運勢", "運勢"]
 
 [time007.extra]
 
@@ -1255,7 +1255,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time006.extra]
 
@@ -1268,7 +1268,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time005.extra]
 
@@ -1281,7 +1281,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time004.extra]
 
@@ -1294,7 +1294,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Dec 2022"]
+tag = ["Dec 2022", "2022"]
 
 [time003.extra]
 
@@ -1307,7 +1307,7 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022"]
+tag = ["Nov 2022", "2022"]
 
 [time002.extra]
 
@@ -1320,6 +1320,6 @@ apple = ""
 google = ""
 spotify = ""
 youtube = ""
-tag = ["Nov 2022"]
+tag = ["Nov 2022", "2022"]
 
 [time001.extra]

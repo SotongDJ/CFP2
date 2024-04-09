@@ -20,8 +20,9 @@ def do_job(target_str,configing):
     print("    Start collection: Feed")
     print("        Feed: grab rss feed")
     rss_req = requests.get(configing.rss,timeout=60)
+    rss_req.encoding = 'utf-8'
     print("        Feed: convert XML and update dictionary")
-    rss_feed = bs(rss_req.text,"xml")
+    rss_feed = bs(rss_req.content,"xml")
     rss_dict = {}
     description_dict = {}
     month_dict = {}
@@ -91,8 +92,9 @@ def do_job(target_str,configing):
         print("    Start collection: Apple")
         print("        Feed: grab rss feed")
         apple_req = requests.get(configing.apple,timeout=60)
+        apple_req.encoding = 'utf-8'
         print("        Feed: convert HTML and update dictionary")
-        apple_track = bs(apple_req.text,"lxml").find('ol',{'class':'tracks tracks--linear-show'})
+        apple_track = bs(apple_req.content,"lxml").find('ol',{'class':'tracks tracks--linear-show'})
         if pathlib.Path(target_str+"/record/ApplePodcast.toml").exists():
             apple_doc = rtoml.load(open(target_str+"/record/ApplePodcast.toml",encoding="utf8"))
             apple_record = {str(x):str(y) for x,y in apple_doc.items()}
@@ -121,7 +123,8 @@ def do_job(target_str,configing):
         print("    Start collection: Google")
         print("        Feed: grab rss feed")
         google_req = requests.get(configing.google,timeout=60)
-        google_track = bs(google_req.text,"lxml").find('div',{'jsname':'quCAxd'})
+        google_req.encoding = 'utf-8'
+        google_track = bs(google_req.content,"lxml").find('div',{'jsname':'quCAxd'})
         print("        Feed: convert HTML and update dictionary")
         if pathlib.Path(target_str+"/record/GooglePodcast.toml").exists():
             google_doc = rtoml.load(open(target_str+"/record/GooglePodcast.toml",encoding="utf8"))
@@ -166,9 +169,10 @@ def do_job(target_str,configing):
             "Authorization": F"Bearer {spotify_access_token}",
             }
             spotify_req = requests.get(spotify_url,headers=spotify_headers,timeout=60)
+            spotify_req.encoding = 'utf-8'
             configing.xmlw(spotify_req.text,"/record/SpotifyPodcastRequests.json")
             print("        Feed: convert JSON and update dictionary")
-            spotify_req_dict = json.loads(spotify_req.text)
+            spotify_req_dict = json.loads(spotify_req.content)
             if pathlib.Path(spotify_toml_name).exists():
                 spotify_doc = rtoml.load(open(spotify_toml_name,encoding="utf8"))
                 spotify_record = {str(x):str(y) for x,y in spotify_doc.items()}
@@ -210,7 +214,8 @@ def do_job(target_str,configing):
         print("    Start collection: YouTube")
         print("        Feed: grab rss feed")
         youtube_req = requests.get(configing.youtube,timeout=60)
-        youtube_track = bs(youtube_req.text,"xml")
+        youtube_req.encoding = 'utf-8'
+        youtube_track = bs(youtube_req.content,"xml")
         print("        Feed: convert XML and update dictionary")
         if pathlib.Path(target_str+"/record/YouTube.toml").exists():
             youtube_doc = rtoml.load(open(target_str+"/record/YouTube.toml",encoding="utf8"))

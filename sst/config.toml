@@ -2,7 +2,7 @@
 "apple" = "https://podcasts.apple.com/tw/podcast/%E7%A5%9E%E4%BB%99%E8%A3%9C%E7%BF%92%E7%8F%AD/id1655641331"
 # "google" = "https://podcasts.google.com/feed/"
 "spotify" = "https://api.spotify.com/v1/shows/68046ZuVzzRpLS7YklTXzJ/episodes?market=TW&limit=50"
-# "youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id="
+"youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCeF-S3u7IuKIAGaK8ea7FLQ"
 
 [correct]
 "\u200b" = ""

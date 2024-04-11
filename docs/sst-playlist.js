@@ -27,7 +27,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep72-%E8%B2%A1%E7%A5%9E%E7%BA%8C%E9%9B%86/id1655641331?i=1000650806918",
 "google": "",
 "spotify": "https://open.spotify.com/episode/7pClMuB3hHfTf3A6dBNwkC",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=YhNJ2cU0qHE"
 },
 "time100": {
 "name": "EP71\uff5c\u59fb\u7de3\u9084\u770b\u696d\u529b\u5e73\u8861?!",
@@ -42,7 +42,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep71-%E5%A7%BB%E7%B7%A3%E9%82%84%E7%9C%8B%E6%A5%AD%E5%8A%9B%E5%B9%B3%E8%A1%A1/id1655641331?i=1000650086548",
 "google": "",
 "spotify": "https://open.spotify.com/episode/5xgtg1mlfEsZNaM0pkqb3A",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=_6Fpu5v4jbk"
 },
 "time099": {
 "name": "EP70\uff5c\u547d\u904b\u8a2d\u8a08\u7cfb\u4e3b\u4efb\u4f86\u4e86 feat.\u7c21\u5c11\u5e74",
@@ -57,7 +57,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep70-%E5%91%BD%E9%81%8B%E8%A8%AD%E8%A8%88%E7%B3%BB%E4%B8%BB%E4%BB%BB%E4%BE%86%E4%BA%86-feat-%E7%B0%A1%E5%B0%91%E5%B9%B4/id1655641331?i=1000649282131",
 "google": "",
 "spotify": "https://open.spotify.com/episode/6DlXCPEUtx5FBqIuVJWvMC",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=gXqkBw9zWxs"
 },
 "time098": {
 "name": "EP69\uff5c\u6211\u5011\u53bb\u5bf5\u7269\u6e9d\u901a\u4e86\uff01ft.\u91d1\u59ae\u3001\u5c0f\u80d6",

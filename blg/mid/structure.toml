@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time782]
+name = "The KK Show - 250 超新星 - 有特色的帥哥"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14897500-the-kk-show-250.mp3"
+youtube = "https://www.youtube.com/watch?v=cdtkG7C5Tv0"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>過去幾個月一直在Youtube跟 Instagram上看到有特色的帥哥的超好笑短片。不管是搞笑還是業配，都會讓人不小心看完然後嘴角失守。這次跟有特色的帥哥聊他們為什麼開始拍Youtube、他們的團隊到底有多大、還有他們的長遠目標是什麼</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 250 超新星 - 有特色的帥哥"]
+tag = ["Apr 2024", "2024"]
+category = []
+
 [time781]
 name = "百靈果NEWS｜史上最大銀行詐欺案，AI的近親繁殖，美國兒童電視台性醜聞"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14884644-news-ai.mp3"

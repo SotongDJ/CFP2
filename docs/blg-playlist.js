@@ -1,4 +1,20 @@
 const playlist = {
+"time782": {
+"name": "The KK Show - 250 \u8d85\u65b0\u661f - \u6709\u7279\u8272\u7684\u5e25\u54e5",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14897500-the-kk-show-250.mp3",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
+"tag": [
+"Apr 2024",
+"2024",
+"KK Show"
+],
+"description": "<p>\u904e\u53bb\u5e7e\u500b\u6708\u4e00\u76f4\u5728Youtube\u8ddf Instagram\u4e0a\u770b\u5230\u6709\u7279\u8272\u7684\u5e25\u54e5\u7684\u8d85\u597d\u7b11\u77ed\u7247\u3002\u4e0d\u7ba1\u662f\u641e\u7b11\u9084\u662f\u696d\u914d\uff0c\u90fd\u6703\u8b93\u4eba\u4e0d\u5c0f\u5fc3\u770b\u5b8c\u7136\u5f8c\u5634\u89d2\u5931\u5b88\u3002\u9019\u6b21\u8ddf\u6709\u7279\u8272\u7684\u5e25\u54e5\u804a\u4ed6\u5011\u70ba\u4ec0\u9ebc\u958b\u59cb\u62cdYoutube\u3001\u4ed6\u5011\u7684\u5718\u968a\u5230\u5e95\u6709\u591a\u5927\u3001\u9084\u6709\u4ed6\u5011\u7684\u9577\u9060\u76ee\u6a19\u662f\u4ec0\u9ebc</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=cdtkG7C5Tv0"
+},
 "time781": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u53f2\u4e0a\u6700\u5927\u9280\u884c\u8a50\u6b3a\u6848\uff0cAI\u7684\u8fd1\u89aa\u7e41\u6b96\uff0c\u7f8e\u570b\u5152\u7ae5\u96fb\u8996\u53f0\u6027\u919c\u805e",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14884644-news-ai.mp3",

@@ -12,7 +12,7 @@ const playlist = {
 "extra": {},
 "apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-250-%E8%B6%85%E6%96%B0%E6%98%9F-%E6%9C%89%E7%89%B9%E8%89%B2%E7%9A%84%E5%B8%A5%E5%93%A5/id1106847606?i=1000652616684",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3B3vzufDeBh6tUCfKfNVQD",
 "youtube": "https://www.youtube.com/watch?v=cdtkG7C5Tv0"
 },
 "time781": {

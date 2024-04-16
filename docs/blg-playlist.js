@@ -3893,7 +3893,7 @@ const playlist = {
 "time565": {
 "name": "\u3010\u516b\u89d2\u7c60\u6311\u6230\u3011\u734e\u91d1$10,000 \u55c6\u7206\u767e\u9748\u679c\uff1a\u9ea5\u5ac2",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/11318304-10-000.mp3",
-"image": "9be113ea6beefdb5fc47fe750fdfeaa361427c507b24d8b397d7e2ece5e958a1",
+"image": "78d018ad75991ab42c73362030d17300a21beb838fc4e3a3e39b89ef89df50f9",
 "tag": [
 "Sep 2022",
 "2022",
@@ -5028,7 +5028,7 @@ const playlist = {
 "time502": {
 "name": "The KK Show - #132 \u8cc0\u74cf",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10548494-the-kk-show-132.mp3",
-"image": "8f91a3bc5adb98889b85f60c4dc79dc3cbc564d8043a97e9e204029bd9f1fd54",
+"image": "53984b319120432675d01cb87f1d6615a1b3e9a7ce40b9e8373a2ea84b75314d",
 "tag": [
 "May 2022",
 "2022",
@@ -5063,7 +5063,7 @@ const playlist = {
 "time500": {
 "name": "\u91ab\u8b77\u4eba\u54e1\u8d85\u8f9b\u82e6\u3001\u5feb\u7be9\u5bcc\u7fc1\u5728\u9019\u88e1\u3001\u8b80\u66f8\u6703\uff1a\u67cf\u9752\u54e5 Pachinko #05",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530617-pachinko-05.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Apr 2022",
 "2022",
@@ -5376,7 +5376,7 @@ const playlist = {
 "time482": {
 "name": "\u8b80\u66f8\u6703\uff1a\u67cf\u9752\u54e5 Pachinko #01\uff0c\u97d3\u570b\u7684\u7e3d\u7d71\u5e9c\u8981\u63db\u5730\u65b9\u4e86\uff0c\u8ad6\u9c3b\u9b5a\u7684\u91cd\u8981\u6027",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530633-pachinko-01.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Mar 2022",
 "2022",
@@ -5535,7 +5535,7 @@ const playlist = {
 "time473": {
 "name": "\u7f8e\u570b\u6d77\u8ecd\u51fa\u8ce3\u53f0\u7063\u6a5f\u5bc6\u70ba\u4e86\u6eff\u8db3\u79c1\u617e\uff0c\u8b80\u66f8\u6703\uff1aFat Leonard #04",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530642-fat-leonard-ch-4.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Mar 2022",
 "2022",
@@ -5740,7 +5740,7 @@ const playlist = {
 "time462": {
 "name": "The KK Show - #119 \u9ec3\u5927\u8b19",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530653-the-kk-show-119.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Feb 2022",
 "2022",
@@ -6486,7 +6486,7 @@ const playlist = {
 "time419": {
 "name": "1031 \u559c\u5287\u5708\u53c8\u600e\u9ebc\u4e86\u3001\u81c9\u66f8\u5b87\u5b99\u6709\u6bd2\u3001\u62dc\u767b\u5ddd\u666e\u6bd4\u4e00\u6bd4",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530696-1031.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Oct 2021",
 "2021",
@@ -6695,7 +6695,7 @@ const playlist = {
 "time407": {
 "name": "1003 \u51f1\u8389\u5d29\u6f70 \u54ed\u8a34\u5925\u4f34\u9738\u51cc \u7c89\u7d72\u5fc3\u75bc\uff1aKen \u8a72\u9053\u6b49 \u3001\u6cf0\u570b\u6027\u7522\u696d\u88ab\u75ab\u60c5\u885d\u64ca",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530708-1003-ken.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Oct 2021",
 "2021",
@@ -6904,7 +6904,7 @@ const playlist = {
 "time395": {
 "name": "0904 #\u5c01\u6bba\u5a18\u70ae\u6587\u5316 \uff1f\u4e2d\u570b\u8981\u62b5\u5236\u7684\u6211\u5011 #\u53f0\u7063 \u90fd\u6b61\u8fce\u3001\u6b50\u76df\u6709 #\u5ddd\u666e\u5275\u50b7\u75c7\u5019\u7fa4",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530720-0904.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Sep 2021",
 "2021",
@@ -7059,7 +7059,7 @@ const playlist = {
 "time386": {
 "name": "0815 \u65b0\u52a0\u5761\u7684\u75ab\u82d7\u4e4b\u4e82\u3001\u99ac\u4f86\u897f\u4e9e\u4e5f\u88ab\u4e2d\u570b\u5047\u65b0\u805e\u6ef2\u900f\u3001 #\u5854\u5229\u73ed \u5c31\u662f #\u8523\u4ecb\u77f3\u3001\u5967\u904b\u9078\u624b\u7684\u7d00\u9304\u7247",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530729-0815.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Aug 2021",
 "2021",
@@ -7324,7 +7324,7 @@ const playlist = {
 "time371": {
 "name": "The KK Show - #89 \u56de\u53f0\u52a0\u5165\u570b\u6c11\u9ee8 - \u674e\u6709\u5b9c",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530744-the-kk-show-89.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Jul 2021",
 "2021",
@@ -7342,7 +7342,7 @@ const playlist = {
 "time370": {
 "name": "0711 \u4e0d\u80fd\u4fee\u5716\u7684\u7db2\u7f8e\u8981\u53eb\u4ec0\u9ebd\uff1f \u5fae\u7f8e\u3001 \u6c11\u4e3b\u9b25\u58eb\u8b8a\u4e5d\u982d\u86c7\u7e3d\u7d71\uff0c\u63a8\u85a6 Sex/Life",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530745-0711-sex-life.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Jul 2021",
 "2021",
@@ -7452,7 +7452,7 @@ const playlist = {
 "time364": {
 "name": "The KK Show - #87 \u6d88\u9632\u5230\u707d\u5bb3\u7ba1\u7406 - \u5f35\u8ce2\u9fa2\u535a\u58eb",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530751-the-kk-show-87.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Jun 2021",
 "2021",
@@ -7735,7 +7735,7 @@ const playlist = {
 "time348": {
 "name": "0523 \u6025\u8f49\u5f4e\u53bb\u64c1\u62b1\u75ab\u82d7\u7684\u5e02\u9577\u3001\u75ab\u60c5\u671f\u9593\u6253\u70ae\u6e96\u5247\u3001Seaspiracy\uff1f",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530767-0523-seaspiracy.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "May 2021",
 "2021",
@@ -8342,7 +8342,7 @@ const playlist = {
 "time313": {
 "name": "The KK Show - #69 \u6b4c\u4ed4\u6232\u7684\u512a\u8cea\u5973\u6027 - \u5b6b\u7fe0\u9cf3",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530802-the-kk-show-69.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Mar 2021",
 "2021",
@@ -8650,7 +8650,7 @@ const playlist = {
 "time295": {
 "name": "0117 \u81c9\u66f8\u54e1\u5de5\u5728\u5916\u8981\u5c0f\u5fc3\u3001\u7fa9\u5927\u5229\u9ed1\u624b\u9ee8\u767c\u80ba\u708e\u8ca1\u3001\u63a8\u85a6\u66f8\uff1aRed Notice\u3001 \u7d05\u8272\u901a\u7ddd\u4ee4\uff1a\u4e00\u500b\u4fc4\u7f85\u65af\u5916\u8cc7\u5927\u4ea8\u5982\u4f55\u53cd\u64ca\u666e\u4e01\u7684\u570b\u5bb6\u7d1a\u9ed1\u5e6b\uff1f",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530820-0117-red-notice.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Jan 2021",
 "2021",
@@ -9043,7 +9043,7 @@ const playlist = {
 "time272": {
 "name": "\u5b8b\u9744\u9f61\u5c0f\u6642\u5019\u500b\u6027\u5f88\u5dee\u3001\u5b6b\u6587\u5c0d\u5c0f\u5973\u751f\u7684\u611b\u5927\u65bc\u9769\u547d\uff1a \u8b80\u66f8\u6703 \u5b8b\u6c0f\u4e09\u59d0\u59b9 Ch 3",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530843-ch-3.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Nov 2020",
 "2020",
@@ -9445,7 +9445,7 @@ const playlist = {
 "time249": {
 "name": "Youtube 10\u842c / IG 5 \u842c \u8a02\u95b2 QA",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530866-youtube-10-ig-5-qa.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Oct 2020",
 "2020",
@@ -9745,7 +9745,7 @@ const playlist = {
 "time232": {
 "name": "The KK Show - #41\u9003\u51fa\u75ab\u5340\u7684\u7d10\u7d04\u5ba2 - Esther Chen",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530883-the-kk-show-41-esther-chen.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Aug 2020",
 "2020",
@@ -10878,7 +10878,7 @@ const playlist = {
 "time167": {
 "name": "The KK Show - 19 \u5bb3\u7f9e\u7684\u958b\u5c4f\u5b54\u96c0 \u9178\u9178",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10530948-the-kk-show-19.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Mar 2020",
 "2020",
@@ -12016,7 +12016,7 @@ const playlist = {
 "time101": {
 "name": "\u8b80\u66f8\u6703\uff1aWild Swans \uff5c\u9d3b\uff1a\u4e09\u4ee3\u4e2d\u570b\u5973\u4eba \u7b2c\u4e8c\u7ae0",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531014-wild-swans.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Sep 2019",
 "2019",
@@ -12612,7 +12612,7 @@ const playlist = {
 "time065": {
 "name": "0526 \u5370\u5c3c\u3001\u8cbf\u6613\u6230\u3001\u9592\u804a \uff083\u54081\uff09",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531050-0526-3-1.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "May 2019",
 "2019",
@@ -12921,7 +12921,7 @@ const playlist = {
 "time046": {
 "name": "0319 2.\u667a\u5229\u5973\u6821\u62db\u6536\u8de8\u6027\u5225\u5b78\u751f \u9019\u6a23\u5bb6\u9577\u8981\u600e\u9ebc\u53eb\u5b78\u6821\u6559\u5c0f\u5b69",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531069-0319-2.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Mar 2019",
 "2019",
@@ -12970,7 +12970,7 @@ const playlist = {
 "time043": {
 "name": "03101 1. \u4fc4\u570b\u9ad8\u5b98\u5973\u5152\u5165\u4fb5\u6b50\u76df\u8b70\u6703\uff0c\u4f46\u662f\u5979\u662f\u6b63\u59b9\u3001\u6240\u4ee5\u6c92\u95dc\u4fc2",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531072-03101-1.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Mar 2019",
 "2019",
@@ -13262,7 +13262,7 @@ const playlist = {
 "time025": {
 "name": "\u767e\u9748\u679cNEWS 2019-02-10 1. \u5783\u573e\u98df\u7269\u7684\u9999\u5473\u5c0d\u8eab\u9ad4\u6709\u76ca\uff1f\uff01",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531088-news-2019-02-10-1.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Feb 2019",
 "2019",
@@ -13622,7 +13622,7 @@ const playlist = {
 "time003": {
 "name": "\u767e\u9748\u679cNEWS 2019-01-06 3. \u8207\u5c0f\u6f58\u9592\u804a",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/10531112-news-2019-01-06-3.mp3",
-"image": "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "Jan 2019",
 "2019",

@@ -318,7 +318,8 @@ Process: blg/keyword-7-event.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (254)
+  found in: (255)
+    time783
     time782
     time780
     time778
@@ -1114,6 +1115,12 @@ Process: blg/keyword-7-event.toml
     time705
     time414
     time137
+[權樂]
+  found in: (2)
+    time783
+    time549
+  Excluded: (0)
+    
 [艾董]
   found in: (2)
     time716

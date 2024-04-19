@@ -1,7 +1,7 @@
 const playlist = {
 "time104": {
 "name": "EP75\uff5c\u4e0d\u60f3\u9577\u5927\u7684\u4eba",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/4d0e42ce-339e-4caf-83eb-eac3d8f8cbf6/rssFileVip.mp3?timestamp=1713506746092",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/4d0e42ce-339e-4caf-83eb-eac3d8f8cbf6/rssFileVip.mp3?timestamp=1713507501094",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "Apr 2024",
@@ -12,7 +12,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep75-%E4%B8%8D%E6%83%B3%E9%95%B7%E5%A4%A7%E7%9A%84%E4%BA%BA/id1655641331?i=1000652940335",
 "google": "",
 "spotify": "https://open.spotify.com/episode/5HlyGp7V7M4wTGTLXXqKv2",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=mkPB5WdRXJA"
 },
 "time103": {
 "name": "EP74\uff5c\u8ddf\u6bcd\u5a18\u5011\u8acb\u5b89",

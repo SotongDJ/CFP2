@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time495]
+name = "【本週提醒】比起自我欺騙，不如好好修補錯誤🔧"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clv9gwlxj09a001vveu2b566w/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclv9gwlxj09a101vv1xhggel4.mp3?v=1713700314000"
+spotify = "https://open.spotify.com/episode/0lh33qOgHkUojT2WBXHtMb"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽4/22-4/28星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】巨蟹 天蠍 水瓶 雙魚 <br /> <br />巨蟹：當心過勞的健康問題，感情上別太敏感多疑 <br />天蠍：當心壞習慣影響健康，感情當心被下最後通牒 <br />水瓶：溝通要抓住重點，感情當心踩對方雷 <br />雙魚：努力爭取是必要之惡，面對感情要感性一點 <br /> <br />【穩的】牡羊 天秤 射手 魔羯 <br /> <br />牡羊：工作上別鑽牛角尖，感情別太執著計較 <br />天秤：工作被人情世故困擾，感情要注意表現模式 <br />射手：資源短缺被耽誤，感情上相處時間較少 <br />魔羯：注意理財要省一點，感情當心為錢爭執 <br /> <br />【讚的】金牛 雙子 獅子 處女 <br /> <br />金牛：工作有成受誇獎，感情人紅氣勢旺 <br />雙子：好運來臨貴人是長輩，感情能得對方青睞 <br />獅子：要順勢四兩撥千金，感情以柔克剛更有魅力 <br />處女：撥雲見日有升官運，感情的計畫效果好 <br /></p>"
+names = ["【本週提醒】比起自我欺騙，不如好好修補錯誤🔧"]
+tag = ["Apr 2024", "2024"]
+category = []
+
 [time494]
 name = "EP313 海王星，給你大好或大壞"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clv6g8pg403dk01wt2zyxcjvc/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclv6g8pg403dl01wtgsri1f39.mp3?v=1713517831195"

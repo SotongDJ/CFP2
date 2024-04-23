@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[time785]
+name = "The KK Show - 252 樂樂法利"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14939799-the-kk-show-252.mp3"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>我們去LA 找我們的好朋友樂樂法利 ,  我們聊接下來的總統大選,還有大紀元這個平台以及在洛杉磯中國高官及富商的二奶村裡面寂寞的女人</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 252 樂樂法利"]
+tag = ["Apr 2024", "2024"]
+category = []
+
 [time784]
 name = "百靈果NEWS｜網紅的社會責任，差點發生第三次世界大戰，俄國在黑市買到秘密武器"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14925879-news.mp3"

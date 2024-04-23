@@ -1,4 +1,21 @@
 const playlist = {
+"time496": {
+"name": "EP314 \u4e5d\u5bae\u98db\u661f\uff0c\u661f\u76e4\u4e2d\u85cf\u4e0d\u4f4f\u7684\u5e78\u904b(\u4e0b)",
+"feed": "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvc21bn402mt01xi5pmb6d5i/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvc21bn402mu01xi9iug9mua.mp3?v=1713856751341",
+"image": "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853",
+"tag": [
+"Apr 2024",
+"2024",
+"\u4e5d\u5bae",
+"\u5bae\u4f4d"
+],
+"description": "<p>\u7d93\u904e\u4e86\u4e0a\u96c6\u7684\u300c\u4e5d\u5bae\u98db\u661f\u300d\uff0c\u6709\u6c92\u6709\u9ad4\u8a8d\u5230\u81ea\u5df1\u5f88\u5e78\u904b\uff08\u53c8\u6a5f\u6b6a\uff09\u4e4b\u8655\u5462\uff1f\uff08\u55ef\uff0c\u6211\u77e5\u9053\u8981\u4e5d\u5bae\u5f37\u7684\u4eba\u81ea\u89ba\u6709\u96e3\u5ea6XD\uff09 <br />\u6240\u4ee5\u5f88\u9ad8\u8208\u770b\u5230\u90a3\u9ebc\u591a\u4e5d\u98db\u56db\u7684\u670b\u53cb\u81ea\u5df1\u62db\u8a8d\uff0c\u81ea\u5df1\u6709\u591a\u96e3\u641e\u8ddf\u591a\u88ab\u5305\u5bb9\ud83e\udd23\uff08\u4e56\uff0c\u6240\u4ee5\u9019\u9ebc\u81ea\u89ba\u7684\u4f60\u5011\u5f88\u68d2\uff09 <br />\u9019\u96c6\u5c31\u4f86\u8b1b\u4e0a\u96c6\u6c92\u8b1b\u5230\u7684\u5bae\u4f4d\uff0c\u6709\u8a31\u591a\u4eba\u6015\u6015\u7684\u516b\u5bae\u3001\u5341\u4e8c\u5bae\uff0c\u54ce\u5440\u77e5\u9053\u4f60\u5011\u6015\u4e0d\u5e78\uff0c\u4f46\uff0c\u6703\u9019\u6a23\u55ce\uff1f\u9084\u6709\u4e5d\u98db\u4e5d\uff0c\u6703\u4e0d\u6703\u5c31\u7d66\u5b83\u98db\u5230\u5916\u592a\u7a7a\u5462\uff1f\u4e0d\u4e0d\u4e0d\uff0c\u5b83\u53ef\u662f\u6703\u98db\u5f97\u66f4\u9ad8\u5594\ud83d\ude1c <br /> <br />EP314\u83dc\u55ae\uff1a <br />\u4e5d\u98db\u4e03\u505a\u81ea\u5df1\u7684\u5408\u5925\u904b <br />\u4e5d\u98db\u516b\u7684\u91d1\u92fc\u4e0d\u58de\u4e4b\u8eab <br />\u53ea\u6709\u795e\u80fd\u8aaa\u670d\u4e5d\u98db\u4e5d <br />\u4e5d\u98db\u5341\u624d\u4e0d\u60f3\u88ab\u7d81\u4f4f <br />\u602a\u5091\u4e5d\u98db\u5341\u4e00 <br />\u7576\u4e5d\u98db\u5341\u4e8c\u88ab\u8a98\u60d1\u6642 <br />\u64bf\u523050\u842c\u4f60\u6703....</p>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/ep314-%E4%B9%9D%E5%AE%AE%E9%A3%9B%E6%98%9F-%E6%98%9F%E7%9B%A4%E4%B8%AD%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%B9%B8%E9%81%8B-%E4%B8%8B/id1536374746?i=1000653315133",
+"google": "",
+"spotify": "https://open.spotify.com/episode/0JZRXlhyBCtXaseiAjMoge",
+"youtube": ""
+},
 "time495": {
 "name": "\u3010\u672c\u9031\u63d0\u9192\u3011\u6bd4\u8d77\u81ea\u6211\u6b3a\u9a19\uff0c\u4e0d\u5982\u597d\u597d\u4fee\u88dc\u932f\u8aa4\ud83d\udd27",
 "feed": "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clv9gwlxj09a001vveu2b566w/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclv9gwlxj09a101vv1xhggel4.mp3?v=1713700314000",

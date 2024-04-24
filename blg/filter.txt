@@ -10,11 +10,11 @@ Process: blg/keyword-6.toml
 Process: blg/keyword-7-event.toml
 [百靈果 NEWS]
   found in: (290)
-    time784
-    time781
-    time779
-    time777
-    time775
+    time783
+    time780
+    time778
+    time776
+    time774
     time770
     time768
     time766
@@ -320,12 +320,12 @@ Process: blg/keyword-7-event.toml
     
 [KK Show]
   found in: (256)
-    time785
-    time783
+    time784
     time782
-    time780
-    time778
-    time776
+    time781
+    time779
+    time777
+    time775
     time773
     time771
     time769
@@ -1083,7 +1083,7 @@ Process: blg/keyword-7-event.toml
     
 [樂樂法利]
   found in: (4)
-    time785
+    time784
     time592
     time543
     time597
@@ -1120,7 +1120,7 @@ Process: blg/keyword-7-event.toml
     time137
 [權樂]
   found in: (2)
-    time783
+    time782
     time549
   Excluded: (0)
     

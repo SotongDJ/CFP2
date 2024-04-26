@@ -12,7 +12,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep76-%E9%96%8B%E6%82%9F%E4%B8%83%E8%84%88%E8%BC%AA/id1655641331?i=1000653653022",
 "google": "",
 "spotify": "https://open.spotify.com/episode/0IzfQc9Sa2135U0Cvzk4aq",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=irLt3-fL_x0"
 },
 "time104": {
 "name": "EP75\uff5c\u4e0d\u60f3\u9577\u5927\u7684\u4eba",

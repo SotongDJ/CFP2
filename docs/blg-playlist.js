@@ -1,6 +1,6 @@
 const playlist = {
 "time786": {
-"name": "\u767e\u9748\u679cNEWS\uff5c\u7f8e\u570b\u6296\u97f3\u53bb\uff0c\u4e2d\u570b\u5316\u51f1\u8389\u751f\u5973\u5152\uff0c\u5e38\u6625\u85e4\u6821\u9577\u88ab\u6293\u53bb\u97ad",
+"name": "\u767e\u9748\u679cNEWS\uff5c\u7f8e\u570b\u6296\u97f3\u53bb\u4e2d\u570b\u5316\uff0c\u51f1\u8389\u751f\u5973\u5152\uff0c\u5e38\u6625\u85e4\u6821\u9577\u88ab\u6293\u53bb\u97ad",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14967971-news.mp3",
 "image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
@@ -8,12 +8,12 @@ const playlist = {
 "2024",
 "\u767e\u9748\u679c NEWS"
 ],
-"description": "<p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"description": "<p>VANA x \u6559\u4e3b \u6bcd\u6a94\u9650\u6642\u52a0\u78bc\u6d3b\u52d5: <br/>\u4efb\u9078\u9999\u6c1b\u7cbe\u6cb9+\u64f4\u9999\u5100\u65b0\u54c1\u9650\u5b9a\u7d44\u5408<br/>\u00a0\u4e00\u822c\u6b3e$3290(\u50f9\u503c3860) \u71c8\u6ce1\u6b3e$3590(\u50f9\u503c4160) <br/>\u9999\u6c1b\u7cbe\u6cb9\u4efb\u90782\u516588\u6298 $1550 (\u539f\u50f91760)<br/>\u591a\u7a2e\u9999\u6c1b\u79ae\u76d2$990\u8d77<br/>5/31\u524d\u5b98\u7db2 <a href='https://www.vanaliving.com/'>https://www.vanaliving.com</a> \u4e0b\u55ae\u8f38\u5165\u3010ibelieve\u3011(\u5168\u5c0f\u5beb)<br/>\u7acb\u4eab\u5168\u7ad988\u6298\u6700\u4f4e\u512a\u60e0 \u512a\u60e0\u5546\u54c1\u4e5f\u53ef\u6298\u4e0a\u6298(\u52a0\u8cfc\u54c1\u9664\u5916) <br/><br/>#\u7280\u725b\u76fe<br/>\u66f4\u591a\u95dc\u65bc\u652f\u6301\u6d77\u6d0b\u7da0\u6d32\u4fdd\u80b2\u8a08\u756b\u66a8\u516c\u76ca\u52df\u6b3e\u6d3b\u52d5\u76f8\u95dc\u7522\u54c1\u8cc7\u8a0a\uff0c\u656c\u8acb\u53c3\u8003\uff1a<br/><a href='https://url.rhinoshield.tw/bailingguonews-2024-earth-month-2404'>https://url.rhinoshield.tw/bailingguonews-2024-earth-month-2404</a><br/>#RHINOSHIELD\u7280\u725b\u76fe #rhinoshieldtw</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E7%BE%8E%E5%9C%8B%E6%8A%96%E9%9F%B3%E5%8E%BB%E4%B8%AD%E5%9C%8B%E5%8C%96-%E5%87%B1%E8%8E%89%E7%94%9F%E5%A5%B3%E5%85%92-%E5%B8%B8%E6%98%A5%E8%97%A4%E6%A0%A1%E9%95%B7%E8%A2%AB%E6%8A%93%E5%8E%BB%E9%9E%AD/id1106847606?i=1000653820524",
 "google": "",
-"spotify": "",
-"youtube": ""
+"spotify": "https://open.spotify.com/episode/3blQMCMAhRfcMEa15M6Oxr",
+"youtube": "https://www.youtube.com/watch?v=7pEZyAzEmlE"
 },
 "time785": {
 "name": "\u4e00\u591c\u597d\u7720\uff0d\u963f\u6c5f",

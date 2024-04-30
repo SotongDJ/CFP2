@@ -10,9 +10,9 @@ const playlist = {
 ],
 "description": "<p>\u81ea\u5f9e\u4e0a\u6b21\u8ddfDodo Men\u804a\u5929\u5f8c\uff0cIan\u8ddfEric\u6c7a\u5b9a\u7528\u201c\u9060\u8ddd\u201d\u5de5\u4f5c\u7684\u65b9\u5f0f\u4f86\u5617\u8a66\u65b0\u7684\u62cd\u7247\u6a21\u5f0f\u3002\u4e0a\u6b21\u6211\u5011\u53bb\u6d1b\u6749\u78ef\u7684\u6642\u5019\u5c31\u8ddfEric\u898b\u9762\uff0c\u804a\u804a\u4ed6\u642c\u56de\u6d1b\u6749\u78ef\u5f8c\u751f\u6d3b\u6709\u4ec0\u9ebc\u6539\u8b8a\uff0c\u5275\u4f5c\u6709\u4ec0\u9ebc\u65b0\u7684\u706b\u82b1\u8ddf\u804a\u804a\u4eba\u751f\u63a5\u4e0b\u4f86\u7684\u76ee\u6a19</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-253-the-dodo-men-eric/id1106847606?i=1000654052063",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/6PTsVedlu8QFtLB0Mns7hO",
 "youtube": ""
 },
 "time786": {

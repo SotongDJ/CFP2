@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time500]
+name = "EP317 海王星(下)，給你大好或大壞"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvqhako00ddy01vzgdp1fpf1/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvqhako00ddz01vzesdx4jys.mp3?v=1714728916706"
+apple = "https://podcasts.apple.com/tw/podcast/ep317-%E6%B5%B7%E7%8E%8B%E6%98%9F-%E4%B8%8B-%E7%B5%A6%E4%BD%A0%E5%A4%A7%E5%A5%BD%E6%88%96%E5%A4%A7%E5%A3%9E/id1536374746?i=1000654417808"
+spotify = "https://open.spotify.com/episode/3JOHUgecqEh5lY2RFTR62N"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>海王星下集來了 <br />聽完海王星上集，許多同學反饋不特別求就有的「超額幸運」，例如不求就有人主動出錢帶他出國旅行、不用花錢就有房子住等等，海王星就是不求、先付出，沒什麼期待卻莫名其妙回到自己的身上，這樣有神蹟的星星。 <br />那麼下集的海王宮位，也一樣有多出來的好運、充滿理想性又無法強求之處，是既倒楣又幸運的地方，希望聽完這集，大家好好感受，那些悄悄降臨在自己身上的神祕遭遇在哪裡，也記得跟我分享喔～ <br /> <br />EP317菜單：&nbsp; <br />海王星上集反饋 <br />海王一宮高標看自己 <br />被海王五宮愛上的人形象都變好？ <br />很難拒絕別人的海王七宮 <br />有機會成為傳奇人物的海王十宮 <br />小心成為工具人的海王星 <br />圈子裡有魅力的海王11宮 <br />精神上有遁入空門的勇氣 <br />海王12宮能讀懂人的心聲</p>"
+names = ["EP317 海王星(下)，給你大好或大壞"]
+tag = ["May 2024", "2024", "海王星"]
+category = ["星象"]
+
 [time499]
 name = "EP316 喊我就爛的人其實超努力"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvm891c8000c01wqc74z8mji/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvm891c8000d01wq4k27bgpt.mp3?v=1714472059475"

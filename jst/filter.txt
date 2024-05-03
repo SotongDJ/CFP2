@@ -272,6 +272,12 @@ Process: jst/keyword-0.toml
     time009
   Excluded: (0)
     
+[海王星]
+  found in: (2)
+    time500
+    time494
+  Excluded: (0)
+    
 [冥王星]
   found in: (3)
     time369

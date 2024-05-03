@@ -1,4 +1,19 @@
 const playlist = {
+"time106": {
+"name": "EP77\uff5c\u980c\u7f3d\u5e2b ft.Ashley",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/3ab0c237-4db5-479b-9341-b78bd1bc2eba/rssFileVip.mp3?timestamp=1714715383587",
+"image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
+"tag": [
+"May 2024",
+"2024"
+],
+"description": "\u4ee5\u524d\u7e3d\u662f\u7b11\u8a71\u5982\u679c\u7761\u4e0d\u8457\u5c31\u4e00\u68d2\u5b50\u6253\u4e0b\u53bb\n\u90a3\u5c31\u7761\u5f97\u8457\u4e86\n\u4eca\u5929\u8acb\u4f86\u9019\u4f4d\n\u980c\u7f3d\u611b\u99ac\u4ed5Ashley\u8001\u5e2b\n\u80fd\u5920\u8b93\u4f60\u6e05\u9192\u7684\u6642\u5019\u4e00\u68d2\u6572\u7761\n\u4e5f\u80fd\u5728\u4f60\u60f3\u7761\u6642\u4e00\u68d2\u6253\u9192\u4f60\n\u8001\u5e2b\u7576\u7136\u662f\u6eab\u67d4\u7684\u6572\u5566\n\u4eca\u5929\u9019\u96c6\u9664\u4e86\u8b93\u5927\u5bb6\u4e86\u89e3\u980c\u7f3d\u4ee5\u5916\nAshley\u9084\u73fe\u5834\u6f14\u594f\u4e00\u6bb5\u9001\u7d66\u4f60\u5011\n\u6211\u5011\u6703\u53e6\u5916\u653eEP\u7d66\u5927\u5bb6\u807d\u807d\u980c\u7f3d\u7684\u529b\u91cf\n\u9019\u6bb5\u980c\u7f3d\u6f14\u594f\u662f\u8b93\u982d\u8166\u6e05\u9192\u7684\u7248\u672c\n\u80fd\u5920\u8b93\u5927\u5bb6\u5fc3\u975c\u5f97\u6bd4\u8f03\u5feb\u5537\uff01\n\n\u60f3\u9ad4\u9a57\u980c\u7f3d\u5728\u9019\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\nAshleyIG: whereisashgoing\n\n\u6240\u6709\u5e73\u53f0\u9023\u7d50\u5728\u9019 \u27a1\ufe0f <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2tVSGN0SE0zS3FRQlB0dFFlUmxuV1R2YUx1UXxBQ3Jtc0tsRlNQVkc3ckxoV1lUb2cyekVjWTJaZktnbW1jakRybG92NU9EdjhjOG9STWVxRjlZSjFvMFU3Q09fOTllSGhlZ2wxZkpwcHNmWWpkY0djZkNrUEdIWXRMQlFPVGZzbC1hZkRsRnlLcDFYRlNxazJUdw&amp;q=https%3A%2F%2Flinktr.ee%2Fascended_928&amp;v=pjnztzv9K9Q\">https://linktr.ee/ascended_928</a>\n\u5de5\u4f5c\u8acb\u6d3d \u27a1\ufe0f shensiantutoring@gmail.com\n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/ep77-%E9%A0%8C%E7%BC%BD%E5%B8%AB-ft-ashley/id1655641331?i=1000654394207",
+"google": "",
+"spotify": "https://open.spotify.com/episode/7BDny3gik3vspm68FLeLMR",
+"youtube": ""
+},
 "time105": {
 "name": "EP76\uff5c\u958b\u609f\u4e03\u8108\u8f2a",
 "feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/b1248c95-0f9b-481a-a764-bc6a1f8e3e72/rssFileVip.mp3?timestamp=1714694893101",
@@ -1625,6 +1640,7 @@ const playlist = {
 };
 const tag_class = {
 "本週運勢": ['運勢'],
+"May 2024": ['2024'],
 "Apr 2024": ['2024'],
 "Mar 2024": ['2024'],
 "Feb 2024": ['2024'],
@@ -1645,7 +1661,7 @@ const tag_class = {
 "Nov 2022": ['2022']
 };
 const class_tag = {
-"2024": ['Jan 2024', 'Feb 2024', 'Mar 2024', 'Apr 2024'],
+"2024": ['Jan 2024', 'Feb 2024', 'Mar 2024', 'Apr 2024', 'May 2024'],
 "2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023', 'Dec 2023'],
 "2022": ['Nov 2022', 'Dec 2022'],
 "運勢": ['本週運勢']

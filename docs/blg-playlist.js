@@ -1,4 +1,20 @@
 const playlist = {
+"time789": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u966a\u5b55\u5a66\u5403\u5230\u5410\uff0c\u5883\u5916\u52e2\u529b\u6ef2\u900f\u7f8e\u570b\u5b78\u751f\u6297\u722d\uff1f\u6b50\u6d32\u6700\u5927\u9a19\u6848",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15010359-news.mp3",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
+"tag": [
+"May 2024",
+"2024",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=TIkicl1_HaA"
+},
 "time788": {
 "name": "\u51f1\u8389\u61f7\u5b55\u9084\u662f\u5de5\u4f5c\u72c2 feat. \u5929\u6b98\u3001\u4e0d\u77e5\u706b",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14996442-feat.mp3",

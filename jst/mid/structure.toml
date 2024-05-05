@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time501]
+name = "【本週提醒】找回生活秩序吧！"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvtbpf42000201wq79be0j80/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvtbpf42000301wq3dvshxmh.mp3?v=1714900889903"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%89%BE%E5%9B%9E%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E5%90%A7/id1536374746?i=1000654578211"
+spotify = "https://open.spotify.com/episode/0Pvw5BnevdL8UEq3F2chMx"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽5/6-5/12星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 雙子 天蠍 水瓶&nbsp; <br /> <br />牡羊：向前衝時別太自我，感情喜歡自己的相似型 <br />雙子：稍安勿躁當心業力爆發，感情上先理智一點 <br />天蠍：讓自己休息平復心靈，感情等待珍惜你的人 <br />水瓶：別太固執要接納意見，感情上要聽對方想法 <br /> <br />【穩的】金牛 處女 射手 魔羯 <br /> <br />金牛：按部就班有進度，感情順利別踩雷 <br />處女：多和你愛的人相處，感情很受自己人影響 <br />射手：樂於助人有好報，在感情裡能激發能力 <br />魔羯：適時讓步更有進度，職場戀情機會高 <br /> <br />【讚的】巨蟹 獅子 天秤 雙魚 <br /> <br />巨蟹：事業有機會大躍進，感情的選擇權在你手上 <br />獅子：不順眼反而激發動力，感情上要收斂氣勢 <br />天秤：運勢轉好有貴人扶持，感情行情夯別亂放電 <br />雙魚：麻煩事漸漸釐清解決，感情能有共同目標 <br /> <br /></p>"
+names = ["【本週提醒】找回生活秩序吧！"]
+tag = ["May 2024", "2024"]
+category = []
+
 [time500]
 name = "EP317 海王星(下)，給你大好或大壞"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvqhako00ddy01vzgdp1fpf1/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvqhako00ddz01vzesdx4jys.mp3?v=1714728916706"

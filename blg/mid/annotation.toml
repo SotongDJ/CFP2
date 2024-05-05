@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time789]
+name = "百靈果NEWS｜陪孕婦吃到吐，境外勢力滲透美國學生抗爭？歐洲最大騙案"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15010359-news.mp3"
+youtube = "https://www.youtube.com/watch?v=TIkicl1_HaA"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["百靈果NEWS｜陪孕婦吃到吐，境外勢力滲透美國學生抗爭？歐洲最大騙案"]
+tag = ["May 2024", "2024", "百靈果 NEWS"]
+category = ["#節目系列"]
+
 [time788]
 name = "凱莉懷孕還是工作狂 feat. 天殘、不知火"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/14996442-feat.mp3"

@@ -10,9 +10,9 @@ const playlist = {
 ],
 "description": "<p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E9%99%AA%E5%AD%95%E5%A9%A6%E5%90%83%E5%88%B0%E5%90%90-%E5%A2%83%E5%A4%96%E5%8B%A2%E5%8A%9B%E6%BB%B2%E9%80%8F%E7%BE%8E%E5%9C%8B%E5%AD%B8%E7%94%9F%E6%8A%97%E7%88%AD-%E6%AD%90%E6%B4%B2%E6%9C%80%E5%A4%A7%E9%A8%99%E6%A1%88/id1106847606?i=1000654578544",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3Ccut0gNKmm35dJF7g9U8o",
 "youtube": "https://www.youtube.com/watch?v=TIkicl1_HaA"
 },
 "time788": {

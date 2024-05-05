@@ -1,4 +1,19 @@
 const playlist = {
+"time107": {
+"name": "\u975c\u5fc3\u980c\u7f3d ft. \u980c\u7f3d\u7642\u7652\u5e2b Ashley \u611b\u5e0c",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/0873aec9-9c22-480d-99bf-87c43e816f72/rssFileVip.mp3?timestamp=1714884870543",
+"image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
+"tag": [
+"May 2024",
+"2024"
+],
+"description": "\u611b\u5e0c\u53bb\u54ea\u5152Ashley\u73fe\u5834\u5373\u8208\u6f14\u594f\u3002\n\nIG:whereisashgoing\n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/%E9%9D%9C%E5%BF%83%E9%A0%8C%E7%BC%BD-ft-%E9%A0%8C%E7%BC%BD%E7%99%82%E7%99%92%E5%B8%AB-ashley-%E6%84%9B%E5%B8%8C/id1655641331?i=1000654555776",
+"google": "",
+"spotify": "https://open.spotify.com/episode/18fjV63djYen1lGfJJ3K0e",
+"youtube": "https://www.youtube.com/watch?v=cVMQrN4h6Ck"
+},
 "time106": {
 "name": "EP77\uff5c\u980c\u7f3d\u5e2b ft. \u980c\u7f3d\u7642\u7652\u5e2b Ashley \u611b\u5e0c",
 "feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/3ab0c237-4db5-479b-9341-b78bd1bc2eba/rssFileVip.mp3?timestamp=1714835287861",

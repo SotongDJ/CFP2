@@ -1,5 +1,17 @@
 # Add your own tag to each episode
 
+[time107]
+name = "靜心頌缽 ft. 頌缽療癒師 Ashley 愛希"
+feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/0873aec9-9c22-480d-99bf-87c43e816f72/rssFileVip.mp3?timestamp=1714884870543"
+apple = "https://podcasts.apple.com/tw/podcast/%E9%9D%9C%E5%BF%83%E9%A0%8C%E7%BC%BD-ft-%E9%A0%8C%E7%BC%BD%E7%99%82%E7%99%92%E5%B8%AB-ashley-%E6%84%9B%E5%B8%8C/id1655641331?i=1000654555776"
+spotify = "https://open.spotify.com/episode/18fjV63djYen1lGfJJ3K0e"
+youtube = "https://www.youtube.com/watch?v=cVMQrN4h6Ck"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "愛希去哪兒Ashley現場即興演奏。\n\nIG:whereisashgoing\n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a>"
+names = ["靜心頌缽 ft. 頌缽療癒師 Ashley 愛希"]
+tag = ["May 2024", "2024"]
+category = []
+
 [time106]
 name = "EP77｜頌缽師 ft. 頌缽療癒師 Ashley 愛希"
 feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/3ab0c237-4db5-479b-9341-b78bd1bc2eba/rssFileVip.mp3?timestamp=1714835287861"

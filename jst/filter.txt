@@ -287,7 +287,8 @@ Process: jst/keyword-0.toml
   Excluded: (0)
     
 [牡羊座]
-  found in: (4)
+  found in: (5)
+    time502
     time488
     time435
     time323

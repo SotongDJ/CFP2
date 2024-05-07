@@ -136,7 +136,7 @@ const playlist = {
 },
 "time098": {
 "name": "EP69\uff5c\u6211\u5011\u53bb\u5bf5\u7269\u6e9d\u901a\u4e86\uff01ft.\u91d1\u59ae\u3001\u5c0f\u80d6",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/f2ab108b-8054-4ff8-9a8b-f51fcf213411/rssFileVip.mp3?timestamp=1715047218066",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/f2ab108b-8054-4ff8-9a8b-f51fcf213411/rssFileVip.mp3?timestamp=1715083848955",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "Mar 2024",
@@ -166,7 +166,7 @@ const playlist = {
 },
 "time096": {
 "name": "EP67\uff5c\u8056\u5854\u5eab\u746a\u62c9",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/9c828d6a-8e8d-47b1-838e-be679a5f18c8/rssFileVip.mp3?timestamp=1715047218066",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/9c828d6a-8e8d-47b1-838e-be679a5f18c8/rssFileVip.mp3?timestamp=1715083769048",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "Feb 2024",

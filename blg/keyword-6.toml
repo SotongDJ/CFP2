@@ -35,6 +35,11 @@ inclusive = ["維吾爾的故事 - V"]
 exclusive = []
 category = ["聽眾"]
 
+[Catherine]
+inclusive = ["Catherine"]
+exclusive = []
+category = ["聽眾"]
+
 # 其他
 
 [Howard]
@@ -74,6 +79,11 @@ category = ["老闆"]
 
 ["李小牧"]
 inclusive = ["李小牧"]
+exclusive = []
+category = ["老闆"]
+
+["Anton @僑昱建築"]
+inclusive = ["Anton"]
 exclusive = []
 category = ["老闆"]
 
@@ -157,6 +167,11 @@ inclusive = ["IEObserve"]
 exclusive = []
 category = ["時事"]
 
+["徐瑜 @陳綢兒少家園"]
+inclusive = ["徐瑜"]
+exclusive = []
+category = ["時事"]
+
 ["士杰"]
 inclusive = ["士杰"]
 exclusive = []
@@ -219,5 +234,15 @@ category = ["來賓"]
 
 [Edan]
 inclusive = ["Edan"]
+exclusive = []
+category = ["來賓"]
+
+["雞哥"]
+inclusive = ["雞哥"]
+exclusive = []
+category = ["來賓"]
+
+["小飛"]
+inclusive = ["小飛"]
 exclusive = []
 category = ["來賓"]

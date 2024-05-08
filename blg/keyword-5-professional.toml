@@ -55,6 +55,11 @@ inclusive = ["顏色不分藍綠支持性專區顏色田慎節"]
 exclusive = []
 category = ["政治人物"]
 
+["苗博雅"]
+inclusive = ["苗博雅"]
+exclusive = []
+category = ["政治人物"]
+
 # 時事
 
 ["陳秋實"]
@@ -74,7 +79,7 @@ category = ["時事","記者"]
 
 ["Jason 劉致昕"]
 inclusive = ["Jason","致昕"]
-exclusive = []
+exclusive = ["Cheny"]
 category = ["時事","記者"]
 
 ["Byun 秉昀"]

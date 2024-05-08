@@ -1050,12 +1050,16 @@ Process: blg/keyword-7-event.toml
   Excluded: (0)
     
 [隱藏版 KK Show]
-  found in: (5)
+  found in: (9)
     time523
     time515
     time091
     time559
     time077
+    time753
+    time756
+    time785
+    time788
   Excluded: (0)
     
 [週二夜現場]
@@ -1336,6 +1340,18 @@ Process: blg/keyword-7-event.toml
     time003
   Excluded: (0)
     
+[Peggy]
+  found in: (8)
+    time641
+    time759
+    time748
+    time743
+    time734
+    time727
+    time723
+    time730
+  Excluded: (0)
+    
 [陳柏惟]
   found in: (2)
     time274
@@ -1368,12 +1384,11 @@ Process: blg/keyword-7-event.toml
   Excluded: (0)
     
 [Jason 劉致昕]
-  found in: (3)
-    time790
+  found in: (2)
     time238
     time376
-  Excluded: (0)
-    
+  Excluded: (1)
+    time790
 [人渣文本]
   found in: (5)
     time683

@@ -7,7 +7,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-254-jason-cheny/id110
 google = ""
 spotify = "https://open.spotify.com/episode/5l8tjXkc2hSnYl3W8rrDGt"
 youtube = "https://www.youtube.com/watch?v=ylMUHdCRWbk"
-tag = ["May 2024", "2024", "KK Show", "Jason 劉致昕", "時事", "記者"]
+tag = ["May 2024", "2024", "KK Show", "Jason Cheny", "Youtuber", "喜劇演員"]
 
 [time790.extra]
 
@@ -33,7 +33,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E5%87%B1%E8%8E%89%E6%87%B7%E5%AD
 google = ""
 spotify = "https://open.spotify.com/episode/7ctDUX9FWJGjGE02t10PAc"
 youtube = "https://www.youtube.com/watch?v=f9UQXvUubZE"
-tag = ["May 2024", "2024"]
+tag = ["May 2024", "2024", "隱藏版 KK Show", "天殘", "不知火", "喜劇演員"]
 
 [time788.extra]
 
@@ -46,7 +46,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-253-the-dodo-men-eric
 google = ""
 spotify = "https://open.spotify.com/episode/6PTsVedlu8QFtLB0Mns7hO"
 youtube = ""
-tag = ["Apr 2024", "2024", "KK Show"]
+tag = ["Apr 2024", "2024", "KK Show", "Eric @The Dodo Men", "Youtuber", "喜劇演員"]
 
 [time787.extra]
 
@@ -72,7 +72,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E5%A4%9C%E5%A5%BD%E7%9C
 google = ""
 spotify = "https://open.spotify.com/episode/0elr7ZSRTJrLAUkfDzkBfU"
 youtube = "https://www.youtube.com/watch?v=tXM5CcIPPaA"
-tag = ["Apr 2024", "2024", "阿江營養師", "學者", "醫學"]
+tag = ["Apr 2024", "2024", "隱藏版 KK Show", "阿江營養師", "學者", "醫學"]
 
 [time785.extra]
 
@@ -124,7 +124,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-250-%E8%B6%85%E6%96%B
 google = ""
 spotify = "https://open.spotify.com/episode/3B3vzufDeBh6tUCfKfNVQD"
 youtube = "https://www.youtube.com/watch?v=cdtkG7C5Tv0"
-tag = ["Apr 2024", "2024", "KK Show"]
+tag = ["Apr 2024", "2024", "KK Show", "有特色的帥哥", "Instagramer", "Youtuber"]
 
 [time781.extra]
 
@@ -150,7 +150,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-249-%E9%99%B3%E8%80%8
 google = ""
 spotify = "https://open.spotify.com/episode/06sHbJfvdPikg3qkjQ6e2S"
 youtube = "https://www.youtube.com/watch?v=Fxl1DKodEfk"
-tag = ["Apr 2024", "2024", "KK Show"]
+tag = ["Apr 2024", "2024", "KK Show", "陳老師來了", "Youtuber"]
 
 [time779.extra]
 
@@ -176,7 +176,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-248-%E4%BE%86%E8%87%A
 google = ""
 spotify = "https://open.spotify.com/episode/1RsyKtUO0y7oeN9veTAfNP"
 youtube = "https://www.youtube.com/watch?v=FK2T1lXbMco"
-tag = ["Apr 2024", "2024", "KK Show"]
+tag = ["Apr 2024", "2024", "KK Show", "Catherine", "聽眾"]
 
 [time777.extra]
 
@@ -202,7 +202,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-247-%E8%81%8A%E8%81%8
 google = ""
 spotify = "https://open.spotify.com/episode/2ZbpGw4SHwbmNuvnErgUNG"
 youtube = "https://www.youtube.com/watch?v=TcbS-WQOok4"
-tag = ["Mar 2024", "2024", "KK Show"]
+tag = ["Mar 2024", "2024", "KK Show", "徐瑜 @陳綢兒少家園", "時事"]
 
 [time775.extra]
 
@@ -228,7 +228,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3JSz4dgxEKeOEJ2i867q8A"
 youtube = "https://www.youtube.com/watch?v=s9fLIJKIRqU"
-tag = ["Mar 2024", "2024", "KK Show"]
+tag = ["Mar 2024", "2024", "KK Show", "鍾佳播", "Youtuber"]
 
 [time773.extra]
 
@@ -280,7 +280,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3rWNBSuNLUVER1WratISLm"
 youtube = "https://www.youtube.com/watch?v=le2qW_G-Q_Y"
-tag = ["Mar 2024", "2024", "KK Show"]
+tag = ["Mar 2024", "2024", "KK Show", "雞哥", "來賓"]
 
 [time769.extra]
 
@@ -306,7 +306,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1yHAyPXTiv4lTFv8VBlK1H"
 youtube = "https://www.youtube.com/watch?v=zfCtofAaU_M"
-tag = ["Feb 2024", "2024", "KK Show"]
+tag = ["Feb 2024", "2024", "KK Show", "導演 Leo", "導演", "影視製作"]
 
 [time767.extra]
 
@@ -332,7 +332,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6LQu5yYeXB7OYnn6GK5nvL"
 youtube = "https://www.youtube.com/watch?v=Q8ze83-u_ug"
-tag = ["Feb 2024", "2024", "KK Show"]
+tag = ["Feb 2024", "2024", "KK Show", "POPO J", "專業人士", "音樂"]
 
 [time765.extra]
 
@@ -345,7 +345,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6H1xoKD4yVry3h7JOqSJ0l"
 youtube = "https://www.youtube.com/watch?v=2M--5F2BYq4"
-tag = ["Feb 2024", "2024", "KK Show", "唐綺陽", "Podcaster"]
+tag = ["Feb 2024", "2024", "KK Show", "唐綺陽", "Podcaster", "Youtuber"]
 
 [time764.extra]
 
@@ -371,7 +371,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3Yrd7xDAycRAa2PVFDOMhq"
 youtube = "https://www.youtube.com/watch?v=7FR_-JZYrSI"
-tag = ["Feb 2024", "2024", "KK Show"]
+tag = ["Feb 2024", "2024", "KK Show", "椅人 Leo", "Youtuber"]
 
 [time762.extra]
 
@@ -410,7 +410,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-benji-got-invited-to-
 google = ""
 spotify = "https://open.spotify.com/episode/64rDJd6fJ0AUGmHH7Yg2Ne"
 youtube = "https://www.youtube.com/watch?v=NSggkmZ0xVc"
-tag = ["Jan 2024", "2024", "Catching up"]
+tag = ["Jan 2024", "2024", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time759.extra]
 
@@ -423,7 +423,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/05L0V2yNYIR8wzcxHzXKD6"
 youtube = "https://www.youtube.com/watch?v=xPheR6Aehxk"
-tag = ["Jan 2024", "2024", "KK Show"]
+tag = ["Jan 2024", "2024", "KK Show", "黃明志", "Youtuber", "音樂"]
 
 [time758.extra]
 
@@ -449,7 +449,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6SnkvX6IGx85PJGX4lZrPc"
 youtube = "https://www.youtube.com/watch?v=DPlm0W6kc_4"
-tag = ["Jan 2024", "2024"]
+tag = ["Jan 2024", "2024", "隱藏版 KK Show", "小飛", "來賓"]
 
 [time756.extra]
 
@@ -488,7 +488,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1aNtZE5FcSfIWYWh8pP3p5"
 youtube = "https://www.youtube.com/watch?v=zaq5As7iROw"
-tag = ["Jan 2024", "2024"]
+tag = ["Jan 2024", "2024", "隱藏版 KK Show", "Anton @僑昱建築", "老闆"]
 
 [time753.extra]
 
@@ -527,7 +527,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1grK6mJqOshF7O0kr1D8Zn"
 youtube = "https://www.youtube.com/watch?v=heNHCS9mbNg"
-tag = ["Jan 2024", "2024", "KK Show"]
+tag = ["Jan 2024", "2024", "KK Show", "街頭有派對", "Youtuber", "時事"]
 
 [time750.extra]
 
@@ -553,7 +553,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-first-pxrn-experience
 google = ""
 spotify = "https://open.spotify.com/episode/3nyBpiRNCQ24sMSjdMBoK8"
 youtube = "https://www.youtube.com/watch?v=u_XsS0tZ640"
-tag = ["Dec 2023", "2023", "Catching up"]
+tag = ["Dec 2023", "2023", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time748.extra]
 
@@ -566,7 +566,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/5s6ucopUbn4KpIkX6d94Bd"
 youtube = "https://www.youtube.com/watch?v=07XxacB4Ncs"
-tag = ["Dec 2023", "2023", "KK Show"]
+tag = ["Dec 2023", "2023", "KK Show", "苗博雅", "政治人物"]
 
 [time747.extra]
 
@@ -618,7 +618,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-how-american-sees-tai
 google = ""
 spotify = "https://open.spotify.com/episode/5C6xbTUtJAzWOYesL1CyTI"
 youtube = "https://www.youtube.com/watch?v=T1zq0bPWAxs"
-tag = ["Dec 2023", "2023", "Catching up"]
+tag = ["Dec 2023", "2023", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time743.extra]
 
@@ -735,7 +735,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-china-needs-women-to-
 google = ""
 spotify = "https://open.spotify.com/episode/15N0OK21iLKE3Txcc5cW2R"
 youtube = "https://www.youtube.com/watch?v=vdW-xtJId_0"
-tag = ["Nov 2023", "2023", "Catching up"]
+tag = ["Nov 2023", "2023", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time734.extra]
 
@@ -787,7 +787,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3yn69TTj3vmnFDTIfTyWFj"
 youtube = "https://www.youtube.com/watch?v=Q4ao7xJ0pO8"
-tag = ["Nov 2023", "2023", "Catching up"]
+tag = ["Nov 2023", "2023", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time730.extra]
 
@@ -826,7 +826,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-taiwanese-youtubers-c
 google = ""
 spotify = "https://open.spotify.com/episode/5P4fxtA3allZNu491oNTFG"
 youtube = "https://www.youtube.com/watch?v=tFNMEdXCRdc"
-tag = ["Nov 2023", "2023", "Catching up"]
+tag = ["Nov 2023", "2023", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time727.extra]
 
@@ -878,7 +878,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1Hc6TBOoqIjeRm9q5JHAmp"
 youtube = "https://www.youtube.com/watch?v=1s1lEUH7_xM"
-tag = ["Nov 2023", "2023", "Catching up"]
+tag = ["Nov 2023", "2023", "Catching up", "Peggy", "Youtuber", "媒體人"]
 
 [time723.extra]
 
@@ -6901,7 +6901,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-52-ken%E7%9A%84%E7%A7
 google = ""
 spotify = "https://open.spotify.com/episode/5rpqQIhTvBMo9gK7OByzlt"
 youtube = "https://www.youtube.com/watch?v=1gc4tIPH_7s"
-tag = ["Nov 2020", "2020", "KK Show", "唐綺陽", "Podcaster"]
+tag = ["Nov 2020", "2020", "KK Show", "唐綺陽", "Podcaster", "Youtuber"]
 
 [time265.extra]
 
@@ -7850,7 +7850,7 @@ apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-28-%E7%AE%97%E7%9B%A1
 google = ""
 spotify = "https://open.spotify.com/episode/0raDf3u8wwCPpAeJTqRprQ"
 youtube = "https://www.youtube.com/watch?v=5G92sHuvq5o&t=77s"
-tag = ["May 2020", "2020", "KK Show", "簡少年", "Podcaster"]
+tag = ["May 2020", "2020", "KK Show", "簡少年", "Podcaster", "Youtuber"]
 
 [time192.extra]
 

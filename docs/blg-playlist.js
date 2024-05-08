@@ -61,7 +61,7 @@ const playlist = {
 "Apr 2024",
 "2024",
 "KK Show",
-"Eric @The Dodo Men",
+"Eric @The DoDo Men",
 "Youtuber",
 "\u559c\u5287\u6f14\u54e1"
 ],
@@ -1023,7 +1023,11 @@ const playlist = {
 "tag": [
 "Nov 2023",
 "2023",
-"KK Show"
+"KK Show",
+"Eric @The DoDo Men",
+"Ian @The DoDo Men",
+"Youtuber",
+"\u559c\u5287\u6f14\u54e1"
 ],
 "description": "<p>DoDo Men\u7684Ian\u8ddf Eric\u4f86\u8ddf\u6211\u5011\u804a\u5929\uff0c\u6211\u5011\u8cea\u7591\u4ed6\u5011\u539f\u672c\u5728\u7f8e\u570b\u7684\u5de5\u4f5c\u8cfa\u9019\u9ebc\u591a\u9322\uff0c\u5e79\u561b\u56de\u53f0\u7063\u6436\u5927\u5bb6\u7684\u98ef\u7897\uff1f<br/><br/>#\u7720\u8c46\u8150 \u7f8e\u570b\u5718\u8cfc\uff0c\u7b2c\u4e8c\u5718\u958b\u8dd1\u5566\uff01<br/>\u7d14\u6b63\u53f0\u7063\u88fd\u9020\uff0c\u73fe\u5728\u7f8e\u570b\u4e5f\u8cb7\u5f97\u5230\uff01<br/>\u611f\u8b1d\u7f8e\u570b\u7720\u53cb\u8de8\u6d77\u652f\u6301\uff0c\u5927\u5bb6\u767c\u73fe\u4e0d\u662f\u8a50\u9a19\u4e4b\u5f8c\uff0c\u8a02\u55ae\u5982\u96ea\u7247\u822c\u98db\u4f86\uff0c\u7b2c\u4e00\u5718\u7834\u767e\u5f35\u5df2\u9054\u6210\uff01<br/>\u7b2c\u4e8c\u5718\u78ba\u5b9a\u7121\u7e2b\u7e8c\u958b\uff01<br/>\u5373\u65e5\u8d77\u958b\u59cb\u63a5\u55ae\uff0c2024\u5e741/31\u6536\u55ae\uff0c\u9810\u8a082\u81f33\u6708\u914d\u9001\u3002<br/>\u8acb\u641c\u5c0b\u300c\u7720\u8c46\u8150\u7f8e\u570b\u300d\uff0c\u6216\u6d3d\u7c89\u5c08\u5ba2\u670d\u4e86\u89e3\u8a73\u60c5\uff01<br/>\u8cc7\u8a0a\u6b04\u9023\u7d50\uff1a<a href='https://us.sleepytofu.com/'>https://us.sleepytofu.com</a><br/><br/>#\u9cf3\u51f0\u96fb\u6ce2 900\u767c\u301079000\u3011<br/>\ud83c\udf81\u76ae\u79d2\u96f7\u5c042\u5802 <br/>\ud83c\udf81\u52a0\u9cf3\u51f0\u773c\u5468\u96fb\u6ce2450\u767c\u301050000\u3011<br/>\u5feb\u901f\u8a62\u554f <a href='https://lihi.cc/01wIJ/4'>lihi.cc/01wIJ/4</a><br/>\u670d\u52d9\u5c08\u7dda 0800-000-593</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -13993,8 +13997,8 @@ const tag_class = {
 "Alma & 小妖": ['Youtuber'],
 "Lucas @BBK Network": ['Youtuber'],
 "嘉雯 @BBK Network": ['Youtuber'],
-"Eric @The Dodo Men": ['喜劇演員', 'Youtuber'],
-"Ian @The Dodo Men": ['喜劇演員', 'Youtuber'],
+"Eric @The DoDo Men": ['喜劇演員', 'Youtuber'],
+"Ian @The DoDo Men": ['喜劇演員', 'Youtuber'],
 "有特色的帥哥": ['Youtuber', 'Instagramer'],
 "陳老師來了": ['Youtuber'],
 "鍾佳播": ['Youtuber'],
@@ -14251,8 +14255,8 @@ const class_tag = {
 "#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', 'Catching up', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', 'Hot Money', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '週二夜現場'],
-"喜劇演員": ['Atsuko Okatsuka', '瑞恩', 'Hector', '龍哥（喜劇）', '喬瑟夫', '樂樂法利', 'Jason Cheny', '陳大天', '小歐', '老K', '妍霏', '學仁', '天殘', '不知火', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', 'Jamie', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', 'Eric @The Dodo Men', 'Ian @The Dodo Men', '蕭東意'],
-"Youtuber": ['Atsuko Okatsuka', '喬瑟夫', '樂樂法利', 'Jason Cheny', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', '視網膜', '動眼神經', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', 'Ms Puiyi', '阿滴', 'Joeman', 'Ted @35線上賞屋', '蔡阿嘎', '黃大謙', 'China Mac', 'Cheap', '邱 grr', '泥泥學姐', 'Alma & 小妖', 'Lucas @BBK Network', '嘉雯 @BBK Network', 'Eric @The Dodo Men', 'Ian @The Dodo Men', '有特色的帥哥', '陳老師來了', '鍾佳播', '椅人 Leo', '歷史哥', '嗩吶 @好機車', '街頭有派對', '黃明志', '阿拉斯', '巴大雄 @東南美娛樂', '賈培德', '中指通', '唐綺陽', '簡少年', 'Peggy', '人渣文本', '周偉航'],
+"喜劇演員": ['Atsuko Okatsuka', '瑞恩', 'Hector', '龍哥（喜劇）', '喬瑟夫', '樂樂法利', 'Jason Cheny', '陳大天', '小歐', '老K', '妍霏', '學仁', '天殘', '不知火', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', 'Jamie', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', 'Eric @The DoDo Men', 'Ian @The DoDo Men', '蕭東意'],
+"Youtuber": ['Atsuko Okatsuka', '喬瑟夫', '樂樂法利', 'Jason Cheny', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', '視網膜', '動眼神經', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', 'Ms Puiyi', '阿滴', 'Joeman', 'Ted @35線上賞屋', '蔡阿嘎', '黃大謙', 'China Mac', 'Cheap', '邱 grr', '泥泥學姐', 'Alma & 小妖', 'Lucas @BBK Network', '嘉雯 @BBK Network', 'Eric @The DoDo Men', 'Ian @The DoDo Men', '有特色的帥哥', '陳老師來了', '鍾佳播', '椅人 Leo', '歷史哥', '嗩吶 @好機車', '街頭有派對', '黃明志', '阿拉斯', '巴大雄 @東南美娛樂', '賈培德', '中指通', '唐綺陽', '簡少年', 'Peggy', '人渣文本', '周偉航'],
 "老闆": ['龍哥（喜劇）', 'Social', '呱吉', '歐耶', '志祺 @志祺七七', '阿滴', 'Joeman', 'Ted @35線上賞屋', '邱 grr', '小澤瑪利亞', 'Chapman 杜汶澤', '葉丙成教授', '館長', 'Aaron', '尚恩', '李小牧', 'Anton @僑昱建築', '曹興誠', 'Jay', 'Jay哥', '吳桑', '顧立楷', '林榮基'],
 "藝人": ['陳大天', '黃豪平', '王彩樺', '趙詠華', '林俊逸', '禁藥王 & 栗子', '大霈', '陳沂'],
 "Podcaster": ['歐馬克', '酸酸', '范琪斐', '敏迪 @敏迪選讀', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', '蔡阿嘎', '趙詠華', '林俊逸', '劉珞亦 @法律白話文', '楊貴智 @法律白話文', '大麻律師 李菁琪 @大麻煩不煩', '唐綺陽', '簡少年', '台灣通勤第一品牌', '股癌', '瑞典劉先生', 'Firstory', '馬力歐', '小聶', '吳淡如', '人渣文本', '周偉航', 'Howard'],

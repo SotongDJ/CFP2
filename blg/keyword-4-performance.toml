@@ -302,13 +302,13 @@ inclusive = ["馬來西亞的眼球中央電視台"]
 exclusive = []
 category = ["Youtuber"]
 
-["Eric @The Dodo Men"]
-inclusive = ["The Dodo Men"]
+["Eric @The DoDo Men"]
+inclusive = ["Dodo Men","DoDo Men","dodo Men","Dodo men","DoDo men","dodo men"]
 exclusive = []
 category = ["喜劇演員","Youtuber"]
 
-["Ian @The Dodo Men"]
-inclusive = ["The Dodo Men"]
+["Ian @The DoDo Men"]
+inclusive = ["Dodo Men","DoDo Men","dodo Men","Dodo men","DoDo men","dodo men"]
 exclusive = ["The KK Show - 253"]
 category = ["喜劇演員","Youtuber"]
 

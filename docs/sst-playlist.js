@@ -1,7 +1,7 @@
 const playlist = {
 "time108": {
 "name": "EP78\uff5c\u9592\u804a\u9ec3\u91d1\u7d00\u5143",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/e71277c2-4aae-4a54-b40c-eed8aefbffbc/rssFileVip.mp3?timestamp=1715320181555",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/e71277c2-4aae-4a54-b40c-eed8aefbffbc/rssFileVip.mp3?timestamp=1715321929743",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "May 2024",
@@ -12,7 +12,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep78-%E9%96%92%E8%81%8A%E9%BB%83%E9%87%91%E7%B4%80%E5%85%83/id1655641331?i=1000655137763",
 "google": "",
 "spotify": "https://open.spotify.com/episode/4DJUzYKxwKYzAfHmMi28AX",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=hSwg6eOdBtE"
 },
 "time107": {
 "name": "\u975c\u5fc3\u980c\u7f3d ft. \u980c\u7f3d\u7642\u7652\u5e2b Ashley \u611b\u5e0c",

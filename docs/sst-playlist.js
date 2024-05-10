@@ -1,4 +1,19 @@
 const playlist = {
+"time108": {
+"name": "EP78\uff5c\u9592\u804a\u9ec3\u91d1\u7d00\u5143",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/e71277c2-4aae-4a54-b40c-eed8aefbffbc/rssFileVip.mp3?timestamp=1715320181555",
+"image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
+"tag": [
+"May 2024",
+"2024"
+],
+"description": "\u672c\u96c6\u7bc0\u76ee\u7531\u300eSPEAK\u8d0a\u52a9\u64ad\u51fa\u300f\n\nSPEAK\u662f\u4e00\u6b3e\u4e3b\u6253AI\u82f1\u6587\u53e3\u8aaa\u5b78\u7fd2\u7684APP!!\n\n\u27a1\ufe0f\u900f\u904e\u4e16\u754c\u6700\u5148\u9032\u7684\u4eba\u5de5\u667a\u6167\u79d1\u6280\u958b\u53e3\u5927\u8072\u300c\u8aaa\u300d\u82f1\u6587\uff01\n\u27a1\ufe0f\u5c08\u5c6c\u65bc\u4f60\u7684\u82f1\u6587\u8a9e\u4f34\uff0c\u4e0d\u7720\u4e0d\u4f11\u4e0d\u9593\u65b7\u7684\u5e6b\u4f60\u63d0\u5347\u8a9e\u8a00\u80fd\u529b\u3002\n\u27a1\ufe0f\u96a8\u6642\u96a8\u5730\uff0c\u60f3\u804a\u4ec0\u9ebc\u90fd\u53ef\u4ee5\uff0c\u8a71\u984c\u96a8\u4f60\u6311\n\u27a1\ufe0f\u5c08\u6ce8\u5b78\u7fd2\uff0c\u8f15\u9b06\u5be6\u73fe\u4f60\u7684\u5b78\u7fd2\u76ee\u6a19\n\nSPEAK\u70ba\u4f60\u91cf\u8eab\u5b9a\u5236\u500b\u4eba\u5316\u7684\u5b78\u7fd2\u9ad4\u9a57\uff0c\u5e6b\u4f60\u4fdd\u6301\u5b78\u7fd2\u52d5\u529b\uff0c\u5feb\u901f\u5be6\u73fe\u76ee\u6a19\u3002\u505a\u4f60\u7684\u5b78\u7fd2\u5925\u4f34\uff0c\u8b93\u8a9e\u8a00\u5b78\u7fd2\u9ad8\u6548\u4e0d\u7121\u804a\u3002\n\u7528\u5168\u7403\u6700\u5148\u9032\u7684\u53e3\u8aaa\u8ab2\u7a0b\uff0c\u5e6b\u4f60\u81ea\u4fe1\u6eff\u6eff\u6d41\u5229\u8aaa\u82f1\u6587\u3002\n\u4e26\u900f\u904e\u7cbe\u5fc3\u7d30\u7dfb\u7684\u9010\u6b65\u8b1b\u89e3\uff0c\u8f15\u9b06\u638c\u63e1\u82f1\u6587\uff01\n\u6210\u70ba\u82f1\u6587\u9054\u4eba\uff0c\u5c31\u5f9e\u9019\u88e1\u958b\u59cb\u3002\n\n\ud83d\udd25\u73fe\u5728\u8a3b\u518a Speak \u9084\u53ef\u4ee5\u7372\u5f97\u65b0\u4eba 4 \u6298\u512a\u60e0\n\ud83d\udd25\u6bcf\u5e74\u53ea\u8981 2790 \u53f0\u5e63\uff0c\u6bcf\u6708\u53ea\u8981200 \u591a\u5143\uff01\n\n\u5b98\u7db2\u9023\u7d50\u5728\u9019\u88e1\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n<a href=\"https://speak.onelink.me/ER2a/Fairycrampodcast\">https://speak.onelink.me/ER2a/Fairycrampodcast</a>\n---\n\u6700\u8fd1\u5e7e\u5e74\u6709\u6c92\u6709\u89ba\u5f97\u90a3\u7a2e\u7f55\u898b\u7684\u65b0\u805e\u983b\u7e41\u51fa\u73fe\uff1f\n\u75ab\u60c5\u3001\u5730\u9707\u3001\u706b\u707d\u7b49\u7b49\n\u5404\u7a2e\u4e0d\u5e0c\u671b\u51fa\u73fe\u7684\u707d\u96e3\u4e00\u76f4\u767c\u751f\n\u5728\u9748\u6027\u4e0a\u6211\u5011\u8aaa\u9019\u662f\u8f49\u8b8a\u7684\u958b\u59cb\n\u4e5f\u53ef\u80fd\u662f\u9ec3\u91d1\u7d00\u5143\u6b63\u5728\u767c\u751f\n\u8b93\u4e00\u5207\u90fd\u5728\u52a0\u901f\u9032\u884c\u4e2d\n\u4e16\u754c\u5728\u904b\u8f49\n\u4eba\u985e\u5728\u6539\u8b8a\n\u6211\u5011\u8a66\u5716\u5f71\u97ff\u5927\u5bb6\u4f7f\u7528\u611b\n\u4e5f\u8a31\u518d\u767c\u751f\u4e0d\u597d\u7684\u4e8b\u60c5\u6642\n\u6211\u5011\u80fd\u5920\u5b89\u4f4f\u5728\u81ea\u5df1\u5fc3\u4e2d\u2764\ufe0f\n\n\u6240\u6709\u5e73\u53f0\u9023\u7d50\u5728\u9019 \u27a1\ufe0f <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2tVSGN0SE0zS3FRQlB0dFFlUmxuV1R2YUx1UXxBQ3Jtc0tsRlNQVkc3ckxoV1lUb2cyekVjWTJaZktnbW1jakRybG92NU9EdjhjOG9STWVxRjlZSjFvMFU3Q09fOTllSGhlZ2wxZkpwcHNmWWpkY0djZkNrUEdIWXRMQlFPVGZzbC1hZkRsRnlLcDFYRlNxazJUdw&amp;q=https%3A%2F%2Flinktr.ee%2Fascended_928&amp;v=pjnztzv9K9Q\">https://linktr.ee/ascended_928</a>\n\u5de5\u4f5c\u8acb\u6d3d \u27a1\ufe0f shensiantutoring@gmail.com\n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/ep78-%E9%96%92%E8%81%8A%E9%BB%83%E9%87%91%E7%B4%80%E5%85%83/id1655641331?i=1000655137763",
+"google": "",
+"spotify": "https://open.spotify.com/episode/4DJUzYKxwKYzAfHmMi28AX",
+"youtube": ""
+},
 "time107": {
 "name": "\u975c\u5fc3\u980c\u7f3d ft. \u980c\u7f3d\u7642\u7652\u5e2b Ashley \u611b\u5e0c",
 "feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/0873aec9-9c22-480d-99bf-87c43e816f72/rssFileVip.mp3?timestamp=1714884870543",
@@ -151,7 +166,7 @@ const playlist = {
 },
 "time097": {
 "name": "EP68\uff5c\u9748\u9b42\u8868\u6f14\u8ab2 ft.\u6731\u5b8f\u7ae0\u8001\u5e2b",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/3043d6ac-28c9-4cb1-836f-05aa27341bd2/rssFileVip.mp3?timestamp=1715272161122",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/3043d6ac-28c9-4cb1-836f-05aa27341bd2/rssFileVip.mp3?timestamp=1715318843498",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "Mar 2024",
@@ -166,7 +181,7 @@ const playlist = {
 },
 "time096": {
 "name": "EP67\uff5c\u8056\u5854\u5eab\u746a\u62c9",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/9c828d6a-8e8d-47b1-838e-be679a5f18c8/rssFileVip.mp3?timestamp=1715272161122",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/9c828d6a-8e8d-47b1-838e-be679a5f18c8/rssFileVip.mp3?timestamp=1715318789644",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "Feb 2024",

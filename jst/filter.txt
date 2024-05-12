@@ -2,7 +2,8 @@
 Start annotation
 Process: jst/keyword-0.toml
 [本週提醒]
-  found in: (169)
+  found in: (170)
+    time504
     time501
     time498
     time495
@@ -175,7 +176,8 @@ Process: jst/keyword-0.toml
   Excluded: (0)
     
 [水星]
-  found in: (10)
+  found in: (11)
+    time504
     time473
     time453
     time384
@@ -296,7 +298,8 @@ Process: jst/keyword-0.toml
   Excluded: (0)
     
 [金牛座]
-  found in: (4)
+  found in: (5)
+    time504
     time356
     time342
     time043

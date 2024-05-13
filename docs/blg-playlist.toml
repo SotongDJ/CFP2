@@ -644,7 +644,7 @@ apple = "https://podcasts.apple.com/tw/podcast/catching-up-how-american-sees-tai
 google = ""
 spotify = "https://open.spotify.com/episode/5C6xbTUtJAzWOYesL1CyTI"
 youtube = "https://www.youtube.com/watch?v=T1zq0bPWAxs"
-tag = ["Dec 2023", "2023", "Catching up", "Peggy", "Podcaster", "Youtuber", "媒體人"]
+tag = ["Dec 2023", "2023", "Catching up", "樂樂法利", "Peggy", "Podcaster", "Youtuber", "喜劇演員", "媒體人"]
 
 [time743.extra]
 
@@ -722,7 +722,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4GnmHnslnawfz3hs4pj0Xv"
 youtube = ""
-tag = ["Nov 2023", "2023"]
+tag = ["Nov 2023", "2023", "隱藏版 KK Show"]
 
 [time737.extra]
 
@@ -813,7 +813,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3yn69TTj3vmnFDTIfTyWFj"
 youtube = "https://www.youtube.com/watch?v=Q4ao7xJ0pO8"
-tag = ["Nov 2023", "2023", "Catching up", "Peggy", "Podcaster", "Youtuber", "媒體人"]
+tag = ["Nov 2023", "2023", "Catching up", "隱藏版 KK Show", "Sam", "喜劇演員"]
 
 [time730.extra]
 

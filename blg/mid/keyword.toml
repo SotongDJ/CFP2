@@ -180,7 +180,7 @@ exclusive = []
 category = ["#節目系列", "暫代讀書會"]
 
 ["隱藏版 KK Show"]
-inclusive = ["女演員的互相傷害", "笑友會的無情工商", "特別來賓：敏迪選讀", "我不是泰國人", "0704 Bonus", "建商來了", "台灣秘境探險家", "一夜好眠", "凱莉懷孕還是工作狂"]
+inclusive = ["女演員的互相傷害", "笑友會的無情工商", "特別來賓：敏迪選讀", "我不是泰國人", "0704 Bonus", "建商來了", "台灣秘境探險家", "一夜好眠", "凱莉懷孕還是工作狂", "來自遠方的占星師", "Sam, An American chasing comedy dream in Taiwan"]
 exclusive = []
 category = ["#節目系列"]
 
@@ -215,7 +215,7 @@ exclusive = []
 category = ["喜劇演員", "Youtuber"]
 
 ["樂樂法利"]
-inclusive = ["樂樂法利", "(11/24錄音)簡體中文反共圈的困境"]
+inclusive = ["樂樂法利", "(11/24錄音)簡體中文反共圈的困境", "How American sees Taiwan's election"]
 exclusive = []
 category = ["喜劇演員", "Youtuber"]
 
@@ -389,6 +389,11 @@ inclusive = ["壯壯"]
 exclusive = []
 category = ["喜劇演員", "Youtuber"]
 
+[Sam]
+inclusive = ["Sam, An American chasing comedy dream in Taiwan"]
+exclusive = []
+category = ["喜劇演員"]
+
 ["視網膜"]
 inclusive = ["視網膜曝原因"]
 exclusive = []
@@ -541,7 +546,7 @@ category = ["音樂", "Youtuber"]
 
 [Peggy]
 inclusive = ["Peggy", "Catching up", "Catching Up"]
-exclusive = []
+exclusive = ["Sam, An American chasing comedy dream in Taiwan"]
 category = ["媒體人", "Youtuber", "Podcaster"]
 
 ["阿爆"]

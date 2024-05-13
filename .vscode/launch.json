@@ -16,7 +16,7 @@
             "name": "Python: Debug with argparse",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/merge.py",
+            "program": "${workspaceFolder}/annotate.py blg > blg/filter.txt",
             "args": ["blg"],
             "console": "integratedTerminal"
         }

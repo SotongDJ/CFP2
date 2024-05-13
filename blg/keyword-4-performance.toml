@@ -26,7 +26,7 @@ exclusive = []
 category = ["喜劇演員","Youtuber"]
 
 ["樂樂法利"]
-inclusive = ["樂樂法利","(11/24錄音)簡體中文反共圈的困境"]
+inclusive = ["樂樂法利","(11/24錄音)簡體中文反共圈的困境","How American sees Taiwan's election"]
 exclusive = []
 category = ["喜劇演員","Youtuber"]
 
@@ -200,6 +200,11 @@ inclusive = ["壯壯"]
 exclusive = []
 category = ["喜劇演員","Youtuber"]
 
+[Sam]
+inclusive = ["Sam, An American chasing comedy dream in Taiwan"]
+exclusive = []
+category = ["喜劇演員"]
+
 # Youtuber/Podcaster/音樂/色色
 
 ["視網膜"]
@@ -354,7 +359,7 @@ category = ["音樂","Youtuber"]
 
 ["Peggy"]
 inclusive = ["Peggy","Catching up", "Catching Up"]
-exclusive = []
+exclusive = ["Sam, An American chasing comedy dream in Taiwan"]
 category = ["媒體人","Youtuber","Podcaster"]
 
 ["阿爆"]

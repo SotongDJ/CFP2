@@ -105,7 +105,7 @@ category = ["時事"]
 ["溫特斯"]
 inclusive = ["基層員警溫特斯"]
 exclusive = []
-category = ["時事","專業人士"]
+category = ["時事","警察"]
 
 ["印度尤"]
 inclusive = ["印度尤"]

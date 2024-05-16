@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>#RHINOSHIELD<br/>\u66f4\u591a RhinoBuff FPS \u7cbe\u6e96\u64cd\u63a7\u5957\u7d44\u8cc7\u8a0a\u8acb\u53c3\u8003 RHINOSHIELD \u7280\u725b\u76fe\u5b98\u7db2\uff1ahttps://url.rhinoshield.tw/bailingguonews-2024-RhinoBuff-Precision-Kit<br/>#RHINOSHIELD\u7280\u725b\u76fe #rhinoshieldtw</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%B7%9A%E4%B8%8A%E7%AE%97%E5%91%BD%E7%9A%84%E7%9C%9F%E7%9B%B8/id1106847606?i=1000655795552",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/3yWgicdJHQtBAL4ZBV1hYi",
 "youtube": ""
 },
 "time793": {

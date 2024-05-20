@@ -1,3 +1,4 @@
+#!/bin/env python
 """Update RSS feed."""
 from datetime import datetime
 import argparse
@@ -40,7 +41,9 @@ def do_job(target_str,configing):
     for unit in rss_feed.find_all('item'):
         name = unit.title.contents[0]
         url = unit.enclosure['url']
-        description = str(unit.description.contents[0])
+        unit_description = unit.description
+        contents = unit_description.contents
+        description = str(contents[0]) if len(contents) > 0 else ""
         rss_dict[name] = url
         if name not in description_dict:
             description_dict[name] = description

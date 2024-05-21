@@ -1,4 +1,20 @@
 const playlist = {
+"time796": {
+"name": "The KK Show - 256 \u967d\u975a",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15106535-the-kk-show-256.mp3",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
+"tag": [
+"May 2024",
+"2024",
+"KK Show"
+],
+"description": "<p>\u967d\u975a\u7d66\u6211\u5011\u7684\u5370\u8c61\u5c31\u662f\u4e00\u500b\u6587\u9752\u5973\u6f14\u54e1\u6f14\uff0c\u6c92\u60f3\u5230\u4e00\u4f86\u9304\u97f3\u5ba4\u767c\u73fe\u4ed6\u7684\u6c34\u58fa\u88e1\u9762\u5168\u90e8\u90fd\u662f\u7434\u9152\uff0c\u662f\u500bhigh \u5496\uff01\u6211\u5011\u8ddf\u5979\u804a\u70ba\u4ec0\u9ebc\u8981\u8d70\u6f14\u54e1\u9019\u689d\u8def\u3001\u5165\u6232\u592a\u6df1\u600e\u9ebc\u8fa6\u3001\u9084\u6709\u5927\u5bb6\u6700\u95dc\u5fc3\u7684\u5c31\u662f\u4ed6\u5728\u8304\u5b50\u86cbmv\u88e1\u9762\u7684\u5973\u4e3b\u89d2\u5230\u5e95\u6709\u6c92\u6709\u611b\u904e\u9ad8\u6377\uff01<br/><br/><br/><br/>- \u5065\u6aa2\u4e2d\u5fc3\uff1a\u6566\u5e73\u3001\u5bcc\u9716\u8a3a\u6240(\u53f0\u5317\u6566\u5357)\uff5c\u745e\u6210\u3001\u745e\u5065\u3001\u745e\u5b8f\u8a3a\u6240(\u53f0\u5317\u5167\u6e56)\uff5c\u6c11\u5b89\u3001\u6cf0\u5b89\u8a3a\u6240(\u65b0\u7af9)\uff5c\u570b\u6cf0\u529f\u91ab\u8a3a\u6240(\u53f0\u5357)<br/>- \u7522\u5f8c\u8b77\u7406\uff1a\u570b\u6cf0\u53f0\u5317\u6703\u9928\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6\uff5c\u570b\u6cf0\u5167\u6e56\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6\uff5c\u570b\u6cf0\u7af9\u6559\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6\uff5c\u570b\u6cf0\u53f0\u5357\u7522\u5f8c\u8b77\u7406\u4e4b\u5bb6<br/>- \u674f\u4fdd\u91ab\u7db2\uff1a\u674f\u4fdd\u91ab\u7db2\u4fe1\u5eb7\u8a3a\u6240(\u6566\u5357)\uff5c\u674f\u4fdd\u91ab\u7db2\u4fe1\u8aa0\u8a3a\u6240(\u4fe1\u7fa9)\uff5c\u674f\u4fdd\u91ab\u7db2\u4fe1\u9716\u8a3a\u6240(\u65b0\u7af9)<br/>- \u7f8e\u5bb9\u91ab\u5b78\uff1a\u6cf0\u5b89\u8a3a\u6240(\u65b0\u7af9)</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/the-kk-show-256-%E9%99%BD%E9%9D%9A/id1106847606?i=1000656267613",
+"google": "",
+"spotify": "https://open.spotify.com/episode/1nOLuuCOxPIzwjjesqF4rA",
+"youtube": "https://www.youtube.com/watch?v=eh-wRm4xzdc"
+},
 "time795": {
 "name": "\u767e\u9748\u679cNEWS\uff5c\u8b1b\u5230\u5c0f\u5b69\u5c31\u7f70\u9322\uff0c\u91d1\u9322\u662f\u6e1b\u80a5\u6700\u5927\u7684\u52d5\u529b\uff0c\u660e\u661f\u65b7\u982d\u53f0",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15094535-news.mp3",

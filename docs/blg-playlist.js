@@ -15,9 +15,9 @@ const playlist = {
 ],
 "description": "",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E9%9B%A2%E9%96%8B%E7%AB%8B%E6%B3%95%E9%99%A2%E5%BE%8C-ft-%E5%91%B1%E5%90%89/id1106847606?i=1000656391610",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/1YXOCQkSPQYOxixp9IEh8f",
 "youtube": ""
 },
 "time796": {

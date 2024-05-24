@@ -1,7 +1,7 @@
 const playlist = {
 "time110": {
 "name": "EP80\uff5c\u8b93\u827e\u8389\u7d72\u4f86\u6559\u4f60\u751f\u547d\u9748\u6578",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/1bdb53c1-4f64-4b9b-af37-ea243b656773/rssFileVip.mp3?timestamp=1716529779618",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/1bdb53c1-4f64-4b9b-af37-ea243b656773/rssFileVip.mp3?timestamp=1716531519723",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "May 2024",
@@ -12,7 +12,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep80-%E8%AE%93%E8%89%BE%E8%8E%89%E7%B5%B2%E4%BE%86%E6%95%99%E4%BD%A0%E7%94%9F%E5%91%BD%E9%9D%88%E6%95%B8/id1655641331?i=1000656600637",
 "google": "",
 "spotify": "https://open.spotify.com/episode/39uoCooT3PFFpdnOJNGEsW",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=TDxJSbbHgHk"
 },
 "time109": {
 "name": "EP79\uff5c\u82b3\u9999\u7642\u6cd5\u5929\u540e\u4f86\u4e86 ft.GINA \u8a31\u6021\u862d",

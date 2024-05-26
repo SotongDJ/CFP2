@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time510]
+name = "【本週提醒】人心難測，不要太快一廂情願喔"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwn5wg3z05of01vk8vqqgei7/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwn5wg3z05og01vk69i3hhrl.mp3?v=1716705123889"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E4%BA%BA%E5%BF%83%E9%9B%A3%E6%B8%AC-%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%BF%AB%E4%B8%80%E5%BB%82%E6%83%85%E9%A1%98%E5%96%94/id1536374746?i=1000656796143"
+spotify = "https://open.spotify.com/episode/3r5SurP7alyktvHveenGDR"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽5/27-6/2星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 天蠍 射手 水瓶 <br /> <br />牡羊：工作被否定並非壞事，感情聚少離多 <br />天蠍：工作上刺探拔河好掙扎，感情拉扯很心累 <br />射手：容易被金錢牽制，感情別活在自己世界 <br />水瓶：修正挫折能更優化，感情吵架是真心交流 <br /> <br />【穩的】金牛 雙子 處女 天秤 <br /> <br />金牛：須努力協調夥伴步調，感情上別懷疑對方真心 <br />雙子：事業漸入佳境前景看好，感情要少點強迫症 <br />處女：按部就班有貴人提拔，感情上能穩定發展 <br />天秤：低調一點少麻煩，感情上觀念相合很重要 <br /> <br />【讚的】巨蟹 獅子 魔羯 雙魚 <br /> <br />巨蟹：直覺大開有神奇體驗，感情遇到命定之人 <br />獅子：可以放膽執行新計畫，感情告白成功機率高 <br />魔羯：可以大膽規劃未來，感情從朋友夥伴做起 <br />雙魚：合作運佳有互補效果，感情能兩情相悅別逃避 <br /></p>"
+names = ["【本週提醒】人心難測，不要太快一廂情願喔"]
+tag = ["May 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [time509]
 name = "EP323 12星座的高階發展"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwkaszhn003e01r2dh4hbt68/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwkaszhn003f01r238ea0iwq.mp3?v=1716532012418"

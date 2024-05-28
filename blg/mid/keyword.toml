@@ -150,7 +150,7 @@ exclusive = []
 category = ["讀書會"]
 
 ["暫代讀書會"]
-inclusive = ["不是讀書會", "沒有讀書會", "Pelosi 來台灣街訪心得", "女演員的互相傷害", "笑友會的無情工商", "2021年台灣十大熱門國際新聞", "迪化街Live Podcast！", "John Oliver 觀後感", "百靈果去新竹", "與國際接軌前的閒聊", "訂閲 QA", "百靈果助念祈福法會", "228 佈道大會 Live Podcast 特輯", "特別來賓：敏迪選讀", "我不是泰國人"]
+inclusive = ["不是讀書會", "沒有讀書會", "Pelosi 來台灣街訪心得", "女演員的互相傷害", "笑友會的無情工商", "2021年台灣十大熱門國際新聞", "迪化街Live Podcast！", "John Oliver 觀後感", "百靈果去新竹", "與國際接軌前的閒聊", "訂閲 QA", "百靈果助念祈福法會", "228 佈道大會 Live Podcast 特輯", "特別來賓：敏迪選讀", "我不是泰國人", "建商來了", "台灣秘境探險家", "一夜好眠", "凱莉懷孕還是工作狂", "來自遠方的占星師", "線上算命的真相"]
 exclusive = []
 category = ["#節目系列"]
 
@@ -180,7 +180,7 @@ exclusive = []
 category = ["#節目系列", "暫代讀書會"]
 
 ["隱藏版 KK Show"]
-inclusive = ["女演員的互相傷害", "笑友會的無情工商", "特別來賓：敏迪選讀", "我不是泰國人", "0704 Bonus", "建商來了", "台灣秘境探險家", "一夜好眠", "凱莉懷孕還是工作狂", "來自遠方的占星師", "Sam, An American chasing comedy dream in Taiwan"]
+inclusive = ["女演員的互相傷害", "笑友會的無情工商", "特別來賓：敏迪選讀", "我不是泰國人", "0704 Bonus", "建商來了", "台灣秘境探險家", "一夜好眠", "凱莉懷孕還是工作狂", "來自遠方的占星師", "Sam, An American chasing comedy dream in Taiwan", "線上算命的真相", "離開立法院後"]
 exclusive = []
 category = ["#節目系列"]
 
@@ -251,6 +251,16 @@ category = ["喜劇演員"]
 
 ["天殘"]
 inclusive = ["天殘"]
+exclusive = []
+category = ["喜劇演員"]
+
+["佳諭"]
+inclusive = ["佳諭"]
+exclusive = []
+category = ["喜劇演員"]
+
+["品喬"]
+inclusive = ["品喬"]
 exclusive = []
 category = ["喜劇演員"]
 
@@ -689,6 +699,16 @@ inclusive = ["小酷人"]
 exclusive = []
 category = ["演員", "文藝"]
 
+["陽靚"]
+inclusive = ["陽靚"]
+exclusive = []
+category = ["演員", "文藝"]
+
+["大牙"]
+inclusive = ["大牙"]
+exclusive = []
+category = ["演員", "文藝", "藝人"]
+
 ["林倩"]
 inclusive = ["林倩"]
 exclusive = []
@@ -1014,8 +1034,8 @@ inclusive = ["許翱麟"]
 exclusive = []
 category = ["學者"]
 
-["人渣文本"]
-inclusive = ["人渣文本"]
+["小周@人渣文本"]
+inclusive = ["人渣文本", "引火自焚聊立院"]
 exclusive = []
 category = ["學者", "運動", "媒體人", "Youtuber", "Podcaster"]
 

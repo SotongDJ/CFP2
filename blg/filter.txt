@@ -993,7 +993,7 @@ Process: blg/keyword-7-event.toml
   Excluded: (0)
     
 [暫代讀書會]
-  found in: (14)
+  found in: (20)
     time093
     time305
     time547
@@ -1008,6 +1008,12 @@ Process: blg/keyword-7-event.toml
     time159
     time091
     time559
+    time753
+    time756
+    time785
+    time788
+    time737
+    time794
   Excluded: (0)
     
 [百靈果到處跑]
@@ -1057,7 +1063,7 @@ Process: blg/keyword-7-event.toml
   Excluded: (0)
     
 [隱藏版 KK Show]
-  found in: (11)
+  found in: (13)
     time523
     time515
     time091
@@ -1069,6 +1075,8 @@ Process: blg/keyword-7-event.toml
     time788
     time737
     time730
+    time794
+    time797
   Excluded: (0)
     
 [週二夜現場]
@@ -1406,13 +1414,14 @@ Process: blg/keyword-7-event.toml
     time376
   Excluded: (1)
     time790
-[人渣文本]
-  found in: (5)
+[小周@人渣文本]
+  found in: (6)
     time683
     time666
     time634
     time587
     time469
+    time799
   Excluded: (0)
     
 [周偉航]

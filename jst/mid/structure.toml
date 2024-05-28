@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time511]
+name = "EP324 有星系列(金牛)：持久力的配置"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwq84b32024f01r26rrf2c4e/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwq84b32024g01r26t461t83.mp3?v=1716890302113"
+apple = "https://podcasts.apple.com/tw/podcast/ep324-%E6%9C%89%E6%98%9F%E7%B3%BB%E5%88%97-%E9%87%91%E7%89%9B-%E6%8C%81%E4%B9%85%E5%8A%9B%E7%9A%84%E9%85%8D%E7%BD%AE/id1536374746?i=1000657014271"
+spotify = "https://open.spotify.com/episode/4ZuOMJJCHzjLppiEolQUmx"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>「有星系列」，來到有星在金牛囉 <br />很多人看不懂金牛，覺得他們放著成功、暴富機會不賺，只想過自己的小日子，太奇怪了。但在我看來，有星金牛的人之所以如此，是因為「有自己一套價值觀」，這套價值觀不會為別人的意見而改變。也因為如此，金牛常活出別人望塵莫及的自在感，堪稱另類的人生勝利組。 <br />所以有星金牛，也會帶有驚人的「持久力、毅力」💪🏻，且別說他們不賺，默默地，他們可能是所有人中存款最多、過得最有品質、甚至最有賺頭的一群喔！ <br />你也是「有星在金牛」的另類勝利組嗎？來聽聽這集吧 <br /> <br />EP324 菜單： <br />金牛的追求一般人看不懂 <br />太陽金牛絕不勉強自己 <br />月金牛不相信權威 <br />金星金牛的省電模式 <br />水金牛講大實話沒人敢聽 <br />哪個配置能嗅到錢的味道 <br />木星金牛有錢的好運 <br />土金牛很深很持久 <br />怕賺到不踏實的錢 <br />請火星金牛拿出獨門祕訣</p>"
+names = ["EP324 有星系列(金牛)：持久力的配置"]
+tag = ["May 2024", "2024"]
+category = []
+
 [time510]
 name = "【本週提醒】人心難測，不要太快一廂情願喔"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwn5wg3z05of01vk8vqqgei7/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwn5wg3z05og01vk69i3hhrl.mp3?v=1716705123889"

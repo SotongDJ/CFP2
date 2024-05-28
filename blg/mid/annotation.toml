@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[time799]
+name = "The KK Show - 257 引火自焚聊立院 - 小周"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15148442-the-kk-show-257.mp3"
+youtube = "https://www.youtube.com/watch?v=wLrJcfPPh-4"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>我們知道這是一個現在大家很多情緒的議題，我們找了好朋友小周老師來跟我們聊聊他對立院的觀察以及用宏觀的角度要怎麼看未來事件會發展的方向以及三黨高層之間的博弈</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 257 引火自焚聊立院 - 小周"]
+tag = ["May 2024", "2024", "KK Show"]
+category = ["#節目系列"]
+
 [time798]
 name = "百靈果NEWS｜聊聊立法院後續，貪污議員現金藏在鞋子裡，英美的藐視國會罪"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15137004-news.mp3"

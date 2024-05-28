@@ -65,6 +65,16 @@ inclusive = ["天殘"]
 exclusive = []
 category = ["喜劇演員"]
 
+["佳諭"]
+inclusive = ["佳諭"]
+exclusive = []
+category = ["喜劇演員"]
+
+["品喬"]
+inclusive = ["品喬"]
+exclusive = []
+category = ["喜劇演員"]
+
 ["不知火"]
 inclusive = ["不知火"]
 exclusive = []
@@ -501,6 +511,16 @@ category = ["演員","文藝"]
 inclusive = ["小酷人"]
 exclusive = []
 category = ["演員","文藝"]
+
+["陽靚"]
+inclusive = ["陽靚"]
+exclusive = []
+category = ["演員","文藝"]
+
+["大牙"]
+inclusive = ["大牙"]
+exclusive = []
+category = ["演員","文藝","藝人"]
 
 ["林倩"]
 inclusive = ["林倩"]

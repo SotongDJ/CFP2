@@ -149,8 +149,8 @@ inclusive = ["許翱麟"]
 exclusive = []
 category = ["學者"]
 
-["人渣文本"]
-inclusive = ["人渣文本"]
+["小周@人渣文本"]
+inclusive = ["人渣文本","引火自焚聊立院"]
 exclusive = []
 category = ["學者","運動","媒體人","Youtuber","Podcaster"]
 

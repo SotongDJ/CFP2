@@ -9,9 +9,9 @@ const playlist = {
 ],
 "description": "<p>#HARU\u542b\u6625 #HARUBoost #\u4e0d\u6b7b\u9ce5 #\u7cbe\u80fa\u9178 #\u99ac\u5361<br/>\u4f60\u8207\u59b3\u7684\u5b8c\u7f8e\u60c5\u611b\u9ad4\u9a57\uff0c\u5f9eHARU BOOST\u4e0d\u6b7b\u9ce5\u958b\u59cb\u3002<br/>\u9ad8\u6fc3\u5ea6\u7cbe\u80fa\u9178\u3001\u99ac\u5361\u3001\u900f\u7d0d\u8449\uff0c\u7d66\u4e88\u9ad8\u5f37\u5ea6\u71df\u990a\u88dc\u7d66\uff0c\u8b93\u4f60\u300c\u9032\u5316\u300d\u518d\u300c\u9032\u5316\u300d\uff01<br/>\u589e\u5f37\u9ad4\u529b\u3001\u6ecb\u88dc\u5f37\u8eab\uff0c\u7d55\u5c0d\u662f\u591c\u9593\u89aa\u5bc6\u5fc5\u5099\uff01\uff01\uff01<br/>6/20\u524d \u7d50\u5e33\u8f38\u5165\u300cibelieve\u300d\uff0c\u5168\u9928\u539f\u50f9\u5546\u54c1\u4e5d\u6298\uff0c\u6eff\u5343\u518d\u9001\u5927\u9ebb\u4fdd\u6fd5\u5674\u9727\u6c34\uff01<br/>\u5feb\u4f86\u9019\u88e1\u8ddf\u8457HARU BOOST\u8d77\u98db\u5427\u2192https://letsharu.cc/qhiog</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E5%AC%B0%E5%85%92%E9%99%90%E5%AE%9A-%E5%AE%B3%E6%80%95%E5%A5%B3%E5%85%92%E8%AE%8A%E5%87%B1%E8%8E%89/id1106847606?i=1000657288419",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/0sW72AWSQtAQi3UFshSFWU",
 "youtube": "https://www.youtube.com/watch?v=4wvzrN2uHIs"
 },
 "time799": {

@@ -5,7 +5,9 @@ const playlist = {
 "image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
 "tag": [
 "May 2024",
-"2024"
+"2024",
+"\u5c0f\u5b69\u9650\u5b9a",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "<p>#HARU\u542b\u6625 #HARUBoost #\u4e0d\u6b7b\u9ce5 #\u7cbe\u80fa\u9178 #\u99ac\u5361<br/>\u4f60\u8207\u59b3\u7684\u5b8c\u7f8e\u60c5\u611b\u9ad4\u9a57\uff0c\u5f9eHARU BOOST\u4e0d\u6b7b\u9ce5\u958b\u59cb\u3002<br/>\u9ad8\u6fc3\u5ea6\u7cbe\u80fa\u9178\u3001\u99ac\u5361\u3001\u900f\u7d0d\u8449\uff0c\u7d66\u4e88\u9ad8\u5f37\u5ea6\u71df\u990a\u88dc\u7d66\uff0c\u8b93\u4f60\u300c\u9032\u5316\u300d\u518d\u300c\u9032\u5316\u300d\uff01<br/>\u589e\u5f37\u9ad4\u529b\u3001\u6ecb\u88dc\u5f37\u8eab\uff0c\u7d55\u5c0d\u662f\u591c\u9593\u89aa\u5bc6\u5fc5\u5099\uff01\uff01\uff01<br/>6/20\u524d \u7d50\u5e33\u8f38\u5165\u300cibelieve\u300d\uff0c\u5168\u9928\u539f\u50f9\u5546\u54c1\u4e5d\u6298\uff0c\u6eff\u5343\u518d\u9001\u5927\u9ebb\u4fdd\u6fd5\u5674\u9727\u6c34\uff01<br/>\u5feb\u4f86\u9019\u88e1\u8ddf\u8457HARU BOOST\u8d77\u98db\u5427\u2192https://letsharu.cc/qhiog</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -65,6 +67,7 @@ const playlist = {
 "Youtuber",
 "\u559c\u5287\u6f14\u54e1",
 "\u653f\u6cbb\u4eba\u7269",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u8001\u95c6"
 ],
 "description": "",
@@ -116,11 +119,11 @@ const playlist = {
 "tag": [
 "May 2024",
 "2024",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u4f73\u8aed",
 "\u54c1\u55ac",
-"\u559c\u5287\u6f14\u54e1"
+"\u559c\u5287\u6f14\u54e1",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "<p>#RHINOSHIELD<br/>\u66f4\u591a RhinoBuff FPS \u7cbe\u6e96\u64cd\u63a7\u5957\u7d44\u8cc7\u8a0a\u8acb\u53c3\u8003 RHINOSHIELD \u7280\u725b\u76fe\u5b98\u7db2\uff1ahttps://url.rhinoshield.tw/bailingguonews-2024-RhinoBuff-Precision-Kit<br/>#RHINOSHIELD\u7280\u725b\u76fe #rhinoshieldtw</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -227,11 +230,11 @@ const playlist = {
 "tag": [
 "May 2024",
 "2024",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u5929\u6b98",
 "\u4e0d\u77e5\u706b",
-"\u559c\u5287\u6f14\u54e1"
+"\u559c\u5287\u6f14\u54e1",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "<p>\u300a\u55ae\u53e3\u559c\u5287\u62fc\u76e4\u79c0\uff1a\u9084\u6709\u7b2c\u4e03\u4eba\u300b<br/>\u6f14\u51fa\uff1a\u51f1\u8389\u3001\u598d\u970f\u3001\u4e0d\u77e5\u706b\u3001\u4f73\u8aed\u3001\u54c1\u55ac\u3001\u5929\u6b98<br/>\u53f0\u5317\u5fae\u98a8\u5ee3\u5834 5/17-18\u00a0 \u00a0 \u00a0\u00a0<br/>\u53f0\u4e2d\u5bf6\u6210\u5ef3 6/7\u00a0 \u00a0 \u00a0\u00a0<br/>\u53f0\u5357\u539f\u751f\u5287\u5834 6/8<br/>\u8cfc\u7968\u8acb\u4e0aKKTIX\u8207\u5168\u5bb6\u00a0 https://comedyclub.kktix.cc/events/girls24<br/><br/>#Ailock<br/>\u5237\u81c9\u5feb\u901f\u9032\u5bb6\u9580 \u5c31\u9078ailock\u667a\u6167\u9396\uff01<br/>\u53f0\u7063\u54c1\u724c\u96fb\u5b50\u9396\uff0c\u514d\u8cbb\u7dda\u4e0a\u8a55\u4f30\uff0c\u50f9\u683c\u900f\u660e\u542b\u5b89\u88dd\u53ca\u4e09\u5e74\u4fdd\u56fa<br/>\u5168\u53f0\u5171\u670911\u5bb6\u5be6\u9ad4\u767e\u8ca8\u9580\u5e02\uff0c\u73fe\u5834\u5373\u53ef\u6c89\u6d78\u5f0f\u9ad4\u9a57\u96fb\u5b50\u9396\u88dd\u5728\u9580\u4e0a\u7684\u611f\u53d7<br/>\u5373\u65e5\u8d77\u52303/31\u865f\uff0c\u8cfc\u8cb78\u54081 3D\u4eba\u81c9\u8fa8\u8b58\u6b3e \u8f38\u5165\u767e\u9748\u679c\u5c08\u5c6c\u6298\u6263\u78bc \u4eab9\u6298\u512a\u60e0 \u53ea\u898126,820\u5143\uff01\u3010\u5feb\u53bb\u9ede\u64ca\u4e0b\u65b9\u8cc7\u8a0a\u6b04\u9023\u7d50!\u3011<br/>\u767e\u9748\u679c\u5c08\u5c6c\u512a\u60e0\u6298\u6263\u78bc\uff1abailingguo2680</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -283,10 +286,10 @@ const playlist = {
 "tag": [
 "Apr 2024",
 "2024",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u963f\u6c5f\u71df\u990a\u5e2b",
 "\u5b78\u8005",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u91ab\u5b78"
 ],
 "description": "<p>\u4f60\u5403\u52a9\u7720\u7522\u54c1\u90fd\u7121\u611f\uff1f<br/>\u5e02\u9762\u4e0a\u5c11\u898b\u771f\u6b63\u6709\u611f\u7684\u52a9\u7720\u7522\u54c1<br/>\u8272\u80fa\u9178\u76f4\u63a5\u52a0\u5230\u8db3\u91cf1000mg\uff01<br/>\uff08\u800c\u4e14\u9084\u4e0d\u662f\u4e2d\u570b\u7684\u5594\uff0c\u662f\u7f8e\u570b\u7684\uff01\uff09<br/>\u518d\u52a0\u4e0a\u6709\u4eba\u9ad4\u5be6\u8b49\u7684\u8db3\u91cf\u8056\u7f85\u52d2\u8403\u53d6<br/>\u964d\u4f4e\u58d3\u529b\u3001\u66f4\u52a0\u5e6b\u52a9\u5165\u7761<br/>\u5be6\u9a57\u8b49\u5be614\u5929\u5feb\u901f\u6709\u6548\uff01<br/><br/>\u963f\u6c5f\u7684\u500b\u6027\u4f60\u61c2\u7684<br/>\u6240\u6709\u539f\u6599\u52a0\u597d\u52a0\u6eff\uff0c\u5c31\u662f\u8981\u4f60\u5403\u4e86\u7d55\u5c0d\u6709\u611f\uff01<br/>\u73fe\u5728\u5c31\u4f86\u8cb7\u2192 https://tw01.co/Ken\u89aa\u8eab\u9ad4\u9a57\u8d85\u6709\u611f</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
@@ -802,10 +805,10 @@ const playlist = {
 "tag": [
 "Jan 2024",
 "2024",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u5c0f\u98db",
-"\u4f86\u8cd3"
+"\u4f86\u8cd3",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "<p>\u53f0\u7063\u79d8\u5883\u63a2\u96aa\u5bb6 - \u5c0f\u98db<br/><br/>Lexus\u5168\u65b0\u8de8\u754c\u8eca\u6b3e \u2013 LBX<br/>\u5d84\u65b0\u7684\u5916\u89c0\u8a2d\u8a08\u8a9e\u5f59<br/>\u5168\u8eca\u7cfb\u5b89\u5168\u6a19\u914dLSS+3.0\u53ca\u5b89\u5168\u96e2\u5ea7\u8f14\u52a9\u7cfb\u7d71<br/>HEV\u6cb9\u96fb\u8907\u5408\u52d5\u529b\u8b93\u79fb\u52d5\u96a8\u5fc3\u6240\u6b32<br/>\u00a0<br/>\u9ede\u64ca\u9023\u7d50\u53c3\u52a0\u5fc3\u7406\u6e2c\u9a57 https://ourl.tw/sBkqQP<br/>\u5230\u3010\u767e\u9748\u679cFB\u8cbc\u6587\u3011\u7559\u8a00\u5206\u4eab\u4f60\u7684\u6e2c\u9a57\u7d50\u679c<br/>\u5c31\u62bd\u4e09\u5929\u5169\u591c\u8a66\u99d51\u540d + LEXUS\u65c5\u884c\u6536\u7d0d\u7d442\u540d<br/>\u00a0<br/>#Lexus #LexusLBX #ExperienceAmazing<br/>\u00a0<br/>\u3010\u62bd\u734e\u6d3b\u52d5\u8fa6\u6cd5\u3011<br/>1.\u00a0\u00a0\u00a0\u00a0 \u6d3b\u52d5\u671f\u9593\uff1a2024/1/18\u8d77\u81f32024/2/29\u6b62\u3002<br/>2.\u00a0\u00a0\u00a0\u00a0 \u6d3b\u52d5\u8fa6\u6cd5\uff1a\u622a\u5716Lexus LBX \u5fc3\u7406\u6e2c\u9a57\u7d50\u679c\uff0c\u65bc\u767e\u9748\u679cFB\u6d3b\u52d5\u8cbc\u6587\u7559\u8a00\u5206\u4eab\uff0c\u5373\u7372\u5f97\u62bd\u734e\u8cc7\u683c\u3002<br/>3.\u00a0\u00a0\u00a0\u00a0 \u8d08\u54c1\u734e\u9805\uff1aLexus LBX \u8a66\u99d53\u59292\u591c (1\u540d)\u3001Lexus LBX \u7279\u9080\u79ae (2\u540d)<br/>4.\u00a0\u00a0\u00a0\u00a0 \u4e2d\u734e\u516c\u4f48\uff1a2024\u5e743\u67088\u65e5\u5c07\u4ee5\u7cfb\u7d71\u96a8\u6a5f\u65b9\u5f0f\u62bd\u51fa\u5f97\u734e\u8005\uff0c\u4e26\u516c\u5e03\u65bc\u767e\u9748\u679cFB\u8cbc\u6587\u3002<br/>5.\u00a0\u00a0\u00a0\u00a0 \u9818\u734e\u65b9\u5f0f\uff1a\u4e2d\u734e\u8005\u8acb\u65bc2024\u5e743\u670822\u65e5\u524d\uff0c\u4e3b\u52d5\u4ee5FB\u79c1\u8a0aLexus\u5b98\u65b9\u7c89\u7d72\u5c08\u9801\uff0c\u63d0\u4f9b\u76f8\u95dc\u500b\u4eba\u8cc7\u6599\uff0c\u5176\u5167\u5bb9\u61c9\u5305\u542b\uff1a\u6d3b\u52d5\u540d\u7a31(#\u5fc3\u7406\u6e2c\u9a57\u62bd\u734e)\u3001\u771f\u5be6\u59d3\u540d\u3001\u806f\u7d61\u96fb\u8a71\u3001\u806f\u7d61\u5730\u5740\u7b49\uff0c\u4ee5\u5229\u4e3b\u8fa6\u55ae\u4f4d\u806f\u7e6b\u3001\u901a\u77e5\u9818\u734e\u7a0b\u5e8f\uff0c\u4e2d\u734e\u4eba\u4e26\u540c\u610f\u5176\u500b\u4eba\u8cc7\u6599\u53ef\u4f9b\u672c\u6d3b\u52d5\u4e4b\u4e3b\u8fa6\u55ae\u4f4d\u3001\u5354\u8fa6/\u8d0a\u52a9\u55ae\u4f4d\u53ca\u5408\u4f5c\u5925\u4f34\u8490\u96c6\u3001\u8655\u7406\u8207\u5229\u7528\u3002\u82e5\u56e0\u56de\u8986\u903e\u6642\u3001\u8cc7\u6599\u4e0d\u5be6\u6216\u932f\u8aa4\u6216\u672a\u4f9d\u4e3b\u8fa6\u55ae\u4f4d\u901a\u77e5\u5b8c\u6210\u9818\u734e\u7a0b\u5e8f\u8005\uff0c\u5747\u8996\u540c\u653e\u68c4\u4e2d\u734e\u8cc7\u683c\uff0c\u4e3b\u8fa6\u55ae\u4f4d\u4e0d\u8ca0\u7d66\u734e\u7fa9\u52d9\uff0c\u540c\u6642\u5f97\u734e\u540d\u984d\u4ea6\u4e0d\u9032\u884c\u905e\u88dc\u3002<br/>\u5f97\u734e\u4eba\u9700\u6301\u6709\u5408\u6cd5\u6c7d\u8eca\u99d5\u7167\uff0c\u8a66\u99d5\u8eca\u6b3e\u6055\u7121\u6cd5\u6307\u5b9a\u7b49\u7d1a\u3001\u8eca\u8272\u7b49\uff0cLexus\u4fdd\u6709\u6d3b\u52d5\u89e3\u91cb\u6b0a\u5229\u3002\u00a0</p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -861,9 +864,9 @@ const playlist = {
 "tag": [
 "Jan 2024",
 "2024",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "Anton @\u50d1\u6631\u5efa\u7bc9",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u8001\u95c6"
 ],
 "description": "<p>\u50d1\u6631\u5efa\u7bc9\u7e3d\u7d93\u7406 Anton \u548c\u666f\u89c0\u8a2d\u8a08\u5e2b\u5433\u66f8\u539f\uff0c\u4f86\u8ddf\u6211\u5011\u804a\u804a\u70ba\u4ec0\u9ebc\u53f0\u7063\u5de5\u5730\u6703\u7f3a\u5de5\uff0c\u8ddf\u4e0d\u60f3\u8b93\u5c0f\u5b69\u63a5\u5bb6\u696d\uff0c\u5efa\u7bc9\u516c\u53f8\u771f\u7684\u60f3\u6539\u8b8a\u53f0\u7063\u7684\u5929\u969b\u7dda\u55ce\uff1f<br/><br/>\u50d1\u6631\u5efa\u7bc9FieldLife <br/><a href='https://fieldlife.com.tw/fb/'>Https://fieldlife.com.tw/fb/</a></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
@@ -1140,8 +1143,8 @@ const playlist = {
 "tag": [
 "Nov 2023",
 "2023",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
-"\u96b1\u85cf\u7248 KK Show"
+"\u96b1\u85cf\u7248 KK Show",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "<p>\u272f \u767d\u745c\u7684\u5168\u65b9\u4f4d\u5360\u661f\u5b78 \u272f<br/>\\ \u611f\u8b1d\u8d85\u904e17000\u4f4d\u5b78\u54e1\u652f\u6301 /<br/>\u263d 10\u5c0f\u6642\u300179\u55ae\u5143\u7684\u8ab2\u7a0b\u5167\u5bb9\u5e36\u4f60\u5168\u65b9\u4f4d\u89e3\u8b80\u81ea\u6211\u661f\u76e4<br/>\u263d \u5b78\u6703\u5408\u76e4\u9032\u968e\u6280\u5de7\uff0c\u7406\u89e3\u8207\u4ed6\u4eba\u7684\u95dc\u4fc2\u8207\u672a\u4f86\u8d70\u5411<br/>\u263d \u900f\u6790\u6d41\u5e74\u6d41\u6708\u7684\u89c0\u6e2c\uff0c\u7406\u89e3\u884c\u661f\u52d5\u614b\u8b8a\u5316\u8207\u500b\u4eba\u904b\u52e2\u7684\u95dc\u4fc2<br/>\u263d \u6d41\u5e74\u8868\u683c\u3001\u5360\u661f\u516c\u5f0f\uff0c\u8b93\u5360\u661f\u5b78\u6210\u70ba\u5be6\u7528\u7684\u4eba\u751f\u6c7a\u7b56\u5de5\u5177<br/>\ud83d\udc49 \u9650\u6642\u4f4e\u65bc45\u6298\uff0c\u8d8a\u65e9\u8cb7\u8d8a\u5212\u7b97\uff01<br/>\ud83d\udc49 \u7d50\u5e33\u8f38\u5165\u6298\u6263\u78bc\u300cnews300\u300d\u5373\u53ef\u518d\u6298300\u5143\uff01<br/>\ud83d\udd0e \u8ab2\u7a0b\u9023\u7d50\uff1a<a href='https://hi.sat.cool/0Gv8Wk5Y'>https://hi.sat.cool/0Gv8Wk5Y</a></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -1264,7 +1267,8 @@ const playlist = {
 "Catching up",
 "\u96b1\u85cf\u7248 KK Show",
 "Sam",
-"\u559c\u5287\u6f14\u54e1"
+"\u559c\u5287\u6f14\u54e1",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "<p>#\u7720\u8c46\u8150 \u7f8e\u570b\u5718\u8cfc\uff0c\u7b2c\u4e8c\u5718\u958b\u8dd1\u5566\uff01<br/>\u7d14\u6b63\u53f0\u7063\u88fd\u9020\uff0c\u73fe\u5728\u7f8e\u570b\u4e5f\u8cb7\u5f97\u5230\uff01<br/>\u611f\u8b1d\u7f8e\u570b\u7720\u53cb\u8de8\u6d77\u652f\u6301\uff0c\u5927\u5bb6\u767c\u73fe\u4e0d\u662f\u8a50\u9a19\u4e4b\u5f8c\uff0c\u8a02\u55ae\u5982\u96ea\u7247\u822c\u98db\u4f86\uff0c\u7b2c\u4e00\u5718\u7834\u767e\u5f35\u5df2\u9054\u6210\uff01<br/>\u7b2c\u4e8c\u5718\u78ba\u5b9a\u7121\u7e2b\u7e8c\u958b\uff01<br/>\u5373\u65e5\u8d77\u958b\u59cb\u63a5\u55ae\uff0c2024\u5e741/31\u6536\u55ae\uff0c\u9810\u8a082\u81f33\u6708\u914d\u9001\u3002<br/>\u8acb\u641c\u5c0b\u300c\u7720\u8c46\u8150\u7f8e\u570b\u300d\uff0c\u6216\u6d3d\u7c89\u5c08\u5ba2\u670d\u4e86\u89e3\u8a73\u60c5\uff01<br/>\u8cc7\u8a0a\u6b04\u9023\u7d50\uff1a<a href='https://us.sleepytofu.com/'>https://us.sleepytofu.com</a></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
 "extra": {},
@@ -4442,11 +4446,11 @@ const playlist = {
 "tag": [
 "Sep 2022",
 "2022",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u5df4\u5927\u96c4 @\u6771\u5357\u7f8e\u5a1b\u6a02",
 "Youtuber",
 "\u539f\u4f4f\u6c11",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u97f3\u6a02"
 ],
 "description": "<p>\u4eca\u5929\u9080\u8acb\u5df4\u5927\u96c4\u4f86\u8ddf\u6211\u5011\u4e00\u8d77\u804a\u4ed6\u7684\u6b4c\u624b\u8ddf\u5275\u4f5c\u4e4b\u8def<br/>=======================<br/>#\u5eb7\u548c\u8b49\u5238<br/>\u597d\u5eb7 fun \u5fc3\u6295\u65b0\u958b\u6236\u3001\u4eab\u597d\u79ae\uff0c\u73fe\u5728\u5c31\u9ede\u2192\u00a0 https://bit.ly/3N2LCU7<br/>\u80a1\u6b0a\u9078\u64c7\u6b0a\u70ba\u9ad8\u69d3\u687f\u6295\u8cc7\u5546\u54c1\u6709\u6a5f\u6703\u5728\u77ed\u671f\u9593\u7372\u5f97\u6975\u9ad8\u5831\u916c\u6216\u8499\u53d7\u6b0a\u5229\u91d1\u7684\u640d\u5931\uff0c\u8cfc\u8cb7\u524d\u8acb\u5148\u4e86\u89e3\u76f8\u95dc\u98a8\u96aa\u53ca\u8a73\u95b1\u7522\u54c1\u8aaa\u660e\u66f8\u3002</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
@@ -5089,7 +5093,6 @@ const playlist = {
 "tag": [
 "Jun 2022",
 "2022",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u9178\u9178",
 "\u6db5\u51b7\u5a1c",
@@ -5097,6 +5100,7 @@ const playlist = {
 "Youtuber",
 "\u559c\u5287\u6f14\u54e1",
 "\u6587\u85dd",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u6f14\u54e1"
 ],
 "description": "<p>\u9178\u9178\u8ddf\u6db5\u51b7\u5a1c\u7684podcast \u6db5\u9178\u96fb\u6ce2\u7b2c\u4e8c\u5b63\u4e0a\u7dda\u5566<br/>https://podcasts.apple.com/tw/podcast/%E6%B6%B5%E9%85%B8%E9%9B%BB%E6%B3%A2/id1546108932</p><p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
@@ -5231,7 +5235,6 @@ const playlist = {
 "tag": [
 "May 2022",
 "2022",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u96b1\u85cf\u7248 KK Show",
 "\u5fae\u7b11\u4e39\u5c3c",
 "\u9ec3\u8c6a\u5e73",
@@ -5239,6 +5242,7 @@ const playlist = {
 "Youtuber",
 "\u559c\u5287\u6f14\u54e1",
 "\u5ee3\u64ad\u4eba",
+"\u66ab\u4ee3\u8b80\u66f8\u6703",
 "\u85dd\u4eba",
 "\u9b54\u8853\u5e2b"
 ],
@@ -6938,8 +6942,8 @@ const playlist = {
 "tag": [
 "Oct 2021",
 "2021",
-"\u66ab\u4ee3\u8b80\u66f8\u6703",
-"\u767e\u9748\u679c\u5230\u8655\u8dd1"
+"\u767e\u9748\u679c\u5230\u8655\u8dd1",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "\u6148\u6e56\u9031\u4e8c\u4f11\u606f,\u6240\u4ee5\u6211\u5011\u53bb\u9f8d\u6f6d<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
@@ -12857,7 +12861,8 @@ const playlist = {
 "2019",
 "\u96b1\u85cf\u7248 KK Show",
 "\u99ac\u529b\u6b50",
-"Podcaster"
+"Podcaster",
+"\u66ab\u4ee3\u8b80\u66f8\u6703"
 ],
 "description": "\u8ddf\u53f0\u7063\u7684Podcast \u62d3\u8352\u8005\uff0cNews Lens \u5171\u540c\u5275\u8fa6\u4eba \u99ac\u529b\u6b50\u804a\u804a\u53f0\u7063podcast \u73fe\u72c0\uff0c\u9084\u6709\u5668\u6750\u6211\u5011\u73fe\u5728\u958b\u59cb\u628apodcast \u5f71\u7247\u653e\u5230YT\u4e0a\u54af \u8a02\u95b1\u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1abit.ly/25wWa2h\u6bcf\u5468\u65e5\u665a\u4e0a\u516d\u9ede\u9418 \u5168\u570b\u5ee3\u64adFM106 \u6536\u807d\u767e\u9748\u679cnews\u807d\u807dKylie\u8ddfKen \u7528\u8f15\u9b06\u7684\u89d2\u5ea6\u5206\u4eab\u570b\u969b\u65b0\u805e\u4e5f\u6b61\u8fce\u5927\u5bb6\u5229\u7528\u7db2\u8def\u5e73\u53f0\u4f86\u6536\u807d\u6211\u5011\u7684\u7bc0\u76ee\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1agoo.gl/k9qXxb\u5b89\u5353\uff1a@cafreeteriaSpotify : goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1awww.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
@@ -14146,7 +14151,8 @@ const tag_class = {
 "免費教你如何做 Podcast": ['#節目系列', '暫代讀書會'],
 "八角籠": ['#節目系列', '暫代讀書會'],
 "Clubhouse 直播": ['#節目系列', '暫代讀書會'],
-"隱藏版 KK Show": ['#節目系列'],
+"小孩限定": ['#節目系列', '暫代讀書會'],
+"隱藏版 KK Show": ['#節目系列', '暫代讀書會'],
 "週二夜現場": ['#節目系列', '暫代讀書會'],
 "Atsuko Okatsuka": ['喜劇演員', 'Youtuber'],
 "瑞恩": ['喜劇演員'],
@@ -14468,9 +14474,9 @@ const class_tag = {
 "2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],
 "2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
 "2019": ['Jan 2019', 'Feb 2019', 'Mar 2019', 'Apr 2019', 'May 2019', 'Jun 2019', 'Jul 2019', 'Aug 2019', 'Sep 2019', 'Oct 2019', 'Nov 2019', 'Dec 2019'],
-"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', 'Catching up', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
+"#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', 'Catching up', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '小孩限定', '隱藏版 KK Show', '週二夜現場'],
 "讀書會": ['王子習近平', 'Hot Money', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'T.R.W.I.H. by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
-"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '週二夜現場'],
+"暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '小孩限定', '隱藏版 KK Show', '週二夜現場'],
 "喜劇演員": ['Atsuko Okatsuka', '瑞恩', 'Hector', '龍哥（喜劇）', '喬瑟夫', '樂樂法利', 'Jason Cheny', '陳大天', '小歐', '老K', '妍霏', '學仁', '天殘', '佳諭', '品喬', '不知火', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', 'Jamie', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', 'Sam', 'Eric @The DoDo Men', '蕭東意'],
 "Youtuber": ['Atsuko Okatsuka', '喬瑟夫', '樂樂法利', 'Jason Cheny', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', '視網膜', '動眼神經', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', 'Ms Puiyi', '阿滴', 'Joeman', 'Ted @35線上賞屋', '蔡阿嘎', '黃大謙', 'China Mac', 'Cheap', '邱 grr', '泥泥學姐', 'Alma & 小妖', 'Lucas @BBK Network', '嘉雯 @BBK Network', 'Eric @The DoDo Men', 'Ian @The DoDo Men', '有特色的帥哥', '陳老師來了', '鍾佳播', '椅人 Leo', '歷史哥', '嗩吶 @好機車', '街頭有派對', '黃明志', 'Peggy', '阿拉斯', '巴大雄 @東南美娛樂', '賈培德', '中指通', '唐綺陽', '簡少年', '小周@人渣文本', '周偉航'],
 "老闆": ['龍哥（喜劇）', 'Social', '呱吉', '歐耶', '志祺 @志祺七七', '阿滴', 'Joeman', 'Ted @35線上賞屋', '邱 grr', '小澤瑪利亞', 'Chapman 杜汶澤', '葉丙成教授', '館長', 'Aaron', '尚恩', '李小牧', 'Anton @僑昱建築', '曹興誠', 'Jay', 'Jay哥', '吳桑', '顧立楷', '林榮基'],

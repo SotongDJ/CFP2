@@ -7,7 +7,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E5%AC%B0%E5%85%92%E9%99%90%E5%AE
 google = ""
 spotify = "https://open.spotify.com/episode/0sW72AWSQtAQi3UFshSFWU"
 youtube = "https://www.youtube.com/watch?v=4wvzrN2uHIs"
-tag = ["May 2024", "2024"]
+tag = ["May 2024", "2024", "小孩限定", "暫代讀書會"]
 
 [time800.extra]
 
@@ -46,7 +46,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E9%9B%A2%E9%96%8B%E7%AB%8B%E6%B3
 google = ""
 spotify = "https://open.spotify.com/episode/1YXOCQkSPQYOxixp9IEh8f"
 youtube = ""
-tag = ["May 2024", "2024", "隱藏版 KK Show", "呱吉", "Podcaster", "Youtuber", "喜劇演員", "政治人物", "老闆"]
+tag = ["May 2024", "2024", "隱藏版 KK Show", "呱吉", "Podcaster", "Youtuber", "喜劇演員", "政治人物", "暫代讀書會", "老闆"]
 
 [time797.extra]
 
@@ -85,7 +85,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E7%B7%9A%E4%B8%8A%E7%AE%97%E5%91
 google = ""
 spotify = "https://open.spotify.com/episode/3yWgicdJHQtBAL4ZBV1hYi"
 youtube = "https://www.youtube.com/watch?v=unZEsLiKpSs"
-tag = ["May 2024", "2024", "暫代讀書會", "隱藏版 KK Show", "佳諭", "品喬", "喜劇演員"]
+tag = ["May 2024", "2024", "隱藏版 KK Show", "佳諭", "品喬", "喜劇演員", "暫代讀書會"]
 
 [time794.extra]
 
@@ -163,7 +163,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E5%87%B1%E8%8E%89%E6%87%B7%E5%AD
 google = ""
 spotify = "https://open.spotify.com/episode/7ctDUX9FWJGjGE02t10PAc"
 youtube = "https://www.youtube.com/watch?v=f9UQXvUubZE"
-tag = ["May 2024", "2024", "暫代讀書會", "隱藏版 KK Show", "天殘", "不知火", "喜劇演員"]
+tag = ["May 2024", "2024", "隱藏版 KK Show", "天殘", "不知火", "喜劇演員", "暫代讀書會"]
 
 [time788.extra]
 
@@ -202,7 +202,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E5%A4%9C%E5%A5%BD%E7%9C
 google = ""
 spotify = "https://open.spotify.com/episode/0elr7ZSRTJrLAUkfDzkBfU"
 youtube = "https://www.youtube.com/watch?v=tXM5CcIPPaA"
-tag = ["Apr 2024", "2024", "暫代讀書會", "隱藏版 KK Show", "阿江營養師", "學者", "醫學"]
+tag = ["Apr 2024", "2024", "隱藏版 KK Show", "阿江營養師", "學者", "暫代讀書會", "醫學"]
 
 [time785.extra]
 
@@ -579,7 +579,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/6SnkvX6IGx85PJGX4lZrPc"
 youtube = "https://www.youtube.com/watch?v=DPlm0W6kc_4"
-tag = ["Jan 2024", "2024", "暫代讀書會", "隱藏版 KK Show", "小飛", "來賓"]
+tag = ["Jan 2024", "2024", "隱藏版 KK Show", "小飛", "來賓", "暫代讀書會"]
 
 [time756.extra]
 
@@ -618,7 +618,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/1aNtZE5FcSfIWYWh8pP3p5"
 youtube = "https://www.youtube.com/watch?v=zaq5As7iROw"
-tag = ["Jan 2024", "2024", "暫代讀書會", "隱藏版 KK Show", "Anton @僑昱建築", "老闆"]
+tag = ["Jan 2024", "2024", "隱藏版 KK Show", "Anton @僑昱建築", "暫代讀書會", "老闆"]
 
 [time753.extra]
 
@@ -826,7 +826,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/4GnmHnslnawfz3hs4pj0Xv"
 youtube = ""
-tag = ["Nov 2023", "2023", "暫代讀書會", "隱藏版 KK Show"]
+tag = ["Nov 2023", "2023", "隱藏版 KK Show", "暫代讀書會"]
 
 [time737.extra]
 
@@ -917,7 +917,7 @@ apple = ""
 google = ""
 spotify = "https://open.spotify.com/episode/3yn69TTj3vmnFDTIfTyWFj"
 youtube = "https://www.youtube.com/watch?v=Q4ao7xJ0pO8"
-tag = ["Nov 2023", "2023", "Catching up", "隱藏版 KK Show", "Sam", "喜劇演員"]
+tag = ["Nov 2023", "2023", "Catching up", "隱藏版 KK Show", "Sam", "喜劇演員", "暫代讀書會"]
 
 [time730.extra]
 
@@ -3193,7 +3193,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E6%88%91%E4%B8%8D%E6%98%AF%E6%B3
 google = ""
 spotify = "https://open.spotify.com/episode/1s0uzKscI2naMAdOy1yIEz"
 youtube = "https://www.youtube.com/watch?v=sb5xt8LKbm4"
-tag = ["Sep 2022", "2022", "暫代讀書會", "隱藏版 KK Show", "巴大雄 @東南美娛樂", "Youtuber", "原住民", "音樂"]
+tag = ["Sep 2022", "2022", "隱藏版 KK Show", "巴大雄 @東南美娛樂", "Youtuber", "原住民", "暫代讀書會", "音樂"]
 
 [time559.extra]
 
@@ -3672,7 +3672,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%BC%94%E5%93%A1%E7%9A
 google = ""
 spotify = "https://open.spotify.com/episode/65FAVoxwTCrjF2EU7dfxA7"
 youtube = "https://www.youtube.com/watch?v=AG1CuTPxQSA"
-tag = ["Jun 2022", "2022", "暫代讀書會", "隱藏版 KK Show", "酸酸", "涵冷娜", "Podcaster", "Youtuber", "喜劇演員", "文藝", "演員"]
+tag = ["Jun 2022", "2022", "隱藏版 KK Show", "酸酸", "涵冷娜", "Podcaster", "Youtuber", "喜劇演員", "文藝", "暫代讀書會", "演員"]
 
 [time523.extra]
 
@@ -3776,7 +3776,7 @@ apple = "https://podcasts.apple.com/tw/podcast/%E5%96%9C%E5%8A%87%E6%BC%94%E5%93
 google = ""
 spotify = "https://open.spotify.com/episode/0XXAOtKav2LCjsShCc6ZcN"
 youtube = "https://www.youtube.com/watch?v=jwNvaWNRrWs&t=1168s"
-tag = ["May 2022", "2022", "暫代讀書會", "隱藏版 KK Show", "微笑丹尼", "黃豪平", "Podcaster", "Youtuber", "喜劇演員", "廣播人", "藝人", "魔術師"]
+tag = ["May 2022", "2022", "隱藏版 KK Show", "微笑丹尼", "黃豪平", "Podcaster", "Youtuber", "喜劇演員", "廣播人", "暫代讀書會", "藝人", "魔術師"]
 
 [time515.extra]
 
@@ -5041,7 +5041,7 @@ apple = "https://podcasts.apple.com/tw/podcast/john-oliver-%E8%A7%80%E5%BE%8C%E6
 google = ""
 spotify = "https://open.spotify.com/episode/1X90ygzxnEl9HXi8LBkLB0"
 youtube = "https://www.youtube.com/watch?v=p6k-1jxUj9w"
-tag = ["Oct 2021", "2021", "暫代讀書會", "百靈果到處跑"]
+tag = ["Oct 2021", "2021", "百靈果到處跑", "暫代讀書會"]
 
 [time418.extra]
 
@@ -9478,7 +9478,7 @@ apple = "https://podcasts.apple.com/tw/podcast/0704-bonus-%E5%8F%AA%E6%9C%89%E5%
 google = ""
 spotify = "https://open.spotify.com/episode/24QCdjG5Cb2bf0FXZZkIHn"
 youtube = ""
-tag = ["Jul 2019", "2019", "隱藏版 KK Show", "馬力歐", "Podcaster"]
+tag = ["Jul 2019", "2019", "隱藏版 KK Show", "馬力歐", "Podcaster", "暫代讀書會"]
 
 [time077.extra]
 

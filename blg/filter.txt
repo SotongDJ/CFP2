@@ -3,11 +3,10 @@ Start annotation
 Process: blg/keyword-0-index.toml
 Process: blg/keyword-1-reading.toml
 Process: blg/keyword-2-special.toml
-Process: blg/keyword-3-kkshow.toml
-Process: blg/keyword-4-performance.toml
-Process: blg/keyword-5-professional.toml
-Process: blg/keyword-6.toml
-Process: blg/keyword-7-event.toml
+Process: blg/keyword-3-content_creator.toml
+Process: blg/keyword-4-professional.toml
+Process: blg/keyword-5-guest.toml
+Process: blg/keyword-6-beta.toml
 [百靈果 NEWS]
   found in: (295)
     time798
@@ -993,27 +992,17 @@ Process: blg/keyword-7-event.toml
   Excluded: (0)
     
 [暫代讀書會]
-  found in: (20)
+  found in: (10)
     time093
     time305
     time547
-    time523
-    time515
     time444
     time454
-    time418
     time261
     time249
     time199
     time159
     time091
-    time559
-    time753
-    time756
-    time785
-    time788
-    time737
-    time794
   Excluded: (0)
     
 [百靈果到處跑]

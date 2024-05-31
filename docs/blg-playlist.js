@@ -10376,7 +10376,7 @@ const playlist = {
 "Jul 2020",
 "2020",
 "\u8b80\u66f8\u6703",
-"The Room Where It Happened by John Bolton"
+"T.R.W.I.H. by John Bolton"
 ],
 "description": "\u524d\u7f8e\u570b\u570b\u5b89\u9867\u554fJohn Bolton\u7684\u65b0\u66f8 The Room Where It Happened#vodcast #podcast #videopodcast #bookclub\u60f3\u8981\u652f\u6301\u6211\u5011\uff0c\u770b\u5e55\u5f8c\u82b1\u7d6e\u3001NG\u7247\u6bb5\uff0c\u8acb\u52a0\u5165Youtube \u6703\u54e1\uff1ahttps://www.youtube.com/channel/UCD2KoUc0f4Bv2Bz0mbOah8g/join\u6bcf\u9031\u4e8c\u3001\u56db\u3001\u65e5\u665a\u4e0a9\u9ede\u66f4\u65b0\u6211\u5011\u7684\u7db2\u7ad9\u4e0a\u7dda\u4e86\uff1ahttp://bailingguonews.wixsite.com/bailingguo\u8a02\u95b1\u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1ahttp://bit.ly/25wWa2h\u6b61\u8fce\u4f86\u5230\u767e\u9748\u679cNews\u9019\u88cf\u662f\u83ef\u8a9e\u754c\u6700\u81ea\u7531\u7684\u96d9\u8a9e\u570b\u969b\u65b0\u805eWelcome to Bailingguo NewsThe FREEst International News Podcast in the Chinese Speaking World\u6211\u5011\u628a\u9ad8\u97f3\u8cea\u7684\u6a94\u6848\u653e\u5728\u5176\u4ed6\u7db2\u8def\u5e73\u53f0\uff0c\u6b61\u8fce\u5927\u5bb6\u8a02\u95b1\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1ahttp://goo.gl/k9qXxb\u5b89\u5353\uff1ahttps://soundcloud.com/cafreeteriaSpotify : http://goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1ahttps://www.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
@@ -10429,7 +10429,7 @@ const playlist = {
 "Jul 2020",
 "2020",
 "\u8b80\u66f8\u6703",
-"The Room Where It Happened by John Bolton"
+"T.R.W.I.H. by John Bolton"
 ],
 "description": "\u524d\u7f8e\u570b\u570b\u5b89\u9867\u554fJohn Bolton\u7684\u65b0\u66f8 The Room Where It Happened#bookclub \u767e\u9748\u679c\u8207 VEVE\u5408\u4f5c\u7684\u65b0\u7bc0\u76ee\uff0c#\u7db2\u7d05nofilter \u5e36\u4f60\u770b\u770binstagram\u4e0a\u4eba\u6c23\u7db2\u7f8e\u7db2\u5e25\u771f\u5be6\u7684\u6a23\u8c8chttps://hyperurl.co/3urb3s\u60f3\u8981\u652f\u6301\u6211\u5011\uff0c\u770b\u5e55\u5f8c\u82b1\u7d6e\u3001NG\u7247\u6bb5\uff0c\u8acb\u52a0\u5165Youtube \u6703\u54e1\uff1awww.youtube.com/channel/UCD2KoUc0\u2026v2Bz0mbOah8g/join\u6bcf\u9031\u4e8c\u3001\u56db\u3001\u65e5\u665a\u4e0a9\u9ede\u66f4\u65b0\u6211\u5011\u7684\u7db2\u7ad9\u4e0a\u7dda\u4e86\uff1abailingguonews.wixsite.com/bailingguo\u8a02\u95b1\u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1abit.ly/25wWa2h\u6b61\u8fce\u4f86\u5230\u767e\u9748\u679cNews\u9019\u88cf\u662f\u83ef\u8a9e\u754c\u6700\u81ea\u7531\u7684\u96d9\u8a9e\u570b\u969b\u65b0\u805eWelcome to Bailingguo NewsThe FREEst International News Podcast in the Chinese Speaking World\u767e\u9748\u679cNews\u7684Podcast\uff1a\u860b\u679c\uff1agoo.gl/k9qXxb\u5b89\u5353\uff1a@cafreeteriaSpotify : goo.gl/QZ1u6j\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1awww.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
@@ -10480,7 +10480,7 @@ const playlist = {
 "Jul 2020",
 "2020",
 "\u8b80\u66f8\u6703",
-"The Room Where It Happened by John Bolton"
+"T.R.W.I.H. by John Bolton"
 ],
 "description": "\u524d\u7f8e\u570b\u570b\u5b89\u9867\u554fJohn Bolton\u7684\u65b0\u66f8 The Room Where It Happened\u60f3\u8981\u652f\u6301\u6211\u5011\uff0c\u770b\u5e55\u5f8c\u82b1\u7d6e\u3001NG\u7247\u6bb5\uff0c\u8acb\u52a0\u5165Youtube \u6703\u54e1\uff1ahttps://www.youtube.com/channel/UCD2KoUc0f4Bv2Bz0mbOah8g/join\u6bcf\u9031\u4e8c\u3001\u56db\u3001\u65e5\u665a\u4e0a9\u9ede\u66f4\u65b0\u6211\u5011\u7684\u7db2\u7ad9\u4e0a\u7dda\u4e86\uff1ahttp://bailingguonews.wixsite.com/bailingguo\u8a02\u95b1\u767e\u9748\u679cNews\uff0f\u7121\u6599\u798f\u5229\u793e \u983b\u9053\uff1ahttp://bit.ly/25wWa2h\u6b61\u8fce\u4f86\u5230\u767e\u9748\u679cNews\u9019\u88cf\u662f\u83ef\u8a9e\u754c\u6700\u81ea\u7531\u7684\u96d9\u8a9e\u570b\u969b\u65b0\u805eWelcome to Bailingguo NewsThe FREEst International News Podcast in the Chinese Speaking World\u4e5f\u53ef\u4ee5\u5230Instagram \u8ffd\u8e64\u6211\u5011\u5594\uff1aInstagram\uff1ahttps://www.instagram.com/bailingguo_news<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
@@ -10531,7 +10531,7 @@ const playlist = {
 "Jul 2020",
 "2020",
 "\u8b80\u66f8\u6703",
-"The Room Where It Happened by John Bolton"
+"T.R.W.I.H. by John Bolton"
 ],
 "description": "\u524d\u7f8e\u570b\u570b\u5b89\u9867\u554fJohn Bolton\u7684\u65b0\u66f8 The Room Where It Happened7\u6708\u5e95\u524d\u5230\u92ed\u901f\u904b\u52d5\u91ab\u5b78\u5b98\u7db2 https://www.raceon.com.tw/  \u7d50\u5e33\u8f38\u5165ibelieve\u6559\u5f92\u4eab\u6eff\u5343\u300187\u6298\u7368\u5bb6\u512a\u60e0\u6db2\u614b\u76fe\u7dad\u751f\u7d20D3+E\u6ef4\u5291\u3000\u904b\u52d5\u7684\u597d\u968a\u53cb<p>\u27a4 \u767e\u9748\u679c\u9031\u4e8c\u591c\u73fe\u5834\u552e\u7968\u9023\u7d50\uff1a<br/><a href='https://comedyclub.kktix.cc/events/tuesday'>https://comedyclub.kktix.cc/events/tuesday</a><br/><br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u86c7\u7de8\uff1a<a href='https://www.instagram.com/bailingguo.snake/'>https://www.instagram.com/bailingguo.snake/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a></p>",
 "extra": {},
@@ -14131,7 +14131,7 @@ const tag_class = {
 "傀儡花": ['讀書會'],
 "毒家企業": ['讀書會'],
 "宋氏三姊妹": ['讀書會'],
-"The Room Where It Happened by John Bolton": ['讀書會'],
+"T.R.W.I.H. by John Bolton": ['讀書會'],
 "Rage by Bob Woodward": ['讀書會'],
 "浪淘沙": ['讀書會'],
 "戰裡的夏里特": ['讀書會'],
@@ -14469,7 +14469,7 @@ const class_tag = {
 "2020": ['Jan 2020', 'Feb 2020', 'Mar 2020', 'Apr 2020', 'May 2020', 'Jun 2020', 'Jul 2020', 'Aug 2020', 'Sep 2020', 'Oct 2020', 'Nov 2020', 'Dec 2020'],
 "2019": ['Jan 2019', 'Feb 2019', 'Mar 2019', 'Apr 2019', 'May 2019', 'Jun 2019', 'Jul 2019', 'Aug 2019', 'Sep 2019', 'Oct 2019', 'Nov 2019', 'Dec 2019'],
 "#節目系列": ['百靈果 NEWS', '百靈果 Bonus', 'KK Show', 'Live Podcast', 'THE STIR', 'Catching up', '讀書會', '暫代讀書會', '百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '隱藏版 KK Show', '週二夜現場'],
-"讀書會": ['王子習近平', 'Hot Money', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'The Room Where It Happened by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
+"讀書會": ['王子習近平', 'Hot Money', '八尺門的辯護人', '同情者', '柏青哥', 'Fat Leonard', '林獻堂環球遊記', '吃佛', '宮前町九十番', 'CIA洗腦計畫', '蚵仔煎的身世', '傀儡花', '毒家企業', '宋氏三姊妹', 'T.R.W.I.H. by John Bolton', 'Rage by Bob Woodward', '浪淘沙', '戰裡的夏里特', '鴻：三代中國女人', 'This American Life', '核爆家園', '陳澄波密碼', '以母之名'],
 "暫代讀書會": ['百靈果到處跑', '百靈果之友', '免費教你如何做 Podcast', '八角籠', 'Clubhouse 直播', '週二夜現場'],
 "喜劇演員": ['Atsuko Okatsuka', '瑞恩', 'Hector', '龍哥（喜劇）', '喬瑟夫', '樂樂法利', 'Jason Cheny', '陳大天', '小歐', '老K', '妍霏', '學仁', '天殘', '佳諭', '品喬', '不知火', 'Social', '歐馬克', '微笑丹尼', '博恩', '大可愛', '權樂', '巴斯', '黃逸豪', '艾董', '黃豪平', 'Tim Chen', '東區德', '阿秋', '賀瓏', '么么', '怡岑', '酸酸', '涵冷娜', 'Esther Chen', 'Jamie', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', 'Sam', 'Eric @The DoDo Men', '蕭東意'],
 "Youtuber": ['Atsuko Okatsuka', '喬瑟夫', '樂樂法利', 'Jason Cheny', '小歐', '微笑丹尼', '黃豪平', '賀瓏', '酸酸', '呱吉', '歐耶', 'Jim', '龍龍', 'Q毛', '壯壯', '視網膜', '動眼神經', '范琪斐', '志祺 @志祺七七', '好和弦 @NiceChord', '蕾拉', 'Ms Puiyi', '阿滴', 'Joeman', 'Ted @35線上賞屋', '蔡阿嘎', '黃大謙', 'China Mac', 'Cheap', '邱 grr', '泥泥學姐', 'Alma & 小妖', 'Lucas @BBK Network', '嘉雯 @BBK Network', 'Eric @The DoDo Men', 'Ian @The DoDo Men', '有特色的帥哥', '陳老師來了', '鍾佳播', '椅人 Leo', '歷史哥', '嗩吶 @好機車', '街頭有派對', '黃明志', 'Peggy', '阿拉斯', '巴大雄 @東南美娛樂', '賈培德', '中指通', '唐綺陽', '簡少年', '小周@人渣文本', '周偉航'],

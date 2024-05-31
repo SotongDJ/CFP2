@@ -1,5 +1,10 @@
 # Special
 
+["暫代讀書會"]
+inclusive = ["不是讀書會","沒有讀書會","Pelosi 來台灣街訪心得","2021年台灣十大熱門國際新聞","迪化街Live Podcast！","百靈果去新竹","與國際接軌前的閒聊","訂閲 QA","百靈果助念祈福法會","228 佈道大會 Live Podcast 特輯","特別來賓：敏迪選讀"]
+exclusive = []
+category = ["#節目系列"]
+
 ["百靈果到處跑"]
 inclusive = ["老闆去新竹向員工道歉","John Oliver 觀後感"]
 exclusive = []
@@ -22,5 +27,20 @@ category = ["#節目系列","暫代讀書會"]
 
 ["Clubhouse 直播"]
 inclusive = ["八角籠直播","海外連線","『Clubhouse特別企劃』","直播聊這幾天在中國"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["小孩限定"]
+inclusive = ["嬰兒限定"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["隱藏版 KK Show"]
+inclusive = ["女演員的互相傷害","笑友會的無情工商","特別來賓：敏迪選讀","我不是泰國人","0704 Bonus","建商來了","台灣秘境探險家","一夜好眠","凱莉懷孕還是工作狂","來自遠方的占星師","Sam, An American chasing comedy dream in Taiwan","線上算命的真相","離開立法院後"]
+exclusive = []
+category = ["#節目系列","暫代讀書會"]
+
+["週二夜現場"]
+inclusive = ["週二夜現場"]
 exclusive = []
 category = ["#節目系列","暫代讀書會"]

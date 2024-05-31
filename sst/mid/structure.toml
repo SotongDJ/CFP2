@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time111]
+name = "EP81｜紫色火焰2.0"
+feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/0c840046-0e4d-4f68-a394-c51732910446/rssFileVip.mp3?timestamp=1717134597788"
+apple = "https://podcasts.apple.com/tw/podcast/ep81-%E7%B4%AB%E8%89%B2%E7%81%AB%E7%84%B02-0/id1655641331?i=1000657374260"
+spotify = "https://open.spotify.com/episode/71fbwvVY2aRWZGYXoX0pCX"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "紫色火焰又來燒啦～ＦＩＲＥ！ \n超好用靈性工具『紫色火焰』 \n我們補習班的同學都知道， \n所有無法解決的困境問題， \n都送上紫色火焰來燒毀～ \n不過好多同學都還是內心存疑， \n真的有這麼好用嗎？ \n為什麼我一直燒都沒感覺。 \n本集就來紫色火焰-實用篇！ \n讓萬用的紫色火焰真的落實到我們的生活， \n不要讓紫色火焰變成口號。 \n在這變動的世代裡， \n一起穩定我們的身心吧！ \n  \n— \n  \n疫情結束沒有口罩掩護，是時候瞧瞧大家的真面目 \n除了整齊更要整潔，所有和笑容有關的事 \n都有 Zenyum 綻雅 的守護🧚🏻‍♀️ \n  \n即日起，使用【神仙補習班】專屬連結完成免費線上評估，後續進行療程 \n即可獲得隱形牙套療程折扣最高5,500元！ \n🌟 完全公開透明的價格和流程 \n🌟 恰到好處的流程照護，用手機就可以隨時感受到關心 \n  \n隱形牙套免費評估🔗 <a href=\"https://bit.ly/3GF8vMc\">https://bit.ly/3GF8vMc</a> \n除此之外，再享Zenyum全方位口腔清潔產品組合贈品，包含Sonic音波振動牙刷、專業沖牙機等，總價值6,000以上好禮直接送！ \n  \n— \n  \n終極膠原蛋白看這裡～ \n最討厭腥味的你，害怕膠原蛋白入口黏到變麵疙瘩的你，救星來了，Gooday蔓越莓膠原蛋白讓你越來越好看！採用速溶魚膠原蛋白粉、冰晶番茄🍅、維生素C、燕窩、賽洛美終極成分。 \n  \n詳情請看連結：<a href=\"https://gooday2024.waca.tw/\">https://gooday2024.waca.tw/</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP81｜紫色火焰2.0"]
+tag = ["May 2024", "2024"]
+category = []
+
 [time110]
 name = "EP80｜讓艾莉絲來教你生命靈數"
 feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/1bdb53c1-4f64-4b9b-af37-ea243b656773/rssFileVip.mp3?timestamp=1716531519723"

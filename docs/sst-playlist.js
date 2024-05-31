@@ -12,7 +12,7 @@ const playlist = {
 "apple": "https://podcasts.apple.com/tw/podcast/ep81-%E7%B4%AB%E8%89%B2%E7%81%AB%E7%84%B02-0/id1655641331?i=1000657374260",
 "google": "",
 "spotify": "https://open.spotify.com/episode/71fbwvVY2aRWZGYXoX0pCX",
-"youtube": ""
+"youtube": "https://www.youtube.com/watch?v=8NXFTGkPHOE"
 },
 "time110": {
 "name": "EP80\uff5c\u8b93\u827e\u8389\u7d72\u4f86\u6559\u4f60\u751f\u547d\u9748\u6578",

@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[time513]
+name = "【本週提醒】多把力氣用在不會受傷的地方！"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwxkfbp71goy01u26qnqbwby/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwxkfbp71goz01u2erad3bab.mp3?v=1717334182168"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%A4%9A%E6%8A%8A%E5%8A%9B%E6%B0%A3%E7%94%A8%E5%9C%A8%E4%B8%8D%E6%9C%83%E5%8F%97%E5%82%B7%E7%9A%84%E5%9C%B0%E6%96%B9/id1536374746?i=1000657565073"
+spotify = "https://open.spotify.com/episode/1jsDXPLBDLabpyDBPPB6cY"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽6/3-6/9星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 天秤 射手 雙魚 <br /> <br />獅子：事事一把抓當心過勞，感情請鬆弛有度 <br />天秤：遇上需動手解決的麻煩，感情的裂痕請小心維護 <br />射手：維持嚴格很困難，感情當心沒原則 <br />雙魚：辛苦滿足長官長輩的要求，感情上要清楚表態 <br /> <br />【穩的】巨蟹 處女 天蠍 魔羯 <br /> <br />巨蟹：不需過度擔憂焦慮，感情受到對方重視 <br />處女：別趕跑找上門的機會，感情上別太高冷 <br />天蠍：需迎難而上無法躺平，感情上先把自己做好 <br />魔羯：別輕易被情勒打動，感情遇到戲很多的對象 <br /> <br />【讚的】牡羊 金牛 雙子 水瓶 <br /> <br />牡羊：要顧慮夥伴別忙到忘我，感情上低調點更可愛 <br />金牛：能心想事成適合理財，感情上很有吸引力 <br />雙子：可以輕鬆發展別著急，感情走兩情相悅路線 <br />水瓶：按部就班能有成果，感情喜歡努力型桃花 <br /></p>"
+names = ["【本週提醒】多把力氣用在不會受傷的地方！"]
+tag = ["Jun 2024", "2024"]
+category = []
+
 [time512]
 name = "EP325月亮星座，你藏最深的脆弱面(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwua356t0ixk01u2ebt7g2z6/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwua356t0ixl01u21dma1fha.mp3?v=1717135446676"

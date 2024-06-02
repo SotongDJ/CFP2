@@ -1,4 +1,20 @@
 const playlist = {
+"time801": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u5047\u5192\u53f0\u7063\u9178\u6c11\u7684\u5c0f\u7c89\u7d05\u3001\u6709\u9322\u4eba\u7684\u6697\u9ed1\u5175\u6cd5\u3001\u7576\u9078\u83f2\u5f8b\u8cd3\u5e02\u9577\u7684\u4e2d\u570b\u9593\u8adc\uff1f",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15177005-news.mp3",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
+"tag": [
+"Jun 2024",
+"2024",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "<p>#\u661f\u5b87\u822a\u7a7a+ VOGUE<br/>\u5bcc\u570b\u5cf6\u6200\u611b\u5be6\u5883\uff0c\u71b1\u60c5\u62db\u52df\u4e2d<br/>\u5373\u523b\u5831\u540d\uff1a<br/><a href='https://www.vogue.com.tw/events/2024/Starlux/index.html'>https://www.vogue.com.tw/events/2024/Starlux/index.html</a><br/>\u661f\u5b87\u822a\u7a7a \u53f0\u5317-\u5bcc\u570b\u5cf6 7/1 \u6b63\u5f0f\u555f\u822a<br/><br/>#HARU boost\u4e0d\u6b7b\u9ce5\u7cbe\u80fa\u9178\u6d3b\u529b\u7c89\u5305\uff0c\u6230\u529b\u6eff\u9ede\u7684\u79d8\u5bc6\u6b66\u5668\u3002<br/>sgs\u6aa2\u9a57\u628a\u95dc\uff0c\u6210\u5206\u8d85\u591a\u8d85\u88dc\uff01<br/>\u7f8e\u570b\u5de6\u65cb\u7cbe\u80fa\u9178\u548c\u897f\u73ed\u7259\u900f\u7d0d\u8449\uff0c\u6ecb\u9670\u88dc\u967d\uff0c\u63d0\u5347\u5e8a\u4e8b\u80fd\u529b\uff0c\u8b93\u4f60\u73a9\u5230\u9694\u5929\u770b\u65e5\u51fa<br/>\u9084\u80fd\u4fc3\u9032\u8840\u6db2\u5faa\u74b0\uff0c\u8212\u7de9\u7126\u616e\u8ddf\u75b2\u52de\uff0c\u7537\u5973\u90fd\u9069\u7528\u5594\uff01<br/>\u7cbe\u529b\u5145\u6c9b\u53c8\u5e6b\u52a9\u5165\u7720\uff0c\u4e00\u6b21\u6eff\u8db3\u4f60\u5404\u7a2e\u9700\u6c42\uff01\u5feb\u4f86\u8ddf\u8457HARU BOOST\u4e0d\u6b7b\u9ce5\u8d77\u98db\u5427\uff01<br/>6/20\u524d \u7d50\u5e33\u8f38\u5165\u300cibelieve\u300d\uff0c\u5168\u9928\u539f\u50f9\u5546\u54c1\u4e5d\u6298\uff0c\u6eff\u5343\u518d\u9001\u5927\u9ebb\u4fdd\u6fd5\u5674\u9727\u6c34\uff01\u5feb\u9ede\u64ca\u8cc7\u8a0a\u6b04\u9023\u7d50\u597d\u597d\u611b\u5427\uff01<br/><a href='https://www.safariship.net/'>https://www.safariship.net/</a></p><p>=======================<br/>\u27a4 \u6b61\u8fce\u4f86\u6211\u5011IG\u73a9<br/>\u767e\u9748\u679c\u4e3b\u5e33\u865f\uff1a<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>\u51f1\u8389\uff1a<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken\uff1a<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>\u795e\u7236\uff1a<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel\uff1a<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen\uff1a<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=mvpRBUpFNuA"
+},
 "time800": {
 "name": "\u5b30\u5152\u9650\u5b9a\uff5c\u5bb3\u6015\u5973\u5152\u8b8a\u51f1\u8389",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15162750-.mp3",
@@ -14401,6 +14417,7 @@ const tag_class = {
 "國傳司事件": ['#事件備註（測試中）'],
 "紐時集資事件": ['#事件備註（測試中）'],
 "五月天事件": ['#事件備註（測試中）'],
+"Jun 2024": ['2024'],
 "May 2024": ['2024'],
 "Apr 2024": ['2024'],
 "Mar 2024": ['2024'],
@@ -14468,7 +14485,7 @@ const tag_class = {
 "Jan 2019": ['2019']
 };
 const class_tag = {
-"2024": ['Jan 2024', 'Feb 2024', 'Mar 2024', 'Apr 2024', 'May 2024'],
+"2024": ['Jan 2024', 'Feb 2024', 'Mar 2024', 'Apr 2024', 'May 2024', 'Jun 2024'],
 "2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023', 'Dec 2023'],
 "2022": ['Jan 2022', 'Feb 2022', 'Mar 2022', 'Apr 2022', 'May 2022', 'Jun 2022', 'Jul 2022', 'Aug 2022', 'Sep 2022', 'Oct 2022', 'Nov 2022', 'Dec 2022'],
 "2021": ['Jan 2021', 'Feb 2021', 'Mar 2021', 'Apr 2021', 'May 2021', 'Jun 2021', 'Jul 2021', 'Aug 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021', 'Dec 2021'],

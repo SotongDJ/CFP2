@@ -37,8 +37,10 @@ jobs:
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
           python3 update.py blg
+          sleep 10
           # python3 update.py exr
           python3 update.py jst
+          sleep 9
           python3 update.py sst
       - name: merge feed source
         run: |

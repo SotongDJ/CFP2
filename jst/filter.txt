@@ -251,7 +251,8 @@ Process: jst/keyword-0.toml
   Excluded: (0)
     
 [木星]
-  found in: (8)
+  found in: (9)
+    time514
     time356
     time302
     time292
@@ -313,7 +314,8 @@ Process: jst/keyword-0.toml
   Excluded: (0)
     
 [雙子座]
-  found in: (3)
+  found in: (4)
+    time514
     time361
     time249
     time037

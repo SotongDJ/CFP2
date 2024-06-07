@@ -1,4 +1,19 @@
 const playlist = {
+"time112": {
+"name": "EP82\uff5c\u706b\u7684\u9b54\u6cd5 ft.\u6c5f\u6c5f\u8001\u5e2b",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/bd88a2e9-23d9-412b-bdcd-647f0a7423e2/rssFileVip.mp3?timestamp=1717739415652",
+"image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
+"tag": [
+"Jun 2024",
+"2024"
+],
+"description": "\u672c\u7bc0\u76ee\u8fce\u4f86\u300c\u73a9\u706b\u300d\u7684\u5973\u4eba\uff1f \n\u81ea\u5f9e\u9748\u6027\u5c0f\u968a\u9577Oddy\u4e0a\u5b8c\u56db\u968e\u64f4\u5927\u7642\u7652\u4ee5\u5f8c\uff0c \n\u597d\u50cf\u53bb\u5230\u4e86\u4ec0\u9ebc\u6b66\u6797\u5927\u6703\u5e2b\uff0c \n\u5404\u7a2e\u9580\u6d3e\u8eab\u5fc3\u9748\u5927\u96c6\u5408\uff0c \n\u4e5f\u8a8d\u8b58\u4e86\u597d\u591a\u4e0d\u540c\u6d3e\u7cfb\u7684\u5927\u5e2b\uff0c \n\u7b2c\u4e00\u4f4d\u8fce\u4f86\u7684\u5c31\u662f\u300c\u73a9\u706b\u300d\u7684\u5973\u4eba\uff0c \n\u300c\u6c5f\u6c5f\u8001\u5e2b\u300d\u5728\u53f0\u5357\u64d4\u4efb\u793e\u5de5\uff0c \n\u5979\u7684\u7d93\u6b77\u544a\u8a34\u5979\u5982\u4f55\u7528\u6700\u5584\u826f\u7684\u5fc3 \n\u53bb\u8655\u7406\u6700\u9ed1\u6697\u7684\u4e8b\u60c5\uff0c \n\u800c\u518d\u4e00\u4e9b\u5951\u6a5f\u4e0b\u5979\u958b\u59cb\u63a5\u89f8\u8eab\u5fc3\u9748\uff0c \n\u537b\u4e5f\u66fe\u7d93\u5c0d\u8eab\u5fc3\u9748\u5fb9\u5e95\u7d55\u671b\u904e\uff0c \n\u53c8\u662f\u4ec0\u9ebc\u8b93\u5979\u8c37\u5e95\u53cd\u5f48\u7684\u5462\uff1f \n\u8001\u5e2b\u6703\u5728\u7bc0\u76ee\u6559\u5927\u5bb6\u5982\u4f55\u958b\u555f\u706b\u7684\u5100\u5f0f\uff01 \n\u4e39\u4e39\u90fd\u9a5a\u547c\uff1a\u9019\u22ef\u22ef\u6211\u5011\u53ef\u4ee5\u514d\u8cbb\u77e5\u9053\u7684\u55ce\uff1f \n\u5f9e\u524d\u9700\u8981\u82b1\u5927\u9322\u624d\u80fd\u5b78\u6703\u7684\u9b54\u6cd5\uff01 \n\u76f4\u63a5\u514d\u8cbb\u5927\u653e\u9001\uff5e\uff5e\uff5e\uff5e \n\u5feb\u4f86\u4e00\u8d77\u9ad4\u9a57\u706b\u7684\u80fd\u91cf\u5427\uff01 \n\u771f\u7684\u6703\u88ab\u611f\u52d5\u5230\u2764\ufe0f \n\u4e0d\u904e\u9084\u662f\u6eab\u99a8\u63d0\u9192\u5404\u4f4d\u300c\u7528\u706b\u8acb\u5c0f\u5fc3\u300d \n  \n\u7cbe\u6cb9\u8cfc\u8cb7\u9023\u7d50\u5728\u9019 \uff1a \n<a href=\"https://ascendshop928.shoplineapp.com/products\">https://ascendshop928.shoplineapp.com/products</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> ",
+"extra": {},
+"apple": "https://podcasts.apple.com/tw/podcast/ep82-%E7%81%AB%E7%9A%84%E9%AD%94%E6%B3%95-ft-%E6%B1%9F%E6%B1%9F%E8%80%81%E5%B8%AB/id1655641331?i=1000658132760",
+"google": "",
+"spotify": "https://open.spotify.com/episode/53E6XbUnDVgJp31Pb4myzK",
+"youtube": ""
+},
 "time111": {
 "name": "EP81\uff5c\u7d2b\u8272\u706b\u71302.0",
 "feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/0c840046-0e4d-4f68-a394-c51732910446/rssFileVip.mp3?timestamp=1717136339490",
@@ -196,7 +211,7 @@ const playlist = {
 },
 "time098": {
 "name": "EP69\uff5c\u6211\u5011\u53bb\u5bf5\u7269\u6e9d\u901a\u4e86\uff01ft.\u91d1\u59ae\u3001\u5c0f\u80d6",
-"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/f2ab108b-8054-4ff8-9a8b-f51fcf213411/rssFileVip.mp3?timestamp=1716184475716",
+"feed": "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/f2ab108b-8054-4ff8-9a8b-f51fcf213411/rssFileVip.mp3?timestamp=1717346624796",
 "image": "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c",
 "tag": [
 "Mar 2024",
@@ -1715,6 +1730,7 @@ const playlist = {
 };
 const tag_class = {
 "本週運勢": ['運勢'],
+"Jun 2024": ['2024'],
 "May 2024": ['2024'],
 "Apr 2024": ['2024'],
 "Mar 2024": ['2024'],
@@ -1736,7 +1752,7 @@ const tag_class = {
 "Nov 2022": ['2022']
 };
 const class_tag = {
-"2024": ['Jan 2024', 'Feb 2024', 'Mar 2024', 'Apr 2024', 'May 2024'],
+"2024": ['Jan 2024', 'Feb 2024', 'Mar 2024', 'Apr 2024', 'May 2024', 'Jun 2024'],
 "2023": ['Jan 2023', 'Feb 2023', 'Mar 2023', 'Apr 2023', 'May 2023', 'Jun 2023', 'Jul 2023', 'Aug 2023', 'Sep 2023', 'Oct 2023', 'Nov 2023', 'Dec 2023'],
 "2022": ['Nov 2022', 'Dec 2022'],
 "運勢": ['本週運勢']

@@ -1,4 +1,20 @@
 const playlist = {
+"time803": {
+"name": "\u767e\u9748\u679cNEWS\uff5c\u6027\u72af\u7f6a\u8005\u8981\u5207\u86cb\u86cb\u3001\u58a8\u897f\u54e5\u7b2c\u4e00\u4f4d\u5973\u7e3d\u7d71\u3001\u89aa\u5b50\u7db2\u7d05\u5fc5\u9808\u7d66\u5c0f\u5b69\u5206\u7d05",
+"feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15218141-news.mp3",
+"image": "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3",
+"tag": [
+"Jun 2024",
+"2024",
+"\u767e\u9748\u679c NEWS"
+],
+"description": "",
+"extra": {},
+"apple": "",
+"google": "",
+"spotify": "",
+"youtube": "https://www.youtube.com/watch?v=w8S7_mcCPPw"
+},
 "time802": {
 "name": "The KK Show - 258 \u5433\u6b23\u76c8",
 "feed": "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15189622-the-kk-show-258.mp3",

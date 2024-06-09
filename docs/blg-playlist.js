@@ -10,9 +10,9 @@ const playlist = {
 ],
 "description": "",
 "extra": {},
-"apple": "",
+"apple": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9Cnews-%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85%E8%A6%81%E5%88%87%E8%9B%8B%E8%9B%8B-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E7%B8%BD%E7%B5%B1-%E8%A6%AA%E5%AD%90%E7%B6%B2%E7%B4%85%E5%BF%85%E9%A0%88%E7%B5%A6%E5%B0%8F%E5%AD%A9%E5%88%86%E7%B4%85/id1106847606?i=1000658355387",
 "google": "",
-"spotify": "",
+"spotify": "https://open.spotify.com/episode/5iuOCh2fIWMIVwuqrMdkHh",
 "youtube": "https://www.youtube.com/watch?v=w8S7_mcCPPw"
 },
 "time802": {

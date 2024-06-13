@@ -1,3 +1,7 @@
+# CFP2 and its derivative sub-projects will be discontinued and replaced by **[klo.lt](https://github.com/SotongDJ/klo.lt)**
+
+RSS feed updater is shutdow.
+
 # Dataset collector for CFP2
 
 The source code in this repo is used for info collection of various podcasts.
